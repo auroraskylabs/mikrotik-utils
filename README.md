@@ -23,8 +23,9 @@ To download and store the quick run script onto your MikroTik device:
 
 <br>
 
-<pre>/tool fetch url="raw.githubusercontent.com/auroraskylabs/mikrotik-utils/refs/heads/main/firewall/blockbycountry/blockbycc.rsc" mode=http dst-path="blockbycc.rsc" 
-/system/script/add source={file/blockbycc.rsc} name=blockbycc
+<pre>/tool fetch url="https://raw.githubusercontent.com/auroraskylabs/mikrotik-utils/refs/heads/main/firewall/blockbycountry/blockbycc
+.rsc" mode=https dst-path="blockbycc.rsc" 
+/system/script/add source=[/file get blockbycc.rsc contents] name=blockbycc
 </pre>
 
 <br>
