@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="MA-Block"]
 /ip firewall address-list
 add address=41.77.112.0/21 list=MA-Block
 add address=41.87.128.0/19 list=MA-Block

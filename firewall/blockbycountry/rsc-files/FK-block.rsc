@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="FK-Block"]
 /ip firewall address-list
 add address=80.73.208.0/20 list=FK-Block
 add address=91.232.129.0/24 list=FK-Block

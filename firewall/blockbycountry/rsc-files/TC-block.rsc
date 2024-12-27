@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="TC-Block"]
 /ip firewall address-list
 add address=65.255.48.0/20 list=TC-Block
 add address=142.54.204.0/22 list=TC-Block

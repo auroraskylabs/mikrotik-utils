@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="NE-Block"]
 /ip firewall address-list
 add address=41.78.116.0/22 list=NE-Block
 add address=41.138.32.0/19 list=NE-Block

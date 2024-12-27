@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="IQ-Block"]
 /ip firewall address-list
 add address=5.1.104.0/21 list=IQ-Block
 add address=5.8.240.0/21 list=IQ-Block

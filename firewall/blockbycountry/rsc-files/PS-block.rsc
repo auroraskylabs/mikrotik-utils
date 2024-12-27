@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="PS-Block"]
 /ip firewall address-list
 add address=1.178.112.0/20 list=PS-Block
 add address=1.178.128.0/20 list=PS-Block

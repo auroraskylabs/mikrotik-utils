@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="IS-Block"]
 /ip firewall address-list
 add address=5.23.64.0/19 list=IS-Block
 add address=31.15.112.0/21 list=IS-Block

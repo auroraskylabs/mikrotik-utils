@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="JP-Block"]
 /ip firewall address-list
 add address=1.0.16.0/20 list=JP-Block
 add address=1.0.64.0/18 list=JP-Block

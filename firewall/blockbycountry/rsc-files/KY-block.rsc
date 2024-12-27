@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="KY-Block"]
 /ip firewall address-list
 add address=23.188.0.0/24 list=KY-Block
 add address=63.136.112.0/21 list=KY-Block

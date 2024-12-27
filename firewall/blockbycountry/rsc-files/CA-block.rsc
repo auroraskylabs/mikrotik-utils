@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="CA-Block"]
 /ip firewall address-list
 add address=2.59.22.0/24 list=CA-Block
 add address=5.23.0.0/19 list=CA-Block

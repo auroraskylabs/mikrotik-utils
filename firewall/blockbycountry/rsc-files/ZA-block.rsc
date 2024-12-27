@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="ZA-Block"]
 /ip firewall address-list
 add address=2.59.96.0/22 list=ZA-Block
 add address=41.0.0.0/11 list=ZA-Block

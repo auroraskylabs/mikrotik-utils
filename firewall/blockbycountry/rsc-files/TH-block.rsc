@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="TH-Block"]
 /ip firewall address-list
 add address=1.0.128.0/17 list=TH-Block
 add address=1.1.128.0/17 list=TH-Block

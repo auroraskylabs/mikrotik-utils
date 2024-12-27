@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="GD-Block"]
 /ip firewall address-list
 add address=23.128.4.0/24 list=GD-Block
 add address=23.130.168.0/24 list=GD-Block

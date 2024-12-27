@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="KZ-Block"]
 /ip firewall address-list
 add address=2.57.96.0/22 list=KZ-Block
 add address=2.72.0.0/13 list=KZ-Block

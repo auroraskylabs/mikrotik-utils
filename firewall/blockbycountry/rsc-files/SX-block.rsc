@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="SX-Block"]
 /ip firewall address-list
 add address=131.161.84.0/22 list=SX-Block
 add address=168.0.84.0/22 list=SX-Block

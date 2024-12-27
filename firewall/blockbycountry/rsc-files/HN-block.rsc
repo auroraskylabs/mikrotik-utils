@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="HN-Block"]
 /ip firewall address-list
 add address=45.4.84.0/22 list=HN-Block
 add address=45.4.136.0/22 list=HN-Block

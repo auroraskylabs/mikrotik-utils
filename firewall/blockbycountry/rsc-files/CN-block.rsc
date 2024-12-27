@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="CN-Block"]
 /ip firewall address-list
 add address=1.0.1.0/24 list=CN-Block
 add address=1.0.2.0/23 list=CN-Block

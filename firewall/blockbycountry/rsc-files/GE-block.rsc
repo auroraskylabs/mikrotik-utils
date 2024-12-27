@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="GE-Block"]
 /ip firewall address-list
 add address=2.57.60.0/22 list=GE-Block
 add address=2.57.216.0/22 list=GE-Block

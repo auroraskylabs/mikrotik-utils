@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="AL-Block"]
 /ip firewall address-list
 add address=5.206.232.0/21 list=AL-Block
 add address=31.22.48.0/20 list=AL-Block

@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="GY-Block"]
 /ip firewall address-list
 add address=138.94.248.0/22 list=GY-Block
 add address=168.232.144.0/22 list=GY-Block

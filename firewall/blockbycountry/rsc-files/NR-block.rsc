@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="NR-Block"]
 /ip firewall address-list
 add address=43.230.6.0/24 list=NR-Block
 add address=103.20.124.0/24 list=NR-Block

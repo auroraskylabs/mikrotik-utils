@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="SC-Block"]
 /ip firewall address-list
 add address=2.56.10.0/24 list=SC-Block
 add address=2.56.100.0/22 list=SC-Block

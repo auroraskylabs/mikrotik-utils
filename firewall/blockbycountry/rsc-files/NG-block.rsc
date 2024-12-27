@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="NG-Block"]
 /ip firewall address-list
 add address=41.57.120.0/22 list=NG-Block
 add address=41.58.0.0/16 list=NG-Block

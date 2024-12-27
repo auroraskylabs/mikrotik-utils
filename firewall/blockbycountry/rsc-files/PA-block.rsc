@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="PA-Block"]
 /ip firewall address-list
 add address=5.252.152.0/22 list=PA-Block
 add address=31.7.56.0/21 list=PA-Block

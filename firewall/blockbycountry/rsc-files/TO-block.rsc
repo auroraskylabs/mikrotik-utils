@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="TO-Block"]
 /ip firewall address-list
 add address=43.255.148.0/22 list=TO-Block
 add address=103.54.78.0/23 list=TO-Block

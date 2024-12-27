@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="VI-Block"]
 /ip firewall address-list
 add address=23.143.120.0/24 list=VI-Block
 add address=66.59.216.0/24 list=VI-Block

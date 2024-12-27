@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="KG-Block"]
 /ip firewall address-list
 add address=5.57.8.0/21 list=KG-Block
 add address=31.29.0.0/19 list=KG-Block

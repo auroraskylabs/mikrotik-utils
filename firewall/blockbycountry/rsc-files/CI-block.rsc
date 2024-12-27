@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="CI-Block"]
 /ip firewall address-list
 add address=41.66.0.0/18 list=CI-Block
 add address=41.67.64.0/20 list=CI-Block

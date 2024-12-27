@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="UA-Block"]
 /ip firewall address-list
 add address=2.56.108.0/22 list=UA-Block
 add address=2.56.168.0/24 list=UA-Block

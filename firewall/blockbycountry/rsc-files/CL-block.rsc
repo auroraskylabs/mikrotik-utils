@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="CL-Block"]
 /ip firewall address-list
 add address=45.4.0.0/22 list=CL-Block
 add address=45.4.168.0/22 list=CL-Block

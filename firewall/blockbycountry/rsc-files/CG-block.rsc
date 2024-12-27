@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="CG-Block"]
 /ip firewall address-list
 add address=41.75.64.0/20 list=CG-Block
 add address=102.64.116.0/22 list=CG-Block

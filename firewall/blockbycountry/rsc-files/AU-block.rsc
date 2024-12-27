@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="AU-Block"]
 /ip firewall address-list
 add address=1.0.0.0/24 list=AU-Block
 add address=1.0.4.0/22 list=AU-Block

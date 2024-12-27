@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="GG-Block"]
 /ip firewall address-list
 add address=45.11.144.0/22 list=GG-Block
 add address=45.135.252.0/22 list=GG-Block

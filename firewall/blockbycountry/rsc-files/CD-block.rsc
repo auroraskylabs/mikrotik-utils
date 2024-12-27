@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="CD-Block"]
 /ip firewall address-list
 add address=41.77.220.0/22 list=CD-Block
 add address=41.78.192.0/21 list=CD-Block

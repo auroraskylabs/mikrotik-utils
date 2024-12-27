@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="MQ-Block"]
 /ip firewall address-list
 add address=5.102.72.0/21 list=MQ-Block
 add address=80.243.240.0/20 list=MQ-Block

@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="HT-Block"]
 /ip firewall address-list
 add address=148.102.128.0/17 list=HT-Block
 add address=161.0.128.0/19 list=HT-Block

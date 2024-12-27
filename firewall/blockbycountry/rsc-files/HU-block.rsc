@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="HU-Block"]
 /ip firewall address-list
 add address=2.58.168.0/22 list=HU-Block
 add address=2.59.196.0/22 list=HU-Block

@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="DM-Block"]
 /ip firewall address-list
 add address=23.186.240.0/24 list=DM-Block
 add address=45.9.148.0/22 list=DM-Block

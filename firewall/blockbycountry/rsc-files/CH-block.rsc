@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="CH-Block"]
 /ip firewall address-list
 add address=2.56.40.0/22 list=CH-Block
 add address=2.56.169.0/24 list=CH-Block

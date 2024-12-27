@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="LI-Block"]
 /ip firewall address-list
 add address=5.34.248.0/21 list=LI-Block
 add address=31.10.16.0/20 list=LI-Block

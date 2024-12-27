@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="FO-Block"]
 /ip firewall address-list
 add address=46.227.112.0/21 list=FO-Block
 add address=80.77.128.0/20 list=FO-Block

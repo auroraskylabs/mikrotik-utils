@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="NZ-Block"]
 /ip firewall address-list
 add address=14.1.32.0/19 list=NZ-Block
 add address=14.102.98.0/23 list=NZ-Block

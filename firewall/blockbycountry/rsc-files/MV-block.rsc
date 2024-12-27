@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="MV-Block"]
 /ip firewall address-list
 add address=27.114.128.0/18 list=MV-Block
 add address=36.255.104.0/23 list=MV-Block

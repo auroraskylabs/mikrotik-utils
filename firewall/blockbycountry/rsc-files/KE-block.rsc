@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="KE-Block"]
 /ip firewall address-list
 add address=41.57.96.0/20 list=KE-Block
 add address=41.72.160.0/19 list=KE-Block

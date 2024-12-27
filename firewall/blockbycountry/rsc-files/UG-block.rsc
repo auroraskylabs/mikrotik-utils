@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="UG-Block"]
 /ip firewall address-list
 add address=41.75.160.0/19 list=UG-Block
 add address=41.77.72.0/21 list=UG-Block

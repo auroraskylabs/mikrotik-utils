@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="GQ-Block"]
 /ip firewall address-list
 add address=41.79.48.0/22 list=GQ-Block
 add address=102.164.248.0/21 list=GQ-Block

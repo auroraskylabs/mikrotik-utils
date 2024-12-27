@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="AD-Block"]
 /ip firewall address-list
 add address=46.172.224.0/19 list=AD-Block
 add address=46.175.156.0/22 list=AD-Block

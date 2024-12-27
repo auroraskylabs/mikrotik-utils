@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="MK-Block"]
 /ip firewall address-list
 add address=5.32.176.0/21 list=MK-Block
 add address=31.3.88.0/21 list=MK-Block

@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="PR-Block"]
 /ip firewall address-list
 add address=23.128.16.0/24 list=PR-Block
 add address=23.128.168.0/24 list=PR-Block

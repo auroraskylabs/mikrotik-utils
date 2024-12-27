@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="MZ-Block"]
 /ip firewall address-list
 add address=41.76.0.0/21 list=MZ-Block
 add address=41.76.144.0/21 list=MZ-Block

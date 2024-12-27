@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="SG-Block"]
 /ip firewall address-list
 add address=1.21.224.0/19 list=SG-Block
 add address=1.32.128.0/17 list=SG-Block

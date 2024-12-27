@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="CO-Block"]
 /ip firewall address-list
 add address=24.152.56.0/24 list=CO-Block
 add address=24.152.58.0/23 list=CO-Block

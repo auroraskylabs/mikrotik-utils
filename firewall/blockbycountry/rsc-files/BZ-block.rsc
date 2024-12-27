@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="BZ-Block"]
 /ip firewall address-list
 add address=2.56.44.0/22 list=BZ-Block
 add address=2.59.10.0/23 list=BZ-Block

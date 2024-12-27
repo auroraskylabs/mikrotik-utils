@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="SK-Block"]
 /ip firewall address-list
 add address=2.57.64.0/22 list=SK-Block
 add address=5.34.168.0/21 list=SK-Block

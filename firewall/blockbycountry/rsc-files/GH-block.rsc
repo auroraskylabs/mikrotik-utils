@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="GH-Block"]
 /ip firewall address-list
 add address=41.66.192.0/18 list=GH-Block
 add address=41.74.80.0/20 list=GH-Block

@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="AW-Block"]
 /ip firewall address-list
 add address=138.255.252.0/22 list=AW-Block
 add address=170.84.254.0/24 list=AW-Block

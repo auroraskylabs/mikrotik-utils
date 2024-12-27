@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="MH-Block"]
 /ip firewall address-list
 add address=81.30.106.0/24 list=MH-Block
 add address=103.202.148.0/22 list=MH-Block

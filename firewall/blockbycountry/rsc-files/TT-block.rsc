@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="TT-Block"]
 /ip firewall address-list
 add address=45.185.20.0/22 list=TT-Block
 add address=45.234.164.0/22 list=TT-Block

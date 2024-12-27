@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="TM-Block"]
 /ip firewall address-list
 add address=77.83.59.0/24 list=TM-Block
 add address=95.85.96.0/19 list=TM-Block

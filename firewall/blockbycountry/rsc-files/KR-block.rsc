@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="KR-Block"]
 /ip firewall address-list
 add address=1.11.0.0/16 list=KR-Block
 add address=1.16.0.0/14 list=KR-Block

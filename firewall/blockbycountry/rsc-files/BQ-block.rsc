@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="BQ-Block"]
 /ip firewall address-list
 add address=138.185.208.0/22 list=BQ-Block
 add address=143.0.32.0/22 list=BQ-Block

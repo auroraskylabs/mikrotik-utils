@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="QA-Block"]
 /ip firewall address-list
 add address=5.180.36.0/22 list=QA-Block
 add address=31.11.48.0/21 list=QA-Block

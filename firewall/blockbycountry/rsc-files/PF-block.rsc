@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="PF-Block"]
 /ip firewall address-list
 add address=43.249.176.0/22 list=PF-Block
 add address=50.21.80.0/20 list=PF-Block

@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="OM-Block"]
 /ip firewall address-list
 add address=5.21.0.0/16 list=OM-Block
 add address=5.32.192.0/18 list=OM-Block

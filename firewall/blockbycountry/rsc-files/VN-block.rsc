@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="VN-Block"]
 /ip firewall address-list
 add address=1.52.0.0/14 list=VN-Block
 add address=14.0.16.0/20 list=VN-Block

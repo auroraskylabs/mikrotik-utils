@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="AM-Block"]
 /ip firewall address-list
 add address=2.56.204.0/22 list=AM-Block
 add address=5.39.204.0/22 list=AM-Block

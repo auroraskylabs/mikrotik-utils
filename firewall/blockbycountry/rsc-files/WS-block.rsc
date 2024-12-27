@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="WS-Block"]
 /ip firewall address-list
 add address=43.241.164.0/22 list=WS-Block
 add address=103.9.228.0/22 list=WS-Block

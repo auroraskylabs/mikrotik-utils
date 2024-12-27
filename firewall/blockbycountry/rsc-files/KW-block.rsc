@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="KW-Block"]
 /ip firewall address-list
 add address=5.182.132.0/22 list=KW-Block
 add address=31.203.0.0/16 list=KW-Block

@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="SI-Block"]
 /ip firewall address-list
 add address=2.58.48.0/22 list=SI-Block
 add address=2.59.118.0/24 list=SI-Block

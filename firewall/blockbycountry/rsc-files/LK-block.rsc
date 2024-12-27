@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="LK-Block"]
 /ip firewall address-list
 add address=43.224.124.0/22 list=LK-Block
 add address=43.228.108.0/22 list=LK-Block

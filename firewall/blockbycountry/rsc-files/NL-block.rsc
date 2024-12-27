@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="NL-Block"]
 /ip firewall address-list
 add address=2.16.0.0/13 list=NL-Block
 add address=2.56.56.0/22 list=NL-Block

@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="NI-Block"]
 /ip firewall address-list
 add address=45.5.216.0/22 list=NI-Block
 add address=45.170.224.0/22 list=NI-Block

@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="AI-Block"]
 /ip firewall address-list
 add address=104.192.92.0/22 list=AI-Block
 add address=104.193.196.0/22 list=AI-Block

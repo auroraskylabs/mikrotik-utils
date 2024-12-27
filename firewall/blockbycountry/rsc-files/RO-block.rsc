@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="RO-Block"]
 /ip firewall address-list
 add address=2.56.48.0/22 list=RO-Block
 add address=2.56.148.0/22 list=RO-Block

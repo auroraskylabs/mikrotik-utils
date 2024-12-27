@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="PY-Block"]
 /ip firewall address-list
 add address=24.152.40.0/22 list=PY-Block
 add address=45.68.52.0/22 list=PY-Block

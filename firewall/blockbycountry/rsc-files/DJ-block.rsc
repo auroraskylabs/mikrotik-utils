@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="DJ-Block"]
 /ip firewall address-list
 add address=41.189.224.0/19 list=DJ-Block
 add address=91.209.83.0/24 list=DJ-Block

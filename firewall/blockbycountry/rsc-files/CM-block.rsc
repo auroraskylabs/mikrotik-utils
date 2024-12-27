@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="CM-Block"]
 /ip firewall address-list
 add address=41.77.80.0/21 list=CM-Block
 add address=41.92.128.0/21 list=CM-Block

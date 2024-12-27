@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="DK-Block"]
 /ip firewall address-list
 add address=2.56.4.0/22 list=DK-Block
 add address=2.59.180.0/22 list=DK-Block

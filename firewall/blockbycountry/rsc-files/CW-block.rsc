@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="CW-Block"]
 /ip firewall address-list
 add address=45.71.156.0/22 list=CW-Block
 add address=45.234.112.0/22 list=CW-Block

@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="PK-Block"]
 /ip firewall address-list
 add address=14.1.104.0/22 list=PK-Block
 add address=14.192.128.0/19 list=PK-Block

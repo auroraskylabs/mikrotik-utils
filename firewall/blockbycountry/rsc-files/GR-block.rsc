@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="GR-Block"]
 /ip firewall address-list
 add address=2.84.0.0/14 list=GR-Block
 add address=5.54.0.0/15 list=GR-Block

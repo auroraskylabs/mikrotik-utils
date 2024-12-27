@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="JE-Block"]
 /ip firewall address-list
 add address=5.35.160.0/21 list=JE-Block
 add address=5.42.128.0/21 list=JE-Block

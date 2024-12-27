@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="AO-Block"]
 /ip firewall address-list
 add address=41.63.160.0/19 list=AO-Block
 add address=41.70.128.0/17 list=AO-Block

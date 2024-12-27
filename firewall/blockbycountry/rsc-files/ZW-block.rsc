@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="ZW-Block"]
 /ip firewall address-list
 add address=41.57.64.0/20 list=ZW-Block
 add address=41.78.76.0/22 list=ZW-Block

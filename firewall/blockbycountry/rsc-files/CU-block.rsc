@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="CU-Block"]
 /ip firewall address-list
 add address=152.206.0.0/15 list=CU-Block
 add address=169.158.0.0/16 list=CU-Block

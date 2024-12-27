@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="UY-Block"]
 /ip firewall address-list
 add address=45.6.248.0/21 list=UY-Block
 add address=45.228.64.0/23 list=UY-Block

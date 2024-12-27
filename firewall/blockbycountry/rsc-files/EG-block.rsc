@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="EG-Block"]
 /ip firewall address-list
 add address=41.32.0.0/12 list=EG-Block
 add address=41.64.0.0/15 list=EG-Block

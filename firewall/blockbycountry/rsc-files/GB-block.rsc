@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="GB-Block"]
 /ip firewall address-list
 add address=1.186.0.0/16 list=GB-Block
 add address=2.24.0.0/13 list=GB-Block

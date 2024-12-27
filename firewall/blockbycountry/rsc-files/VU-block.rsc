@@ -1,3 +1,4 @@
+/ip firewall address-list remove [find list="VU-Block"]
 /ip firewall address-list
 add address=103.7.197.0/24 list=VU-Block
 add address=103.16.15.0/24 list=VU-Block
