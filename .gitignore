@@ -1,3 +1,4 @@
 firewall/blockbycountry/generate.py
 firewall/blockbycountry/archive.py
 firewall/blockbycountry/quick-gen.py
+firewall/blockbycountry/weekly.sh
