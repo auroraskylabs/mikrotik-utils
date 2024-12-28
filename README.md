@@ -1,5 +1,8 @@
-# mikrotik-utils
-Tools and scripts for MikroTik Routers
+
+
+
+Markdown Output
+# MikroTik Tools and Utilities
 
 <br>
 
@@ -19,20 +22,28 @@ Having the list formatted into a RSC file allows users to quickly and easily dep
 
 <br>
 
-To download and store the quick run script onto your MikroTik device:
+Quick Setup Scripts: (Quick-Rscs)
 
 <br>
 
-<pre>/tool fetch url="https://raw.githubusercontent.com/auroraskylabs/mikrotik-utils/refs/heads/main/firewall/blockbycountry/blockbycc
-.rsc" mode=https dst-path="blockbycc.rsc" 
-/system/script/add source=[/file get blockbycc.rsc contents] name=blockbycc
+To download and run script on your MikroTik device: (Change $CC for the country code needed)
+
+<br>
+
+<pre>/tool fetch url="https://raw.githubusercontent.com/auroraskylabs/mikrotik-utils/refs/heads/main/firewall/blockbycountry/quickrscs/$CC-Block.rsc" mode=https 
+/import file-name="$CC-Blocked.rsc"
 </pre>
 
 <br>
 
-To run the script:
+Quick RSCs:
+
+1. Remove any old address-list entries previously added. This insures that no ranges that are no longer part of that country do not linger,
+2. Adds all the address-list entries.
+3. Adds a RAW Prerouting Drop rule with the address-list as a src-address-list. RAW rules are preferred, as they do not bog down your router like filters. **This checks to make sure the rule does not already exist before adding, as not to flood your rule list with duplicates.**
+
+<!-- -->
 
 <br>
 
-<pre>/system script run blockbycc
-</pre>
+You can add this to a script in System >> Scripts >> Add, then set it to run every week to update the address lists automatically.
