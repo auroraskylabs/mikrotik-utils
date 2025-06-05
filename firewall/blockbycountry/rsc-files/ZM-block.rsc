@@ -36,3 +36,4 @@ add address=196.223.29.0/24 list=ZM-Block
 add address=197.212.0.0/15 list=ZM-Block
 add address=197.220.0.0/19 list=ZM-Block
 add address=197.231.244.0/22 list=ZM-Block
+add address=213.193.32.0/21 list=ZM-Block

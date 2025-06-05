@@ -4,6 +4,7 @@ add address=41.76.8.0/21 list=GM-Block
 add address=41.223.212.0/22 list=GM-Block
 add address=102.69.160.0/22 list=GM-Block
 add address=102.140.128.0/19 list=GM-Block
+add address=102.206.88.0/22 list=GM-Block
 add address=102.211.12.0/22 list=GM-Block
 add address=102.211.244.0/22 list=GM-Block
 add address=102.213.220.0/22 list=GM-Block

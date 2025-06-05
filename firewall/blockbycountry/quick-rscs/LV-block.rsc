@@ -44,6 +44,7 @@ add address=64.39.238.0/24 list=LV-Block
 add address=77.38.128.0/17 list=LV-Block
 add address=77.73.32.0/24 list=LV-Block
 add address=77.73.64.0/21 list=LV-Block
+add address=77.87.123.0/24 list=LV-Block
 add address=77.93.0.0/19 list=LV-Block
 add address=77.240.244.0/22 list=LV-Block
 add address=77.241.64.0/22 list=LV-Block
@@ -82,6 +83,8 @@ add address=85.158.72.0/21 list=LV-Block
 add address=85.234.160.0/19 list=LV-Block
 add address=85.254.0.0/16 list=LV-Block
 add address=85.255.64.0/20 list=LV-Block
+add address=86.54.24.0/23 list=LV-Block
+add address=86.54.26.0/24 list=LV-Block
 add address=86.63.160.0/19 list=LV-Block
 add address=86.105.182.0/24 list=LV-Block
 add address=87.99.64.0/19 list=LV-Block
@@ -113,7 +116,6 @@ add address=91.193.64.0/22 list=LV-Block
 add address=91.194.110.0/24 list=LV-Block
 add address=91.194.176.0/24 list=LV-Block
 add address=91.196.164.0/22 list=LV-Block
-add address=91.197.0.0/22 list=LV-Block
 add address=91.198.91.0/24 list=LV-Block
 add address=91.198.156.0/24 list=LV-Block
 add address=91.199.86.0/24 list=LV-Block
@@ -210,10 +212,12 @@ add address=185.8.60.0/22 list=LV-Block
 add address=185.22.172.0/22 list=LV-Block
 add address=185.23.160.0/22 list=LV-Block
 add address=185.27.92.0/22 list=LV-Block
+add address=185.28.47.0/24 list=LV-Block
 add address=185.29.8.0/22 list=LV-Block
 add address=185.31.44.0/22 list=LV-Block
 add address=185.34.24.0/22 list=LV-Block
 add address=185.34.68.0/22 list=LV-Block
+add address=185.37.100.0/24 list=LV-Block
 add address=185.38.56.0/22 list=LV-Block
 add address=185.41.192.0/22 list=LV-Block
 add address=185.47.8.0/22 list=LV-Block
@@ -266,6 +270,7 @@ add address=185.219.156.0/22 list=LV-Block
 add address=185.220.92.0/22 list=LV-Block
 add address=185.220.116.0/22 list=LV-Block
 add address=185.220.196.0/22 list=LV-Block
+add address=185.227.77.0/24 list=LV-Block
 add address=185.228.100.0/22 list=LV-Block
 add address=185.242.104.0/22 list=LV-Block
 add address=185.250.116.0/22 list=LV-Block
@@ -306,7 +311,6 @@ add address=193.109.211.0/24 list=LV-Block
 add address=193.110.8.0/23 list=LV-Block
 add address=193.110.164.0/23 list=LV-Block
 add address=193.111.244.0/22 list=LV-Block
-add address=193.138.77.0/24 list=LV-Block
 add address=193.138.188.0/22 list=LV-Block
 add address=193.163.203.0/24 list=LV-Block
 add address=193.164.210.0/23 list=LV-Block

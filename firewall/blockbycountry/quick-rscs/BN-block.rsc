@@ -28,7 +28,6 @@ add address=185.8.100.0/22 list=BN-Block
 add address=185.100.40.0/22 list=BN-Block
 add address=192.94.122.0/24 list=BN-Block
 add address=195.128.4.0/22 list=BN-Block
-add address=202.12.26.0/24 list=BN-Block
 add address=202.59.230.0/24 list=BN-Block
 add address=202.86.24.0/21 list=BN-Block
 add address=202.90.36.0/24 list=BN-Block

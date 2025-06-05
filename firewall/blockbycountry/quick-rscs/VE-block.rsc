@@ -22,7 +22,6 @@ add address=45.182.140.0/23 list=VE-Block
 add address=45.183.42.0/23 list=VE-Block
 add address=45.184.103.0/24 list=VE-Block
 add address=45.184.248.0/22 list=VE-Block
-add address=45.185.16.0/22 list=VE-Block
 add address=45.185.148.0/24 list=VE-Block
 add address=45.185.184.0/23 list=VE-Block
 add address=45.186.144.0/22 list=VE-Block
@@ -46,7 +45,7 @@ add address=74.123.48.0/22 list=VE-Block
 add address=129.90.0.0/16 list=VE-Block
 add address=131.72.168.0/22 list=VE-Block
 add address=131.221.112.0/22 list=VE-Block
-add address=131.255.104.0/22 list=VE-Block
+add address=138.36.146.0/24 list=VE-Block
 add address=138.59.8.0/22 list=VE-Block
 add address=138.59.116.0/22 list=VE-Block
 add address=138.118.200.0/22 list=VE-Block
@@ -133,7 +132,6 @@ add address=190.97.224.0/19 list=VE-Block
 add address=190.103.28.0/22 list=VE-Block
 add address=190.103.32.0/19 list=VE-Block
 add address=190.111.120.0/22 list=VE-Block
-add address=190.113.63.0/24 list=VE-Block
 add address=190.114.240.0/21 list=VE-Block
 add address=190.120.248.0/21 list=VE-Block
 add address=190.121.224.0/20 list=VE-Block

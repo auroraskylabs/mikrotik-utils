@@ -3,7 +3,6 @@
 add address=45.5.12.0/24 list=SV-Block
 add address=45.152.216.0/22 list=SV-Block
 add address=45.161.24.0/22 list=SV-Block
-add address=45.162.87.0/24 list=SV-Block
 add address=45.164.207.0/24 list=SV-Block
 add address=45.166.224.0/23 list=SV-Block
 add address=45.167.0.0/22 list=SV-Block

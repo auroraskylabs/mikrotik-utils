@@ -320,7 +320,7 @@ add address=178.21.48.0/21 list=HU-Block
 add address=178.22.224.0/21 list=HU-Block
 add address=178.48.0.0/16 list=HU-Block
 add address=178.164.128.0/17 list=HU-Block
-add address=178.210.224.0/19 list=HU-Block
+add address=178.210.232.0/21 list=HU-Block
 add address=178.238.208.0/20 list=HU-Block
 add address=178.248.200.0/21 list=HU-Block
 add address=185.1.24.0/24 list=HU-Block
@@ -457,6 +457,7 @@ add address=188.36.0.0/16 list=HU-Block
 add address=188.44.128.0/17 list=HU-Block
 add address=188.93.200.0/21 list=HU-Block
 add address=188.94.136.0/21 list=HU-Block
+add address=188.95.193.0/24 list=HU-Block
 add address=188.127.128.0/19 list=HU-Block
 add address=188.142.128.0/17 list=HU-Block
 add address=188.143.0.0/17 list=HU-Block
@@ -485,7 +486,6 @@ add address=193.23.138.0/23 list=HU-Block
 add address=193.26.31.0/24 list=HU-Block
 add address=193.28.86.0/24 list=HU-Block
 add address=193.28.231.0/24 list=HU-Block
-add address=193.29.49.0/24 list=HU-Block
 add address=193.30.164.0/24 list=HU-Block
 add address=193.31.16.0/23 list=HU-Block
 add address=193.31.254.0/23 list=HU-Block

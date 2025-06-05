@@ -11,6 +11,7 @@ add address=23.132.48.0/24 list=PR-Block
 add address=23.132.152.0/24 list=PR-Block
 add address=23.133.120.0/24 list=PR-Block
 add address=23.134.8.0/24 list=PR-Block
+add address=23.134.164.0/24 list=PR-Block
 add address=23.136.112.0/24 list=PR-Block
 add address=23.138.80.0/24 list=PR-Block
 add address=23.138.88.0/24 list=PR-Block
@@ -60,6 +61,7 @@ add address=67.206.192.0/18 list=PR-Block
 add address=67.215.96.0/21 list=PR-Block
 add address=67.215.104.0/22 list=PR-Block
 add address=67.224.128.0/17 list=PR-Block
+add address=69.89.32.0/20 list=PR-Block
 add address=70.35.128.0/20 list=PR-Block
 add address=70.45.96.0/22 list=PR-Block
 add address=70.45.144.0/22 list=PR-Block
@@ -110,6 +112,7 @@ add address=172.96.168.0/22 list=PR-Block
 add address=172.99.184.0/22 list=PR-Block
 add address=173.211.128.0/18 list=PR-Block
 add address=173.215.128.0/17 list=PR-Block
+add address=173.225.72.0/21 list=PR-Block
 add address=173.228.192.0/18 list=PR-Block
 add address=173.243.80.0/20 list=PR-Block
 add address=190.211.150.0/23 list=PR-Block

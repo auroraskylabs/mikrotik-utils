@@ -2,6 +2,7 @@
 /ip firewall address-list
 add address=24.152.40.0/22 list=PY-Block
 add address=45.68.52.0/22 list=PY-Block
+add address=45.68.94.0/23 list=PY-Block
 add address=45.160.32.0/22 list=PY-Block
 add address=45.161.236.0/22 list=PY-Block
 add address=45.162.180.0/22 list=PY-Block
@@ -49,7 +50,6 @@ add address=138.59.224.0/22 list=PY-Block
 add address=138.99.100.0/22 list=PY-Block
 add address=138.122.160.0/22 list=PY-Block
 add address=138.186.60.0/22 list=PY-Block
-add address=138.219.8.0/22 list=PY-Block
 add address=143.202.208.0/22 list=PY-Block
 add address=143.255.140.0/22 list=PY-Block
 add address=160.238.184.0/22 list=PY-Block
@@ -110,6 +110,7 @@ add address=190.103.188.0/24 list=PY-Block
 add address=190.104.128.0/18 list=PY-Block
 add address=190.110.226.0/23 list=PY-Block
 add address=190.110.230.0/23 list=PY-Block
+add address=190.110.246.0/23 list=PY-Block
 add address=190.112.168.0/22 list=PY-Block
 add address=190.112.208.0/21 list=PY-Block
 add address=190.113.92.0/22 list=PY-Block

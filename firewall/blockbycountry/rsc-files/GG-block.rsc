@@ -23,4 +23,3 @@ add address=194.9.2.0/23 list=GG-Block
 add address=194.116.244.0/23 list=GG-Block
 add address=194.145.126.0/24 list=GG-Block
 add address=195.226.128.0/19 list=GG-Block
-add address=213.163.192.0/19 list=GG-Block

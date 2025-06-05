@@ -58,7 +58,8 @@ add address=132.251.0.0/17 list=PE-Block
 add address=132.251.128.0/18 list=PE-Block
 add address=132.251.192.0/19 list=PE-Block
 add address=132.255.0.0/22 list=PE-Block
-add address=138.36.144.0/22 list=PE-Block
+add address=138.36.144.0/23 list=PE-Block
+add address=138.36.147.0/24 list=PE-Block
 add address=138.59.64.0/22 list=PE-Block
 add address=138.117.160.0/22 list=PE-Block
 add address=138.185.116.0/22 list=PE-Block

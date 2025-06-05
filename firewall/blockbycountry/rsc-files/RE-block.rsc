@@ -9,7 +9,6 @@ add address=80.69.208.0/20 list=RE-Block
 add address=102.35.0.0/16 list=RE-Block
 add address=102.135.224.0/20 list=RE-Block
 add address=102.213.8.0/22 list=RE-Block
-add address=102.215.220.0/23 list=RE-Block
 add address=109.122.128.0/18 list=RE-Block
 add address=129.122.64.0/18 list=RE-Block
 add address=139.26.0.0/16 list=RE-Block

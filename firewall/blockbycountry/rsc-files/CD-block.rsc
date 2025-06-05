@@ -22,8 +22,11 @@ add address=102.68.56.0/21 list=CD-Block
 add address=102.68.152.0/22 list=CD-Block
 add address=102.69.180.0/22 list=CD-Block
 add address=102.135.176.0/21 list=CD-Block
+add address=102.206.64.0/22 list=CD-Block
+add address=102.206.156.0/22 list=CD-Block
 add address=102.206.240.0/22 list=CD-Block
 add address=102.207.144.0/23 list=CD-Block
+add address=102.207.190.0/24 list=CD-Block
 add address=102.207.248.0/23 list=CD-Block
 add address=102.208.120.0/22 list=CD-Block
 add address=102.209.212.0/22 list=CD-Block

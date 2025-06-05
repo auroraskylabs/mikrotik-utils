@@ -45,6 +45,8 @@ add address=200.35.152.0/22 list=UY-Block
 add address=200.40.0.0/16 list=UY-Block
 add address=200.58.128.0/19 list=UY-Block
 add address=200.71.0.0/19 list=UY-Block
+add address=200.90.152.0/23 list=UY-Block
+add address=200.90.154.0/24 list=UY-Block
 add address=200.93.240.0/21 list=UY-Block
 add address=200.108.192.0/18 list=UY-Block
 add address=200.115.72.0/21 list=UY-Block

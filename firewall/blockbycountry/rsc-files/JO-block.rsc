@@ -59,6 +59,7 @@ add address=141.0.0.0/21 list=JO-Block
 add address=141.98.64.0/22 list=JO-Block
 add address=141.105.56.0/21 list=JO-Block
 add address=146.19.239.0/24 list=JO-Block
+add address=146.19.246.0/24 list=JO-Block
 add address=149.200.128.0/17 list=JO-Block
 add address=176.28.128.0/17 list=JO-Block
 add address=176.29.0.0/16 list=JO-Block

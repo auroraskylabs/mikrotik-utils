@@ -11,6 +11,7 @@ add address=77.244.144.0/20 list=TJ-Block
 add address=77.247.198.0/24 list=TJ-Block
 add address=79.170.184.0/21 list=TJ-Block
 add address=80.73.240.0/24 list=TJ-Block
+add address=81.85.101.0/24 list=TJ-Block
 add address=85.8.129.0/24 list=TJ-Block
 add address=85.9.128.0/18 list=TJ-Block
 add address=89.104.121.0/24 list=TJ-Block
@@ -45,8 +46,10 @@ add address=193.57.208.0/22 list=TJ-Block
 add address=193.111.10.0/23 list=TJ-Block
 add address=195.26.238.0/23 list=TJ-Block
 add address=195.246.102.0/23 list=TJ-Block
+add address=195.246.192.0/24 list=TJ-Block
 add address=217.8.32.0/20 list=TJ-Block
 add address=217.11.176.0/20 list=TJ-Block
+add address=217.65.64.0/24 list=TJ-Block
 add address=217.197.105.0/24 list=TJ-Block
 
 /ip firewall raw

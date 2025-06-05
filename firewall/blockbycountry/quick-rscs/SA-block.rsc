@@ -66,6 +66,7 @@ add address=64.246.72.0/21 list=SA-Block
 add address=66.9.112.0/20 list=SA-Block
 add address=66.9.128.0/19 list=SA-Block
 add address=66.9.192.0/18 list=SA-Block
+add address=66.33.114.0/23 list=SA-Block
 add address=66.118.128.0/18 list=SA-Block
 add address=66.212.96.0/19 list=SA-Block
 add address=72.1.224.0/20 list=SA-Block
@@ -201,6 +202,7 @@ add address=94.48.0.0/15 list=SA-Block
 add address=94.77.192.0/18 list=SA-Block
 add address=94.96.0.0/14 list=SA-Block
 add address=94.158.64.0/20 list=SA-Block
+add address=94.232.255.0/24 list=SA-Block
 add address=95.86.32.0/21 list=SA-Block
 add address=95.129.8.0/21 list=SA-Block
 add address=95.140.160.0/20 list=SA-Block
@@ -310,12 +312,14 @@ add address=185.45.212.0/22 list=SA-Block
 add address=185.51.123.0/24 list=SA-Block
 add address=185.51.204.0/22 list=SA-Block
 add address=185.53.244.0/22 list=SA-Block
+add address=185.54.2.0/23 list=SA-Block
 add address=185.54.144.0/22 list=SA-Block
 add address=185.56.196.0/22 list=SA-Block
 add address=185.59.188.0/22 list=SA-Block
 add address=185.62.176.0/22 list=SA-Block
 add address=185.63.232.0/22 list=SA-Block
 add address=185.69.208.0/22 list=SA-Block
+add address=185.72.102.0/24 list=SA-Block
 add address=185.75.16.0/22 list=SA-Block
 add address=185.76.136.0/22 list=SA-Block
 add address=185.79.248.0/22 list=SA-Block
@@ -427,7 +431,6 @@ add address=193.37.143.0/24 list=SA-Block
 add address=193.42.220.0/24 list=SA-Block
 add address=193.47.102.0/24 list=SA-Block
 add address=193.53.86.0/24 list=SA-Block
-add address=193.104.40.0/24 list=SA-Block
 add address=193.104.204.0/24 list=SA-Block
 add address=193.105.8.0/24 list=SA-Block
 add address=193.105.25.0/24 list=SA-Block
@@ -439,6 +442,7 @@ add address=193.142.222.0/24 list=SA-Block
 add address=193.169.190.0/23 list=SA-Block
 add address=193.194.122.0/24 list=SA-Block
 add address=193.200.247.0/24 list=SA-Block
+add address=193.201.155.64/26 list=SA-Block
 add address=193.227.127.0/24 list=SA-Block
 add address=193.239.208.0/24 list=SA-Block
 add address=193.242.127.0/24 list=SA-Block
@@ -457,6 +461,7 @@ add address=194.50.35.0/24 list=SA-Block
 add address=194.62.148.0/22 list=SA-Block
 add address=194.104.226.0/24 list=SA-Block
 add address=194.126.231.0/24 list=SA-Block
+add address=194.187.254.0/24 list=SA-Block
 add address=194.238.0.0/20 list=SA-Block
 add address=194.238.96.0/19 list=SA-Block
 add address=195.3.236.0/22 list=SA-Block
@@ -495,9 +500,12 @@ add address=198.36.40.0/22 list=SA-Block
 add address=198.36.44.0/23 list=SA-Block
 add address=198.36.46.0/24 list=SA-Block
 add address=198.51.12.0/24 list=SA-Block
+add address=199.16.105.0/24 list=SA-Block
+add address=200.225.56.0/23 list=SA-Block
 add address=202.8.108.0/22 list=SA-Block
 add address=202.37.110.0/23 list=SA-Block
 add address=205.238.64.0/18 list=SA-Block
+add address=207.143.0.0/16 list=SA-Block
 add address=207.150.160.0/19 list=SA-Block
 add address=207.178.64.0/19 list=SA-Block
 add address=212.2.128.0/19 list=SA-Block
@@ -519,6 +527,7 @@ add address=212.93.192.0/19 list=SA-Block
 add address=212.100.192.0/19 list=SA-Block
 add address=212.102.0.0/19 list=SA-Block
 add address=212.107.96.0/19 list=SA-Block
+add address=212.108.85.0/24 list=SA-Block
 add address=212.116.192.0/19 list=SA-Block
 add address=212.118.96.0/19 list=SA-Block
 add address=212.118.128.0/19 list=SA-Block

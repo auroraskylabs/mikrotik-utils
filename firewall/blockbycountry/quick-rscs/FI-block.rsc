@@ -94,6 +94,7 @@ add address=62.142.0.0/16 list=FI-Block
 add address=62.145.160.0/19 list=FI-Block
 add address=62.148.96.0/19 list=FI-Block
 add address=62.148.192.0/19 list=FI-Block
+add address=62.164.153.0/24 list=FI-Block
 add address=62.165.128.0/18 list=FI-Block
 add address=62.176.32.0/19 list=FI-Block
 add address=62.183.128.0/17 list=FI-Block
@@ -191,6 +192,7 @@ add address=84.239.128.0/17 list=FI-Block
 add address=84.240.64.0/18 list=FI-Block
 add address=84.248.0.0/14 list=FI-Block
 add address=84.253.192.0/18 list=FI-Block
+add address=85.9.192.0/19 list=FI-Block
 add address=85.23.0.0/16 list=FI-Block
 add address=85.29.64.0/18 list=FI-Block
 add address=85.76.0.0/14 list=FI-Block
@@ -430,6 +432,7 @@ add address=185.25.76.0/22 list=FI-Block
 add address=185.25.94.0/24 list=FI-Block
 add address=185.25.200.0/22 list=FI-Block
 add address=185.26.48.0/22 list=FI-Block
+add address=185.26.215.0/24 list=FI-Block
 add address=185.28.244.0/22 list=FI-Block
 add address=185.31.68.0/22 list=FI-Block
 add address=185.31.136.0/22 list=FI-Block
@@ -446,6 +449,7 @@ add address=185.40.107.0/24 list=FI-Block
 add address=185.40.200.0/22 list=FI-Block
 add address=185.43.88.0/22 list=FI-Block
 add address=185.43.120.0/22 list=FI-Block
+add address=185.45.253.0/24 list=FI-Block
 add address=185.47.76.0/22 list=FI-Block
 add address=185.50.88.0/22 list=FI-Block
 add address=185.50.244.0/22 list=FI-Block
@@ -695,6 +699,7 @@ add address=192.203.108.0/23 list=FI-Block
 add address=193.3.183.0/24 list=FI-Block
 add address=193.9.64.0/19 list=FI-Block
 add address=193.9.96.0/20 list=FI-Block
+add address=193.17.34.0/24 list=FI-Block
 add address=193.19.136.0/22 list=FI-Block
 add address=193.22.5.0/24 list=FI-Block
 add address=193.23.20.0/22 list=FI-Block
@@ -864,6 +869,7 @@ add address=194.149.238.0/23 list=FI-Block
 add address=194.153.159.64/26 list=FI-Block
 add address=194.157.0.0/16 list=FI-Block
 add address=194.176.103.0/24 list=FI-Block
+add address=194.180.246.0/24 list=FI-Block
 add address=194.187.212.0/22 list=FI-Block
 add address=194.187.232.0/22 list=FI-Block
 add address=194.188.0.0/16 list=FI-Block
@@ -949,6 +955,7 @@ add address=213.143.160.0/19 list=FI-Block
 add address=213.145.192.0/19 list=FI-Block
 add address=213.157.64.0/19 list=FI-Block
 add address=213.161.32.0/19 list=FI-Block
+add address=213.163.192.0/20 list=FI-Block
 add address=213.169.0.0/19 list=FI-Block
 add address=213.173.128.0/19 list=FI-Block
 add address=213.185.32.0/19 list=FI-Block
@@ -971,7 +978,7 @@ add address=217.77.192.0/20 list=FI-Block
 add address=217.78.192.0/19 list=FI-Block
 add address=217.112.192.0/20 list=FI-Block
 add address=217.112.240.0/20 list=FI-Block
-add address=217.116.160.0/20 list=FI-Block
+add address=217.116.160.0/21 list=FI-Block
 add address=217.119.32.0/20 list=FI-Block
 add address=217.140.128.0/17 list=FI-Block
 add address=217.149.48.0/20 list=FI-Block

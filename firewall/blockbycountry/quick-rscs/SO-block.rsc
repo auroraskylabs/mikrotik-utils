@@ -8,6 +8,7 @@ add address=102.68.16.0/22 list=SO-Block
 add address=102.68.144.0/21 list=SO-Block
 add address=102.128.128.0/21 list=SO-Block
 add address=102.141.196.0/22 list=SO-Block
+add address=102.206.180.0/22 list=SO-Block
 add address=102.210.242.0/24 list=SO-Block
 add address=102.214.168.0/22 list=SO-Block
 add address=102.218.10.0/23 list=SO-Block

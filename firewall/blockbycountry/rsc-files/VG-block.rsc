@@ -25,13 +25,15 @@ add address=67.209.160.0/20 list=VG-Block
 add address=68.65.216.0/23 list=VG-Block
 add address=72.46.24.0/22 list=VG-Block
 add address=74.113.104.0/22 list=VG-Block
+add address=74.113.236.0/23 list=VG-Block
 add address=89.36.173.0/24 list=VG-Block
 add address=89.36.174.0/24 list=VG-Block
 add address=89.38.152.0/23 list=VG-Block
 add address=89.38.154.0/24 list=VG-Block
 add address=89.38.232.0/23 list=VG-Block
 add address=89.40.96.0/22 list=VG-Block
-add address=89.42.160.0/22 list=VG-Block
+add address=89.42.160.0/23 list=VG-Block
+add address=89.42.163.0/24 list=VG-Block
 add address=89.44.80.0/23 list=VG-Block
 add address=89.44.83.0/24 list=VG-Block
 add address=89.44.84.0/22 list=VG-Block
@@ -48,6 +50,7 @@ add address=94.177.129.0/24 list=VG-Block
 add address=94.177.132.0/24 list=VG-Block
 add address=98.158.96.0/20 list=VG-Block
 add address=103.92.130.0/24 list=VG-Block
+add address=103.143.178.0/23 list=VG-Block
 add address=103.144.140.0/23 list=VG-Block
 add address=104.254.96.0/23 list=VG-Block
 add address=104.254.124.0/22 list=VG-Block
@@ -62,9 +65,9 @@ add address=162.210.68.0/23 list=VG-Block
 add address=162.218.24.0/22 list=VG-Block
 add address=162.222.224.0/24 list=VG-Block
 add address=162.251.87.0/24 list=VG-Block
-add address=162.255.144.0/22 list=VG-Block
 add address=170.39.24.0/22 list=VG-Block
 add address=171.22.243.0/24 list=VG-Block
+add address=172.96.38.0/23 list=VG-Block
 add address=172.102.0.0/22 list=VG-Block
 add address=185.23.152.0/22 list=VG-Block
 add address=185.34.200.0/22 list=VG-Block
@@ -80,7 +83,9 @@ add address=185.224.216.0/22 list=VG-Block
 add address=185.232.52.0/22 list=VG-Block
 add address=185.238.0.0/22 list=VG-Block
 add address=188.241.24.0/23 list=VG-Block
-add address=188.241.28.0/22 list=VG-Block
+add address=188.241.29.0/24 list=VG-Block
+add address=188.241.30.0/23 list=VG-Block
+add address=192.198.184.0/23 list=VG-Block
 add address=193.37.232.0/22 list=VG-Block
 add address=193.160.254.0/24 list=VG-Block
 add address=193.161.1.0/24 list=VG-Block
@@ -95,6 +100,8 @@ add address=195.43.147.0/24 list=VG-Block
 add address=195.226.211.0/24 list=VG-Block
 add address=195.242.110.0/23 list=VG-Block
 add address=195.242.118.0/23 list=VG-Block
+add address=195.246.194.0/24 list=VG-Block
+add address=199.36.102.0/23 list=VG-Block
 add address=199.79.60.0/23 list=VG-Block
 add address=199.91.96.0/21 list=VG-Block
 add address=199.191.50.0/23 list=VG-Block

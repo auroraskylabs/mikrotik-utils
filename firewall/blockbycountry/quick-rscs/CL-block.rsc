@@ -181,7 +181,7 @@ add address=166.110.0.0/16 list=CL-Block
 add address=167.28.0.0/16 list=CL-Block
 add address=167.249.28.0/22 list=CL-Block
 add address=167.250.52.0/22 list=CL-Block
-add address=167.250.132.0/23 list=CL-Block
+add address=167.250.132.0/24 list=CL-Block
 add address=167.250.196.0/23 list=CL-Block
 add address=168.90.156.0/22 list=CL-Block
 add address=168.90.220.0/22 list=CL-Block
@@ -195,7 +195,8 @@ add address=168.196.200.0/22 list=CL-Block
 add address=168.197.88.0/22 list=CL-Block
 add address=168.205.204.0/22 list=CL-Block
 add address=168.228.248.0/22 list=CL-Block
-add address=168.231.0.0/16 list=CL-Block
+add address=168.231.0.0/18 list=CL-Block
+add address=168.231.128.0/17 list=CL-Block
 add address=168.232.164.0/22 list=CL-Block
 add address=170.18.0.0/16 list=CL-Block
 add address=170.78.112.0/22 list=CL-Block
@@ -410,9 +411,12 @@ add address=200.1.132.0/22 list=CL-Block
 add address=200.1.136.0/21 list=CL-Block
 add address=200.1.174.0/24 list=CL-Block
 add address=200.2.0.0/21 list=CL-Block
-add address=200.2.16.0/20 list=CL-Block
+add address=200.2.16.0/21 list=CL-Block
+add address=200.2.24.0/22 list=CL-Block
 add address=200.2.72.0/21 list=CL-Block
-add address=200.2.80.0/20 list=CL-Block
+add address=200.2.80.0/21 list=CL-Block
+add address=200.2.90.0/23 list=CL-Block
+add address=200.2.92.0/22 list=CL-Block
 add address=200.2.96.0/22 list=CL-Block
 add address=200.2.104.0/21 list=CL-Block
 add address=200.2.112.0/21 list=CL-Block

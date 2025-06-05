@@ -43,6 +43,7 @@ add address=160.22.40.0/23 list=LA-Block
 add address=160.187.128.0/23 list=LA-Block
 add address=160.191.178.0/23 list=LA-Block
 add address=160.250.220.0/23 list=LA-Block
+add address=161.248.192.0/23 list=LA-Block
 add address=180.131.148.0/22 list=LA-Block
 add address=183.182.96.0/19 list=LA-Block
 add address=185.19.104.0/22 list=LA-Block

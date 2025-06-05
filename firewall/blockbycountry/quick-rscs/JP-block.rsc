@@ -30,6 +30,10 @@ add address=14.192.96.0/19 list=JP-Block
 add address=14.193.0.0/16 list=JP-Block
 add address=23.81.40.0/21 list=JP-Block
 add address=23.106.224.0/21 list=JP-Block
+add address=23.137.68.0/24 list=JP-Block
+add address=23.137.116.0/24 list=JP-Block
+add address=23.176.40.0/24 list=JP-Block
+add address=23.187.72.0/24 list=JP-Block
 add address=23.232.128.0/17 list=JP-Block
 add address=24.41.112.0/20 list=JP-Block
 add address=24.53.192.0/19 list=JP-Block
@@ -169,7 +173,6 @@ add address=43.252.240.0/22 list=JP-Block
 add address=43.253.0.0/16 list=JP-Block
 add address=43.255.40.0/22 list=JP-Block
 add address=45.75.0.0/17 list=JP-Block
-add address=45.112.128.0/22 list=JP-Block
 add address=45.113.4.0/22 list=JP-Block
 add address=45.113.116.0/22 list=JP-Block
 add address=45.113.172.0/22 list=JP-Block
@@ -222,7 +225,7 @@ add address=49.239.64.0/18 list=JP-Block
 add address=49.240.0.0/14 list=JP-Block
 add address=49.250.0.0/15 list=JP-Block
 add address=49.252.0.0/15 list=JP-Block
-add address=58.0.0.0/15 list=JP-Block
+add address=58.1.0.0/17 list=JP-Block
 add address=58.3.0.0/16 list=JP-Block
 add address=58.4.0.0/15 list=JP-Block
 add address=58.12.0.0/15 list=JP-Block
@@ -326,7 +329,7 @@ add address=61.192.0.0/12 list=JP-Block
 add address=61.208.0.0/13 list=JP-Block
 add address=61.245.32.0/19 list=JP-Block
 add address=61.245.64.0/19 list=JP-Block
-add address=61.245.96.0/20 list=JP-Block
+add address=61.245.104.0/21 list=JP-Block
 add address=61.245.112.0/21 list=JP-Block
 add address=61.245.124.0/22 list=JP-Block
 add address=61.245.192.0/19 list=JP-Block
@@ -336,6 +339,7 @@ add address=64.63.64.0/18 list=JP-Block
 add address=65.99.63.0/24 list=JP-Block
 add address=66.11.48.0/20 list=JP-Block
 add address=69.6.64.0/20 list=JP-Block
+add address=74.113.96.0/22 list=JP-Block
 add address=76.77.48.0/20 list=JP-Block
 add address=80.208.192.0/20 list=JP-Block
 add address=81.23.208.0/20 list=JP-Block
@@ -489,7 +493,6 @@ add address=103.19.160.0/22 list=JP-Block
 add address=103.19.240.0/22 list=JP-Block
 add address=103.20.4.0/22 list=JP-Block
 add address=103.20.8.0/22 list=JP-Block
-add address=103.20.36.0/22 list=JP-Block
 add address=103.20.72.0/22 list=JP-Block
 add address=103.20.198.0/23 list=JP-Block
 add address=103.21.36.0/22 list=JP-Block
@@ -516,7 +519,6 @@ add address=103.26.164.0/22 list=JP-Block
 add address=103.27.40.0/22 list=JP-Block
 add address=103.27.80.0/22 list=JP-Block
 add address=103.27.136.0/22 list=JP-Block
-add address=103.27.156.0/22 list=JP-Block
 add address=103.27.220.0/22 list=JP-Block
 add address=103.27.244.0/22 list=JP-Block
 add address=103.27.254.0/24 list=JP-Block
@@ -535,7 +537,6 @@ add address=103.30.52.0/22 list=JP-Block
 add address=103.30.164.0/22 list=JP-Block
 add address=103.30.240.0/22 list=JP-Block
 add address=103.31.12.0/22 list=JP-Block
-add address=103.31.76.0/22 list=JP-Block
 add address=103.31.192.0/22 list=JP-Block
 add address=103.31.216.0/22 list=JP-Block
 add address=103.31.244.0/22 list=JP-Block
@@ -650,7 +651,6 @@ add address=103.74.160.0/22 list=JP-Block
 add address=103.75.212.0/22 list=JP-Block
 add address=103.75.252.0/22 list=JP-Block
 add address=103.76.84.0/22 list=JP-Block
-add address=103.76.116.0/23 list=JP-Block
 add address=103.78.118.0/23 list=JP-Block
 add address=103.78.156.0/23 list=JP-Block
 add address=103.79.12.0/22 list=JP-Block
@@ -683,6 +683,7 @@ add address=103.95.163.0/24 list=JP-Block
 add address=103.95.180.0/22 list=JP-Block
 add address=103.95.184.0/22 list=JP-Block
 add address=103.95.206.0/24 list=JP-Block
+add address=103.96.0.0/22 list=JP-Block
 add address=103.96.64.0/22 list=JP-Block
 add address=103.96.112.0/22 list=JP-Block
 add address=103.96.229.0/24 list=JP-Block
@@ -710,7 +711,6 @@ add address=103.109.240.0/22 list=JP-Block
 add address=103.110.24.0/22 list=JP-Block
 add address=103.112.180.0/22 list=JP-Block
 add address=103.113.56.0/22 list=JP-Block
-add address=103.113.168.0/24 list=JP-Block
 add address=103.113.246.0/24 list=JP-Block
 add address=103.114.180.0/22 list=JP-Block
 add address=103.114.184.0/22 list=JP-Block
@@ -755,11 +755,13 @@ add address=103.137.212.0/22 list=JP-Block
 add address=103.137.232.0/22 list=JP-Block
 add address=103.137.240.0/22 list=JP-Block
 add address=103.138.100.0/22 list=JP-Block
+add address=103.138.238.0/24 list=JP-Block
 add address=103.139.86.0/23 list=JP-Block
 add address=103.139.106.0/24 list=JP-Block
 add address=103.139.110.0/23 list=JP-Block
 add address=103.139.238.0/23 list=JP-Block
 add address=103.139.250.0/23 list=JP-Block
+add address=103.140.44.0/23 list=JP-Block
 add address=103.140.48.0/23 list=JP-Block
 add address=103.140.112.0/23 list=JP-Block
 add address=103.140.118.0/23 list=JP-Block
@@ -885,8 +887,6 @@ add address=103.204.56.0/22 list=JP-Block
 add address=103.204.64.0/22 list=JP-Block
 add address=103.204.230.0/24 list=JP-Block
 add address=103.205.48.0/22 list=JP-Block
-add address=103.205.72.0/22 list=JP-Block
-add address=103.205.88.0/22 list=JP-Block
 add address=103.205.168.0/22 list=JP-Block
 add address=103.205.184.0/24 list=JP-Block
 add address=103.206.76.0/22 list=JP-Block
@@ -1005,7 +1005,6 @@ add address=103.248.68.0/22 list=JP-Block
 add address=103.248.148.0/22 list=JP-Block
 add address=103.248.251.0/24 list=JP-Block
 add address=103.249.184.0/22 list=JP-Block
-add address=103.249.212.0/22 list=JP-Block
 add address=103.250.72.0/22 list=JP-Block
 add address=103.250.92.0/22 list=JP-Block
 add address=103.250.100.0/23 list=JP-Block
@@ -1074,7 +1073,8 @@ add address=110.232.160.0/20 list=JP-Block
 add address=110.232.192.0/19 list=JP-Block
 add address=110.232.224.0/20 list=JP-Block
 add address=110.233.0.0/16 list=JP-Block
-add address=111.64.0.0/16 list=JP-Block
+add address=111.64.64.0/18 list=JP-Block
+add address=111.64.128.0/17 list=JP-Block
 add address=111.65.192.0/19 list=JP-Block
 add address=111.67.112.0/20 list=JP-Block
 add address=111.67.128.0/18 list=JP-Block
@@ -1140,6 +1140,7 @@ add address=113.197.40.0/21 list=JP-Block
 add address=113.197.56.0/21 list=JP-Block
 add address=113.197.128.0/17 list=JP-Block
 add address=113.208.0.0/18 list=JP-Block
+add address=113.212.88.0/22 list=JP-Block
 add address=113.212.104.0/22 list=JP-Block
 add address=113.212.128.0/19 list=JP-Block
 add address=113.213.128.0/17 list=JP-Block
@@ -1199,7 +1200,8 @@ add address=115.166.144.0/20 list=JP-Block
 add address=115.166.160.0/19 list=JP-Block
 add address=115.166.192.0/18 list=JP-Block
 add address=115.167.128.0/17 list=JP-Block
-add address=115.176.0.0/15 list=JP-Block
+add address=115.176.128.0/18 list=JP-Block
+add address=115.177.192.0/18 list=JP-Block
 add address=115.178.112.0/21 list=JP-Block
 add address=115.179.0.0/16 list=JP-Block
 add address=115.187.64.0/20 list=JP-Block
@@ -1213,7 +1215,9 @@ add address=116.64.0.0/15 list=JP-Block
 add address=116.67.128.0/17 list=JP-Block
 add address=116.68.216.0/21 list=JP-Block
 add address=116.70.128.0/17 list=JP-Block
-add address=116.80.0.0/14 list=JP-Block
+add address=116.80.0.0/15 list=JP-Block
+add address=116.82.0.0/16 list=JP-Block
+add address=116.83.128.0/17 list=JP-Block
 add address=116.89.192.0/19 list=JP-Block
 add address=116.90.144.0/20 list=JP-Block
 add address=116.90.192.0/20 list=JP-Block
@@ -1394,7 +1398,11 @@ add address=121.50.160.0/21 list=JP-Block
 add address=121.58.128.0/21 list=JP-Block
 add address=121.58.176.0/21 list=JP-Block
 add address=121.80.0.0/13 list=JP-Block
-add address=121.92.0.0/14 list=JP-Block
+add address=121.92.0.0/16 list=JP-Block
+add address=121.93.192.0/18 list=JP-Block
+add address=121.94.64.0/18 list=JP-Block
+add address=121.94.128.0/17 list=JP-Block
+add address=121.95.64.0/18 list=JP-Block
 add address=121.100.8.0/21 list=JP-Block
 add address=121.100.56.0/21 list=JP-Block
 add address=121.101.64.0/18 list=JP-Block
@@ -1492,7 +1500,10 @@ add address=123.255.192.0/21 list=JP-Block
 add address=123.255.232.0/21 list=JP-Block
 add address=123.255.240.0/21 list=JP-Block
 add address=124.18.0.0/16 list=JP-Block
-add address=124.24.0.0/14 list=JP-Block
+add address=124.24.0.0/17 list=JP-Block
+add address=124.24.128.0/18 list=JP-Block
+add address=124.25.64.0/18 list=JP-Block
+add address=124.26.0.0/15 list=JP-Block
 add address=124.32.0.0/13 list=JP-Block
 add address=124.40.0.0/18 list=JP-Block
 add address=124.40.64.0/19 list=JP-Block
@@ -1538,7 +1549,11 @@ add address=124.247.0.0/17 list=JP-Block
 add address=124.247.128.0/18 list=JP-Block
 add address=124.248.144.0/20 list=JP-Block
 add address=124.255.0.0/16 list=JP-Block
-add address=125.0.0.0/14 list=JP-Block
+add address=125.0.64.0/18 list=JP-Block
+add address=125.0.128.0/17 list=JP-Block
+add address=125.1.0.0/17 list=JP-Block
+add address=125.1.192.0/18 list=JP-Block
+add address=125.2.0.0/15 list=JP-Block
 add address=125.4.0.0/16 list=JP-Block
 add address=125.6.0.0/16 list=JP-Block
 add address=125.8.0.0/13 list=JP-Block
@@ -1567,7 +1582,7 @@ add address=126.184.0.0/14 list=JP-Block
 add address=126.188.0.0/15 list=JP-Block
 add address=126.192.0.0/12 list=JP-Block
 add address=126.208.0.0/16 list=JP-Block
-add address=126.209.64.0/18 list=JP-Block
+add address=126.209.96.0/19 list=JP-Block
 add address=126.209.128.0/17 list=JP-Block
 add address=126.211.0.0/16 list=JP-Block
 add address=126.212.0.0/14 list=JP-Block
@@ -1627,8 +1642,10 @@ add address=139.152.0.0/16 list=JP-Block
 add address=139.154.0.0/16 list=JP-Block
 add address=140.81.0.0/16 list=JP-Block
 add address=140.227.0.0/16 list=JP-Block
+add address=140.235.164.0/22 list=JP-Block
 add address=141.164.32.0/19 list=JP-Block
 add address=141.178.0.0/16 list=JP-Block
+add address=142.91.104.0/21 list=JP-Block
 add address=143.90.0.0/16 list=JP-Block
 add address=143.94.0.0/16 list=JP-Block
 add address=143.125.0.0/16 list=JP-Block
@@ -1756,7 +1773,8 @@ add address=157.119.64.0/22 list=JP-Block
 add address=157.119.128.0/22 list=JP-Block
 add address=157.120.0.0/17 list=JP-Block
 add address=157.120.128.0/18 list=JP-Block
-add address=157.120.192.0/19 list=JP-Block
+add address=157.120.192.0/21 list=JP-Block
+add address=157.120.208.0/20 list=JP-Block
 add address=157.120.232.0/22 list=JP-Block
 add address=157.147.0.0/16 list=JP-Block
 add address=157.185.192.0/18 list=JP-Block
@@ -1765,7 +1783,9 @@ add address=157.205.0.0/16 list=JP-Block
 add address=157.250.64.0/18 list=JP-Block
 add address=157.250.128.0/19 list=JP-Block
 add address=157.250.176.0/20 list=JP-Block
-add address=157.250.192.0/18 list=JP-Block
+add address=157.250.208.0/20 list=JP-Block
+add address=157.250.224.0/19 list=JP-Block
+add address=158.51.108.0/22 list=JP-Block
 add address=158.198.0.0/15 list=JP-Block
 add address=158.200.0.0/13 list=JP-Block
 add address=158.208.0.0/13 list=JP-Block
@@ -1861,6 +1881,10 @@ add address=163.54.0.0/15 list=JP-Block
 add address=163.56.0.0/16 list=JP-Block
 add address=163.58.0.0/15 list=JP-Block
 add address=163.60.0.0/16 list=JP-Block
+add address=163.61.37.0/24 list=JP-Block
+add address=163.61.46.0/24 list=JP-Block
+add address=163.61.104.0/24 list=JP-Block
+add address=163.61.206.0/23 list=JP-Block
 add address=163.130.0.0/15 list=JP-Block
 add address=163.132.0.0/14 list=JP-Block
 add address=163.136.0.0/14 list=JP-Block
@@ -1877,8 +1901,11 @@ add address=163.220.0.0/15 list=JP-Block
 add address=163.224.0.0/15 list=JP-Block
 add address=163.226.0.0/16 list=JP-Block
 add address=163.227.1.0/24 list=JP-Block
+add address=163.227.4.0/23 list=JP-Block
 add address=163.227.17.0/24 list=JP-Block
 add address=163.227.125.0/24 list=JP-Block
+add address=163.227.180.0/23 list=JP-Block
+add address=163.227.202.0/23 list=JP-Block
 add address=163.227.221.0/24 list=JP-Block
 add address=163.227.225.0/24 list=JP-Block
 add address=163.227.226.0/23 list=JP-Block
@@ -1897,6 +1924,8 @@ add address=165.14.0.0/16 list=JP-Block
 add address=165.76.0.0/16 list=JP-Block
 add address=165.93.0.0/16 list=JP-Block
 add address=165.96.0.0/16 list=JP-Block
+add address=165.99.146.0/23 list=JP-Block
+add address=165.99.176.0/23 list=JP-Block
 add address=165.100.0.0/17 list=JP-Block
 add address=165.100.128.0/19 list=JP-Block
 add address=165.100.176.0/20 list=JP-Block
@@ -2189,12 +2218,14 @@ add address=193.118.64.0/19 list=JP-Block
 add address=193.119.128.0/17 list=JP-Block
 add address=194.50.154.0/24 list=JP-Block
 add address=194.91.0.0/16 list=JP-Block
+add address=194.116.227.0/24 list=JP-Block
 add address=194.193.64.0/18 list=JP-Block
 add address=194.193.224.0/19 list=JP-Block
 add address=194.223.96.0/19 list=JP-Block
 add address=194.223.140.0/22 list=JP-Block
 add address=194.223.144.0/20 list=JP-Block
 add address=194.223.192.0/18 list=JP-Block
+add address=194.246.40.0/22 list=JP-Block
 add address=195.78.48.0/23 list=JP-Block
 add address=195.181.224.0/20 list=JP-Block
 add address=198.73.220.0/24 list=JP-Block

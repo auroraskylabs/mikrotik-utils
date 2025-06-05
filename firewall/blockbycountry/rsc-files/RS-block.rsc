@@ -63,7 +63,6 @@ add address=82.117.192.0/19 list=RS-Block
 add address=82.208.192.0/18 list=RS-Block
 add address=83.229.16.0/24 list=RS-Block
 add address=85.202.112.0/20 list=RS-Block
-add address=85.222.160.0/23 list=RS-Block
 add address=85.222.176.0/20 list=RS-Block
 add address=87.116.128.0/18 list=RS-Block
 add address=87.237.200.0/21 list=RS-Block
@@ -78,6 +77,7 @@ add address=89.46.126.0/23 list=RS-Block
 add address=89.47.40.0/23 list=RS-Block
 add address=89.110.192.0/18 list=RS-Block
 add address=89.147.80.0/20 list=RS-Block
+add address=89.207.192.0/21 list=RS-Block
 add address=89.216.0.0/16 list=RS-Block
 add address=91.102.168.0/21 list=RS-Block
 add address=91.102.224.0/21 list=RS-Block
@@ -199,7 +199,6 @@ add address=178.20.200.0/21 list=RS-Block
 add address=178.22.216.0/21 list=RS-Block
 add address=178.79.0.0/18 list=RS-Block
 add address=178.148.0.0/15 list=RS-Block
-add address=178.212.88.0/24 list=RS-Block
 add address=178.217.8.0/21 list=RS-Block
 add address=178.219.0.0/20 list=RS-Block
 add address=178.220.0.0/14 list=RS-Block
@@ -215,6 +214,7 @@ add address=185.10.204.0/22 list=RS-Block
 add address=185.13.8.0/22 list=RS-Block
 add address=185.17.188.0/22 list=RS-Block
 add address=185.18.12.0/22 list=RS-Block
+add address=185.20.36.0/22 list=RS-Block
 add address=185.22.88.0/22 list=RS-Block
 add address=185.22.144.0/22 list=RS-Block
 add address=185.24.32.0/22 list=RS-Block

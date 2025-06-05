@@ -271,7 +271,6 @@ add address=103.87.116.0/22 list=KR-Block
 add address=103.90.209.0/24 list=KR-Block
 add address=103.90.244.0/22 list=KR-Block
 add address=103.104.86.0/24 list=KR-Block
-add address=103.104.176.0/24 list=KR-Block
 add address=103.105.156.0/22 list=KR-Block
 add address=103.105.160.0/22 list=KR-Block
 add address=103.106.140.0/22 list=KR-Block
@@ -369,7 +368,6 @@ add address=103.241.76.0/22 list=KR-Block
 add address=103.241.116.0/22 list=KR-Block
 add address=103.243.20.0/22 list=KR-Block
 add address=103.243.200.0/22 list=KR-Block
-add address=103.244.40.0/22 list=KR-Block
 add address=103.244.108.0/22 list=KR-Block
 add address=103.246.56.0/22 list=KR-Block
 add address=103.246.172.0/22 list=KR-Block
@@ -727,14 +725,18 @@ add address=160.250.152.0/22 list=KR-Block
 add address=161.122.0.0/16 list=KR-Block
 add address=162.222.172.0/22 list=KR-Block
 add address=163.53.156.0/22 list=KR-Block
+add address=163.61.222.0/23 list=KR-Block
 add address=163.152.0.0/16 list=KR-Block
 add address=163.180.0.0/16 list=KR-Block
 add address=163.213.0.0/16 list=KR-Block
 add address=163.222.0.0/16 list=KR-Block
+add address=163.223.94.0/23 list=KR-Block
+add address=163.223.162.0/23 list=KR-Block
 add address=163.229.0.0/16 list=KR-Block
 add address=163.239.0.0/16 list=KR-Block
 add address=163.255.0.0/16 list=KR-Block
 add address=164.124.0.0/15 list=KR-Block
+add address=165.99.76.0/23 list=KR-Block
 add address=165.132.0.0/15 list=KR-Block
 add address=165.141.0.0/16 list=KR-Block
 add address=165.186.0.0/16 list=KR-Block
@@ -792,7 +794,6 @@ add address=180.224.0.0/13 list=KR-Block
 add address=180.233.192.0/18 list=KR-Block
 add address=180.236.0.0/14 list=KR-Block
 add address=182.31.0.0/16 list=KR-Block
-add address=182.50.16.0/20 list=KR-Block
 add address=182.50.32.0/19 list=KR-Block
 add address=182.161.96.0/19 list=KR-Block
 add address=182.161.128.0/17 list=KR-Block

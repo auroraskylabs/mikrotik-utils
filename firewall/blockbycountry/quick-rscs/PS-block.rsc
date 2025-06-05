@@ -63,6 +63,7 @@ add address=59.152.88.0/21 list=PS-Block
 add address=62.16.64.0/20 list=PS-Block
 add address=66.9.0.0/19 list=PS-Block
 add address=77.91.128.0/18 list=PS-Block
+add address=77.95.223.0/24 list=PS-Block
 add address=78.143.224.0/20 list=PS-Block
 add address=82.102.192.0/18 list=PS-Block
 add address=82.163.52.0/22 list=PS-Block

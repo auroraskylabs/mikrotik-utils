@@ -92,7 +92,7 @@ add address=62.182.56.0/21 list=BE-Block
 add address=62.197.64.0/18 list=BE-Block
 add address=62.205.64.0/18 list=BE-Block
 add address=62.213.192.0/18 list=BE-Block
-add address=62.233.0.0/19 list=BE-Block
+add address=62.233.0.0/20 list=BE-Block
 add address=62.235.0.0/16 list=BE-Block
 add address=77.72.232.0/21 list=BE-Block
 add address=77.73.96.0/21 list=BE-Block
@@ -165,6 +165,7 @@ add address=85.209.32.0/22 list=BE-Block
 add address=85.234.192.0/19 list=BE-Block
 add address=85.255.192.0/20 list=BE-Block
 add address=86.39.0.0/16 list=BE-Block
+add address=86.54.46.0/23 list=BE-Block
 add address=86.107.120.0/21 list=BE-Block
 add address=87.64.0.0/14 list=BE-Block
 add address=87.236.33.0/24 list=BE-Block
@@ -199,6 +200,7 @@ add address=91.198.26.0/24 list=BE-Block
 add address=91.198.203.0/24 list=BE-Block
 add address=91.198.243.0/24 list=BE-Block
 add address=91.199.15.0/24 list=BE-Block
+add address=91.199.110.0/24 list=BE-Block
 add address=91.202.32.0/22 list=BE-Block
 add address=91.206.84.0/23 list=BE-Block
 add address=91.206.250.0/23 list=BE-Block
@@ -224,6 +226,7 @@ add address=91.220.154.0/24 list=BE-Block
 add address=91.220.191.0/24 list=BE-Block
 add address=91.223.21.0/24 list=BE-Block
 add address=91.223.195.0/24 list=BE-Block
+add address=91.224.186.0/24 list=BE-Block
 add address=91.227.209.0/24 list=BE-Block
 add address=91.230.64.0/24 list=BE-Block
 add address=91.230.170.0/23 list=BE-Block
@@ -236,6 +239,7 @@ add address=91.234.203.0/24 list=BE-Block
 add address=91.234.230.0/23 list=BE-Block
 add address=91.236.244.0/23 list=BE-Block
 add address=91.238.219.0/24 list=BE-Block
+add address=91.238.237.0/24 list=BE-Block
 add address=91.239.219.0/24 list=BE-Block
 add address=91.241.28.0/24 list=BE-Block
 add address=91.241.30.0/24 list=BE-Block
@@ -252,6 +256,7 @@ add address=93.94.104.0/21 list=BE-Block
 add address=93.95.48.0/21 list=BE-Block
 add address=93.115.9.0/24 list=BE-Block
 add address=93.115.168.0/23 list=BE-Block
+add address=93.190.122.0/24 list=BE-Block
 add address=94.72.64.0/19 list=BE-Block
 add address=94.100.112.0/20 list=BE-Block
 add address=94.102.160.0/20 list=BE-Block
@@ -268,12 +273,14 @@ add address=94.158.248.0/22 list=BE-Block
 add address=94.176.98.0/23 list=BE-Block
 add address=94.198.160.0/21 list=BE-Block
 add address=94.224.0.0/14 list=BE-Block
+add address=95.36.80.0/20 list=BE-Block
 add address=95.128.96.0/21 list=BE-Block
 add address=95.130.40.0/21 list=BE-Block
 add address=95.171.160.0/19 list=BE-Block
 add address=95.182.128.0/17 list=BE-Block
 add address=95.214.28.0/22 list=BE-Block
 add address=95.214.140.0/22 list=BE-Block
+add address=103.13.218.0/24 list=BE-Block
 add address=109.68.0.0/21 list=BE-Block
 add address=109.68.160.0/21 list=BE-Block
 add address=109.69.216.0/21 list=BE-Block
@@ -304,7 +311,6 @@ add address=143.169.0.0/16 list=BE-Block
 add address=144.248.0.0/16 list=BE-Block
 add address=145.60.0.0/16 list=BE-Block
 add address=146.19.11.0/24 list=BE-Block
-add address=146.103.96.0/19 list=BE-Block
 add address=146.103.128.0/17 list=BE-Block
 add address=146.175.0.0/16 list=BE-Block
 add address=146.185.48.0/21 list=BE-Block
@@ -363,7 +369,6 @@ add address=185.3.216.0/22 list=BE-Block
 add address=185.15.138.0/24 list=BE-Block
 add address=185.16.240.0/22 list=BE-Block
 add address=185.18.8.0/22 list=BE-Block
-add address=185.18.104.0/22 list=BE-Block
 add address=185.18.148.0/23 list=BE-Block
 add address=185.18.150.0/24 list=BE-Block
 add address=185.19.180.0/22 list=BE-Block
@@ -373,6 +378,7 @@ add address=185.26.208.0/22 list=BE-Block
 add address=185.26.244.0/22 list=BE-Block
 add address=185.29.4.0/22 list=BE-Block
 add address=185.29.108.0/22 list=BE-Block
+add address=185.29.132.0/24 list=BE-Block
 add address=185.30.52.0/22 list=BE-Block
 add address=185.30.252.0/22 list=BE-Block
 add address=185.32.168.0/22 list=BE-Block
@@ -409,7 +415,6 @@ add address=185.59.196.0/22 list=BE-Block
 add address=185.61.72.0/22 list=BE-Block
 add address=185.64.64.0/22 list=BE-Block
 add address=185.64.164.0/22 list=BE-Block
-add address=185.64.180.0/22 list=BE-Block
 add address=185.65.72.0/22 list=BE-Block
 add address=185.65.180.0/22 list=BE-Block
 add address=185.69.164.0/22 list=BE-Block
@@ -458,6 +463,7 @@ add address=185.126.48.0/22 list=BE-Block
 add address=185.130.40.0/22 list=BE-Block
 add address=185.130.148.0/22 list=BE-Block
 add address=185.134.24.0/22 list=BE-Block
+add address=185.134.105.0/24 list=BE-Block
 add address=185.135.12.0/22 list=BE-Block
 add address=185.135.191.0/24 list=BE-Block
 add address=185.136.208.0/22 list=BE-Block
@@ -507,7 +513,6 @@ add address=185.180.76.0/22 list=BE-Block
 add address=185.182.132.0/22 list=BE-Block
 add address=185.183.116.0/22 list=BE-Block
 add address=185.185.228.0/22 list=BE-Block
-add address=185.186.148.0/22 list=BE-Block
 add address=185.186.212.0/22 list=BE-Block
 add address=185.187.100.0/22 list=BE-Block
 add address=185.190.84.0/22 list=BE-Block
@@ -593,6 +598,7 @@ add address=192.156.227.0/24 list=BE-Block
 add address=192.159.90.0/24 list=BE-Block
 add address=192.161.64.0/23 list=BE-Block
 add address=193.5.145.0/24 list=BE-Block
+add address=193.5.149.0/24 list=BE-Block
 add address=193.9.8.0/22 list=BE-Block
 add address=193.23.115.0/24 list=BE-Block
 add address=193.24.116.0/24 list=BE-Block
@@ -606,6 +612,8 @@ add address=193.32.59.0/24 list=BE-Block
 add address=193.33.182.0/23 list=BE-Block
 add address=193.34.88.0/22 list=BE-Block
 add address=193.35.84.0/22 list=BE-Block
+add address=193.35.211.0/24 list=BE-Block
+add address=193.36.94.0/24 list=BE-Block
 add address=193.39.114.0/24 list=BE-Block
 add address=193.41.16.0/21 list=BE-Block
 add address=193.41.42.0/24 list=BE-Block
@@ -665,7 +673,6 @@ add address=193.58.224.0/21 list=BE-Block
 add address=193.74.0.0/16 list=BE-Block
 add address=193.75.128.0/17 list=BE-Block
 add address=193.84.24.0/24 list=BE-Block
-add address=193.84.84.0/24 list=BE-Block
 add address=193.84.110.0/24 list=BE-Block
 add address=193.91.96.0/19 list=BE-Block
 add address=193.93.112.0/22 list=BE-Block
@@ -725,6 +732,7 @@ add address=193.221.224.0/19 list=BE-Block
 add address=193.239.210.0/23 list=BE-Block
 add address=193.242.101.0/24 list=BE-Block
 add address=193.243.136.0/23 list=BE-Block
+add address=193.243.148.0/24 list=BE-Block
 add address=193.244.0.0/15 list=BE-Block
 add address=194.0.6.0/23 list=BE-Block
 add address=194.0.37.0/24 list=BE-Block
@@ -787,6 +795,7 @@ add address=195.14.31.0/24 list=BE-Block
 add address=195.16.0.0/19 list=BE-Block
 add address=195.18.24.0/24 list=BE-Block
 add address=195.22.138.0/23 list=BE-Block
+add address=195.22.146.0/24 list=BE-Block
 add address=195.26.2.0/23 list=BE-Block
 add address=195.28.164.0/23 list=BE-Block
 add address=195.28.174.0/23 list=BE-Block

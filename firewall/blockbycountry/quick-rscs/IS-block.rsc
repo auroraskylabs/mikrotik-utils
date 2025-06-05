@@ -53,6 +53,7 @@ add address=130.208.0.0/16 list=IS-Block
 add address=141.138.152.0/21 list=IS-Block
 add address=147.28.16.0/20 list=IS-Block
 add address=149.126.80.0/21 list=IS-Block
+add address=153.92.128.0/19 list=IS-Block
 add address=157.97.0.0/19 list=IS-Block
 add address=157.157.0.0/16 list=IS-Block
 add address=160.20.214.0/23 list=IS-Block
@@ -107,6 +108,7 @@ add address=185.179.76.0/22 list=IS-Block
 add address=185.179.108.0/22 list=IS-Block
 add address=185.191.232.0/22 list=IS-Block
 add address=185.198.144.0/22 list=IS-Block
+add address=185.208.202.0/24 list=IS-Block
 add address=185.219.148.0/22 list=IS-Block
 add address=185.221.176.0/22 list=IS-Block
 add address=185.221.232.0/22 list=IS-Block

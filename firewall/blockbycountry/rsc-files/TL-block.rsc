@@ -26,6 +26,7 @@ add address=103.238.116.0/22 list=TL-Block
 add address=150.242.108.0/22 list=TL-Block
 add address=160.22.52.0/23 list=TL-Block
 add address=160.30.30.0/23 list=TL-Block
+add address=163.223.148.0/23 list=TL-Block
 add address=180.189.160.0/20 list=TL-Block
 add address=185.126.46.0/23 list=TL-Block
 add address=185.242.38.0/23 list=TL-Block

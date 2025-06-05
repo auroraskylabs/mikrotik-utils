@@ -5,6 +5,7 @@ add address=63.143.64.0/18 list=JM-Block
 add address=64.112.16.0/22 list=JM-Block
 add address=65.183.0.0/20 list=JM-Block
 add address=66.54.112.0/20 list=JM-Block
+add address=66.71.196.0/23 list=JM-Block
 add address=66.212.52.0/22 list=JM-Block
 add address=66.249.144.0/20 list=JM-Block
 add address=67.213.144.0/20 list=JM-Block

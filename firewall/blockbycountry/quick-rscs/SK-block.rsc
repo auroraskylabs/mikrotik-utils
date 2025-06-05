@@ -86,7 +86,6 @@ add address=91.148.0.0/18 list=SK-Block
 add address=91.191.64.0/18 list=SK-Block
 add address=91.196.196.0/22 list=SK-Block
 add address=91.199.31.0/24 list=SK-Block
-add address=91.199.124.0/24 list=SK-Block
 add address=91.201.28.0/22 list=SK-Block
 add address=91.208.41.0/24 list=SK-Block
 add address=91.209.33.0/24 list=SK-Block
@@ -205,7 +204,6 @@ add address=185.30.120.0/22 list=SK-Block
 add address=185.37.240.0/22 list=SK-Block
 add address=185.42.4.0/22 list=SK-Block
 add address=185.43.112.0/22 list=SK-Block
-add address=185.48.4.0/22 list=SK-Block
 add address=185.48.248.0/22 list=SK-Block
 add address=185.50.212.0/22 list=SK-Block
 add address=185.54.140.0/22 list=SK-Block
@@ -233,10 +231,10 @@ add address=185.110.140.0/22 list=SK-Block
 add address=185.110.144.0/22 list=SK-Block
 add address=185.113.44.0/22 list=SK-Block
 add address=185.121.64.0/22 list=SK-Block
+add address=185.121.240.0/22 list=SK-Block
 add address=185.122.52.0/22 list=SK-Block
 add address=185.130.220.0/22 list=SK-Block
 add address=185.133.60.0/22 list=SK-Block
-add address=185.134.188.0/22 list=SK-Block
 add address=185.134.212.0/22 list=SK-Block
 add address=185.139.224.0/22 list=SK-Block
 add address=185.140.28.0/22 list=SK-Block
@@ -267,6 +265,7 @@ add address=185.188.188.0/22 list=SK-Block
 add address=185.188.236.0/22 list=SK-Block
 add address=185.196.68.0/22 list=SK-Block
 add address=185.201.236.0/22 list=SK-Block
+add address=185.208.201.0/24 list=SK-Block
 add address=185.211.36.0/22 list=SK-Block
 add address=185.213.144.0/22 list=SK-Block
 add address=185.214.192.0/22 list=SK-Block
@@ -310,7 +309,6 @@ add address=193.8.92.0/23 list=SK-Block
 add address=193.9.28.0/24 list=SK-Block
 add address=193.26.134.0/24 list=SK-Block
 add address=193.28.8.0/24 list=SK-Block
-add address=193.39.251.0/24 list=SK-Block
 add address=193.42.32.0/23 list=SK-Block
 add address=193.57.212.0/22 list=SK-Block
 add address=193.58.192.0/22 list=SK-Block
@@ -342,13 +340,6 @@ add address=194.1.216.0/24 list=SK-Block
 add address=194.1.222.0/23 list=SK-Block
 add address=194.1.224.0/21 list=SK-Block
 add address=194.33.109.0/24 list=SK-Block
-add address=194.35.64.0/21 list=SK-Block
-add address=194.35.72.0/24 list=SK-Block
-add address=194.61.95.0/24 list=SK-Block
-add address=194.62.100.0/23 list=SK-Block
-add address=194.62.204.0/22 list=SK-Block
-add address=194.62.208.0/22 list=SK-Block
-add address=194.62.212.0/23 list=SK-Block
 add address=194.88.194.0/23 list=SK-Block
 add address=194.88.218.0/23 list=SK-Block
 add address=194.99.28.0/22 list=SK-Block
@@ -365,7 +356,6 @@ add address=194.213.109.0/24 list=SK-Block
 add address=195.3.168.0/22 list=SK-Block
 add address=195.5.110.0/24 list=SK-Block
 add address=195.12.128.0/19 list=SK-Block
-add address=195.20.160.0/19 list=SK-Block
 add address=195.28.64.0/18 list=SK-Block
 add address=195.28.128.0/19 list=SK-Block
 add address=195.46.64.0/19 list=SK-Block
@@ -400,7 +390,6 @@ add address=212.55.224.0/19 list=SK-Block
 add address=212.57.32.0/21 list=SK-Block
 add address=212.81.0.0/19 list=SK-Block
 add address=212.89.224.0/19 list=SK-Block
-add address=212.197.0.0/17 list=SK-Block
 add address=212.232.16.0/23 list=SK-Block
 add address=213.81.128.0/17 list=SK-Block
 add address=213.108.120.0/21 list=SK-Block

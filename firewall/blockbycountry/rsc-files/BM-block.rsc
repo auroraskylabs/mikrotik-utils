@@ -2,7 +2,6 @@
 /ip firewall address-list
 add address=31.47.88.0/21 list=BM-Block
 add address=45.42.144.0/22 list=BM-Block
-add address=64.37.32.0/20 list=BM-Block
 add address=64.89.168.0/22 list=BM-Block
 add address=64.147.80.0/20 list=BM-Block
 add address=66.55.112.0/20 list=BM-Block

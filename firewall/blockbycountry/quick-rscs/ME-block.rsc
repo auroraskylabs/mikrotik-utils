@@ -16,11 +16,9 @@ add address=81.28.248.0/22 list=ME-Block
 add address=84.54.45.0/24 list=ME-Block
 add address=85.94.96.0/19 list=ME-Block
 add address=89.188.32.0/19 list=ME-Block
-add address=89.207.192.0/21 list=ME-Block
 add address=91.217.138.0/24 list=ME-Block
 add address=91.220.187.0/24 list=ME-Block
 add address=92.42.96.0/24 list=ME-Block
-add address=93.95.29.0/24 list=ME-Block
 add address=94.102.224.0/20 list=ME-Block
 add address=94.141.120.0/22 list=ME-Block
 add address=95.155.0.0/18 list=ME-Block

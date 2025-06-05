@@ -7,6 +7,7 @@ add address=5.157.72.0/21 list=SI-Block
 add address=5.249.176.0/20 list=SI-Block
 add address=31.7.192.0/19 list=SI-Block
 add address=31.15.128.0/17 list=SI-Block
+add address=31.43.162.0/24 list=SI-Block
 add address=31.185.0.0/21 list=SI-Block
 add address=37.18.224.0/20 list=SI-Block
 add address=37.19.64.0/21 list=SI-Block
@@ -34,6 +35,7 @@ add address=46.248.64.0/19 list=SI-Block
 add address=46.254.56.0/21 list=SI-Block
 add address=46.254.144.0/21 list=SI-Block
 add address=62.84.224.0/20 list=SI-Block
+add address=67.221.248.0/23 list=SI-Block
 add address=77.38.0.0/17 list=SI-Block
 add address=77.73.104.0/22 list=SI-Block
 add address=77.94.128.0/19 list=SI-Block
@@ -60,6 +62,7 @@ add address=85.10.0.0/19 list=SI-Block
 add address=85.10.32.0/20 list=SI-Block
 add address=85.204.38.0/24 list=SI-Block
 add address=85.208.172.0/22 list=SI-Block
+add address=86.54.86.0/24 list=SI-Block
 add address=86.58.0.0/17 list=SI-Block
 add address=86.61.0.0/17 list=SI-Block
 add address=87.119.128.0/19 list=SI-Block
@@ -81,6 +84,7 @@ add address=91.198.190.0/24 list=SI-Block
 add address=91.198.214.0/24 list=SI-Block
 add address=91.199.23.0/24 list=SI-Block
 add address=91.199.61.0/24 list=SI-Block
+add address=91.199.124.0/24 list=SI-Block
 add address=91.199.131.0/24 list=SI-Block
 add address=91.199.142.0/24 list=SI-Block
 add address=91.199.161.0/24 list=SI-Block
@@ -489,6 +493,7 @@ add address=195.250.58.0/24 list=SI-Block
 add address=195.250.192.0/19 list=SI-Block
 add address=202.92.212.0/24 list=SI-Block
 add address=203.19.252.0/24 list=SI-Block
+add address=206.245.160.0/22 list=SI-Block
 add address=209.16.140.0/22 list=SI-Block
 add address=209.16.152.0/22 list=SI-Block
 add address=212.13.224.0/19 list=SI-Block

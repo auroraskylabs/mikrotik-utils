@@ -1,6 +1,5 @@
 /ip firewall address-list remove [find list="CZ-Block"]
 /ip firewall address-list
-add address=2.58.204.0/22 list=CZ-Block
 add address=2.59.220.0/22 list=CZ-Block
 add address=5.1.56.0/21 list=CZ-Block
 add address=5.39.200.0/22 list=CZ-Block
@@ -161,7 +160,7 @@ add address=46.173.192.0/20 list=CZ-Block
 add address=46.174.16.0/21 list=CZ-Block
 add address=46.174.32.0/21 list=CZ-Block
 add address=46.174.56.0/21 list=CZ-Block
-add address=46.174.140.0/22 list=CZ-Block
+add address=46.174.140.0/23 list=CZ-Block
 add address=46.174.152.0/21 list=CZ-Block
 add address=46.175.88.0/21 list=CZ-Block
 add address=46.175.176.0/21 list=CZ-Block
@@ -345,7 +344,6 @@ add address=85.118.128.0/21 list=CZ-Block
 add address=85.119.88.0/21 list=CZ-Block
 add address=85.132.128.0/18 list=CZ-Block
 add address=85.135.0.0/17 list=CZ-Block
-add address=85.158.184.0/21 list=CZ-Block
 add address=85.160.0.0/14 list=CZ-Block
 add address=85.184.16.0/20 list=CZ-Block
 add address=85.193.0.0/18 list=CZ-Block
@@ -359,6 +357,8 @@ add address=85.239.251.0/24 list=CZ-Block
 add address=85.239.252.0/22 list=CZ-Block
 add address=85.255.88.0/22 list=CZ-Block
 add address=86.49.0.0/16 list=CZ-Block
+add address=86.54.11.0/24 list=CZ-Block
+add address=86.54.105.0/24 list=CZ-Block
 add address=86.61.128.0/17 list=CZ-Block
 add address=86.63.192.0/19 list=CZ-Block
 add address=86.111.213.0/24 list=CZ-Block
@@ -421,6 +421,7 @@ add address=91.193.132.0/22 list=CZ-Block
 add address=91.195.106.0/23 list=CZ-Block
 add address=91.195.202.0/23 list=CZ-Block
 add address=91.196.40.0/22 list=CZ-Block
+add address=91.197.44.0/23 list=CZ-Block
 add address=91.197.112.0/21 list=CZ-Block
 add address=91.198.87.0/24 list=CZ-Block
 add address=91.199.164.0/24 list=CZ-Block
@@ -466,6 +467,7 @@ add address=91.223.74.0/24 list=CZ-Block
 add address=91.224.48.0/23 list=CZ-Block
 add address=91.224.58.0/23 list=CZ-Block
 add address=91.224.64.0/23 list=CZ-Block
+add address=91.224.74.0/23 list=CZ-Block
 add address=91.224.90.0/23 list=CZ-Block
 add address=91.224.100.0/23 list=CZ-Block
 add address=91.225.84.0/22 list=CZ-Block
@@ -582,6 +584,7 @@ add address=95.173.208.0/21 list=CZ-Block
 add address=95.182.64.0/18 list=CZ-Block
 add address=95.215.8.0/24 list=CZ-Block
 add address=95.215.80.0/22 list=CZ-Block
+add address=96.9.126.0/24 list=CZ-Block
 add address=104.254.80.0/21 list=CZ-Block
 add address=109.69.208.0/21 list=CZ-Block
 add address=109.71.208.0/21 list=CZ-Block
@@ -643,6 +646,7 @@ add address=151.249.104.0/21 list=CZ-Block
 add address=151.249.128.0/17 list=CZ-Block
 add address=152.89.72.0/22 list=CZ-Block
 add address=152.89.168.0/23 list=CZ-Block
+add address=152.114.200.0/23 list=CZ-Block
 add address=156.137.0.0/16 list=CZ-Block
 add address=158.194.0.0/16 list=CZ-Block
 add address=158.196.0.0/16 list=CZ-Block
@@ -775,6 +779,7 @@ add address=185.40.80.0/22 list=CZ-Block
 add address=185.42.228.0/22 list=CZ-Block
 add address=185.43.132.0/22 list=CZ-Block
 add address=185.44.188.0/22 list=CZ-Block
+add address=185.45.104.0/22 list=CZ-Block
 add address=185.45.124.0/22 list=CZ-Block
 add address=185.45.136.0/22 list=CZ-Block
 add address=185.45.200.0/22 list=CZ-Block
@@ -825,7 +830,7 @@ add address=185.70.24.0/22 list=CZ-Block
 add address=185.70.216.0/22 list=CZ-Block
 add address=185.71.40.0/22 list=CZ-Block
 add address=185.71.232.0/22 list=CZ-Block
-add address=185.72.8.0/22 list=CZ-Block
+add address=185.72.10.0/23 list=CZ-Block
 add address=185.73.100.0/22 list=CZ-Block
 add address=185.73.104.0/21 list=CZ-Block
 add address=185.73.160.0/22 list=CZ-Block
@@ -857,7 +862,6 @@ add address=185.89.116.0/22 list=CZ-Block
 add address=185.91.164.0/22 list=CZ-Block
 add address=185.91.168.0/22 list=CZ-Block
 add address=185.91.204.0/22 list=CZ-Block
-add address=185.92.216.0/22 list=CZ-Block
 add address=185.93.0.0/22 list=CZ-Block
 add address=185.93.60.0/22 list=CZ-Block
 add address=185.94.4.0/22 list=CZ-Block
@@ -1032,7 +1036,6 @@ add address=185.190.112.0/22 list=CZ-Block
 add address=185.191.184.0/22 list=CZ-Block
 add address=185.192.120.0/22 list=CZ-Block
 add address=185.193.84.0/22 list=CZ-Block
-add address=185.193.100.0/22 list=CZ-Block
 add address=185.193.128.0/22 list=CZ-Block
 add address=185.193.243.0/24 list=CZ-Block
 add address=185.194.12.0/24 list=CZ-Block
@@ -1052,7 +1055,6 @@ add address=185.204.16.0/22 list=CZ-Block
 add address=185.205.136.0/22 list=CZ-Block
 add address=185.206.255.0/24 list=CZ-Block
 add address=185.207.168.0/22 list=CZ-Block
-add address=185.210.164.0/22 list=CZ-Block
 add address=185.211.108.0/22 list=CZ-Block
 add address=185.211.188.0/22 list=CZ-Block
 add address=185.211.192.0/22 list=CZ-Block
@@ -1242,17 +1244,14 @@ add address=193.124.24.0/24 list=CZ-Block
 add address=193.124.30.0/24 list=CZ-Block
 add address=193.124.33.0/24 list=CZ-Block
 add address=193.124.34.0/23 list=CZ-Block
-add address=193.124.36.0/24 list=CZ-Block
 add address=193.124.40.0/23 list=CZ-Block
 add address=193.124.42.0/24 list=CZ-Block
 add address=193.124.44.0/22 list=CZ-Block
-add address=193.124.49.0/24 list=CZ-Block
 add address=193.124.50.0/24 list=CZ-Block
 add address=193.124.55.0/24 list=CZ-Block
 add address=193.124.56.0/22 list=CZ-Block
 add address=193.124.60.0/24 list=CZ-Block
 add address=193.124.64.0/22 list=CZ-Block
-add address=193.124.80.0/24 list=CZ-Block
 add address=193.124.88.0/21 list=CZ-Block
 add address=193.124.112.0/22 list=CZ-Block
 add address=193.124.117.0/24 list=CZ-Block
@@ -1263,7 +1262,7 @@ add address=193.124.128.0/22 list=CZ-Block
 add address=193.124.133.0/24 list=CZ-Block
 add address=193.124.158.0/23 list=CZ-Block
 add address=193.124.200.0/21 list=CZ-Block
-add address=193.124.224.0/22 list=CZ-Block
+add address=193.124.226.0/23 list=CZ-Block
 add address=193.124.254.0/24 list=CZ-Block
 add address=193.138.78.0/24 list=CZ-Block
 add address=193.138.106.0/24 list=CZ-Block
@@ -1337,10 +1336,9 @@ add address=194.55.182.0/24 list=CZ-Block
 add address=194.55.255.0/24 list=CZ-Block
 add address=194.56.230.0/24 list=CZ-Block
 add address=194.58.31.0/24 list=CZ-Block
-add address=194.58.32.0/23 list=CZ-Block
-add address=194.58.34.0/24 list=CZ-Block
+add address=194.58.32.0/24 list=CZ-Block
 add address=194.58.36.0/22 list=CZ-Block
-add address=194.58.40.0/21 list=CZ-Block
+add address=194.58.40.0/22 list=CZ-Block
 add address=194.58.56.0/22 list=CZ-Block
 add address=194.58.60.0/23 list=CZ-Block
 add address=194.58.66.0/23 list=CZ-Block
@@ -1357,7 +1355,6 @@ add address=194.63.152.0/22 list=CZ-Block
 add address=194.69.166.0/24 list=CZ-Block
 add address=194.76.247.0/24 list=CZ-Block
 add address=194.79.52.0/22 list=CZ-Block
-add address=194.85.248.0/22 list=CZ-Block
 add address=194.87.0.0/16 list=CZ-Block
 add address=194.93.12.0/22 list=CZ-Block
 add address=194.107.72.0/22 list=CZ-Block
@@ -1365,17 +1362,12 @@ add address=194.108.0.0/16 list=CZ-Block
 add address=194.135.1.0/24 list=CZ-Block
 add address=194.135.2.0/24 list=CZ-Block
 add address=194.135.16.0/23 list=CZ-Block
-add address=194.135.18.0/24 list=CZ-Block
 add address=194.135.20.0/24 list=CZ-Block
 add address=194.135.22.0/23 list=CZ-Block
 add address=194.135.24.0/23 list=CZ-Block
-add address=194.135.30.0/24 list=CZ-Block
 add address=194.135.32.0/21 list=CZ-Block
 add address=194.135.44.0/23 list=CZ-Block
-add address=194.135.46.0/24 list=CZ-Block
 add address=194.135.104.0/23 list=CZ-Block
-add address=194.135.119.0/24 list=CZ-Block
-add address=194.135.124.0/24 list=CZ-Block
 add address=194.145.156.0/24 list=CZ-Block
 add address=194.145.180.0/22 list=CZ-Block
 add address=194.147.12.0/22 list=CZ-Block
@@ -1393,10 +1385,12 @@ add address=194.165.47.0/24 list=CZ-Block
 add address=194.169.224.0/24 list=CZ-Block
 add address=194.169.252.0/24 list=CZ-Block
 add address=194.176.107.0/24 list=CZ-Block
+add address=194.180.8.0/24 list=CZ-Block
 add address=194.180.110.0/24 list=CZ-Block
 add address=194.180.115.0/24 list=CZ-Block
 add address=194.180.150.0/24 list=CZ-Block
 add address=194.180.154.0/24 list=CZ-Block
+add address=194.180.241.0/24 list=CZ-Block
 add address=194.212.0.0/16 list=CZ-Block
 add address=194.213.32.0/19 list=CZ-Block
 add address=194.213.192.0/18 list=CZ-Block
@@ -1428,7 +1422,8 @@ add address=195.128.192.0/19 list=CZ-Block
 add address=195.133.0.0/18 list=CZ-Block
 add address=195.133.64.0/19 list=CZ-Block
 add address=195.133.144.0/22 list=CZ-Block
-add address=195.133.192.0/21 list=CZ-Block
+add address=195.133.194.0/23 list=CZ-Block
+add address=195.133.196.0/22 list=CZ-Block
 add address=195.133.200.0/23 list=CZ-Block
 add address=195.137.182.0/24 list=CZ-Block
 add address=195.140.252.0/22 list=CZ-Block
@@ -1479,7 +1474,9 @@ add address=212.109.176.0/20 list=CZ-Block
 add address=212.111.0.0/19 list=CZ-Block
 add address=212.119.36.0/22 list=CZ-Block
 add address=212.158.128.0/19 list=CZ-Block
-add address=212.192.208.0/20 list=CZ-Block
+add address=212.192.210.0/23 list=CZ-Block
+add address=212.192.216.0/23 list=CZ-Block
+add address=212.192.220.0/22 list=CZ-Block
 add address=212.192.240.0/20 list=CZ-Block
 add address=212.193.0.0/19 list=CZ-Block
 add address=212.237.229.0/24 list=CZ-Block
@@ -1521,6 +1518,7 @@ add address=217.31.48.0/20 list=CZ-Block
 add address=217.31.192.0/20 list=CZ-Block
 add address=217.64.0.0/20 list=CZ-Block
 add address=217.64.152.0/22 list=CZ-Block
+add address=217.65.69.0/24 list=CZ-Block
 add address=217.66.160.0/19 list=CZ-Block
 add address=217.69.96.0/20 list=CZ-Block
 add address=217.75.208.0/20 list=CZ-Block

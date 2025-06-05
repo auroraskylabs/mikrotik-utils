@@ -10,7 +10,7 @@ add address=43.250.124.0/22 list=MN-Block
 add address=45.117.32.0/22 list=MN-Block
 add address=49.0.128.0/19 list=MN-Block
 add address=49.0.168.0/21 list=MN-Block
-add address=49.0.176.0/20 list=MN-Block
+add address=49.0.176.0/21 list=MN-Block
 add address=59.153.84.0/22 list=MN-Block
 add address=59.153.112.0/22 list=MN-Block
 add address=64.119.16.0/20 list=MN-Block
@@ -82,7 +82,8 @@ add address=119.40.96.0/21 list=MN-Block
 add address=121.101.176.0/21 list=MN-Block
 add address=122.201.16.0/20 list=MN-Block
 add address=124.158.104.0/21 list=MN-Block
-add address=124.158.116.0/22 list=MN-Block
+add address=124.158.116.0/23 list=MN-Block
+add address=124.158.119.0/24 list=MN-Block
 add address=124.158.120.0/21 list=MN-Block
 add address=139.5.216.0/22 list=MN-Block
 add address=157.10.38.0/23 list=MN-Block
@@ -90,6 +91,10 @@ add address=157.15.6.0/23 list=MN-Block
 add address=160.22.210.0/23 list=MN-Block
 add address=160.187.40.0/23 list=MN-Block
 add address=160.250.66.0/24 list=MN-Block
+add address=161.248.104.0/24 list=MN-Block
+add address=161.248.142.0/23 list=MN-Block
+add address=161.248.150.0/23 list=MN-Block
+add address=161.248.252.0/23 list=MN-Block
 add address=180.149.64.0/18 list=MN-Block
 add address=183.81.170.0/23 list=MN-Block
 add address=183.177.96.0/20 list=MN-Block
@@ -99,6 +104,7 @@ add address=192.82.100.0/24 list=MN-Block
 add address=202.5.192.0/20 list=MN-Block
 add address=202.9.40.0/21 list=MN-Block
 add address=202.21.96.0/19 list=MN-Block
+add address=202.37.109.0/24 list=MN-Block
 add address=202.37.235.0/24 list=MN-Block
 add address=202.55.176.0/20 list=MN-Block
 add address=202.70.32.0/20 list=MN-Block

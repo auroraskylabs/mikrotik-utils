@@ -5,6 +5,7 @@ add address=31.11.48.0/21 list=QA-Block
 add address=37.186.32.0/19 list=QA-Block
 add address=37.208.128.0/17 list=QA-Block
 add address=37.210.0.0/15 list=QA-Block
+add address=45.87.224.0/22 list=QA-Block
 add address=78.100.0.0/15 list=QA-Block
 add address=80.76.160.0/20 list=QA-Block
 add address=81.29.160.0/20 list=QA-Block
@@ -35,6 +36,9 @@ add address=185.154.168.0/22 list=QA-Block
 add address=185.239.92.0/22 list=QA-Block
 add address=185.247.88.0/22 list=QA-Block
 add address=194.6.255.0/24 list=QA-Block
+add address=194.42.47.64/26 list=QA-Block
+add address=194.50.77.0/24 list=QA-Block
+add address=194.93.123.0/26 list=QA-Block
 add address=212.70.96.0/19 list=QA-Block
 add address=212.77.192.0/19 list=QA-Block
 add address=213.130.96.0/19 list=QA-Block

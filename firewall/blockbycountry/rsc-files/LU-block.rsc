@@ -146,6 +146,7 @@ add address=85.94.224.0/19 list=LU-Block
 add address=85.204.246.0/24 list=LU-Block
 add address=85.208.4.0/22 list=LU-Block
 add address=85.209.232.0/22 list=LU-Block
+add address=85.234.64.0/19 list=LU-Block
 add address=86.105.169.0/24 list=LU-Block
 add address=86.106.169.0/24 list=LU-Block
 add address=87.120.106.0/24 list=LU-Block
@@ -311,6 +312,7 @@ add address=146.185.236.0/23 list=LU-Block
 add address=146.185.248.0/22 list=LU-Block
 add address=146.220.0.0/16 list=LU-Block
 add address=147.67.0.0/16 list=LU-Block
+add address=147.93.213.0/24 list=LU-Block
 add address=148.110.0.0/16 list=LU-Block
 add address=148.253.16.0/20 list=LU-Block
 add address=150.107.125.0/24 list=LU-Block

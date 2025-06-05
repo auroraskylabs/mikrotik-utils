@@ -11,6 +11,7 @@ add address=83.137.248.0/21 list=JE-Block
 add address=87.237.128.0/21 list=JE-Block
 add address=87.244.64.0/18 list=JE-Block
 add address=93.191.200.0/21 list=JE-Block
+add address=103.105.148.0/22 list=JE-Block
 add address=109.68.192.0/22 list=JE-Block
 add address=146.19.127.0/24 list=JE-Block
 add address=165.250.0.0/16 list=JE-Block
@@ -23,7 +24,6 @@ add address=185.87.8.0/22 list=JE-Block
 add address=185.113.12.0/22 list=JE-Block
 add address=185.122.244.0/22 list=JE-Block
 add address=185.158.120.0/22 list=JE-Block
-add address=185.179.89.0/24 list=JE-Block
 add address=185.179.101.0/24 list=JE-Block
 add address=185.206.12.0/22 list=JE-Block
 add address=185.235.244.0/24 list=JE-Block
@@ -35,6 +35,7 @@ add address=193.201.42.0/24 list=JE-Block
 add address=194.34.106.0/23 list=JE-Block
 add address=199.34.116.0/22 list=JE-Block
 add address=199.66.128.0/22 list=JE-Block
+add address=203.30.195.0/24 list=JE-Block
 add address=209.251.252.0/23 list=JE-Block
 add address=212.9.0.0/19 list=JE-Block
 add address=213.133.192.0/19 list=JE-Block

@@ -8,6 +8,7 @@ add address=41.223.48.0/22 list=GN-Block
 add address=41.242.88.0/22 list=GN-Block
 add address=45.220.52.0/22 list=GN-Block
 add address=102.176.160.0/20 list=GN-Block
+add address=102.206.72.0/22 list=GN-Block
 add address=102.208.222.0/24 list=GN-Block
 add address=102.208.241.0/24 list=GN-Block
 add address=102.209.204.0/22 list=GN-Block

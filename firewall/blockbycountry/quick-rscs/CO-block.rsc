@@ -154,6 +154,8 @@ add address=152.231.24.0/21 list=CO-Block
 add address=157.253.0.0/16 list=CO-Block
 add address=161.10.0.0/16 list=CO-Block
 add address=161.18.0.0/16 list=CO-Block
+add address=166.210.0.0/16 list=CO-Block
+add address=166.238.0.0/16 list=CO-Block
 add address=167.0.0.0/16 list=CO-Block
 add address=167.249.40.0/22 list=CO-Block
 add address=167.250.120.0/22 list=CO-Block
@@ -170,7 +172,6 @@ add address=168.228.124.0/22 list=CO-Block
 add address=168.232.32.0/22 list=CO-Block
 add address=170.0.8.0/22 list=CO-Block
 add address=170.78.40.0/22 list=CO-Block
-add address=170.78.56.0/22 list=CO-Block
 add address=170.78.185.0/24 list=CO-Block
 add address=170.79.88.0/22 list=CO-Block
 add address=170.80.8.0/22 list=CO-Block
@@ -281,6 +282,7 @@ add address=186.179.96.0/20 list=CO-Block
 add address=186.180.0.0/15 list=CO-Block
 add address=186.183.128.0/17 list=CO-Block
 add address=186.190.224.0/21 list=CO-Block
+add address=186.194.56.0/21 list=CO-Block
 add address=186.194.160.0/22 list=CO-Block
 add address=187.73.176.0/22 list=CO-Block
 add address=189.50.208.0/23 list=CO-Block
@@ -373,6 +375,7 @@ add address=192.140.124.0/23 list=CO-Block
 add address=192.144.112.0/22 list=CO-Block
 add address=198.49.128.0/22 list=CO-Block
 add address=198.51.71.0/24 list=CO-Block
+add address=198.228.90.0/24 list=CO-Block
 add address=200.0.0.0/21 list=CO-Block
 add address=200.0.187.0/24 list=CO-Block
 add address=200.0.201.0/24 list=CO-Block

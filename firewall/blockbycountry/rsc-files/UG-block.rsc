@@ -3,7 +3,6 @@
 add address=41.75.160.0/19 list=UG-Block
 add address=41.77.72.0/21 list=UG-Block
 add address=41.84.192.0/19 list=UG-Block
-add address=41.138.208.0/20 list=UG-Block
 add address=41.191.76.0/22 list=UG-Block
 add address=41.202.224.0/19 list=UG-Block
 add address=41.210.128.0/18 list=UG-Block
@@ -23,6 +22,7 @@ add address=102.80.0.0/13 list=UG-Block
 add address=102.134.140.0/22 list=UG-Block
 add address=102.134.144.0/21 list=UG-Block
 add address=102.164.120.0/24 list=UG-Block
+add address=102.206.128.0/22 list=UG-Block
 add address=102.207.108.0/22 list=UG-Block
 add address=102.207.221.0/24 list=UG-Block
 add address=102.208.68.0/22 list=UG-Block
@@ -70,7 +70,6 @@ add address=154.72.16.0/22 list=UG-Block
 add address=154.72.192.0/19 list=UG-Block
 add address=154.224.0.0/13 list=UG-Block
 add address=160.119.148.0/22 list=UG-Block
-add address=160.242.128.0/18 list=UG-Block
 add address=164.160.4.0/22 list=UG-Block
 add address=193.108.214.0/24 list=UG-Block
 add address=193.108.252.0/22 list=UG-Block

@@ -12,7 +12,10 @@ add address=102.38.0.0/19 list=LY-Block
 add address=102.68.128.0/21 list=LY-Block
 add address=102.69.0.0/17 list=LY-Block
 add address=102.164.96.0/21 list=LY-Block
+add address=102.206.104.0/22 list=LY-Block
+add address=102.206.252.0/22 list=LY-Block
 add address=102.207.52.0/22 list=LY-Block
+add address=102.207.56.0/22 list=LY-Block
 add address=102.207.132.0/22 list=LY-Block
 add address=102.208.48.0/22 list=LY-Block
 add address=102.208.56.0/22 list=LY-Block

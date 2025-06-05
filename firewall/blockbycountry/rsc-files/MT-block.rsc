@@ -1,6 +1,5 @@
 /ip firewall address-list remove [find list="MT-Block"]
 /ip firewall address-list
-add address=5.198.248.0/21 list=MT-Block
 add address=37.75.32.0/19 list=MT-Block
 add address=37.114.72.0/21 list=MT-Block
 add address=37.233.120.0/21 list=MT-Block
@@ -49,13 +48,11 @@ add address=103.136.216.0/23 list=MT-Block
 add address=103.227.168.0/23 list=MT-Block
 add address=109.200.32.0/19 list=MT-Block
 add address=141.8.0.0/17 list=MT-Block
-add address=141.138.208.0/21 list=MT-Block
 add address=147.189.192.0/20 list=MT-Block
 add address=159.20.24.0/21 list=MT-Block
 add address=176.99.32.0/20 list=MT-Block
 add address=185.5.48.0/22 list=MT-Block
 add address=185.9.100.0/22 list=MT-Block
-add address=185.13.40.0/22 list=MT-Block
 add address=185.25.168.0/22 list=MT-Block
 add address=185.27.56.0/22 list=MT-Block
 add address=185.36.236.0/22 list=MT-Block
@@ -95,7 +92,6 @@ add address=193.28.2.0/23 list=MT-Block
 add address=193.28.58.0/23 list=MT-Block
 add address=193.29.36.0/23 list=MT-Block
 add address=193.29.40.0/23 list=MT-Block
-add address=193.33.138.0/23 list=MT-Block
 add address=193.34.192.128/25 list=MT-Block
 add address=193.105.200.0/24 list=MT-Block
 add address=193.110.155.0/24 list=MT-Block

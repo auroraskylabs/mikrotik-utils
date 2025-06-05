@@ -11,6 +11,7 @@ add address=66.132.134.0/24 list=KG-Block
 add address=77.95.56.0/21 list=KG-Block
 add address=77.220.204.0/23 list=KG-Block
 add address=77.235.0.0/19 list=KG-Block
+add address=78.136.254.0/23 list=KG-Block
 add address=80.72.176.0/20 list=KG-Block
 add address=81.20.16.0/20 list=KG-Block
 add address=81.88.192.0/20 list=KG-Block
@@ -62,6 +63,7 @@ add address=185.211.228.0/22 list=KG-Block
 add address=185.229.36.0/22 list=KG-Block
 add address=188.244.124.0/24 list=KG-Block
 add address=193.34.225.0/24 list=KG-Block
+add address=193.36.95.0/24 list=KG-Block
 add address=193.106.48.0/22 list=KG-Block
 add address=193.151.226.0/24 list=KG-Block
 add address=193.176.239.0/24 list=KG-Block
@@ -73,6 +75,7 @@ add address=194.76.238.0/24 list=KG-Block
 add address=194.150.178.0/24 list=KG-Block
 add address=194.152.36.0/23 list=KG-Block
 add address=194.176.111.0/24 list=KG-Block
+add address=194.180.245.0/24 list=KG-Block
 add address=195.38.160.0/19 list=KG-Block
 add address=195.54.180.0/23 list=KG-Block
 add address=195.114.240.0/20 list=KG-Block
