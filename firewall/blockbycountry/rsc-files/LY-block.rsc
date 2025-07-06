@@ -57,7 +57,6 @@ add address=164.160.144.0/22 list=LY-Block
 add address=165.16.0.0/17 list=LY-Block
 add address=169.239.92.0/22 list=LY-Block
 add address=169.239.116.0/22 list=LY-Block
-add address=185.10.240.0/22 list=LY-Block
 add address=195.234.120.0/22 list=LY-Block
 add address=196.60.90.0/24 list=LY-Block
 add address=196.60.110.0/24 list=LY-Block

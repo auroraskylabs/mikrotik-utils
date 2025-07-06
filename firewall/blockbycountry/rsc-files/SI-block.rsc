@@ -84,7 +84,6 @@ add address=91.198.190.0/24 list=SI-Block
 add address=91.198.214.0/24 list=SI-Block
 add address=91.199.23.0/24 list=SI-Block
 add address=91.199.61.0/24 list=SI-Block
-add address=91.199.124.0/24 list=SI-Block
 add address=91.199.131.0/24 list=SI-Block
 add address=91.199.142.0/24 list=SI-Block
 add address=91.199.161.0/24 list=SI-Block
@@ -322,6 +321,7 @@ add address=192.109.196.0/24 list=SI-Block
 add address=192.109.203.0/24 list=SI-Block
 add address=192.109.208.0/24 list=SI-Block
 add address=192.160.15.0/24 list=SI-Block
+add address=192.207.46.0/24 list=SI-Block
 add address=193.0.244.0/24 list=SI-Block
 add address=193.2.0.0/16 list=SI-Block
 add address=193.3.59.0/24 list=SI-Block

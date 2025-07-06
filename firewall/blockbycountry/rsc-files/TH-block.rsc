@@ -79,6 +79,7 @@ add address=59.153.208.0/22 list=TH-Block
 add address=61.7.128.0/17 list=TH-Block
 add address=61.19.0.0/16 list=TH-Block
 add address=61.90.0.0/15 list=TH-Block
+add address=65.181.104.0/22 list=TH-Block
 add address=78.142.244.0/22 list=TH-Block
 add address=83.118.0.0/17 list=TH-Block
 add address=85.204.26.0/24 list=TH-Block
@@ -419,6 +420,8 @@ add address=163.61.114.0/23 list=TH-Block
 add address=163.61.250.0/24 list=TH-Block
 add address=163.223.214.0/23 list=TH-Block
 add address=164.115.0.0/16 list=TH-Block
+add address=165.101.64.0/23 list=TH-Block
+add address=165.101.97.0/24 list=TH-Block
 add address=167.94.112.0/23 list=TH-Block
 add address=167.179.224.0/19 list=TH-Block
 add address=168.120.0.0/16 list=TH-Block

@@ -4,6 +4,7 @@ add address=5.252.152.0/22 list=PA-Block
 add address=23.137.100.0/24 list=PA-Block
 add address=31.7.56.0/21 list=PA-Block
 add address=45.65.254.0/23 list=PA-Block
+add address=45.68.104.0/24 list=PA-Block
 add address=45.180.20.0/23 list=PA-Block
 add address=45.181.68.0/22 list=PA-Block
 add address=45.182.189.0/24 list=PA-Block
@@ -54,6 +55,7 @@ add address=170.231.236.0/22 list=PA-Block
 add address=170.246.220.0/22 list=PA-Block
 add address=170.247.152.0/22 list=PA-Block
 add address=170.254.48.0/22 list=PA-Block
+add address=177.21.154.0/23 list=PA-Block
 add address=179.0.194.0/23 list=PA-Block
 add address=179.0.200.0/23 list=PA-Block
 add address=179.43.128.0/18 list=PA-Block

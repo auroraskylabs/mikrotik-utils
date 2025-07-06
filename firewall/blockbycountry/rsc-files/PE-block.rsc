@@ -201,6 +201,7 @@ add address=200.110.32.0/20 list=PE-Block
 add address=200.115.20.0/22 list=PE-Block
 add address=200.121.0.0/16 list=PE-Block
 add address=200.123.0.0/19 list=PE-Block
+add address=200.123.62.0/24 list=PE-Block
 add address=200.123.228.0/22 list=PE-Block
 add address=200.126.52.0/22 list=PE-Block
 add address=200.126.56.0/21 list=PE-Block

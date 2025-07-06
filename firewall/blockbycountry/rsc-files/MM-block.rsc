@@ -77,6 +77,7 @@ add address=103.103.173.0/24 list=MM-Block
 add address=103.103.194.0/24 list=MM-Block
 add address=103.105.172.0/22 list=MM-Block
 add address=103.108.104.0/22 list=MM-Block
+add address=103.109.8.0/23 list=MM-Block
 add address=103.110.182.0/23 list=MM-Block
 add address=103.110.196.0/22 list=MM-Block
 add address=103.112.61.0/24 list=MM-Block
@@ -200,6 +201,9 @@ add address=160.30.212.0/23 list=MM-Block
 add address=161.248.234.0/23 list=MM-Block
 add address=163.227.60.0/23 list=MM-Block
 add address=163.227.90.0/23 list=MM-Block
+add address=165.101.48.0/24 list=MM-Block
+add address=165.101.68.0/23 list=MM-Block
+add address=165.101.128.0/23 list=MM-Block
 add address=180.235.116.0/22 list=MM-Block
 add address=182.255.52.0/22 list=MM-Block
 add address=185.133.212.0/22 list=MM-Block

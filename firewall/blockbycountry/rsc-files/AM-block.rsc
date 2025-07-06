@@ -45,7 +45,6 @@ add address=82.199.192.0/20 list=AM-Block
 add address=83.139.0.0/18 list=AM-Block
 add address=85.198.120.0/21 list=AM-Block
 add address=87.241.128.0/18 list=AM-Block
-add address=89.40.171.0/24 list=AM-Block
 add address=89.169.32.0/22 list=AM-Block
 add address=89.169.52.0/22 list=AM-Block
 add address=89.249.192.0/20 list=AM-Block
@@ -53,6 +52,7 @@ add address=91.103.24.0/21 list=AM-Block
 add address=91.103.56.0/21 list=AM-Block
 add address=91.103.248.0/22 list=AM-Block
 add address=91.108.187.0/24 list=AM-Block
+add address=91.193.43.0/24 list=AM-Block
 add address=91.195.110.0/23 list=AM-Block
 add address=91.195.254.0/23 list=AM-Block
 add address=91.196.36.0/22 list=AM-Block
@@ -84,7 +84,6 @@ add address=92.118.72.0/22 list=AM-Block
 add address=92.246.132.0/22 list=AM-Block
 add address=92.246.136.0/21 list=AM-Block
 add address=93.94.216.0/21 list=AM-Block
-add address=93.113.129.0/24 list=AM-Block
 add address=93.185.32.0/20 list=AM-Block
 add address=93.185.144.0/20 list=AM-Block
 add address=93.187.160.0/21 list=AM-Block
@@ -119,7 +118,7 @@ add address=185.59.68.0/22 list=AM-Block
 add address=185.77.192.0/22 list=AM-Block
 add address=185.78.144.0/22 list=AM-Block
 add address=185.79.0.0/22 list=AM-Block
-add address=185.84.67.0/24 list=AM-Block
+add address=185.80.91.0/24 list=AM-Block
 add address=185.86.192.0/22 list=AM-Block
 add address=185.92.84.0/22 list=AM-Block
 add address=185.121.236.0/22 list=AM-Block
@@ -128,10 +127,8 @@ add address=185.136.32.0/22 list=AM-Block
 add address=185.149.140.0/22 list=AM-Block
 add address=185.150.164.0/22 list=AM-Block
 add address=185.155.232.0/22 list=AM-Block
-add address=185.162.228.0/22 list=AM-Block
 add address=185.167.217.0/24 list=AM-Block
 add address=185.177.104.0/22 list=AM-Block
-add address=185.193.12.0/22 list=AM-Block
 add address=185.202.113.0/24 list=AM-Block
 add address=185.215.52.0/22 list=AM-Block
 add address=185.223.124.0/22 list=AM-Block
@@ -147,6 +144,7 @@ add address=193.57.28.0/22 list=AM-Block
 add address=193.104.56.0/24 list=AM-Block
 add address=193.104.198.0/24 list=AM-Block
 add address=193.142.19.0/24 list=AM-Block
+add address=193.163.170.0/24 list=AM-Block
 add address=193.228.137.0/24 list=AM-Block
 add address=194.1.152.0/24 list=AM-Block
 add address=194.11.239.0/24 list=AM-Block
@@ -155,9 +153,11 @@ add address=194.31.4.0/23 list=AM-Block
 add address=194.33.82.0/24 list=AM-Block
 add address=194.39.82.0/23 list=AM-Block
 add address=194.39.102.0/23 list=AM-Block
+add address=194.50.153.0/24 list=AM-Block
 add address=194.61.88.0/22 list=AM-Block
 add address=194.247.50.0/24 list=AM-Block
 add address=195.8.50.0/23 list=AM-Block
+add address=195.20.16.0/24 list=AM-Block
 add address=195.28.188.0/24 list=AM-Block
 add address=195.43.74.0/23 list=AM-Block
 add address=195.60.80.128/27 list=AM-Block

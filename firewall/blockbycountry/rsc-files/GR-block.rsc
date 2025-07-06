@@ -32,7 +32,6 @@ add address=46.12.0.0/16 list=GR-Block
 add address=46.20.96.0/20 list=GR-Block
 add address=46.103.0.0/16 list=GR-Block
 add address=46.176.0.0/15 list=GR-Block
-add address=46.183.16.0/21 list=GR-Block
 add address=46.190.0.0/17 list=GR-Block
 add address=46.198.128.0/17 list=GR-Block
 add address=46.226.192.0/21 list=GR-Block
@@ -227,9 +226,7 @@ add address=185.89.96.0/24 list=GR-Block
 add address=185.90.44.0/22 list=GR-Block
 add address=185.96.32.0/22 list=GR-Block
 add address=185.98.100.0/22 list=GR-Block
-add address=185.98.132.0/22 list=GR-Block
 add address=185.100.168.0/22 list=GR-Block
-add address=185.104.0.0/22 list=GR-Block
 add address=185.104.144.0/22 list=GR-Block
 add address=185.105.248.0/22 list=GR-Block
 add address=185.106.16.0/22 list=GR-Block
@@ -270,6 +267,7 @@ add address=185.226.64.0/22 list=GR-Block
 add address=185.229.132.0/24 list=GR-Block
 add address=185.232.240.0/22 list=GR-Block
 add address=185.236.140.0/24 list=GR-Block
+add address=185.237.216.0/23 list=GR-Block
 add address=185.243.2.0/24 list=GR-Block
 add address=185.246.164.0/22 list=GR-Block
 add address=185.247.160.0/22 list=GR-Block
@@ -371,6 +369,7 @@ add address=194.63.160.0/19 list=GR-Block
 add address=194.63.192.0/19 list=GR-Block
 add address=194.63.224.0/20 list=GR-Block
 add address=194.63.240.0/21 list=GR-Block
+add address=194.93.123.64/26 list=GR-Block
 add address=194.110.73.0/24 list=GR-Block
 add address=194.110.198.0/24 list=GR-Block
 add address=194.116.146.0/24 list=GR-Block
@@ -378,6 +377,7 @@ add address=194.125.252.0/23 list=GR-Block
 add address=194.126.255.0/24 list=GR-Block
 add address=194.153.81.0/24 list=GR-Block
 add address=194.153.82.0/24 list=GR-Block
+add address=194.153.116.0/24 list=GR-Block
 add address=194.154.32.0/19 list=GR-Block
 add address=194.169.232.0/24 list=GR-Block
 add address=194.176.113.0/24 list=GR-Block

@@ -119,7 +119,9 @@ add address=196.43.242.0/24 list=GH-Block
 add address=196.44.96.0/19 list=GH-Block
 add address=196.46.80.0/20 list=GH-Block
 add address=196.49.14.0/24 list=GH-Block
+add address=196.49.112.0/24 list=GH-Block
 add address=196.50.24.0/21 list=GH-Block
+add address=196.60.160.0/24 list=GH-Block
 add address=196.61.32.0/20 list=GH-Block
 add address=196.172.0.0/14 list=GH-Block
 add address=196.201.2.0/24 list=GH-Block

@@ -91,6 +91,7 @@ add address=185.250.252.0/22 list=MK-Block
 add address=185.252.188.0/22 list=MK-Block
 add address=188.44.0.0/19 list=MK-Block
 add address=193.36.90.0/24 list=MK-Block
+add address=194.26.97.0/24 list=MK-Block
 add address=194.61.58.0/24 list=MK-Block
 add address=194.61.136.0/22 list=MK-Block
 add address=194.149.128.0/19 list=MK-Block

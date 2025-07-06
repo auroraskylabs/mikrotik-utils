@@ -47,6 +47,7 @@ add address=94.128.0.0/15 list=KW-Block
 add address=94.187.160.0/19 list=KW-Block
 add address=94.187.192.0/18 list=KW-Block
 add address=95.66.0.0/17 list=KW-Block
+add address=109.71.188.0/23 list=KW-Block
 add address=139.141.0.0/16 list=KW-Block
 add address=149.147.0.0/16 list=KW-Block
 add address=161.252.0.0/16 list=KW-Block
@@ -78,7 +79,6 @@ add address=185.142.104.0/22 list=KW-Block
 add address=185.146.240.0/22 list=KW-Block
 add address=185.147.28.0/22 list=KW-Block
 add address=185.150.216.0/22 list=KW-Block
-add address=185.166.92.0/22 list=KW-Block
 add address=185.170.116.0/22 list=KW-Block
 add address=185.173.40.0/22 list=KW-Block
 add address=185.187.176.0/22 list=KW-Block

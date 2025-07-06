@@ -65,7 +65,6 @@ add address=188.66.128.0/17 list=OM-Block
 add address=188.135.0.0/17 list=OM-Block
 add address=188.140.128.0/17 list=OM-Block
 add address=193.3.37.0/24 list=OM-Block
-add address=193.56.120.0/22 list=OM-Block
 add address=193.203.254.0/24 list=OM-Block
 add address=194.26.102.0/24 list=OM-Block
 add address=195.245.85.0/24 list=OM-Block

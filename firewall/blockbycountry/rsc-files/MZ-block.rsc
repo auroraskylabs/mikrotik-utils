@@ -17,6 +17,7 @@ add address=41.223.152.0/22 list=MZ-Block
 add address=102.36.146.0/24 list=MZ-Block
 add address=102.67.188.0/22 list=MZ-Block
 add address=102.176.248.0/23 list=MZ-Block
+add address=102.205.224.0/22 list=MZ-Block
 add address=102.207.76.0/22 list=MZ-Block
 add address=102.207.156.0/22 list=MZ-Block
 add address=102.207.223.0/24 list=MZ-Block

@@ -537,6 +537,9 @@ add address=163.227.236.0/23 list=TW-Block
 add address=165.99.64.0/22 list=TW-Block
 add address=165.99.112.0/23 list=TW-Block
 add address=165.99.168.0/22 list=TW-Block
+add address=165.101.28.0/23 list=TW-Block
+add address=165.101.86.0/23 list=TW-Block
+add address=165.101.88.0/23 list=TW-Block
 add address=168.95.0.0/16 list=TW-Block
 add address=175.41.48.0/20 list=TW-Block
 add address=175.96.0.0/14 list=TW-Block
@@ -671,7 +674,7 @@ add address=210.203.0.0/17 list=TW-Block
 add address=210.208.0.0/16 list=TW-Block
 add address=210.209.0.0/18 list=TW-Block
 add address=210.209.128.0/17 list=TW-Block
-add address=210.211.24.0/21 list=TW-Block
+add address=210.211.30.0/23 list=TW-Block
 add address=210.240.0.0/14 list=TW-Block
 add address=210.244.0.0/16 list=TW-Block
 add address=211.20.0.0/14 list=TW-Block

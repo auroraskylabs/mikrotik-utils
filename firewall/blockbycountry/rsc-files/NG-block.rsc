@@ -109,6 +109,13 @@ add address=102.164.44.0/22 list=NG-Block
 add address=102.165.124.0/22 list=NG-Block
 add address=102.165.184.0/22 list=NG-Block
 add address=102.176.240.0/21 list=NG-Block
+add address=102.205.136.0/22 list=NG-Block
+add address=102.205.144.0/23 list=NG-Block
+add address=102.205.156.0/22 list=NG-Block
+add address=102.205.184.0/22 list=NG-Block
+add address=102.205.192.0/22 list=NG-Block
+add address=102.205.204.0/23 list=NG-Block
+add address=102.206.9.0/24 list=NG-Block
 add address=102.206.136.0/22 list=NG-Block
 add address=102.206.200.0/22 list=NG-Block
 add address=102.207.40.0/22 list=NG-Block
@@ -185,7 +192,6 @@ add address=102.217.0.0/22 list=NG-Block
 add address=102.217.8.0/22 list=NG-Block
 add address=102.217.180.0/22 list=NG-Block
 add address=102.217.204.0/22 list=NG-Block
-add address=102.217.208.0/24 list=NG-Block
 add address=102.217.212.0/22 list=NG-Block
 add address=102.217.236.0/22 list=NG-Block
 add address=102.217.255.0/24 list=NG-Block

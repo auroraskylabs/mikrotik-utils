@@ -343,6 +343,7 @@ add address=194.33.109.0/24 list=SK-Block
 add address=194.88.194.0/23 list=SK-Block
 add address=194.88.218.0/23 list=SK-Block
 add address=194.99.28.0/22 list=SK-Block
+add address=194.110.119.0/24 list=SK-Block
 add address=194.116.232.0/23 list=SK-Block
 add address=194.127.100.0/24 list=SK-Block
 add address=194.127.106.0/24 list=SK-Block

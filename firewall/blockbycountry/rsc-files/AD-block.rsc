@@ -21,3 +21,4 @@ add address=185.194.56.0/22 list=AD-Block
 add address=185.247.24.0/22 list=AD-Block
 add address=188.241.26.0/23 list=AD-Block
 add address=194.158.64.0/19 list=AD-Block
+add address=213.236.8.0/21 list=AD-Block

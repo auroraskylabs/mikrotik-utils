@@ -33,7 +33,6 @@ add address=45.88.124.0/22 list=MD-Block
 add address=45.91.84.0/22 list=MD-Block
 add address=45.95.11.0/24 list=MD-Block
 add address=45.120.176.0/22 list=MD-Block
-add address=45.128.20.0/22 list=MD-Block
 add address=45.137.228.0/22 list=MD-Block
 add address=45.144.32.0/22 list=MD-Block
 add address=45.145.176.0/22 list=MD-Block
@@ -280,7 +279,6 @@ add address=185.108.136.0/22 list=MD-Block
 add address=185.108.144.0/22 list=MD-Block
 add address=185.108.152.0/22 list=MD-Block
 add address=185.108.180.0/22 list=MD-Block
-add address=185.115.92.0/22 list=MD-Block
 add address=185.119.196.0/24 list=MD-Block
 add address=185.138.164.0/24 list=MD-Block
 add address=185.147.48.0/22 list=MD-Block
@@ -363,7 +361,6 @@ add address=193.30.30.0/24 list=MD-Block
 add address=193.31.104.0/22 list=MD-Block
 add address=193.33.92.0/23 list=MD-Block
 add address=193.36.38.0/24 list=MD-Block
-add address=193.37.200.0/22 list=MD-Block
 add address=193.57.52.0/22 list=MD-Block
 add address=193.84.26.0/24 list=MD-Block
 add address=193.107.96.0/22 list=MD-Block

@@ -63,6 +63,7 @@ add address=190.104.0.0/19 list=BO-Block
 add address=190.106.240.0/20 list=BO-Block
 add address=190.107.32.0/19 list=BO-Block
 add address=190.109.224.0/19 list=BO-Block
+add address=190.110.241.0/24 list=BO-Block
 add address=190.111.152.0/22 list=BO-Block
 add address=190.111.178.0/24 list=BO-Block
 add address=190.129.0.0/16 list=BO-Block

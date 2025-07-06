@@ -22,6 +22,8 @@ add address=102.80.0.0/13 list=UG-Block
 add address=102.134.140.0/22 list=UG-Block
 add address=102.134.144.0/21 list=UG-Block
 add address=102.164.120.0/24 list=UG-Block
+add address=102.205.207.0/24 list=UG-Block
+add address=102.205.244.0/22 list=UG-Block
 add address=102.206.128.0/22 list=UG-Block
 add address=102.207.108.0/22 list=UG-Block
 add address=102.207.221.0/24 list=UG-Block

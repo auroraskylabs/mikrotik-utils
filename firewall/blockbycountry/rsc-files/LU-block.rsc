@@ -303,6 +303,7 @@ add address=146.0.128.0/18 list=LU-Block
 add address=146.0.212.0/22 list=LU-Block
 add address=146.0.216.0/21 list=LU-Block
 add address=146.3.0.0/16 list=LU-Block
+add address=146.19.11.0/24 list=LU-Block
 add address=146.19.94.0/24 list=LU-Block
 add address=146.185.214.0/24 list=LU-Block
 add address=146.185.216.0/23 list=LU-Block
@@ -359,9 +360,11 @@ add address=185.41.48.0/22 list=LU-Block
 add address=185.42.216.0/22 list=LU-Block
 add address=185.44.56.0/22 list=LU-Block
 add address=185.44.140.0/22 list=LU-Block
+add address=185.46.239.0/24 list=LU-Block
 add address=185.47.156.0/22 list=LU-Block
 add address=185.49.244.0/22 list=LU-Block
 add address=185.50.84.0/22 list=LU-Block
+add address=185.50.253.0/24 list=LU-Block
 add address=185.65.0.0/22 list=LU-Block
 add address=185.66.96.0/22 list=LU-Block
 add address=185.67.124.0/22 list=LU-Block

@@ -45,6 +45,7 @@ add address=45.66.24.0/22 list=KZ-Block
 add address=45.86.80.0/22 list=KZ-Block
 add address=45.130.4.0/22 list=KZ-Block
 add address=45.132.84.0/22 list=KZ-Block
+add address=45.135.131.0/24 list=KZ-Block
 add address=45.136.56.0/22 list=KZ-Block
 add address=45.139.179.0/24 list=KZ-Block
 add address=45.140.24.0/23 list=KZ-Block
@@ -195,6 +196,7 @@ add address=91.207.8.0/24 list=KZ-Block
 add address=91.210.172.0/22 list=KZ-Block
 add address=91.212.93.0/24 list=KZ-Block
 add address=91.212.133.0/24 list=KZ-Block
+add address=91.213.49.0/24 list=KZ-Block
 add address=91.213.247.0/24 list=KZ-Block
 add address=91.214.42.0/23 list=KZ-Block
 add address=91.214.174.0/24 list=KZ-Block
@@ -264,6 +266,7 @@ add address=109.166.56.0/21 list=KZ-Block
 add address=109.166.64.0/20 list=KZ-Block
 add address=109.166.80.0/21 list=KZ-Block
 add address=109.175.174.0/23 list=KZ-Block
+add address=109.175.215.0/24 list=KZ-Block
 add address=109.175.225.0/24 list=KZ-Block
 add address=109.201.32.0/19 list=KZ-Block
 add address=109.206.0.0/19 list=KZ-Block
@@ -390,6 +393,7 @@ add address=185.187.17.0/24 list=KZ-Block
 add address=185.188.14.0/24 list=KZ-Block
 add address=185.190.248.0/24 list=KZ-Block
 add address=185.191.28.0/22 list=KZ-Block
+add address=185.191.212.0/24 list=KZ-Block
 add address=185.206.32.0/22 list=KZ-Block
 add address=185.209.88.0/22 list=KZ-Block
 add address=185.212.244.0/22 list=KZ-Block
@@ -456,6 +460,7 @@ add address=194.0.188.0/23 list=KZ-Block
 add address=194.0.244.0/23 list=KZ-Block
 add address=194.4.56.0/22 list=KZ-Block
 add address=194.9.30.0/23 list=KZ-Block
+add address=194.26.98.0/24 list=KZ-Block
 add address=194.26.239.0/24 list=KZ-Block
 add address=194.31.132.0/22 list=KZ-Block
 add address=194.31.156.0/22 list=KZ-Block
@@ -468,6 +473,7 @@ add address=194.59.5.0/24 list=KZ-Block
 add address=194.60.232.0/22 list=KZ-Block
 add address=194.67.80.0/22 list=KZ-Block
 add address=194.76.124.0/22 list=KZ-Block
+add address=194.88.202.0/24 list=KZ-Block
 add address=194.105.104.0/21 list=KZ-Block
 add address=194.110.54.0/23 list=KZ-Block
 add address=194.116.140.0/24 list=KZ-Block

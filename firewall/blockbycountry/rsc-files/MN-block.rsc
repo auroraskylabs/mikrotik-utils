@@ -95,6 +95,7 @@ add address=161.248.104.0/24 list=MN-Block
 add address=161.248.142.0/23 list=MN-Block
 add address=161.248.150.0/23 list=MN-Block
 add address=161.248.252.0/23 list=MN-Block
+add address=165.101.83.0/24 list=MN-Block
 add address=180.149.64.0/18 list=MN-Block
 add address=183.81.170.0/23 list=MN-Block
 add address=183.177.96.0/20 list=MN-Block

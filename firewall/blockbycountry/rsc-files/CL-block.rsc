@@ -148,6 +148,7 @@ add address=146.83.0.0/16 list=CL-Block
 add address=146.155.0.0/16 list=CL-Block
 add address=148.222.128.0/21 list=CL-Block
 add address=148.222.192.0/19 list=CL-Block
+add address=148.227.64.0/18 list=CL-Block
 add address=148.230.0.0/22 list=CL-Block
 add address=149.19.160.0/20 list=CL-Block
 add address=152.74.0.0/16 list=CL-Block

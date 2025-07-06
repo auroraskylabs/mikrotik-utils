@@ -118,6 +118,9 @@ add address=163.223.18.0/24 list=AF-Block
 add address=163.223.36.0/24 list=AF-Block
 add address=163.223.180.0/23 list=AF-Block
 add address=163.227.255.0/24 list=AF-Block
+add address=165.99.188.0/23 list=AF-Block
+add address=165.101.20.0/23 list=AF-Block
+add address=165.101.26.0/24 list=AF-Block
 add address=175.106.32.0/19 list=AF-Block
 add address=180.94.64.0/19 list=AF-Block
 add address=180.222.136.0/21 list=AF-Block

@@ -483,7 +483,6 @@ add address=91.228.100.0/24 list=CZ-Block
 add address=91.228.187.0/24 list=CZ-Block
 add address=91.228.200.0/22 list=CZ-Block
 add address=91.229.252.0/22 list=CZ-Block
-add address=91.230.94.0/23 list=CZ-Block
 add address=91.230.144.0/24 list=CZ-Block
 add address=91.230.247.0/24 list=CZ-Block
 add address=91.231.28.0/22 list=CZ-Block
@@ -597,6 +596,7 @@ add address=109.105.32.0/19 list=CZ-Block
 add address=109.107.158.0/24 list=CZ-Block
 add address=109.107.192.0/19 list=CZ-Block
 add address=109.108.96.0/19 list=CZ-Block
+add address=109.122.0.0/19 list=CZ-Block
 add address=109.123.192.0/19 list=CZ-Block
 add address=109.123.226.0/24 list=CZ-Block
 add address=109.164.0.0/17 list=CZ-Block
@@ -644,7 +644,6 @@ add address=149.255.64.0/19 list=CZ-Block
 add address=151.237.224.0/21 list=CZ-Block
 add address=151.249.104.0/21 list=CZ-Block
 add address=151.249.128.0/17 list=CZ-Block
-add address=152.89.72.0/22 list=CZ-Block
 add address=152.89.168.0/23 list=CZ-Block
 add address=152.114.200.0/23 list=CZ-Block
 add address=156.137.0.0/16 list=CZ-Block
@@ -1113,7 +1112,6 @@ add address=188.75.128.0/18 list=CZ-Block
 add address=188.92.8.0/21 list=CZ-Block
 add address=188.92.40.0/21 list=CZ-Block
 add address=188.92.96.0/21 list=CZ-Block
-add address=188.93.113.0/24 list=CZ-Block
 add address=188.94.232.0/21 list=CZ-Block
 add address=188.95.56.0/21 list=CZ-Block
 add address=188.95.120.0/21 list=CZ-Block
@@ -1419,6 +1417,7 @@ add address=195.113.0.0/16 list=CZ-Block
 add address=195.122.192.0/19 list=CZ-Block
 add address=195.128.155.0/24 list=CZ-Block
 add address=195.128.192.0/19 list=CZ-Block
+add address=195.130.220.0/24 list=CZ-Block
 add address=195.133.0.0/18 list=CZ-Block
 add address=195.133.64.0/19 list=CZ-Block
 add address=195.133.144.0/22 list=CZ-Block
@@ -1519,6 +1518,7 @@ add address=217.31.192.0/20 list=CZ-Block
 add address=217.64.0.0/20 list=CZ-Block
 add address=217.64.152.0/22 list=CZ-Block
 add address=217.65.69.0/24 list=CZ-Block
+add address=217.65.76.0/24 list=CZ-Block
 add address=217.66.160.0/19 list=CZ-Block
 add address=217.69.96.0/20 list=CZ-Block
 add address=217.75.208.0/20 list=CZ-Block

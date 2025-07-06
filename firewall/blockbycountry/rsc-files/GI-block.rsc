@@ -73,8 +73,7 @@ add address=212.22.224.0/19 list=GI-Block
 add address=212.86.97.0/24 list=GI-Block
 add address=212.86.103.0/24 list=GI-Block
 add address=212.86.107.0/24 list=GI-Block
-add address=212.86.110.0/23 list=GI-Block
-add address=212.86.112.0/23 list=GI-Block
+add address=212.86.112.0/24 list=GI-Block
 add address=212.86.116.0/22 list=GI-Block
 add address=212.86.120.0/21 list=GI-Block
 add address=212.120.224.0/19 list=GI-Block

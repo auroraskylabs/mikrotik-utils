@@ -164,6 +164,7 @@ add address=185.196.180.0/22 list=AL-Block
 add address=185.200.212.0/22 list=AL-Block
 add address=185.200.248.0/22 list=AL-Block
 add address=185.204.32.0/22 list=AL-Block
+add address=185.204.154.0/24 list=AL-Block
 add address=185.205.168.0/22 list=AL-Block
 add address=185.212.188.0/22 list=AL-Block
 add address=185.216.15.0/24 list=AL-Block
@@ -192,6 +193,7 @@ add address=193.254.1.0/24 list=AL-Block
 add address=193.254.2.0/24 list=AL-Block
 add address=194.1.149.0/24 list=AL-Block
 add address=194.35.248.0/22 list=AL-Block
+add address=194.56.182.0/24 list=AL-Block
 add address=194.113.80.0/23 list=AL-Block
 add address=194.113.94.0/23 list=AL-Block
 add address=194.150.78.0/24 list=AL-Block

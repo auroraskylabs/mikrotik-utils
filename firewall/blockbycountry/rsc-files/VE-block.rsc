@@ -2,6 +2,7 @@
 /ip firewall address-list
 add address=45.7.140.0/22 list=VE-Block
 add address=45.68.88.0/22 list=VE-Block
+add address=45.68.100.0/22 list=VE-Block
 add address=45.160.224.0/22 list=VE-Block
 add address=45.166.16.0/22 list=VE-Block
 add address=45.168.174.0/23 list=VE-Block

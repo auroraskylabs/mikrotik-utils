@@ -7,6 +7,7 @@ add address=102.22.104.0/22 list=SL-Block
 add address=102.23.140.0/22 list=SL-Block
 add address=102.143.0.0/17 list=SL-Block
 add address=102.176.188.0/22 list=SL-Block
+add address=102.205.152.0/22 list=SL-Block
 add address=102.206.185.0/24 list=SL-Block
 add address=102.207.104.0/22 list=SL-Block
 add address=102.208.243.0/24 list=SL-Block

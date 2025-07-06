@@ -15,7 +15,6 @@ add address=45.224.202.0/24 list=CR-Block
 add address=45.226.64.0/22 list=CR-Block
 add address=45.227.200.0/22 list=CR-Block
 add address=45.229.246.0/24 list=CR-Block
-add address=45.229.252.0/22 list=CR-Block
 add address=45.231.52.0/22 list=CR-Block
 add address=45.232.116.0/22 list=CR-Block
 add address=45.239.64.0/22 list=CR-Block
@@ -39,6 +38,7 @@ add address=143.202.160.0/22 list=CR-Block
 add address=143.208.168.0/22 list=CR-Block
 add address=143.255.28.0/22 list=CR-Block
 add address=144.22.0.0/15 list=CR-Block
+add address=148.224.31.0/24 list=CR-Block
 add address=152.231.128.0/17 list=CR-Block
 add address=160.223.203.0/24 list=CR-Block
 add address=163.178.0.0/16 list=CR-Block
@@ -82,6 +82,7 @@ add address=186.32.160.0/19 list=CR-Block
 add address=186.32.192.0/19 list=CR-Block
 add address=186.64.128.0/17 list=CR-Block
 add address=186.96.80.0/20 list=CR-Block
+add address=186.121.128.0/21 list=CR-Block
 add address=186.148.212.0/22 list=CR-Block
 add address=186.151.94.0/24 list=CR-Block
 add address=186.151.96.0/20 list=CR-Block
@@ -142,6 +143,7 @@ add address=200.10.176.0/23 list=CR-Block
 add address=200.12.167.0/24 list=CR-Block
 add address=200.16.66.0/23 list=CR-Block
 add address=200.33.85.0/24 list=CR-Block
+add address=200.33.108.0/24 list=CR-Block
 add address=200.59.16.0/21 list=CR-Block
 add address=200.74.248.0/21 list=CR-Block
 add address=200.91.64.0/18 list=CR-Block

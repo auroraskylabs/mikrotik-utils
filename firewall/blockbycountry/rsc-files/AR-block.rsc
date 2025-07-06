@@ -980,9 +980,11 @@ add address=186.65.108.0/22 list=AR-Block
 add address=186.96.192.0/21 list=AR-Block
 add address=186.100.0.0/16 list=AR-Block
 add address=186.108.0.0/14 list=AR-Block
-add address=186.121.128.0/19 list=AR-Block
+add address=186.121.136.0/21 list=AR-Block
+add address=186.121.144.0/20 list=AR-Block
 add address=186.121.160.0/23 list=AR-Block
-add address=186.121.164.0/22 list=AR-Block
+add address=186.121.165.0/24 list=AR-Block
+add address=186.121.166.0/23 list=AR-Block
 add address=186.121.168.0/21 list=AR-Block
 add address=186.121.176.0/20 list=AR-Block
 add address=186.122.0.0/15 list=AR-Block
@@ -1132,8 +1134,9 @@ add address=190.110.176.0/20 list=AR-Block
 add address=190.110.224.0/23 list=AR-Block
 add address=190.110.229.0/24 list=AR-Block
 add address=190.110.232.0/21 list=AR-Block
-add address=190.110.240.0/22 list=AR-Block
-add address=190.110.244.0/23 list=AR-Block
+add address=190.110.240.0/24 list=AR-Block
+add address=190.110.242.0/23 list=AR-Block
+add address=190.110.244.0/24 list=AR-Block
 add address=190.110.248.0/21 list=AR-Block
 add address=190.111.32.0/19 list=AR-Block
 add address=190.111.112.0/21 list=AR-Block
@@ -1268,7 +1271,6 @@ add address=200.0.17.0/24 list=AR-Block
 add address=200.0.19.0/24 list=AR-Block
 add address=200.0.79.0/24 list=AR-Block
 add address=200.0.80.0/24 list=AR-Block
-add address=200.0.96.0/22 list=AR-Block
 add address=200.0.175.0/24 list=AR-Block
 add address=200.0.181.0/24 list=AR-Block
 add address=200.0.182.0/23 list=AR-Block
@@ -1507,7 +1509,11 @@ add address=200.115.186.0/23 list=AR-Block
 add address=200.115.192.0/18 list=AR-Block
 add address=200.117.0.0/16 list=AR-Block
 add address=200.122.0.0/17 list=AR-Block
-add address=200.123.32.0/19 list=AR-Block
+add address=200.123.32.0/20 list=AR-Block
+add address=200.123.48.0/21 list=AR-Block
+add address=200.123.56.0/22 list=AR-Block
+add address=200.123.60.0/23 list=AR-Block
+add address=200.123.63.0/24 list=AR-Block
 add address=200.123.64.0/18 list=AR-Block
 add address=200.123.128.0/18 list=AR-Block
 add address=200.123.192.0/20 list=AR-Block

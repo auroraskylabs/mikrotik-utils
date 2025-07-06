@@ -12,6 +12,7 @@ add address=138.59.24.0/22 list=TT-Block
 add address=138.94.240.0/22 list=TT-Block
 add address=143.0.172.0/22 list=TT-Block
 add address=143.137.192.0/22 list=TT-Block
+add address=148.224.29.0/24 list=TT-Block
 add address=161.0.112.0/21 list=TT-Block
 add address=161.0.224.0/19 list=TT-Block
 add address=168.195.120.0/22 list=TT-Block

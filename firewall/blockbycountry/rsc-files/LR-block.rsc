@@ -6,6 +6,7 @@ add address=41.191.104.0/22 list=LR-Block
 add address=89.207.159.0/24 list=LR-Block
 add address=102.22.224.0/21 list=LR-Block
 add address=102.36.184.0/22 list=LR-Block
+add address=102.206.4.0/22 list=LR-Block
 add address=102.207.188.0/23 list=LR-Block
 add address=102.210.76.0/22 list=LR-Block
 add address=102.214.136.0/22 list=LR-Block

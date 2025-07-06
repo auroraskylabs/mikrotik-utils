@@ -225,6 +225,7 @@ add address=183.81.184.0/21 list=KH-Block
 add address=185.175.228.0/22 list=KH-Block
 add address=202.7.52.0/22 list=KH-Block
 add address=202.8.72.0/22 list=KH-Block
+add address=202.37.20.0/23 list=KH-Block
 add address=202.37.179.0/24 list=KH-Block
 add address=202.53.144.0/22 list=KH-Block
 add address=202.56.0.0/22 list=KH-Block
