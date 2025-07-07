@@ -20,7 +20,7 @@ To download and run script on your MikroTik device: (Change $CC for the country 
 
 <br>
 
-<pre>/tool fetch url="https://raw.githubusercontent.com/auroraskylabs/mikrotik-utils/refs/heads/main/firewall/blockbycountry/quick-rscs/$CC-Block.rsc" mode=https 
+<pre>/tool fetch url="https://raw.githubusercontent.com/auroraskylabs/mikrotik-utils/refs/heads/main/firewall/blockbycountry/quick-rscs/$CC-block.rsc" mode=https 
 /import file-name="$CC-Blocked.rsc"
 </pre>
 
