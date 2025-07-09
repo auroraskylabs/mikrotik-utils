@@ -540,6 +540,7 @@ add address=165.99.168.0/22 list=TW-Block
 add address=165.101.28.0/23 list=TW-Block
 add address=165.101.86.0/23 list=TW-Block
 add address=165.101.88.0/23 list=TW-Block
+add address=165.101.152.0/23 list=TW-Block
 add address=168.95.0.0/16 list=TW-Block
 add address=175.41.48.0/20 list=TW-Block
 add address=175.96.0.0/14 list=TW-Block

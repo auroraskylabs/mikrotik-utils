@@ -1062,6 +1062,7 @@ add address=103.114.192.0/22 list=HK-Block
 add address=103.115.144.0/23 list=HK-Block
 add address=103.115.146.0/24 list=HK-Block
 add address=103.116.20.0/22 list=HK-Block
+add address=103.116.72.0/22 list=HK-Block
 add address=103.116.132.0/23 list=HK-Block
 add address=103.116.244.0/22 list=HK-Block
 add address=103.117.24.0/22 list=HK-Block

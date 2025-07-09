@@ -1,7 +1,6 @@
 /ip firewall address-list remove [find list="RO-Block"]
 /ip firewall address-list
 add address=2.56.48.0/22 list=RO-Block
-add address=2.56.148.0/22 list=RO-Block
 add address=2.57.120.0/22 list=RO-Block
 add address=2.58.44.0/22 list=RO-Block
 add address=2.58.76.0/22 list=RO-Block
@@ -22,7 +21,6 @@ add address=5.157.128.0/17 list=RO-Block
 add address=5.181.200.0/22 list=RO-Block
 add address=5.181.232.0/22 list=RO-Block
 add address=5.183.168.0/22 list=RO-Block
-add address=5.252.196.0/22 list=RO-Block
 add address=5.253.52.0/22 list=RO-Block
 add address=5.253.116.0/22 list=RO-Block
 add address=5.253.188.0/22 list=RO-Block
@@ -443,7 +441,7 @@ add address=86.107.184.0/23 list=RO-Block
 add address=86.107.192.0/24 list=RO-Block
 add address=86.107.224.0/20 list=RO-Block
 add address=86.107.240.0/24 list=RO-Block
-add address=86.107.244.0/22 list=RO-Block
+add address=86.107.246.0/23 list=RO-Block
 add address=86.120.0.0/13 list=RO-Block
 add address=87.101.80.0/22 list=RO-Block
 add address=87.101.92.0/22 list=RO-Block
@@ -699,7 +697,7 @@ add address=89.42.132.0/23 list=RO-Block
 add address=89.42.135.0/24 list=RO-Block
 add address=89.42.142.0/23 list=RO-Block
 add address=89.42.148.0/23 list=RO-Block
-add address=89.42.156.0/22 list=RO-Block
+add address=89.42.156.0/23 list=RO-Block
 add address=89.42.176.0/23 list=RO-Block
 add address=89.42.192.0/22 list=RO-Block
 add address=89.42.200.0/22 list=RO-Block
@@ -1149,7 +1147,6 @@ add address=92.114.82.0/24 list=RO-Block
 add address=92.114.88.0/22 list=RO-Block
 add address=92.114.94.0/23 list=RO-Block
 add address=92.114.98.0/24 list=RO-Block
-add address=92.114.104.0/23 list=RO-Block
 add address=92.114.106.0/24 list=RO-Block
 add address=92.114.108.0/24 list=RO-Block
 add address=92.114.111.0/24 list=RO-Block

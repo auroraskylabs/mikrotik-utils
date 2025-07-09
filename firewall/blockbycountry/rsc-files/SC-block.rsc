@@ -213,6 +213,7 @@ add address=62.233.60.0/24 list=SC-Block
 add address=64.226.54.0/23 list=SC-Block
 add address=64.226.156.0/22 list=SC-Block
 add address=66.133.80.0/20 list=SC-Block
+add address=69.5.189.0/24 list=SC-Block
 add address=77.83.184.0/22 list=SC-Block
 add address=77.87.120.0/24 list=SC-Block
 add address=77.243.88.0/22 list=SC-Block

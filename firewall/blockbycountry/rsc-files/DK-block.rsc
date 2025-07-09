@@ -1190,6 +1190,7 @@ add address=195.245.210.0/24 list=DK-Block
 add address=195.246.198.0/24 list=DK-Block
 add address=195.249.0.0/16 list=DK-Block
 add address=195.254.168.0/23 list=DK-Block
+add address=198.13.232.0/22 list=DK-Block
 add address=212.6.34.0/23 list=DK-Block
 add address=212.6.62.0/24 list=DK-Block
 add address=212.10.0.0/16 list=DK-Block

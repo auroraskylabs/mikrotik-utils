@@ -2123,7 +2123,6 @@ add address=167.250.160.0/21 list=BR-Block
 add address=167.250.172.0/22 list=BR-Block
 add address=167.250.176.0/22 list=BR-Block
 add address=167.250.184.0/21 list=BR-Block
-add address=167.250.199.0/24 list=BR-Block
 add address=167.250.200.0/22 list=BR-Block
 add address=167.250.216.0/22 list=BR-Block
 add address=167.250.224.0/21 list=BR-Block

@@ -6136,6 +6136,7 @@ add address=193.111.226.0/24 list=DE-Block
 add address=193.111.229.0/24 list=DE-Block
 add address=193.111.238.0/24 list=DE-Block
 add address=193.111.248.0/23 list=DE-Block
+add address=193.111.250.0/24 list=DE-Block
 add address=193.118.128.0/19 list=DE-Block
 add address=193.118.192.0/19 list=DE-Block
 add address=193.124.14.0/24 list=DE-Block

@@ -143,3 +143,4 @@ add address=213.230.64.0/18 list=UZ-Block
 add address=217.12.80.0/20 list=UZ-Block
 add address=217.29.112.0/20 list=UZ-Block
 add address=217.30.160.0/20 list=UZ-Block
+add address=217.65.77.0/24 list=UZ-Block

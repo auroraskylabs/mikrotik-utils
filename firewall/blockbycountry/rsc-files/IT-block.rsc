@@ -445,6 +445,7 @@ add address=62.249.32.0/19 list=IT-Block
 add address=64.190.76.0/24 list=IT-Block
 add address=64.190.139.0/24 list=IT-Block
 add address=66.71.128.0/18 list=IT-Block
+add address=66.81.144.0/21 list=IT-Block
 add address=67.231.176.0/20 list=IT-Block
 add address=69.5.184.0/24 list=IT-Block
 add address=69.172.96.0/19 list=IT-Block
