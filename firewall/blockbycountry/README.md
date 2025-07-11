@@ -7,7 +7,8 @@
 Every week, the RSC files for blocking countries are updated and the old files are compressed and archived. This is to keep all the lists up to date as these change over time as organizations acquire new ranges, transfer ranges, or forfeit them.
 
 <br>
-**To generate the rsc commands to run in mikrotik easily, check out my [CC MikroTik Generator](https://tools.aurorasky.me/github/mikrotik/ccgen.php).
+
+ [CC MikroTik Generator](https://tools.aurorasky.me/github/mikrotik/ccgen.php) - My tool to help generate a single script to run.
 
 
 <br>
