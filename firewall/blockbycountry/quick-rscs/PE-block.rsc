@@ -1,5 +1,6 @@
 /ip firewall address-list remove [find list="PE-Block"]
 /ip firewall address-list
+add address=45.4.92.0/22 list=PE-Block
 add address=45.5.56.0/22 list=PE-Block
 add address=45.5.68.0/22 list=PE-Block
 add address=45.65.248.0/22 list=PE-Block
@@ -132,7 +133,6 @@ add address=186.148.196.0/22 list=PE-Block
 add address=186.160.0.0/14 list=PE-Block
 add address=187.86.164.0/22 list=PE-Block
 add address=187.102.208.0/22 list=PE-Block
-add address=189.84.52.0/23 list=PE-Block
 add address=190.8.128.0/19 list=PE-Block
 add address=190.12.64.0/19 list=PE-Block
 add address=190.40.0.0/14 list=PE-Block

@@ -404,7 +404,6 @@ add address=194.242.22.0/23 list=MD-Block
 add address=194.246.114.0/23 list=MD-Block
 add address=194.247.52.0/24 list=MD-Block
 add address=194.247.164.0/23 list=MD-Block
-add address=195.14.98.0/24 list=MD-Block
 add address=195.22.224.0/19 list=MD-Block
 add address=195.42.232.0/22 list=MD-Block
 add address=195.74.86.0/24 list=MD-Block
@@ -430,7 +429,6 @@ add address=217.12.112.0/20 list=MD-Block
 add address=217.19.208.0/20 list=MD-Block
 add address=217.26.144.0/20 list=MD-Block
 add address=217.26.160.0/20 list=MD-Block
-add address=217.197.103.0/24 list=MD-Block
 
 /ip firewall raw
  :if ([print count-only where src-address-list="MD-Block"] = "0") do={ add chain=prerouting action=drop src-address-list=MD-Block comment="Block MD traffic" }

@@ -17,7 +17,6 @@ add address=102.218.129.0/24 list=GN-Block
 add address=102.218.136.0/22 list=GN-Block
 add address=102.218.236.0/22 list=GN-Block
 add address=160.119.128.0/21 list=GN-Block
-add address=196.41.90.0/24 list=GN-Block
 add address=196.49.40.0/24 list=GN-Block
 add address=196.49.64.0/24 list=GN-Block
 add address=196.60.38.0/24 list=GN-Block

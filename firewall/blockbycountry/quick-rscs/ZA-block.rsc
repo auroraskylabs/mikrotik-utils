@@ -83,6 +83,7 @@ add address=41.191.88.0/22 list=ZA-Block
 add address=41.191.124.0/22 list=ZA-Block
 add address=41.191.128.0/19 list=ZA-Block
 add address=41.192.0.0/14 list=ZA-Block
+add address=41.198.128.0/18 list=ZA-Block
 add address=41.202.32.0/19 list=ZA-Block
 add address=41.203.0.0/18 list=ZA-Block
 add address=41.203.160.0/20 list=ZA-Block
@@ -315,6 +316,11 @@ add address=102.177.64.0/21 list=ZA-Block
 add address=102.177.112.0/20 list=ZA-Block
 add address=102.177.128.0/18 list=ZA-Block
 add address=102.182.0.0/16 list=ZA-Block
+add address=102.205.100.0/22 list=ZA-Block
+add address=102.205.116.0/22 list=ZA-Block
+add address=102.205.120.0/23 list=ZA-Block
+add address=102.205.124.0/22 list=ZA-Block
+add address=102.205.130.0/23 list=ZA-Block
 add address=102.205.140.0/22 list=ZA-Block
 add address=102.205.160.0/21 list=ZA-Block
 add address=102.205.172.0/22 list=ZA-Block

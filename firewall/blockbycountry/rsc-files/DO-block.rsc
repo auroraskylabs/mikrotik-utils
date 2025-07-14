@@ -7,6 +7,7 @@ add address=45.6.40.0/22 list=DO-Block
 add address=45.65.244.0/22 list=DO-Block
 add address=45.68.40.0/22 list=DO-Block
 add address=45.68.60.0/23 list=DO-Block
+add address=45.68.108.0/22 list=DO-Block
 add address=45.164.12.0/22 list=DO-Block
 add address=45.164.172.0/22 list=DO-Block
 add address=45.169.192.0/22 list=DO-Block

@@ -119,6 +119,7 @@ add address=103.146.44.0/23 list=KH-Block
 add address=103.147.234.0/23 list=KH-Block
 add address=103.148.228.0/23 list=KH-Block
 add address=103.151.116.0/23 list=KH-Block
+add address=103.152.194.0/23 list=KH-Block
 add address=103.154.20.0/23 list=KH-Block
 add address=103.157.173.0/24 list=KH-Block
 add address=103.163.162.0/23 list=KH-Block

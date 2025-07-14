@@ -13,7 +13,8 @@ add address=41.160.0.0/12 list=MU-Block
 add address=41.190.128.0/19 list=MU-Block
 add address=41.191.212.0/22 list=MU-Block
 add address=41.191.224.0/21 list=MU-Block
-add address=41.198.0.0/16 list=MU-Block
+add address=41.198.0.0/17 list=MU-Block
+add address=41.198.192.0/18 list=MU-Block
 add address=41.206.96.0/19 list=MU-Block
 add address=41.207.128.0/19 list=MU-Block
 add address=41.207.232.0/22 list=MU-Block

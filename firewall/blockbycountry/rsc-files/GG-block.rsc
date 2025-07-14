@@ -16,7 +16,6 @@ add address=185.104.200.0/22 list=GG-Block
 add address=185.110.36.0/22 list=GG-Block
 add address=185.143.248.0/22 list=GG-Block
 add address=185.159.16.0/22 list=GG-Block
-add address=185.201.0.0/22 list=GG-Block
 add address=193.104.140.0/24 list=GG-Block
 add address=193.169.206.0/23 list=GG-Block
 add address=194.9.2.0/23 list=GG-Block
