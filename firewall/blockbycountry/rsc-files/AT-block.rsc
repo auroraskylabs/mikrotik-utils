@@ -19,6 +19,7 @@ add address=5.132.128.0/18 list=AT-Block
 add address=5.159.0.0/21 list=AT-Block
 add address=5.180.12.0/22 list=AT-Block
 add address=5.180.114.0/24 list=AT-Block
+add address=5.180.152.0/22 list=AT-Block
 add address=5.181.148.0/22 list=AT-Block
 add address=5.181.228.0/22 list=AT-Block
 add address=5.183.172.0/22 list=AT-Block

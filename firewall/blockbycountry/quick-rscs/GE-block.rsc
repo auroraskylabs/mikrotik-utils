@@ -167,7 +167,6 @@ add address=167.160.30.0/24 list=GE-Block
 add address=176.73.0.0/16 list=GE-Block
 add address=176.74.64.0/18 list=GE-Block
 add address=176.97.217.0/24 list=GE-Block
-add address=176.97.219.0/24 list=GE-Block
 add address=176.100.46.0/24 list=GE-Block
 add address=176.126.101.0/24 list=GE-Block
 add address=176.221.128.0/17 list=GE-Block

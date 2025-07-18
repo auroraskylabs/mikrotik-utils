@@ -516,7 +516,6 @@ add address=192.207.2.0/24 list=IL-Block
 add address=192.207.47.0/24 list=IL-Block
 add address=193.16.147.0/24 list=IL-Block
 add address=193.16.238.0/24 list=IL-Block
-add address=193.17.42.0/24 list=IL-Block
 add address=193.17.74.0/24 list=IL-Block
 add address=193.27.92.0/23 list=IL-Block
 add address=193.28.155.0/24 list=IL-Block

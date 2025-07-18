@@ -428,7 +428,6 @@ add address=152.115.0.0/16 list=DK-Block
 add address=155.137.0.0/21 list=DK-Block
 add address=157.168.0.0/16 list=DK-Block
 add address=157.250.160.0/20 list=DK-Block
-add address=158.173.128.0/17 list=DK-Block
 add address=158.255.79.0/24 list=DK-Block
 add address=159.20.0.0/21 list=DK-Block
 add address=159.195.0.0/16 list=DK-Block

@@ -1334,6 +1334,7 @@ add address=203.55.48.0/23 list=SG-Block
 add address=203.55.214.0/23 list=SG-Block
 add address=203.62.195.0/24 list=SG-Block
 add address=203.76.172.0/22 list=SG-Block
+add address=203.77.160.0/21 list=SG-Block
 add address=203.78.8.0/21 list=SG-Block
 add address=203.78.148.0/22 list=SG-Block
 add address=203.81.32.0/21 list=SG-Block

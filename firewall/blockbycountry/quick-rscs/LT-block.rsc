@@ -14,7 +14,6 @@ add address=5.42.206.0/24 list=LT-Block
 add address=5.42.208.0/24 list=LT-Block
 add address=5.44.249.0/24 list=LT-Block
 add address=5.133.64.0/22 list=LT-Block
-add address=5.180.152.0/22 list=LT-Block
 add address=5.181.36.0/22 list=LT-Block
 add address=5.181.176.0/22 list=LT-Block
 add address=5.181.184.0/22 list=LT-Block

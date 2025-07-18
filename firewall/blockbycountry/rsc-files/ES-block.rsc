@@ -443,6 +443,8 @@ add address=46.253.224.0/20 list=ES-Block
 add address=46.254.104.0/24 list=ES-Block
 add address=46.255.24.0/24 list=ES-Block
 add address=46.255.184.0/21 list=ES-Block
+add address=47.58.0.0/15 list=ES-Block
+add address=47.60.0.0/14 list=ES-Block
 add address=49.0.184.0/21 list=ES-Block
 add address=59.153.36.0/22 list=ES-Block
 add address=62.13.224.0/19 list=ES-Block

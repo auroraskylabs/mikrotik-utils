@@ -608,6 +608,7 @@ add address=176.54.0.0/15 list=TR-Block
 add address=176.56.33.0/24 list=TR-Block
 add address=176.88.0.0/14 list=TR-Block
 add address=176.96.128.0/22 list=TR-Block
+add address=176.97.219.0/24 list=TR-Block
 add address=176.98.41.0/24 list=TR-Block
 add address=176.98.42.0/23 list=TR-Block
 add address=176.116.16.0/24 list=TR-Block

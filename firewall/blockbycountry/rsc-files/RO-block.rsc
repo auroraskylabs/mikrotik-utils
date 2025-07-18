@@ -1798,7 +1798,6 @@ add address=188.241.32.0/22 list=RO-Block
 add address=188.241.36.0/23 list=RO-Block
 add address=188.241.38.0/24 list=RO-Block
 add address=188.241.48.0/22 list=RO-Block
-add address=188.241.53.0/24 list=RO-Block
 add address=188.241.54.0/23 list=RO-Block
 add address=188.241.58.0/24 list=RO-Block
 add address=188.241.64.0/24 list=RO-Block

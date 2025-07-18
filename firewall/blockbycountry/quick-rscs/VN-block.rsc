@@ -1093,6 +1093,7 @@ add address=165.101.92.0/23 list=VN-Block
 add address=165.101.114.0/23 list=VN-Block
 add address=165.101.116.0/23 list=VN-Block
 add address=165.101.158.0/23 list=VN-Block
+add address=165.101.190.0/23 list=VN-Block
 add address=171.224.0.0/11 list=VN-Block
 add address=175.103.64.0/18 list=VN-Block
 add address=175.106.0.0/22 list=VN-Block

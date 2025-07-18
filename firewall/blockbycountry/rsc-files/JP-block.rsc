@@ -2087,6 +2087,7 @@ add address=183.182.32.0/19 list=JP-Block
 add address=183.182.128.0/17 list=JP-Block
 add address=183.183.0.0/16 list=JP-Block
 add address=185.164.244.0/22 list=JP-Block
+add address=185.217.5.0/24 list=JP-Block
 add address=185.254.240.0/22 list=JP-Block
 add address=192.5.216.0/24 list=JP-Block
 add address=192.16.178.0/23 list=JP-Block
