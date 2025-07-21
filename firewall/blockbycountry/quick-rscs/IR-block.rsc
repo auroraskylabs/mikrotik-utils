@@ -666,7 +666,7 @@ add address=95.64.0.0/17 list=IR-Block
 add address=95.80.128.0/18 list=IR-Block
 add address=95.81.64.0/21 list=IR-Block
 add address=95.81.76.0/22 list=IR-Block
-add address=95.81.80.0/20 list=IR-Block
+add address=95.81.88.0/21 list=IR-Block
 add address=95.128.155.0/24 list=IR-Block
 add address=95.128.159.0/24 list=IR-Block
 add address=95.128.194.0/24 list=IR-Block

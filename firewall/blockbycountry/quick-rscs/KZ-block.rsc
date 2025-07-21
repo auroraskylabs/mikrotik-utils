@@ -120,6 +120,7 @@ add address=85.92.120.0/22 list=KZ-Block
 add address=85.116.176.0/20 list=KZ-Block
 add address=85.117.96.0/19 list=KZ-Block
 add address=85.159.24.0/21 list=KZ-Block
+add address=85.159.94.0/24 list=KZ-Block
 add address=85.193.96.0/19 list=KZ-Block
 add address=85.198.88.0/22 list=KZ-Block
 add address=85.202.192.0/22 list=KZ-Block

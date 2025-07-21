@@ -361,6 +361,7 @@ add address=94.231.215.0/24 list=LT-Block
 add address=94.232.120.0/21 list=LT-Block
 add address=94.232.224.0/21 list=LT-Block
 add address=94.244.64.0/18 list=LT-Block
+add address=95.81.80.0/21 list=LT-Block
 add address=95.81.104.0/21 list=LT-Block
 add address=95.141.247.0/24 list=LT-Block
 add address=95.173.32.0/19 list=LT-Block

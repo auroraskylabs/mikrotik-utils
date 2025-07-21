@@ -5424,6 +5424,7 @@ add address=208.65.240.0/21 list=CA-Block
 add address=208.66.0.0/22 list=CA-Block
 add address=208.66.16.0/22 list=CA-Block
 add address=208.66.68.0/22 list=CA-Block
+add address=208.66.112.0/21 list=CA-Block
 add address=208.66.224.0/21 list=CA-Block
 add address=208.66.248.0/21 list=CA-Block
 add address=208.67.92.0/22 list=CA-Block

@@ -778,7 +778,6 @@ add address=192.231.183.0/24 list=NZ-Block
 add address=192.245.185.0/24 list=NZ-Block
 add address=192.245.220.0/24 list=NZ-Block
 add address=193.0.180.0/22 list=NZ-Block
-add address=193.17.56.0/22 list=NZ-Block
 add address=193.194.116.0/22 list=NZ-Block
 add address=198.48.0.0/22 list=NZ-Block
 add address=198.49.3.0/24 list=NZ-Block

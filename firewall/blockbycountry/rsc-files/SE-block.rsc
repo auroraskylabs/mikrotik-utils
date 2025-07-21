@@ -338,6 +338,7 @@ add address=82.182.0.0/15 list=SE-Block
 add address=82.193.160.0/19 list=SE-Block
 add address=82.196.96.0/19 list=SE-Block
 add address=82.196.160.0/19 list=SE-Block
+add address=82.197.73.0/24 list=SE-Block
 add address=82.197.224.0/19 list=SE-Block
 add address=82.209.128.0/18 list=SE-Block
 add address=82.214.0.0/18 list=SE-Block

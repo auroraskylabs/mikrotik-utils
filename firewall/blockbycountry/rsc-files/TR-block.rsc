@@ -43,6 +43,7 @@ add address=5.253.220.0/22 list=TR-Block
 add address=5.253.248.0/22 list=TR-Block
 add address=24.133.0.0/16 list=TR-Block
 add address=31.3.0.0/21 list=TR-Block
+add address=31.3.222.0/24 list=TR-Block
 add address=31.7.32.0/21 list=TR-Block
 add address=31.12.74.0/24 list=TR-Block
 add address=31.14.52.0/24 list=TR-Block

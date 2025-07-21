@@ -577,6 +577,7 @@ add address=81.24.224.0/20 list=IT-Block
 add address=81.25.72.0/22 list=IT-Block
 add address=81.25.96.0/20 list=IT-Block
 add address=81.26.192.0/21 list=IT-Block
+add address=81.27.74.0/24 list=IT-Block
 add address=81.27.128.0/20 list=IT-Block
 add address=81.27.176.0/20 list=IT-Block
 add address=81.28.8.0/22 list=IT-Block
