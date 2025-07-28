@@ -18,6 +18,7 @@ add address=77.87.176.0/21 list=IM-Block
 add address=78.24.208.0/21 list=IM-Block
 add address=79.170.32.0/21 list=IM-Block
 add address=80.65.240.0/20 list=IM-Block
+add address=81.85.104.0/21 list=IM-Block
 add address=81.88.160.0/20 list=IM-Block
 add address=83.218.0.0/19 list=IM-Block
 add address=84.246.200.0/21 list=IM-Block
@@ -59,6 +60,7 @@ add address=185.193.12.0/22 list=IM-Block
 add address=193.28.159.0/24 list=IM-Block
 add address=193.31.208.0/20 list=IM-Block
 add address=193.33.228.0/23 list=IM-Block
+add address=193.107.204.0/22 list=IM-Block
 add address=193.143.248.0/24 list=IM-Block
 add address=193.219.111.0/24 list=IM-Block
 add address=195.10.96.0/19 list=IM-Block

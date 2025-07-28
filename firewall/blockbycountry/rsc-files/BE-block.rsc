@@ -286,6 +286,7 @@ add address=109.68.160.0/21 list=BE-Block
 add address=109.69.216.0/21 list=BE-Block
 add address=109.88.0.0/15 list=BE-Block
 add address=109.128.0.0/12 list=BE-Block
+add address=109.175.172.0/24 list=BE-Block
 add address=109.233.24.0/21 list=BE-Block
 add address=109.233.104.0/22 list=BE-Block
 add address=109.236.128.0/20 list=BE-Block

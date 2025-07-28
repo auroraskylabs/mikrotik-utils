@@ -303,6 +303,7 @@ add address=81.25.80.0/20 list=SE-Block
 add address=81.25.144.0/20 list=SE-Block
 add address=81.26.224.0/19 list=SE-Block
 add address=81.27.0.0/20 list=SE-Block
+add address=81.27.77.0/24 list=SE-Block
 add address=81.88.0.0/20 list=SE-Block
 add address=81.89.144.0/20 list=SE-Block
 add address=81.91.0.0/20 list=SE-Block
@@ -330,6 +331,11 @@ add address=82.102.5.0/24 list=SE-Block
 add address=82.102.6.0/24 list=SE-Block
 add address=82.115.128.0/19 list=SE-Block
 add address=82.115.192.0/20 list=SE-Block
+add address=82.115.224.0/20 list=SE-Block
+add address=82.115.240.0/21 list=SE-Block
+add address=82.115.248.0/22 list=SE-Block
+add address=82.115.253.0/24 list=SE-Block
+add address=82.115.254.0/23 list=SE-Block
 add address=82.117.96.0/19 list=SE-Block
 add address=82.118.24.0/21 list=SE-Block
 add address=82.136.128.0/18 list=SE-Block

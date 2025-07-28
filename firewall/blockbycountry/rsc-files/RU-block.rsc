@@ -5901,6 +5901,7 @@ add address=185.179.144.0/22 list=RU-Block
 add address=185.179.160.0/22 list=RU-Block
 add address=185.179.172.0/22 list=RU-Block
 add address=185.179.188.0/22 list=RU-Block
+add address=185.179.196.0/24 list=RU-Block
 add address=185.179.224.0/22 list=RU-Block
 add address=185.180.40.0/22 list=RU-Block
 add address=185.180.56.0/22 list=RU-Block

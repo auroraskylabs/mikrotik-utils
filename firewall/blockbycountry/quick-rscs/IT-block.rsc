@@ -1416,6 +1416,7 @@ add address=176.115.168.0/21 list=IT-Block
 add address=176.115.184.0/21 list=IT-Block
 add address=176.116.14.0/24 list=IT-Block
 add address=176.116.29.0/24 list=IT-Block
+add address=176.117.110.0/24 list=IT-Block
 add address=176.119.196.0/24 list=IT-Block
 add address=176.119.201.0/24 list=IT-Block
 add address=176.119.217.0/24 list=IT-Block
@@ -2640,6 +2641,7 @@ add address=193.58.36.0/22 list=IT-Block
 add address=193.58.184.0/22 list=IT-Block
 add address=193.70.128.0/17 list=IT-Block
 add address=193.76.0.0/16 list=IT-Block
+add address=193.84.84.0/24 list=IT-Block
 add address=193.84.108.0/24 list=IT-Block
 add address=193.93.108.0/22 list=IT-Block
 add address=193.104.76.0/24 list=IT-Block

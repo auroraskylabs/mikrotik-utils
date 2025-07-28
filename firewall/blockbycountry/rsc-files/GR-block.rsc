@@ -315,7 +315,6 @@ add address=193.162.7.0/24 list=GR-Block
 add address=193.163.12.0/24 list=GR-Block
 add address=193.186.200.0/22 list=GR-Block
 add address=193.193.184.0/23 list=GR-Block
-add address=193.201.22.0/23 list=GR-Block
 add address=193.201.166.0/24 list=GR-Block
 add address=193.218.1.0/24 list=GR-Block
 add address=193.218.2.0/23 list=GR-Block

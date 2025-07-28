@@ -877,7 +877,6 @@ add address=181.100.0.0/15 list=AR-Block
 add address=181.102.0.0/16 list=AR-Block
 add address=181.103.16.0/20 list=AR-Block
 add address=181.103.32.0/19 list=AR-Block
-add address=181.103.80.0/20 list=AR-Block
 add address=181.103.96.0/19 list=AR-Block
 add address=181.103.128.0/17 list=AR-Block
 add address=181.104.0.0/13 list=AR-Block

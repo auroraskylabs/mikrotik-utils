@@ -18,7 +18,7 @@ add address=168.121.184.0/22 list=UY-Block
 add address=170.247.168.0/22 list=UY-Block
 add address=179.0.156.0/22 list=UY-Block
 add address=179.24.0.0/13 list=UY-Block
-add address=181.103.64.0/20 list=UY-Block
+add address=181.103.64.0/19 list=UY-Block
 add address=181.224.164.0/23 list=UY-Block
 add address=186.8.0.0/16 list=UY-Block
 add address=186.48.0.0/13 list=UY-Block

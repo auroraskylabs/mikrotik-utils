@@ -2,6 +2,7 @@
 /ip firewall address-list
 add address=41.189.224.0/19 list=DJ-Block
 add address=91.209.83.0/24 list=DJ-Block
+add address=102.205.104.0/23 list=DJ-Block
 add address=102.214.90.0/24 list=DJ-Block
 add address=196.49.10.0/24 list=DJ-Block
 add address=196.201.192.0/20 list=DJ-Block

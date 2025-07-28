@@ -44,6 +44,7 @@ add address=5.252.212.0/22 list=PL-Block
 add address=5.252.228.0/22 list=PL-Block
 add address=5.253.120.0/22 list=PL-Block
 add address=31.0.0.0/16 list=PL-Block
+add address=31.3.218.0/23 list=PL-Block
 add address=31.6.64.0/21 list=PL-Block
 add address=31.6.128.0/17 list=PL-Block
 add address=31.7.40.0/21 list=PL-Block

@@ -368,7 +368,6 @@ add address=195.200.252.0/23 list=PT-Block
 add address=195.225.180.0/22 list=PT-Block
 add address=195.234.47.0/24 list=PT-Block
 add address=195.234.134.0/24 list=PT-Block
-add address=195.238.252.0/24 list=PT-Block
 add address=195.245.128.0/18 list=PT-Block
 add address=195.245.197.0/24 list=PT-Block
 add address=195.245.234.0/24 list=PT-Block

@@ -300,7 +300,6 @@ add address=103.216.158.0/23 list=TH-Block
 add address=103.219.196.0/24 list=TH-Block
 add address=103.225.24.0/22 list=TH-Block
 add address=103.225.168.0/23 list=TH-Block
-add address=103.228.194.0/23 list=TH-Block
 add address=103.230.120.0/22 list=TH-Block
 add address=103.230.132.0/22 list=TH-Block
 add address=103.232.40.0/22 list=TH-Block

@@ -989,6 +989,7 @@ add address=185.203.80.0/22 list=AT-Block
 add address=185.203.212.0/22 list=AT-Block
 add address=185.205.68.0/24 list=AT-Block
 add address=185.206.70.0/24 list=AT-Block
+add address=185.207.136.0/22 list=AT-Block
 add address=185.207.176.0/22 list=AT-Block
 add address=185.207.212.0/24 list=AT-Block
 add address=185.208.12.0/22 list=AT-Block

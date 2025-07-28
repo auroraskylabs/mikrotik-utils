@@ -8,7 +8,9 @@ add address=24.152.64.0/18 list=BR-Block
 add address=45.4.4.0/22 list=BR-Block
 add address=45.4.8.0/21 list=BR-Block
 add address=45.4.16.0/20 list=BR-Block
-add address=45.4.32.0/19 list=BR-Block
+add address=45.4.32.0/20 list=BR-Block
+add address=45.4.52.0/22 list=BR-Block
+add address=45.4.56.0/21 list=BR-Block
 add address=45.4.64.0/20 list=BR-Block
 add address=45.4.80.0/22 list=BR-Block
 add address=45.4.96.0/24 list=BR-Block
@@ -149,7 +151,6 @@ add address=45.71.144.0/21 list=BR-Block
 add address=45.71.160.0/20 list=BR-Block
 add address=45.71.176.0/22 list=BR-Block
 add address=45.71.188.0/22 list=BR-Block
-add address=45.71.192.0/22 list=BR-Block
 add address=45.71.208.0/20 list=BR-Block
 add address=45.71.224.0/20 list=BR-Block
 add address=45.71.240.0/21 list=BR-Block
@@ -211,6 +212,7 @@ add address=45.162.48.0/21 list=BR-Block
 add address=45.162.56.0/22 list=BR-Block
 add address=45.162.64.0/21 list=BR-Block
 add address=45.162.80.0/23 list=BR-Block
+add address=45.162.86.0/23 list=BR-Block
 add address=45.162.92.0/22 list=BR-Block
 add address=45.162.96.0/22 list=BR-Block
 add address=45.162.104.0/22 list=BR-Block
@@ -368,7 +370,7 @@ add address=45.169.56.0/22 list=BR-Block
 add address=45.169.64.0/20 list=BR-Block
 add address=45.169.80.0/21 list=BR-Block
 add address=45.169.88.0/22 list=BR-Block
-add address=45.169.97.0/24 list=BR-Block
+add address=45.169.96.0/23 list=BR-Block
 add address=45.169.108.0/22 list=BR-Block
 add address=45.169.116.0/22 list=BR-Block
 add address=45.169.120.0/21 list=BR-Block
@@ -485,10 +487,7 @@ add address=45.173.224.0/22 list=BR-Block
 add address=45.173.232.0/21 list=BR-Block
 add address=45.173.240.0/22 list=BR-Block
 add address=45.173.248.0/21 list=BR-Block
-add address=45.174.0.0/21 list=BR-Block
-add address=45.174.9.0/24 list=BR-Block
-add address=45.174.10.0/23 list=BR-Block
-add address=45.174.12.0/22 list=BR-Block
+add address=45.174.0.0/20 list=BR-Block
 add address=45.174.16.0/22 list=BR-Block
 add address=45.174.28.0/22 list=BR-Block
 add address=45.174.32.0/21 list=BR-Block
@@ -566,6 +565,7 @@ add address=45.177.24.0/21 list=BR-Block
 add address=45.177.32.0/21 list=BR-Block
 add address=45.177.44.0/22 list=BR-Block
 add address=45.177.48.0/22 list=BR-Block
+add address=45.177.55.0/24 list=BR-Block
 add address=45.177.56.0/21 list=BR-Block
 add address=45.177.76.0/22 list=BR-Block
 add address=45.177.84.0/22 list=BR-Block
@@ -668,6 +668,7 @@ add address=45.181.7.0/24 list=BR-Block
 add address=45.181.8.0/22 list=BR-Block
 add address=45.181.16.0/20 list=BR-Block
 add address=45.181.32.0/21 list=BR-Block
+add address=45.181.43.0/24 list=BR-Block
 add address=45.181.48.0/20 list=BR-Block
 add address=45.181.64.0/22 list=BR-Block
 add address=45.181.72.0/22 list=BR-Block
@@ -796,7 +797,7 @@ add address=45.186.32.0/21 list=BR-Block
 add address=45.186.40.0/22 list=BR-Block
 add address=45.186.48.0/20 list=BR-Block
 add address=45.186.64.0/19 list=BR-Block
-add address=45.186.96.0/22 list=BR-Block
+add address=45.186.96.0/21 list=BR-Block
 add address=45.186.112.0/21 list=BR-Block
 add address=45.186.120.0/22 list=BR-Block
 add address=45.186.132.0/22 list=BR-Block
@@ -927,7 +928,8 @@ add address=45.191.168.0/21 list=BR-Block
 add address=45.191.180.0/22 list=BR-Block
 add address=45.191.184.0/22 list=BR-Block
 add address=45.191.200.0/21 list=BR-Block
-add address=45.191.208.0/20 list=BR-Block
+add address=45.191.212.0/22 list=BR-Block
+add address=45.191.216.0/21 list=BR-Block
 add address=45.191.228.0/22 list=BR-Block
 add address=45.191.236.0/22 list=BR-Block
 add address=45.191.240.0/22 list=BR-Block
@@ -1079,7 +1081,7 @@ add address=45.229.136.0/24 list=BR-Block
 add address=45.229.138.0/23 list=BR-Block
 add address=45.229.140.0/22 list=BR-Block
 add address=45.229.144.0/22 list=BR-Block
-add address=45.229.150.0/24 list=BR-Block
+add address=45.229.150.0/23 list=BR-Block
 add address=45.229.152.0/21 list=BR-Block
 add address=45.229.160.0/21 list=BR-Block
 add address=45.229.172.0/22 list=BR-Block
@@ -1475,9 +1477,7 @@ add address=131.196.88.0/21 list=BR-Block
 add address=131.196.96.0/20 list=BR-Block
 add address=131.196.116.0/22 list=BR-Block
 add address=131.196.120.0/21 list=BR-Block
-add address=131.196.128.0/21 list=BR-Block
-add address=131.196.136.0/22 list=BR-Block
-add address=131.196.144.0/20 list=BR-Block
+add address=131.196.128.0/19 list=BR-Block
 add address=131.196.160.0/20 list=BR-Block
 add address=131.196.184.0/22 list=BR-Block
 add address=131.196.196.0/22 list=BR-Block
@@ -1848,6 +1848,7 @@ add address=138.204.220.0/22 list=BR-Block
 add address=138.204.224.0/22 list=BR-Block
 add address=138.204.232.0/22 list=BR-Block
 add address=138.204.240.0/22 list=BR-Block
+add address=138.219.8.0/22 list=BR-Block
 add address=138.219.20.0/22 list=BR-Block
 add address=138.219.24.0/21 list=BR-Block
 add address=138.219.32.0/22 list=BR-Block
@@ -2076,7 +2077,8 @@ add address=164.163.64.0/21 list=BR-Block
 add address=164.163.76.0/22 list=BR-Block
 add address=164.163.84.0/22 list=BR-Block
 add address=164.163.92.0/22 list=BR-Block
-add address=164.163.96.0/20 list=BR-Block
+add address=164.163.96.0/21 list=BR-Block
+add address=164.163.104.0/22 list=BR-Block
 add address=164.163.112.0/21 list=BR-Block
 add address=164.163.136.0/21 list=BR-Block
 add address=164.163.144.0/20 list=BR-Block
@@ -2558,7 +2560,6 @@ add address=170.83.12.0/22 list=BR-Block
 add address=170.83.16.0/20 list=BR-Block
 add address=170.83.36.0/22 list=BR-Block
 add address=170.83.40.0/21 list=BR-Block
-add address=170.83.48.0/22 list=BR-Block
 add address=170.83.56.0/23 list=BR-Block
 add address=170.83.60.0/22 list=BR-Block
 add address=170.83.64.0/21 list=BR-Block
@@ -3038,22 +3039,8 @@ add address=177.74.224.0/19 list=BR-Block
 add address=177.75.0.0/16 list=BR-Block
 add address=177.76.0.0/14 list=BR-Block
 add address=177.80.0.0/14 list=BR-Block
-add address=177.84.0.0/17 list=BR-Block
-add address=177.84.128.0/18 list=BR-Block
-add address=177.84.192.0/21 list=BR-Block
-add address=177.84.200.0/23 list=BR-Block
-add address=177.84.204.0/22 list=BR-Block
-add address=177.84.208.0/20 list=BR-Block
-add address=177.84.224.0/19 list=BR-Block
-add address=177.85.0.0/16 list=BR-Block
-add address=177.86.0.0/17 list=BR-Block
-add address=177.86.128.0/21 list=BR-Block
-add address=177.86.136.0/22 list=BR-Block
-add address=177.86.140.0/23 list=BR-Block
-add address=177.86.143.0/24 list=BR-Block
-add address=177.86.144.0/20 list=BR-Block
-add address=177.86.160.0/19 list=BR-Block
-add address=177.86.192.0/18 list=BR-Block
+add address=177.84.0.0/15 list=BR-Block
+add address=177.86.0.0/16 list=BR-Block
 add address=177.87.0.0/17 list=BR-Block
 add address=177.87.128.0/18 list=BR-Block
 add address=177.87.192.0/19 list=BR-Block
@@ -3084,7 +3071,11 @@ add address=177.124.64.0/20 list=BR-Block
 add address=177.124.80.0/22 list=BR-Block
 add address=177.124.88.0/21 list=BR-Block
 add address=177.124.96.0/19 list=BR-Block
-add address=177.124.128.0/17 list=BR-Block
+add address=177.124.128.0/20 list=BR-Block
+add address=177.124.144.0/21 list=BR-Block
+add address=177.124.152.0/22 list=BR-Block
+add address=177.124.160.0/19 list=BR-Block
+add address=177.124.192.0/18 list=BR-Block
 add address=177.125.0.0/17 list=BR-Block
 add address=177.125.128.0/21 list=BR-Block
 add address=177.125.140.0/22 list=BR-Block
@@ -3500,18 +3491,7 @@ add address=186.219.56.0/21 list=BR-Block
 add address=186.219.64.0/18 list=BR-Block
 add address=186.219.128.0/17 list=BR-Block
 add address=186.220.0.0/14 list=BR-Block
-add address=186.224.0.0/13 list=BR-Block
-add address=186.232.0.0/17 list=BR-Block
-add address=186.232.128.0/18 list=BR-Block
-add address=186.232.192.0/19 list=BR-Block
-add address=186.232.224.0/20 list=BR-Block
-add address=186.232.240.0/23 list=BR-Block
-add address=186.232.243.0/24 list=BR-Block
-add address=186.232.244.0/22 list=BR-Block
-add address=186.232.248.0/21 list=BR-Block
-add address=186.233.0.0/16 list=BR-Block
-add address=186.234.0.0/15 list=BR-Block
-add address=186.236.0.0/14 list=BR-Block
+add address=186.224.0.0/12 list=BR-Block
 add address=186.240.128.0/20 list=BR-Block
 add address=186.240.160.0/20 list=BR-Block
 add address=186.241.0.0/20 list=BR-Block
@@ -3932,7 +3912,7 @@ add address=190.89.160.0/21 list=BR-Block
 add address=190.89.168.0/22 list=BR-Block
 add address=190.89.176.0/20 list=BR-Block
 add address=190.89.192.0/19 list=BR-Block
-add address=190.89.228.0/22 list=BR-Block
+add address=190.89.224.0/21 list=BR-Block
 add address=190.89.232.0/22 list=BR-Block
 add address=190.89.238.0/23 list=BR-Block
 add address=190.89.240.0/20 list=BR-Block
@@ -3943,7 +3923,6 @@ add address=190.102.48.0/21 list=BR-Block
 add address=190.103.148.0/22 list=BR-Block
 add address=190.103.152.0/21 list=BR-Block
 add address=190.103.160.0/20 list=BR-Block
-add address=190.103.189.0/24 list=BR-Block
 add address=190.105.196.0/22 list=BR-Block
 add address=190.106.88.0/21 list=BR-Block
 add address=190.106.228.0/22 list=BR-Block
@@ -3974,6 +3953,7 @@ add address=190.112.144.0/20 list=BR-Block
 add address=190.112.164.0/22 list=BR-Block
 add address=190.112.172.0/22 list=BR-Block
 add address=190.112.204.0/22 list=BR-Block
+add address=190.113.44.0/22 list=BR-Block
 add address=190.113.60.0/23 list=BR-Block
 add address=190.113.62.0/24 list=BR-Block
 add address=190.113.240.0/22 list=BR-Block
@@ -4221,6 +4201,7 @@ add address=200.1.125.0/24 list=BR-Block
 add address=200.1.129.0/24 list=BR-Block
 add address=200.1.216.0/21 list=BR-Block
 add address=200.2.28.0/22 list=BR-Block
+add address=200.2.88.0/23 list=BR-Block
 add address=200.2.100.0/22 list=BR-Block
 add address=200.3.16.0/20 list=BR-Block
 add address=200.3.196.0/22 list=BR-Block
@@ -4334,7 +4315,7 @@ add address=200.24.10.0/23 list=BR-Block
 add address=200.24.64.0/19 list=BR-Block
 add address=200.24.96.0/21 list=BR-Block
 add address=200.24.108.0/22 list=BR-Block
-add address=200.24.112.0/21 list=BR-Block
+add address=200.24.116.0/22 list=BR-Block
 add address=200.24.120.0/22 list=BR-Block
 add address=200.26.228.0/22 list=BR-Block
 add address=200.26.240.0/20 list=BR-Block
@@ -4536,7 +4517,6 @@ add address=200.189.0.0/20 list=BR-Block
 add address=200.189.32.0/21 list=BR-Block
 add address=200.189.40.0/22 list=BR-Block
 add address=200.189.48.0/20 list=BR-Block
-add address=200.189.64.0/22 list=BR-Block
 add address=200.189.72.0/21 list=BR-Block
 add address=200.189.80.0/20 list=BR-Block
 add address=200.189.96.0/19 list=BR-Block
@@ -4792,6 +4772,7 @@ add address=201.131.68.0/22 list=BR-Block
 add address=201.131.80.0/21 list=BR-Block
 add address=201.131.92.0/22 list=BR-Block
 add address=201.131.98.0/23 list=BR-Block
+add address=201.131.103.0/24 list=BR-Block
 add address=201.131.106.0/24 list=BR-Block
 add address=201.131.136.0/21 list=BR-Block
 add address=201.131.144.0/22 list=BR-Block

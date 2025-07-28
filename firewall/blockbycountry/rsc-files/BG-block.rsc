@@ -683,6 +683,7 @@ add address=95.214.25.0/24 list=BG-Block
 add address=95.214.26.0/23 list=BG-Block
 add address=95.214.68.0/22 list=BG-Block
 add address=95.214.104.0/22 list=BG-Block
+add address=103.65.230.0/23 list=BG-Block
 add address=104.192.42.0/24 list=BG-Block
 add address=109.94.110.0/24 list=BG-Block
 add address=109.104.192.0/19 list=BG-Block

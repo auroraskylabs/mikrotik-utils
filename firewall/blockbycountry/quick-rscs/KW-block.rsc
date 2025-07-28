@@ -121,6 +121,7 @@ add address=195.114.31.0/24 list=KW-Block
 add address=195.137.174.0/24 list=KW-Block
 add address=195.137.190.0/24 list=KW-Block
 add address=195.226.224.0/19 list=KW-Block
+add address=195.238.252.0/24 list=KW-Block
 add address=195.254.170.0/23 list=KW-Block
 add address=196.1.69.0/24 list=KW-Block
 add address=196.1.70.0/24 list=KW-Block

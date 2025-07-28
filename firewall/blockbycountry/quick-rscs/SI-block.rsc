@@ -410,6 +410,7 @@ add address=194.33.48.0/23 list=SI-Block
 add address=194.35.84.0/22 list=SI-Block
 add address=194.39.85.0/24 list=SI-Block
 add address=194.40.211.0/24 list=SI-Block
+add address=194.42.43.0/24 list=SI-Block
 add address=194.49.6.0/24 list=SI-Block
 add address=194.49.18.0/24 list=SI-Block
 add address=194.49.20.0/24 list=SI-Block

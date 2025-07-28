@@ -202,7 +202,8 @@ add address=89.31.168.0/21 list=IE-Block
 add address=89.35.118.0/24 list=IE-Block
 add address=89.100.0.0/15 list=IE-Block
 add address=89.106.136.0/21 list=IE-Block
-add address=89.124.0.0/17 list=IE-Block
+add address=89.124.0.0/19 list=IE-Block
+add address=89.124.64.0/18 list=IE-Block
 add address=89.124.128.0/18 list=IE-Block
 add address=89.124.192.0/19 list=IE-Block
 add address=89.124.224.0/20 list=IE-Block

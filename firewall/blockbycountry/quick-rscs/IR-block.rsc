@@ -531,6 +531,7 @@ add address=91.213.167.0/24 list=IR-Block
 add address=91.213.172.0/24 list=IR-Block
 add address=91.216.4.0/24 list=IR-Block
 add address=91.216.71.0/24 list=IR-Block
+add address=91.216.159.0/24 list=IR-Block
 add address=91.216.171.0/24 list=IR-Block
 add address=91.216.217.0/24 list=IR-Block
 add address=91.217.64.0/23 list=IR-Block
@@ -1430,6 +1431,7 @@ add address=193.8.95.0/24 list=IR-Block
 add address=193.8.139.0/24 list=IR-Block
 add address=193.9.24.0/24 list=IR-Block
 add address=193.19.144.0/23 list=IR-Block
+add address=193.19.147.0/24 list=IR-Block
 add address=193.22.20.0/24 list=IR-Block
 add address=193.24.103.0/24 list=IR-Block
 add address=193.24.105.0/24 list=IR-Block

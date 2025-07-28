@@ -253,6 +253,7 @@ add address=81.6.64.0/18 list=TR-Block
 add address=81.8.0.0/17 list=TR-Block
 add address=81.21.160.0/20 list=TR-Block
 add address=81.22.96.0/20 list=TR-Block
+add address=81.27.78.0/23 list=TR-Block
 add address=81.30.103.0/24 list=TR-Block
 add address=81.85.102.0/23 list=TR-Block
 add address=81.90.176.0/22 list=TR-Block
