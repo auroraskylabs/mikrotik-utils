@@ -3099,6 +3099,7 @@ add address=212.103.192.0/19 list=IT-Block
 add address=212.104.0.0/18 list=IT-Block
 add address=212.104.142.0/24 list=IT-Block
 add address=212.104.153.0/24 list=IT-Block
+add address=212.108.96.0/24 list=IT-Block
 add address=212.110.0.0/18 list=IT-Block
 add address=212.112.64.0/19 list=IT-Block
 add address=212.115.64.0/19 list=IT-Block

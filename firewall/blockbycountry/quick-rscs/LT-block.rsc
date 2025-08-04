@@ -831,6 +831,7 @@ add address=212.80.192.0/22 list=LT-Block
 add address=212.80.216.0/22 list=LT-Block
 add address=212.102.114.0/24 list=LT-Block
 add address=212.102.116.0/24 list=LT-Block
+add address=212.108.112.0/23 list=LT-Block
 add address=212.117.0.0/19 list=LT-Block
 add address=212.122.64.0/19 list=LT-Block
 add address=212.237.232.0/22 list=LT-Block

@@ -3790,6 +3790,7 @@ add address=212.91.0.0/19 list=PL-Block
 add address=212.96.224.0/19 list=PL-Block
 add address=212.106.0.0/19 list=PL-Block
 add address=212.106.128.0/18 list=PL-Block
+add address=212.108.121.0/24 list=PL-Block
 add address=212.109.128.0/19 list=PL-Block
 add address=212.109.160.0/21 list=PL-Block
 add address=212.110.128.0/20 list=PL-Block

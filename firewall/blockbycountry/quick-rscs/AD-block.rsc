@@ -13,6 +13,7 @@ add address=94.125.138.0/23 list=AD-Block
 add address=94.125.140.0/23 list=AD-Block
 add address=109.111.96.0/19 list=AD-Block
 add address=109.175.210.0/24 list=AD-Block
+add address=109.205.193.0/24 list=AD-Block
 add address=185.4.52.0/22 list=AD-Block
 add address=185.33.0.0/22 list=AD-Block
 add address=185.87.36.0/22 list=AD-Block

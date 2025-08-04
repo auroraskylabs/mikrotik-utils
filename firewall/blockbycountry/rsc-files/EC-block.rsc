@@ -100,7 +100,7 @@ add address=160.20.164.0/22 list=EC-Block
 add address=164.163.48.0/22 list=EC-Block
 add address=164.163.132.0/22 list=EC-Block
 add address=164.163.160.0/22 list=EC-Block
-add address=167.250.133.0/24 list=EC-Block
+add address=167.250.132.0/23 list=EC-Block
 add address=167.250.180.0/22 list=EC-Block
 add address=168.194.148.0/22 list=EC-Block
 add address=168.197.188.0/22 list=EC-Block

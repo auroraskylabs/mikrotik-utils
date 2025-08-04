@@ -1114,6 +1114,7 @@ add address=183.91.160.0/19 list=VN-Block
 add address=192.223.12.0/22 list=VN-Block
 add address=194.127.192.0/23 list=VN-Block
 add address=195.85.19.0/24 list=VN-Block
+add address=198.56.22.0/23 list=VN-Block
 add address=202.0.79.0/24 list=VN-Block
 add address=202.4.168.0/24 list=VN-Block
 add address=202.4.176.0/24 list=VN-Block
@@ -1138,6 +1139,7 @@ add address=202.74.56.0/24 list=VN-Block
 add address=202.74.58.0/23 list=VN-Block
 add address=202.78.224.0/21 list=VN-Block
 add address=202.79.232.0/21 list=VN-Block
+add address=202.83.0.0/22 list=VN-Block
 add address=202.87.212.0/22 list=VN-Block
 add address=202.92.4.0/22 list=VN-Block
 add address=202.92.213.0/24 list=VN-Block
@@ -1158,6 +1160,7 @@ add address=202.181.143.0/24 list=VN-Block
 add address=202.191.56.0/22 list=VN-Block
 add address=203.8.127.0/24 list=VN-Block
 add address=203.8.172.0/24 list=VN-Block
+add address=203.12.252.0/23 list=VN-Block
 add address=203.29.16.0/22 list=VN-Block
 add address=203.34.144.0/24 list=VN-Block
 add address=203.77.178.0/24 list=VN-Block

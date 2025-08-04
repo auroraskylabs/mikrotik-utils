@@ -1849,6 +1849,7 @@ add address=212.100.96.0/19 list=SE-Block
 add address=212.105.0.0/17 list=SE-Block
 add address=212.107.32.0/19 list=SE-Block
 add address=212.107.128.0/19 list=SE-Block
+add address=212.108.105.0/24 list=SE-Block
 add address=212.112.0.0/18 list=SE-Block
 add address=212.112.160.0/19 list=SE-Block
 add address=212.116.64.0/19 list=SE-Block

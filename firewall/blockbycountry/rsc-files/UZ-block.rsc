@@ -33,6 +33,7 @@ add address=83.69.128.0/19 list=UZ-Block
 add address=83.221.160.0/19 list=UZ-Block
 add address=83.222.6.0/23 list=UZ-Block
 add address=84.54.64.0/18 list=UZ-Block
+add address=85.8.185.0/24 list=UZ-Block
 add address=85.204.79.0/24 list=UZ-Block
 add address=86.62.0.0/22 list=UZ-Block
 add address=87.192.224.0/19 list=UZ-Block
@@ -104,6 +105,7 @@ add address=185.163.24.0/22 list=UZ-Block
 add address=185.166.255.0/24 list=UZ-Block
 add address=185.178.51.0/24 list=UZ-Block
 add address=185.183.240.0/22 list=UZ-Block
+add address=185.184.53.0/24 list=UZ-Block
 add address=185.196.212.0/22 list=UZ-Block
 add address=185.196.216.0/22 list=UZ-Block
 add address=185.203.236.0/22 list=UZ-Block

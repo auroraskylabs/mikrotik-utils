@@ -506,6 +506,7 @@ add address=212.32.16.0/21 list=CY-Block
 add address=212.32.56.0/21 list=CY-Block
 add address=212.50.96.0/19 list=CY-Block
 add address=212.73.150.0/24 list=CY-Block
+add address=212.108.119.0/24 list=CY-Block
 add address=213.5.129.0/24 list=CY-Block
 add address=213.7.0.0/16 list=CY-Block
 add address=213.59.112.0/20 list=CY-Block

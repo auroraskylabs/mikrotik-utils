@@ -2647,6 +2647,7 @@ add address=217.65.67.0/24 list=UA-Block
 add address=217.65.240.0/20 list=UA-Block
 add address=217.66.96.0/20 list=UA-Block
 add address=217.67.64.0/20 list=UA-Block
+add address=217.70.7.0/24 list=UA-Block
 add address=217.73.80.0/20 list=UA-Block
 add address=217.76.192.0/20 list=UA-Block
 add address=217.77.208.0/20 list=UA-Block

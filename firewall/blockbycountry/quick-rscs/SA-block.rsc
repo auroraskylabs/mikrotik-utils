@@ -528,6 +528,7 @@ add address=212.100.192.0/19 list=SA-Block
 add address=212.102.0.0/19 list=SA-Block
 add address=212.107.96.0/19 list=SA-Block
 add address=212.108.85.0/24 list=SA-Block
+add address=212.108.100.0/24 list=SA-Block
 add address=212.116.192.0/19 list=SA-Block
 add address=212.118.96.0/19 list=SA-Block
 add address=212.118.128.0/19 list=SA-Block

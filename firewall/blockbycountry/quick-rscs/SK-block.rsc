@@ -124,6 +124,7 @@ add address=91.237.168.0/23 list=SK-Block
 add address=91.237.170.0/24 list=SK-Block
 add address=91.242.163.0/24 list=SK-Block
 add address=91.243.122.0/24 list=SK-Block
+add address=91.244.226.0/24 list=SK-Block
 add address=92.52.0.0/18 list=SK-Block
 add address=92.60.48.0/20 list=SK-Block
 add address=92.240.224.0/20 list=SK-Block

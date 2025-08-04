@@ -3916,6 +3916,10 @@ add address=212.104.192.0/20 list=FR-Block
 add address=212.104.240.0/20 list=FR-Block
 add address=212.106.96.0/19 list=FR-Block
 add address=212.107.64.0/19 list=FR-Block
+add address=212.108.108.0/24 list=FR-Block
+add address=212.108.117.0/24 list=FR-Block
+add address=212.108.118.0/24 list=FR-Block
+add address=212.108.123.0/24 list=FR-Block
 add address=212.114.0.0/19 list=FR-Block
 add address=212.121.32.0/19 list=FR-Block
 add address=212.121.160.0/19 list=FR-Block

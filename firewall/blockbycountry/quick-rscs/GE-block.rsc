@@ -307,6 +307,7 @@ add address=213.217.16.0/22 list=GE-Block
 add address=217.11.160.0/22 list=GE-Block
 add address=217.11.164.0/23 list=GE-Block
 add address=217.26.222.0/24 list=GE-Block
+add address=217.70.4.0/24 list=GE-Block
 add address=217.147.224.0/20 list=GE-Block
 
 /ip firewall raw

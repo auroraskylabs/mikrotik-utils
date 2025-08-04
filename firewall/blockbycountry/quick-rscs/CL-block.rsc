@@ -182,7 +182,6 @@ add address=166.110.0.0/16 list=CL-Block
 add address=167.28.0.0/16 list=CL-Block
 add address=167.249.28.0/22 list=CL-Block
 add address=167.250.52.0/22 list=CL-Block
-add address=167.250.132.0/24 list=CL-Block
 add address=167.250.196.0/23 list=CL-Block
 add address=168.90.156.0/22 list=CL-Block
 add address=168.90.220.0/22 list=CL-Block

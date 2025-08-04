@@ -1524,6 +1524,7 @@ add address=217.65.69.0/24 list=CZ-Block
 add address=217.65.76.0/24 list=CZ-Block
 add address=217.66.160.0/19 list=CZ-Block
 add address=217.69.96.0/20 list=CZ-Block
+add address=217.70.2.0/24 list=CZ-Block
 add address=217.75.208.0/20 list=CZ-Block
 add address=217.77.160.0/20 list=CZ-Block
 add address=217.112.160.0/20 list=CZ-Block

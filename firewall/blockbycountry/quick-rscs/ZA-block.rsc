@@ -165,7 +165,6 @@ add address=102.23.168.0/21 list=ZA-Block
 add address=102.23.176.0/20 list=ZA-Block
 add address=102.23.192.0/20 list=ZA-Block
 add address=102.23.208.0/21 list=ZA-Block
-add address=102.23.216.0/23 list=ZA-Block
 add address=102.23.224.0/19 list=ZA-Block
 add address=102.32.0.0/15 list=ZA-Block
 add address=102.36.0.0/17 list=ZA-Block

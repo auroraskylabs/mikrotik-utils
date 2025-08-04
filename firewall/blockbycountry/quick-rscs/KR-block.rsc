@@ -306,7 +306,6 @@ add address=103.143.176.0/23 list=KR-Block
 add address=103.144.30.0/23 list=KR-Block
 add address=103.145.214.0/23 list=KR-Block
 add address=103.146.180.0/23 list=KR-Block
-add address=103.149.188.0/23 list=KR-Block
 add address=103.150.62.0/23 list=KR-Block
 add address=103.150.160.0/24 list=KR-Block
 add address=103.150.162.0/23 list=KR-Block

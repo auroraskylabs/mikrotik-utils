@@ -7,7 +7,6 @@ add address=45.88.36.0/22 list=GI-Block
 add address=45.89.212.0/22 list=GI-Block
 add address=45.94.8.0/22 list=GI-Block
 add address=62.192.155.0/24 list=GI-Block
-add address=62.205.128.0/19 list=GI-Block
 add address=80.92.200.0/22 list=GI-Block
 add address=85.115.128.0/19 list=GI-Block
 add address=85.159.120.0/21 list=GI-Block
@@ -64,7 +63,8 @@ add address=193.105.57.0/24 list=GI-Block
 add address=193.169.30.0/24 list=GI-Block
 add address=194.164.146.0/23 list=GI-Block
 add address=195.166.192.0/19 list=GI-Block
-add address=195.214.212.0/22 list=GI-Block
+add address=195.214.213.0/24 list=GI-Block
+add address=195.214.214.0/24 list=GI-Block
 add address=195.244.192.0/19 list=GI-Block
 add address=212.22.224.0/19 list=GI-Block
 add address=212.86.97.0/24 list=GI-Block

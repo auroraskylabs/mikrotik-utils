@@ -388,6 +388,7 @@ add address=45.149.68.0/22 list=HK-Block
 add address=45.150.112.0/23 list=HK-Block
 add address=45.150.114.0/24 list=HK-Block
 add address=45.151.28.0/23 list=HK-Block
+add address=45.152.56.0/22 list=HK-Block
 add address=45.152.64.0/22 list=HK-Block
 add address=45.152.176.0/22 list=HK-Block
 add address=45.153.8.0/22 list=HK-Block
@@ -2265,6 +2266,7 @@ add address=202.0.160.0/20 list=HK-Block
 add address=202.0.180.0/22 list=HK-Block
 add address=202.1.2.0/24 list=HK-Block
 add address=202.1.6.0/23 list=HK-Block
+add address=202.1.20.0/23 list=HK-Block
 add address=202.1.116.0/22 list=HK-Block
 add address=202.1.232.0/24 list=HK-Block
 add address=202.2.64.0/20 list=HK-Block
@@ -2574,6 +2576,7 @@ add address=203.11.128.0/21 list=HK-Block
 add address=203.12.88.0/21 list=HK-Block
 add address=203.12.116.0/24 list=HK-Block
 add address=203.12.200.0/21 list=HK-Block
+add address=203.12.254.0/23 list=HK-Block
 add address=203.13.80.0/21 list=HK-Block
 add address=203.14.106.0/24 list=HK-Block
 add address=203.14.184.0/21 list=HK-Block
