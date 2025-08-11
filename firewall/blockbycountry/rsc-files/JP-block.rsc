@@ -2895,6 +2895,7 @@ add address=207.66.112.0/21 list=JP-Block
 add address=208.111.48.0/21 list=JP-Block
 add address=209.17.64.0/19 list=JP-Block
 add address=209.107.140.0/22 list=JP-Block
+add address=209.131.124.0/23 list=JP-Block
 add address=210.1.144.0/20 list=JP-Block
 add address=210.1.160.0/19 list=JP-Block
 add address=210.1.236.0/22 list=JP-Block

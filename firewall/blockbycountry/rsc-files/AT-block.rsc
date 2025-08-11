@@ -810,6 +810,7 @@ add address=185.86.24.0/22 list=AT-Block
 add address=185.87.16.0/22 list=AT-Block
 add address=185.87.237.0/24 list=AT-Block
 add address=185.87.238.0/23 list=AT-Block
+add address=185.88.200.0/23 list=AT-Block
 add address=185.89.48.0/22 list=AT-Block
 add address=185.89.160.0/22 list=AT-Block
 add address=185.90.20.0/22 list=AT-Block

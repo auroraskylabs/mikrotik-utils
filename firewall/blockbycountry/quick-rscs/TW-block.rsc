@@ -530,7 +530,6 @@ add address=163.61.184.0/23 list=TW-Block
 add address=163.223.206.0/23 list=TW-Block
 add address=163.223.248.0/23 list=TW-Block
 add address=163.227.172.0/23 list=TW-Block
-add address=163.227.236.0/23 list=TW-Block
 add address=165.99.64.0/22 list=TW-Block
 add address=165.99.112.0/23 list=TW-Block
 add address=165.99.168.0/22 list=TW-Block

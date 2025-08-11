@@ -492,6 +492,7 @@ add address=185.152.72.0/22 list=IE-Block
 add address=185.153.235.0/24 list=IE-Block
 add address=185.154.76.0/22 list=IE-Block
 add address=185.155.196.0/22 list=IE-Block
+add address=185.155.228.0/24 list=IE-Block
 add address=185.156.196.0/22 list=IE-Block
 add address=185.159.36.0/22 list=IE-Block
 add address=185.159.48.0/22 list=IE-Block

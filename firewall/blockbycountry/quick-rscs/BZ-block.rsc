@@ -105,7 +105,6 @@ add address=185.142.218.0/24 list=BZ-Block
 add address=185.145.114.0/24 list=BZ-Block
 add address=185.156.200.0/22 list=BZ-Block
 add address=185.221.220.0/24 list=BZ-Block
-add address=185.223.57.0/24 list=BZ-Block
 add address=185.240.253.0/24 list=BZ-Block
 add address=186.65.88.0/22 list=BZ-Block
 add address=188.119.88.0/22 list=BZ-Block

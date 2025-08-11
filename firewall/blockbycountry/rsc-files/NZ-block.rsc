@@ -954,13 +954,14 @@ add address=202.36.220.0/23 list=NZ-Block
 add address=202.36.224.0/23 list=NZ-Block
 add address=202.36.227.0/24 list=NZ-Block
 add address=202.36.228.0/24 list=NZ-Block
-add address=202.36.230.0/23 list=NZ-Block
+add address=202.36.231.0/24 list=NZ-Block
 add address=202.36.233.0/24 list=NZ-Block
 add address=202.36.244.0/23 list=NZ-Block
 add address=202.36.246.0/24 list=NZ-Block
 add address=202.36.248.0/21 list=NZ-Block
 add address=202.37.0.0/20 list=NZ-Block
 add address=202.37.17.0/24 list=NZ-Block
+add address=202.37.23.0/24 list=NZ-Block
 add address=202.37.26.0/24 list=NZ-Block
 add address=202.37.32.0/21 list=NZ-Block
 add address=202.37.42.0/23 list=NZ-Block
@@ -1183,6 +1184,7 @@ add address=202.189.160.0/20 list=NZ-Block
 add address=202.191.32.0/20 list=NZ-Block
 add address=203.5.28.0/24 list=NZ-Block
 add address=203.6.246.0/24 list=NZ-Block
+add address=203.9.198.0/23 list=NZ-Block
 add address=203.9.216.0/23 list=NZ-Block
 add address=203.14.20.0/24 list=NZ-Block
 add address=203.18.59.0/24 list=NZ-Block

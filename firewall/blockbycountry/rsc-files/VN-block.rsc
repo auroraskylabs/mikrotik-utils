@@ -29,6 +29,7 @@ add address=43.239.148.0/22 list=VN-Block
 add address=43.239.184.0/21 list=VN-Block
 add address=43.239.220.0/22 list=VN-Block
 add address=43.239.224.0/22 list=VN-Block
+add address=45.115.16.0/23 list=VN-Block
 add address=45.117.76.0/22 list=VN-Block
 add address=45.117.80.0/22 list=VN-Block
 add address=45.117.156.0/22 list=VN-Block

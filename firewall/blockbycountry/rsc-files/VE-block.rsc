@@ -16,6 +16,7 @@ add address=45.175.212.0/22 list=VE-Block
 add address=45.178.164.0/22 list=VE-Block
 add address=45.179.12.0/22 list=VE-Block
 add address=45.179.164.0/22 list=VE-Block
+add address=45.179.196.0/23 list=VE-Block
 add address=45.181.124.0/22 list=VE-Block
 add address=45.181.224.0/22 list=VE-Block
 add address=45.181.248.0/22 list=VE-Block

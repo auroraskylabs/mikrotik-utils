@@ -1641,7 +1641,6 @@ add address=103.169.140.0/23 list=AU-Block
 add address=103.169.142.0/24 list=AU-Block
 add address=103.169.180.0/24 list=AU-Block
 add address=103.169.190.0/23 list=AU-Block
-add address=103.169.218.0/23 list=AU-Block
 add address=103.170.2.0/24 list=AU-Block
 add address=103.170.28.0/23 list=AU-Block
 add address=103.170.76.0/23 list=AU-Block
@@ -2703,7 +2702,10 @@ add address=157.15.242.0/23 list=AU-Block
 add address=157.20.102.0/23 list=AU-Block
 add address=157.20.112.0/23 list=AU-Block
 add address=157.20.140.0/23 list=AU-Block
-add address=157.85.0.0/16 list=AU-Block
+add address=157.85.0.0/17 list=AU-Block
+add address=157.85.128.0/18 list=AU-Block
+add address=157.85.192.0/19 list=AU-Block
+add address=157.85.240.0/20 list=AU-Block
 add address=157.128.0.0/16 list=AU-Block
 add address=157.155.0.0/16 list=AU-Block
 add address=157.211.0.0/16 list=AU-Block
@@ -3167,7 +3169,7 @@ add address=192.189.230.0/23 list=AU-Block
 add address=192.189.232.0/24 list=AU-Block
 add address=192.190.61.0/24 list=AU-Block
 add address=192.190.66.0/24 list=AU-Block
-add address=192.190.180.0/24 list=AU-Block
+add address=192.190.180.0/23 list=AU-Block
 add address=192.190.208.0/24 list=AU-Block
 add address=192.190.210.0/23 list=AU-Block
 add address=192.190.212.0/22 list=AU-Block
@@ -3239,6 +3241,7 @@ add address=195.49.140.0/22 list=AU-Block
 add address=195.96.135.0/24 list=AU-Block
 add address=195.114.14.0/23 list=AU-Block
 add address=195.114.126.0/23 list=AU-Block
+add address=198.17.118.0/24 list=AU-Block
 add address=198.22.61.0/24 list=AU-Block
 add address=198.49.2.0/24 list=AU-Block
 add address=198.49.32.0/21 list=AU-Block
@@ -5541,6 +5544,7 @@ add address=210.50.0.0/16 list=AU-Block
 add address=210.56.64.0/24 list=AU-Block
 add address=210.56.68.0/22 list=AU-Block
 add address=210.56.80.0/20 list=AU-Block
+add address=210.56.148.0/22 list=AU-Block
 add address=210.56.152.0/21 list=AU-Block
 add address=210.56.224.0/19 list=AU-Block
 add address=210.79.16.0/20 list=AU-Block

@@ -1022,6 +1022,7 @@ add address=194.88.5.0/24 list=DK-Block
 add address=194.88.216.0/23 list=DK-Block
 add address=194.88.234.0/23 list=DK-Block
 add address=194.99.114.0/23 list=DK-Block
+add address=194.104.127.0/24 list=DK-Block
 add address=194.110.136.0/24 list=DK-Block
 add address=194.110.206.0/24 list=DK-Block
 add address=194.116.178.0/23 list=DK-Block

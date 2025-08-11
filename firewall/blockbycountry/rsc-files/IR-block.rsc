@@ -321,9 +321,11 @@ add address=86.105.128.0/20 list=IR-Block
 add address=86.106.142.0/24 list=IR-Block
 add address=86.106.192.0/21 list=IR-Block
 add address=86.107.0.0/20 list=IR-Block
+add address=86.107.47.0/24 list=IR-Block
 add address=86.107.80.0/20 list=IR-Block
 add address=86.107.144.0/20 list=IR-Block
 add address=86.107.172.0/22 list=IR-Block
+add address=86.107.184.0/24 list=IR-Block
 add address=86.107.208.0/20 list=IR-Block
 add address=86.109.32.0/19 list=IR-Block
 add address=87.107.0.0/16 list=IR-Block
@@ -344,6 +346,7 @@ add address=89.32.96.0/20 list=IR-Block
 add address=89.32.196.0/23 list=IR-Block
 add address=89.32.248.0/22 list=IR-Block
 add address=89.33.18.0/23 list=IR-Block
+add address=89.33.87.0/24 list=IR-Block
 add address=89.33.100.0/22 list=IR-Block
 add address=89.33.128.0/23 list=IR-Block
 add address=89.33.204.0/23 list=IR-Block
@@ -363,6 +366,7 @@ add address=89.35.64.0/21 list=IR-Block
 add address=89.35.120.0/22 list=IR-Block
 add address=89.35.132.0/23 list=IR-Block
 add address=89.35.156.0/23 list=IR-Block
+add address=89.35.172.0/24 list=IR-Block
 add address=89.35.176.0/23 list=IR-Block
 add address=89.35.180.0/22 list=IR-Block
 add address=89.35.194.0/23 list=IR-Block
@@ -1484,6 +1488,8 @@ add address=193.151.128.0/19 list=IR-Block
 add address=193.162.129.0/24 list=IR-Block
 add address=193.176.97.0/24 list=IR-Block
 add address=193.176.240.0/22 list=IR-Block
+add address=193.177.242.0/24 list=IR-Block
+add address=193.177.245.0/24 list=IR-Block
 add address=193.178.200.0/22 list=IR-Block
 add address=193.186.32.0/24 list=IR-Block
 add address=193.189.122.0/23 list=IR-Block
@@ -1548,6 +1554,7 @@ add address=194.60.228.0/22 list=IR-Block
 add address=194.61.3.0/24 list=IR-Block
 add address=194.62.17.0/24 list=IR-Block
 add address=194.62.43.0/24 list=IR-Block
+add address=194.88.232.0/24 list=IR-Block
 add address=194.107.116.0/24 list=IR-Block
 add address=194.110.24.0/24 list=IR-Block
 add address=194.110.118.0/24 list=IR-Block

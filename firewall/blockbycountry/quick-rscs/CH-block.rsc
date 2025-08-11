@@ -748,7 +748,8 @@ add address=138.188.0.0/14 list=CH-Block
 add address=138.206.0.0/16 list=CH-Block
 add address=138.221.0.0/16 list=CH-Block
 add address=138.222.0.0/15 list=CH-Block
-add address=138.224.0.0/14 list=CH-Block
+add address=138.224.0.0/15 list=CH-Block
+add address=138.227.0.0/16 list=CH-Block
 add address=138.228.0.0/16 list=CH-Block
 add address=138.248.48.0/20 list=CH-Block
 add address=139.28.96.0/22 list=CH-Block

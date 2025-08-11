@@ -1970,6 +1970,7 @@ add address=202.181.12.0/22 list=BD-Block
 add address=202.181.16.0/22 list=BD-Block
 add address=202.191.120.0/21 list=BD-Block
 add address=203.4.187.0/24 list=BD-Block
+add address=203.9.214.0/23 list=BD-Block
 add address=203.13.162.0/23 list=BD-Block
 add address=203.17.65.0/24 list=BD-Block
 add address=203.18.158.0/23 list=BD-Block
@@ -2016,6 +2017,7 @@ add address=203.223.88.0/23 list=BD-Block
 add address=203.223.92.0/22 list=BD-Block
 add address=210.1.240.0/20 list=BD-Block
 add address=210.4.64.0/20 list=BD-Block
+add address=210.56.144.0/23 list=BD-Block
 add address=210.79.180.0/22 list=BD-Block
 add address=210.87.64.0/23 list=BD-Block
 add address=210.87.68.0/22 list=BD-Block

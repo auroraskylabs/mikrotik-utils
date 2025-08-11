@@ -458,6 +458,7 @@ add address=194.33.68.0/24 list=SA-Block
 add address=194.33.70.0/23 list=SA-Block
 add address=194.36.164.0/24 list=SA-Block
 add address=194.50.35.0/24 list=SA-Block
+add address=194.53.174.0/24 list=SA-Block
 add address=194.62.148.0/22 list=SA-Block
 add address=194.104.226.0/24 list=SA-Block
 add address=194.126.231.0/24 list=SA-Block
