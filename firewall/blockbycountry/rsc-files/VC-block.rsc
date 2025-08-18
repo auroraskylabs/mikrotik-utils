@@ -2,6 +2,7 @@
 /ip firewall address-list
 add address=23.170.80.0/24 list=VC-Block
 add address=45.42.232.0/22 list=VC-Block
+add address=91.230.190.0/24 list=VC-Block
 add address=104.219.24.0/22 list=VC-Block
 add address=104.255.232.0/22 list=VC-Block
 add address=162.212.210.0/23 list=VC-Block

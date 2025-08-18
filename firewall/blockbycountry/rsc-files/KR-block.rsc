@@ -118,6 +118,7 @@ add address=49.143.0.0/17 list=KR-Block
 add address=49.143.128.0/18 list=KR-Block
 add address=49.143.192.0/19 list=KR-Block
 add address=49.160.0.0/12 list=KR-Block
+add address=49.213.44.0/23 list=KR-Block
 add address=49.236.64.0/18 list=KR-Block
 add address=49.236.128.0/18 list=KR-Block
 add address=49.238.64.0/18 list=KR-Block

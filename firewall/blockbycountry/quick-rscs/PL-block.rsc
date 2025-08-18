@@ -117,7 +117,7 @@ add address=37.108.0.0/15 list=PL-Block
 add address=37.123.200.0/21 list=PL-Block
 add address=37.128.0.0/17 list=PL-Block
 add address=37.128.152.0/21 list=PL-Block
-add address=37.128.160.0/21 list=PL-Block
+add address=37.128.160.0/22 list=PL-Block
 add address=37.130.0.0/18 list=PL-Block
 add address=37.131.128.0/19 list=PL-Block
 add address=37.131.160.0/20 list=PL-Block

@@ -785,6 +785,7 @@ add address=185.45.136.0/22 list=CZ-Block
 add address=185.45.200.0/22 list=CZ-Block
 add address=185.47.176.0/22 list=CZ-Block
 add address=185.47.220.0/22 list=CZ-Block
+add address=185.48.7.0/24 list=CZ-Block
 add address=185.48.20.0/22 list=CZ-Block
 add address=185.49.188.0/22 list=CZ-Block
 add address=185.50.124.0/22 list=CZ-Block
@@ -797,6 +798,7 @@ add address=185.52.96.0/22 list=CZ-Block
 add address=185.52.172.0/22 list=CZ-Block
 add address=185.52.216.0/22 list=CZ-Block
 add address=185.53.4.0/22 list=CZ-Block
+add address=185.54.0.0/23 list=CZ-Block
 add address=185.57.228.0/23 list=CZ-Block
 add address=185.58.40.0/22 list=CZ-Block
 add address=185.59.0.0/22 list=CZ-Block

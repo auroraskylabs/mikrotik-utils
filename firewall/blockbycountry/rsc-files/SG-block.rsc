@@ -1171,6 +1171,7 @@ add address=202.9.70.0/23 list=SG-Block
 add address=202.9.86.0/24 list=SG-Block
 add address=202.9.89.0/24 list=SG-Block
 add address=202.12.94.0/23 list=SG-Block
+add address=202.12.122.0/24 list=SG-Block
 add address=202.14.8.0/21 list=SG-Block
 add address=202.14.204.0/22 list=SG-Block
 add address=202.21.129.0/24 list=SG-Block

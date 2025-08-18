@@ -64,6 +64,7 @@ add address=45.252.240.0/21 list=VN-Block
 add address=45.252.248.0/22 list=VN-Block
 add address=45.254.32.0/22 list=VN-Block
 add address=49.156.52.0/22 list=VN-Block
+add address=49.213.40.0/23 list=VN-Block
 add address=49.213.64.0/18 list=VN-Block
 add address=49.236.208.0/22 list=VN-Block
 add address=49.246.128.0/18 list=VN-Block
@@ -806,6 +807,8 @@ add address=109.70.236.0/24 list=VN-Block
 add address=109.237.64.0/21 list=VN-Block
 add address=110.35.64.0/20 list=VN-Block
 add address=110.44.184.0/21 list=VN-Block
+add address=110.172.26.0/23 list=VN-Block
+add address=110.172.28.0/23 list=VN-Block
 add address=111.65.240.0/20 list=VN-Block
 add address=111.91.232.0/22 list=VN-Block
 add address=112.72.64.0/18 list=VN-Block

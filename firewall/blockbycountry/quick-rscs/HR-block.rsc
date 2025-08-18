@@ -93,6 +93,7 @@ add address=91.233.36.0/23 list=HR-Block
 add address=91.234.46.0/24 list=HR-Block
 add address=91.236.37.0/24 list=HR-Block
 add address=91.241.53.0/24 list=HR-Block
+add address=91.243.76.0/24 list=HR-Block
 add address=92.242.224.0/19 list=HR-Block
 add address=92.243.80.0/24 list=HR-Block
 add address=93.136.0.0/13 list=HR-Block

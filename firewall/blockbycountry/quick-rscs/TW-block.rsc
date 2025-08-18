@@ -49,6 +49,7 @@ add address=45.123.116.0/22 list=TW-Block
 add address=49.128.64.0/19 list=TW-Block
 add address=49.128.112.0/20 list=TW-Block
 add address=49.158.0.0/15 list=TW-Block
+add address=49.213.34.0/23 list=TW-Block
 add address=49.213.128.0/17 list=TW-Block
 add address=49.214.0.0/15 list=TW-Block
 add address=49.216.0.0/14 list=TW-Block

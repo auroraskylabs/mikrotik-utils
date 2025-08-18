@@ -205,6 +205,7 @@ add address=185.30.120.0/22 list=SK-Block
 add address=185.37.240.0/22 list=SK-Block
 add address=185.42.4.0/22 list=SK-Block
 add address=185.43.112.0/22 list=SK-Block
+add address=185.48.4.0/24 list=SK-Block
 add address=185.48.248.0/22 list=SK-Block
 add address=185.50.212.0/22 list=SK-Block
 add address=185.54.140.0/22 list=SK-Block

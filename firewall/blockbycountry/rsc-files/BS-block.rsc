@@ -20,7 +20,6 @@ add address=161.199.175.0/24 list=BS-Block
 add address=165.140.144.0/22 list=BS-Block
 add address=170.117.211.0/24 list=BS-Block
 add address=192.231.36.0/24 list=BS-Block
-add address=199.102.188.0/22 list=BS-Block
 add address=204.236.64.0/18 list=BS-Block
 add address=208.87.32.0/21 list=BS-Block
 add address=209.126.78.0/24 list=BS-Block

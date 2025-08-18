@@ -475,6 +475,7 @@ add address=63.140.0.0/20 list=HK-Block
 add address=64.120.88.0/22 list=HK-Block
 add address=64.120.112.0/21 list=HK-Block
 add address=64.120.120.0/23 list=HK-Block
+add address=64.188.56.0/21 list=HK-Block
 add address=65.181.64.0/19 list=HK-Block
 add address=66.203.144.0/20 list=HK-Block
 add address=66.220.47.0/24 list=HK-Block

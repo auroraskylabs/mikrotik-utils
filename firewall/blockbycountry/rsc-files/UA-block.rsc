@@ -165,7 +165,6 @@ add address=46.16.162.0/23 list=UA-Block
 add address=46.16.165.0/24 list=UA-Block
 add address=46.16.167.0/24 list=UA-Block
 add address=46.18.0.0/21 list=UA-Block
-add address=46.28.192.0/21 list=UA-Block
 add address=46.29.128.0/21 list=UA-Block
 add address=46.33.32.0/19 list=UA-Block
 add address=46.33.224.0/19 list=UA-Block

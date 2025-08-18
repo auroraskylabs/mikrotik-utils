@@ -42,6 +42,7 @@ add address=102.131.48.0/21 list=MU-Block
 add address=102.140.176.0/20 list=MU-Block
 add address=102.160.0.0/14 list=MU-Block
 add address=102.176.128.0/19 list=MU-Block
+add address=102.205.35.0/24 list=MU-Block
 add address=102.209.96.0/22 list=MU-Block
 add address=102.211.0.0/22 list=MU-Block
 add address=102.211.104.0/24 list=MU-Block

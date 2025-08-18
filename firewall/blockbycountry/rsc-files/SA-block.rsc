@@ -250,6 +250,7 @@ add address=149.232.64.0/18 list=SA-Block
 add address=151.173.0.0/16 list=SA-Block
 add address=151.254.0.0/15 list=SA-Block
 add address=152.36.224.0/19 list=SA-Block
+add address=152.114.228.0/22 list=SA-Block
 add address=153.94.64.0/18 list=SA-Block
 add address=155.138.64.0/18 list=SA-Block
 add address=158.80.128.0/18 list=SA-Block
