@@ -1525,6 +1525,8 @@ add address=194.5.195.0/24 list=IR-Block
 add address=194.5.205.0/24 list=IR-Block
 add address=194.9.56.0/23 list=IR-Block
 add address=194.9.80.0/23 list=IR-Block
+add address=194.26.64.0/24 list=IR-Block
+add address=194.26.66.0/24 list=IR-Block
 add address=194.26.99.0/24 list=IR-Block
 add address=194.26.117.0/24 list=IR-Block
 add address=194.26.195.0/24 list=IR-Block

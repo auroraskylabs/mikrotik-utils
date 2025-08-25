@@ -1828,6 +1828,7 @@ add address=178.251.120.0/22 list=PL-Block
 add address=178.252.0.0/18 list=PL-Block
 add address=178.255.40.0/21 list=PL-Block
 add address=185.0.16.0/24 list=PL-Block
+add address=185.0.42.0/23 list=PL-Block
 add address=185.1.4.0/22 list=PL-Block
 add address=185.1.9.0/24 list=PL-Block
 add address=185.1.10.0/23 list=PL-Block

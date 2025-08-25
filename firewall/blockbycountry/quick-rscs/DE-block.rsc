@@ -2920,6 +2920,7 @@ add address=144.41.0.0/16 list=DE-Block
 add address=144.76.0.0/16 list=DE-Block
 add address=144.91.64.0/18 list=DE-Block
 add address=144.145.0.0/16 list=DE-Block
+add address=145.11.64.0/18 list=DE-Block
 add address=145.14.128.0/19 list=DE-Block
 add address=145.14.192.0/20 list=DE-Block
 add address=145.14.224.0/20 list=DE-Block
@@ -7941,6 +7942,7 @@ add address=199.247.56.0/21 list=DE-Block
 add address=202.49.88.0/23 list=DE-Block
 add address=202.71.128.0/20 list=DE-Block
 add address=202.71.144.0/21 list=DE-Block
+add address=202.89.144.0/20 list=DE-Block
 add address=204.11.0.0/22 list=DE-Block
 add address=204.79.128.0/24 list=DE-Block
 add address=204.79.147.0/24 list=DE-Block

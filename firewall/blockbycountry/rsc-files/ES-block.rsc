@@ -1353,6 +1353,7 @@ add address=162.213.64.0/22 list=ES-Block
 add address=162.248.160.0/21 list=ES-Block
 add address=163.117.0.0/16 list=ES-Block
 add address=164.138.208.0/21 list=ES-Block
+add address=167.150.22.0/24 list=ES-Block
 add address=167.160.6.0/23 list=ES-Block
 add address=167.160.8.0/23 list=ES-Block
 add address=167.160.15.0/24 list=ES-Block

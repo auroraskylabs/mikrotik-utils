@@ -370,6 +370,7 @@ add address=89.40.70.0/24 list=AE-Block
 add address=89.40.215.0/24 list=AE-Block
 add address=89.43.62.0/24 list=AE-Block
 add address=89.44.76.0/24 list=AE-Block
+add address=89.44.84.0/22 list=AE-Block
 add address=89.45.35.0/24 list=AE-Block
 add address=89.45.44.0/23 list=AE-Block
 add address=89.45.162.0/24 list=AE-Block
@@ -500,6 +501,7 @@ add address=94.103.182.0/23 list=AE-Block
 add address=94.103.184.0/24 list=AE-Block
 add address=94.140.0.0/24 list=AE-Block
 add address=94.154.140.0/22 list=AE-Block
+add address=94.176.3.0/24 list=AE-Block
 add address=94.176.214.0/23 list=AE-Block
 add address=94.177.13.0/24 list=AE-Block
 add address=94.177.51.0/24 list=AE-Block

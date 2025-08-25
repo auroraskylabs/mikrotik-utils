@@ -178,6 +178,7 @@ add address=185.254.116.0/23 list=AL-Block
 add address=188.93.112.0/24 list=AL-Block
 add address=188.164.216.0/21 list=AL-Block
 add address=188.172.96.0/20 list=AL-Block
+add address=188.241.55.0/24 list=AL-Block
 add address=192.109.210.0/24 list=AL-Block
 add address=192.109.217.0/24 list=AL-Block
 add address=192.109.219.0/24 list=AL-Block

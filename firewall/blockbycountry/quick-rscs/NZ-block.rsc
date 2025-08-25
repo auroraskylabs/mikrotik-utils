@@ -55,6 +55,7 @@ add address=45.125.168.0/22 list=NZ-Block
 add address=45.126.128.0/22 list=NZ-Block
 add address=45.157.168.0/22 list=NZ-Block
 add address=45.253.124.0/22 list=NZ-Block
+add address=47.72.0.0/16 list=NZ-Block
 add address=49.0.28.0/22 list=NZ-Block
 add address=49.50.192.0/19 list=NZ-Block
 add address=49.50.224.0/21 list=NZ-Block
@@ -1142,7 +1143,7 @@ add address=202.86.96.0/20 list=NZ-Block
 add address=202.88.44.0/22 list=NZ-Block
 add address=202.89.4.0/22 list=NZ-Block
 add address=202.89.32.0/19 list=NZ-Block
-add address=202.89.128.0/19 list=NZ-Block
+add address=202.89.128.0/20 list=NZ-Block
 add address=202.90.44.0/22 list=NZ-Block
 add address=202.90.56.0/21 list=NZ-Block
 add address=202.92.216.0/21 list=NZ-Block
@@ -1186,6 +1187,7 @@ add address=203.5.28.0/24 list=NZ-Block
 add address=203.6.246.0/24 list=NZ-Block
 add address=203.9.198.0/23 list=NZ-Block
 add address=203.9.216.0/23 list=NZ-Block
+add address=203.13.231.0/24 list=NZ-Block
 add address=203.14.20.0/24 list=NZ-Block
 add address=203.18.59.0/24 list=NZ-Block
 add address=203.20.241.0/24 list=NZ-Block

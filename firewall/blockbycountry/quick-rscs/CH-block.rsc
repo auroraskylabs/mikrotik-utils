@@ -284,6 +284,7 @@ add address=80.67.144.0/20 list=CH-Block
 add address=80.74.128.0/19 list=CH-Block
 add address=80.75.112.0/20 list=CH-Block
 add address=80.75.192.0/20 list=CH-Block
+add address=80.76.0.0/21 list=CH-Block
 add address=80.80.224.0/21 list=CH-Block
 add address=80.80.232.0/22 list=CH-Block
 add address=80.80.236.0/23 list=CH-Block

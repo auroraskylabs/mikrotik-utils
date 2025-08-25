@@ -777,7 +777,7 @@ add address=45.153.188.0/22 list=RU-Block
 add address=45.153.196.0/22 list=RU-Block
 add address=45.154.0.0/22 list=RU-Block
 add address=45.154.184.0/22 list=RU-Block
-add address=45.155.6.0/23 list=RU-Block
+add address=45.155.6.0/24 list=RU-Block
 add address=45.155.92.0/22 list=RU-Block
 add address=45.155.104.0/22 list=RU-Block
 add address=45.155.144.0/22 list=RU-Block
@@ -878,6 +878,7 @@ add address=46.61.0.0/16 list=RU-Block
 add address=46.62.0.0/17 list=RU-Block
 add address=46.63.128.0/17 list=RU-Block
 add address=46.72.0.0/15 list=RU-Block
+add address=46.102.191.0/24 list=RU-Block
 add address=46.111.0.0/16 list=RU-Block
 add address=46.138.0.0/16 list=RU-Block
 add address=46.146.0.0/15 list=RU-Block
@@ -4478,6 +4479,7 @@ add address=164.138.100.0/22 list=RU-Block
 add address=164.177.176.0/21 list=RU-Block
 add address=164.215.48.0/21 list=RU-Block
 add address=164.215.64.0/19 list=RU-Block
+add address=171.22.72.0/22 list=RU-Block
 add address=171.22.180.0/22 list=RU-Block
 add address=171.22.212.0/22 list=RU-Block
 add address=171.22.236.0/22 list=RU-Block
@@ -4776,6 +4778,7 @@ add address=178.57.192.0/18 list=RU-Block
 add address=178.64.0.0/13 list=RU-Block
 add address=178.72.64.0/18 list=RU-Block
 add address=178.72.128.0/19 list=RU-Block
+add address=178.72.160.0/20 list=RU-Block
 add address=178.74.64.0/18 list=RU-Block
 add address=178.74.128.0/18 list=RU-Block
 add address=178.75.0.0/17 list=RU-Block
@@ -7003,7 +7006,8 @@ add address=193.203.112.0/23 list=RU-Block
 add address=193.203.124.0/23 list=RU-Block
 add address=193.218.136.0/21 list=RU-Block
 add address=193.218.180.0/22 list=RU-Block
-add address=193.218.188.0/22 list=RU-Block
+add address=193.218.189.0/24 list=RU-Block
+add address=193.218.190.0/23 list=RU-Block
 add address=193.219.104.0/24 list=RU-Block
 add address=193.219.117.0/24 list=RU-Block
 add address=193.219.125.0/24 list=RU-Block
@@ -8457,4 +8461,8 @@ add address=217.198.0.0/20 list=RU-Block
 add address=217.198.80.0/20 list=RU-Block
 add address=217.198.160.0/20 list=RU-Block
 add address=217.199.208.0/20 list=RU-Block
-add address=217.199.224.0/19 list=RU-Block
+add address=217.199.224.0/20 list=RU-Block
+add address=217.199.240.0/21 list=RU-Block
+add address=217.199.248.0/22 list=RU-Block
+add address=217.199.252.0/23 list=RU-Block
+add address=217.199.254.0/24 list=RU-Block

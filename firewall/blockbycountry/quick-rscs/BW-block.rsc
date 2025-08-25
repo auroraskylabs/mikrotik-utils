@@ -20,6 +20,7 @@ add address=102.134.84.0/22 list=BW-Block
 add address=102.134.160.0/20 list=BW-Block
 add address=102.141.112.0/21 list=BW-Block
 add address=102.165.128.0/19 list=BW-Block
+add address=102.205.8.0/23 list=BW-Block
 add address=102.205.122.0/24 list=BW-Block
 add address=102.207.236.0/22 list=BW-Block
 add address=102.208.32.0/22 list=BW-Block

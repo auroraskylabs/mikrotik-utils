@@ -332,7 +332,7 @@ add address=193.200.9.0/24 list=SK-Block
 add address=193.200.143.0/24 list=SK-Block
 add address=194.0.45.0/24 list=SK-Block
 add address=194.1.0.0/17 list=SK-Block
-add address=194.1.128.0/20 list=SK-Block
+add address=194.1.128.0/21 list=SK-Block
 add address=194.1.157.0/24 list=SK-Block
 add address=194.1.172.0/22 list=SK-Block
 add address=194.1.185.0/24 list=SK-Block

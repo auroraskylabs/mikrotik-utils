@@ -8,7 +8,6 @@ add address=45.90.8.0/22 list=LI-Block
 add address=46.18.111.0/24 list=LI-Block
 add address=80.66.224.0/20 list=LI-Block
 add address=80.72.48.0/20 list=LI-Block
-add address=80.76.0.0/21 list=LI-Block
 add address=80.241.112.0/20 list=LI-Block
 add address=80.248.192.0/20 list=LI-Block
 add address=81.161.56.0/23 list=LI-Block
