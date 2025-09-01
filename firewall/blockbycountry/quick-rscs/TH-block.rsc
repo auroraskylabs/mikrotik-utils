@@ -553,6 +553,7 @@ add address=202.182.0.0/19 list=TH-Block
 add address=202.183.128.0/17 list=TH-Block
 add address=203.4.160.0/24 list=TH-Block
 add address=203.11.74.0/24 list=TH-Block
+add address=203.20.73.0/24 list=TH-Block
 add address=203.21.42.0/23 list=TH-Block
 add address=203.23.188.0/23 list=TH-Block
 add address=203.26.168.0/24 list=TH-Block

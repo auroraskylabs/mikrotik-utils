@@ -673,6 +673,7 @@ add address=185.187.144.0/22 list=DK-Block
 add address=185.188.20.0/22 list=DK-Block
 add address=185.193.120.0/22 list=DK-Block
 add address=185.193.236.0/22 list=DK-Block
+add address=185.193.241.0/24 list=DK-Block
 add address=185.195.0.0/22 list=DK-Block
 add address=185.195.172.0/22 list=DK-Block
 add address=185.196.76.0/22 list=DK-Block

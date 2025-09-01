@@ -1,5 +1,6 @@
 /ip firewall address-list remove [find list="ID-Block"]
 /ip firewall address-list
+add address=9.154.0.0/16 list=ID-Block
 add address=14.102.46.0/23 list=ID-Block
 add address=14.102.152.0/22 list=ID-Block
 add address=27.0.196.0/22 list=ID-Block
@@ -135,6 +136,7 @@ add address=45.126.80.0/22 list=ID-Block
 add address=45.126.132.0/22 list=ID-Block
 add address=45.126.152.0/22 list=ID-Block
 add address=45.126.184.0/22 list=ID-Block
+add address=45.126.248.0/22 list=ID-Block
 add address=45.127.132.0/22 list=ID-Block
 add address=45.127.204.0/22 list=ID-Block
 add address=45.249.216.0/23 list=ID-Block
@@ -2495,7 +2497,8 @@ add address=103.172.186.0/23 list=ID-Block
 add address=103.172.194.0/23 list=ID-Block
 add address=103.172.196.0/23 list=ID-Block
 add address=103.172.204.0/23 list=ID-Block
-add address=103.172.240.0/21 list=ID-Block
+add address=103.172.240.0/22 list=ID-Block
+add address=103.172.244.0/23 list=ID-Block
 add address=103.172.248.0/23 list=ID-Block
 add address=103.173.54.0/23 list=ID-Block
 add address=103.173.72.0/22 list=ID-Block
@@ -3499,6 +3502,7 @@ add address=124.40.248.0/21 list=ID-Block
 add address=124.66.160.0/21 list=ID-Block
 add address=124.109.20.0/22 list=ID-Block
 add address=124.153.0.0/18 list=ID-Block
+add address=124.158.116.0/23 list=ID-Block
 add address=124.158.128.0/18 list=ID-Block
 add address=124.195.0.0/17 list=ID-Block
 add address=125.62.92.0/22 list=ID-Block
@@ -4020,6 +4024,7 @@ add address=180.94.8.0/22 list=ID-Block
 add address=180.94.12.0/23 list=ID-Block
 add address=180.94.22.0/23 list=ID-Block
 add address=180.131.128.0/22 list=ID-Block
+add address=180.148.24.0/23 list=ID-Block
 add address=180.150.232.0/21 list=ID-Block
 add address=180.150.244.0/22 list=ID-Block
 add address=180.178.92.0/22 list=ID-Block
@@ -4080,6 +4085,8 @@ add address=202.4.179.0/24 list=ID-Block
 add address=202.4.185.0/24 list=ID-Block
 add address=202.4.186.0/24 list=ID-Block
 add address=202.4.189.0/24 list=ID-Block
+add address=202.6.192.0/23 list=ID-Block
+add address=202.6.200.0/23 list=ID-Block
 add address=202.6.208.0/20 list=ID-Block
 add address=202.6.224.0/20 list=ID-Block
 add address=202.8.28.0/23 list=ID-Block
@@ -4304,9 +4311,14 @@ add address=203.14.176.0/24 list=ID-Block
 add address=203.14.183.0/24 list=ID-Block
 add address=203.16.11.0/24 list=ID-Block
 add address=203.17.21.0/24 list=ID-Block
+add address=203.17.189.0/24 list=ID-Block
 add address=203.18.39.0/24 list=ID-Block
+add address=203.18.104.0/24 list=ID-Block
 add address=203.19.4.0/24 list=ID-Block
 add address=203.21.74.0/23 list=ID-Block
+add address=203.22.167.0/24 list=ID-Block
+add address=203.23.52.0/24 list=ID-Block
+add address=203.23.70.0/24 list=ID-Block
 add address=203.24.50.0/23 list=ID-Block
 add address=203.24.76.0/23 list=ID-Block
 add address=203.27.6.0/23 list=ID-Block

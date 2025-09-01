@@ -82,7 +82,6 @@ add address=119.40.96.0/21 list=MN-Block
 add address=121.101.176.0/21 list=MN-Block
 add address=122.201.16.0/20 list=MN-Block
 add address=124.158.104.0/21 list=MN-Block
-add address=124.158.116.0/23 list=MN-Block
 add address=124.158.119.0/24 list=MN-Block
 add address=124.158.120.0/21 list=MN-Block
 add address=139.5.216.0/22 list=MN-Block

@@ -32,7 +32,6 @@ add address=94.131.64.0/20 list=GI-Block
 add address=94.131.124.0/22 list=GI-Block
 add address=94.131.128.0/19 list=GI-Block
 add address=94.131.160.0/20 list=GI-Block
-add address=94.131.224.0/20 list=GI-Block
 add address=94.190.196.0/22 list=GI-Block
 add address=95.131.184.0/21 list=GI-Block
 add address=104.255.128.0/21 list=GI-Block

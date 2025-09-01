@@ -1387,6 +1387,7 @@ add address=164.130.0.0/16 list=IT-Block
 add address=164.138.48.0/21 list=IT-Block
 add address=164.142.0.0/16 list=IT-Block
 add address=167.94.24.0/24 list=IT-Block
+add address=167.150.160.0/22 list=IT-Block
 add address=168.202.0.0/16 list=IT-Block
 add address=171.22.17.0/24 list=IT-Block
 add address=171.22.29.0/24 list=IT-Block

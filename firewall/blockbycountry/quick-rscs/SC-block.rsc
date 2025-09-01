@@ -320,7 +320,6 @@ add address=94.143.226.0/24 list=SC-Block
 add address=94.154.118.0/24 list=SC-Block
 add address=94.156.33.0/24 list=SC-Block
 add address=94.158.188.0/22 list=SC-Block
-add address=95.156.251.0/24 list=SC-Block
 add address=102.128.164.0/22 list=SC-Block
 add address=102.130.48.0/22 list=SC-Block
 add address=102.135.0.0/17 list=SC-Block
@@ -506,7 +505,6 @@ add address=185.215.113.0/24 list=SC-Block
 add address=185.217.131.0/24 list=SC-Block
 add address=185.218.1.0/24 list=SC-Block
 add address=185.222.41.0/24 list=SC-Block
-add address=185.223.161.0/24 list=SC-Block
 add address=185.225.112.0/22 list=SC-Block
 add address=185.230.18.0/24 list=SC-Block
 add address=185.231.32.0/22 list=SC-Block

@@ -729,6 +729,7 @@ add address=185.48.180.0/22 list=TR-Block
 add address=185.48.212.0/22 list=TR-Block
 add address=185.49.44.0/22 list=TR-Block
 add address=185.49.128.0/22 list=TR-Block
+add address=185.49.172.0/24 list=TR-Block
 add address=185.50.237.0/24 list=TR-Block
 add address=185.50.238.0/23 list=TR-Block
 add address=185.51.20.0/24 list=TR-Block

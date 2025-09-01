@@ -6,6 +6,7 @@ add address=93.121.128.0/17 list=GP-Block
 add address=95.138.0.0/17 list=GP-Block
 add address=104.250.0.0/19 list=GP-Block
 add address=107.191.208.0/20 list=GP-Block
+add address=162.12.217.0/24 list=GP-Block
 add address=185.29.48.0/22 list=GP-Block
 add address=193.218.114.0/24 list=GP-Block
 add address=199.91.160.0/22 list=GP-Block
