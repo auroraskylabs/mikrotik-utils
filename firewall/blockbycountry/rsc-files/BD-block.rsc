@@ -1943,6 +1943,7 @@ add address=202.59.208.0/22 list=BD-Block
 add address=202.61.82.0/23 list=BD-Block
 add address=202.65.10.0/23 list=BD-Block
 add address=202.65.168.0/21 list=BD-Block
+add address=202.66.182.0/23 list=BD-Block
 add address=202.71.180.0/23 list=BD-Block
 add address=202.72.232.0/21 list=BD-Block
 add address=202.73.4.0/23 list=BD-Block
@@ -1962,6 +1963,7 @@ add address=202.125.108.0/24 list=BD-Block
 add address=202.126.120.0/21 list=BD-Block
 add address=202.129.192.0/22 list=BD-Block
 add address=202.134.8.0/21 list=BD-Block
+add address=202.136.74.0/23 list=BD-Block
 add address=202.136.88.0/22 list=BD-Block
 add address=202.144.200.0/22 list=BD-Block
 add address=202.161.176.0/20 list=BD-Block
@@ -1978,6 +1980,7 @@ add address=203.13.162.0/23 list=BD-Block
 add address=203.17.65.0/24 list=BD-Block
 add address=203.18.158.0/23 list=BD-Block
 add address=203.20.108.0/23 list=BD-Block
+add address=203.25.161.0/24 list=BD-Block
 add address=203.26.150.0/23 list=BD-Block
 add address=203.28.104.0/23 list=BD-Block
 add address=203.28.134.0/23 list=BD-Block

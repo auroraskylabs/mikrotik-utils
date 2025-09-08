@@ -596,6 +596,7 @@ add address=202.80.104.0/21 list=TW-Block
 add address=202.123.124.0/22 list=TW-Block
 add address=202.126.64.0/20 list=TW-Block
 add address=202.132.0.0/16 list=TW-Block
+add address=202.133.68.0/23 list=TW-Block
 add address=202.133.224.0/19 list=TW-Block
 add address=202.140.160.0/19 list=TW-Block
 add address=202.144.208.0/20 list=TW-Block

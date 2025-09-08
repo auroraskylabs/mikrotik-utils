@@ -558,7 +558,6 @@ add address=91.220.99.0/24 list=CH-Block
 add address=91.220.100.0/24 list=CH-Block
 add address=91.220.128.0/24 list=CH-Block
 add address=91.220.162.0/24 list=CH-Block
-add address=91.221.40.0/23 list=CH-Block
 add address=91.221.82.0/23 list=CH-Block
 add address=91.221.118.0/23 list=CH-Block
 add address=91.221.192.0/23 list=CH-Block

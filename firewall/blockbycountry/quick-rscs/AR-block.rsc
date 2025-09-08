@@ -805,7 +805,6 @@ add address=179.51.240.0/21 list=AR-Block
 add address=179.60.0.0/19 list=AR-Block
 add address=179.60.96.0/20 list=AR-Block
 add address=179.60.152.0/21 list=AR-Block
-add address=179.60.184.0/22 list=AR-Block
 add address=179.60.196.0/22 list=AR-Block
 add address=179.60.200.0/22 list=AR-Block
 add address=179.60.208.0/22 list=AR-Block

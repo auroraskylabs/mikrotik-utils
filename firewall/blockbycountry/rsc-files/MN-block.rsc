@@ -112,6 +112,7 @@ add address=202.72.240.0/21 list=MN-Block
 add address=202.126.88.0/21 list=MN-Block
 add address=202.131.0.0/21 list=MN-Block
 add address=202.131.224.0/19 list=MN-Block
+add address=202.133.76.0/23 list=MN-Block
 add address=202.170.64.0/20 list=MN-Block
 add address=202.179.0.0/19 list=MN-Block
 add address=202.180.216.0/21 list=MN-Block

@@ -880,6 +880,7 @@ add address=202.179.148.0/22 list=KR-Block
 add address=202.179.176.0/21 list=KR-Block
 add address=202.189.128.0/24 list=KR-Block
 add address=203.17.226.0/24 list=KR-Block
+add address=203.24.188.0/24 list=KR-Block
 add address=203.77.176.0/24 list=KR-Block
 add address=203.81.8.0/22 list=KR-Block
 add address=203.81.128.0/19 list=KR-Block

@@ -205,7 +205,7 @@ add address=77.220.96.0/20 list=AT-Block
 add address=77.220.112.0/22 list=AT-Block
 add address=77.220.120.0/21 list=AT-Block
 add address=77.223.0.0/22 list=AT-Block
-add address=77.235.64.0/19 list=AT-Block
+add address=77.235.80.0/20 list=AT-Block
 add address=77.237.32.0/19 list=AT-Block
 add address=77.242.64.0/20 list=AT-Block
 add address=77.243.92.0/22 list=AT-Block

@@ -401,7 +401,6 @@ add address=91.193.180.0/22 list=AE-Block
 add address=91.194.149.0/24 list=AE-Block
 add address=91.195.132.0/23 list=AE-Block
 add address=91.198.220.0/24 list=AE-Block
-add address=91.198.254.0/24 list=AE-Block
 add address=91.200.12.0/22 list=AE-Block
 add address=91.200.146.0/24 list=AE-Block
 add address=91.201.4.0/22 list=AE-Block
@@ -520,6 +519,7 @@ add address=94.199.7.0/24 list=AE-Block
 add address=94.200.0.0/13 list=AE-Block
 add address=94.231.200.0/24 list=AE-Block
 add address=94.232.248.0/22 list=AE-Block
+add address=95.81.76.0/22 list=AE-Block
 add address=95.81.112.0/20 list=AE-Block
 add address=95.130.226.0/23 list=AE-Block
 add address=95.156.216.0/22 list=AE-Block

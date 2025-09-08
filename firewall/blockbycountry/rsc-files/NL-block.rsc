@@ -4118,8 +4118,6 @@ add address=193.57.8.0/23 list=NL-Block
 add address=193.57.94.0/23 list=NL-Block
 add address=193.57.174.0/23 list=NL-Block
 add address=193.57.202.0/23 list=NL-Block
-add address=193.58.204.0/22 list=NL-Block
-add address=193.58.208.0/24 list=NL-Block
 add address=193.58.240.0/24 list=NL-Block
 add address=193.58.254.0/24 list=NL-Block
 add address=193.67.0.0/16 list=NL-Block

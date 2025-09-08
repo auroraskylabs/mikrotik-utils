@@ -23,6 +23,7 @@ add address=41.217.148.0/22 list=CM-Block
 add address=41.223.28.0/22 list=CM-Block
 add address=102.132.16.0/20 list=CM-Block
 add address=102.135.189.0/24 list=CM-Block
+add address=102.204.240.0/22 list=CM-Block
 add address=102.208.54.0/23 list=CM-Block
 add address=102.208.81.0/24 list=CM-Block
 add address=102.208.104.0/22 list=CM-Block

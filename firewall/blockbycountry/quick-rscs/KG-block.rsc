@@ -60,7 +60,6 @@ add address=185.88.32.0/22 list=KG-Block
 add address=185.117.148.0/22 list=KG-Block
 add address=185.138.100.0/22 list=KG-Block
 add address=185.138.184.0/22 list=KG-Block
-add address=185.157.136.0/22 list=KG-Block
 add address=185.161.48.0/22 list=KG-Block
 add address=185.211.228.0/22 list=KG-Block
 add address=185.229.36.0/22 list=KG-Block

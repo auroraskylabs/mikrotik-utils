@@ -302,7 +302,6 @@ add address=103.129.196.0/22 list=MY-Block
 add address=103.130.12.0/22 list=MY-Block
 add address=103.130.148.0/22 list=MY-Block
 add address=103.130.153.0/24 list=MY-Block
-add address=103.131.30.0/23 list=MY-Block
 add address=103.131.134.0/23 list=MY-Block
 add address=103.131.140.0/22 list=MY-Block
 add address=103.133.132.0/23 list=MY-Block

@@ -790,6 +790,7 @@ add address=207.248.224.0/19 list=MX-Block
 add address=207.249.0.0/16 list=MX-Block
 add address=208.78.16.0/22 list=MX-Block
 add address=209.35.184.0/22 list=MX-Block
+add address=209.178.128.0/18 list=MX-Block
 
 /ip firewall raw
  :if ([print count-only where src-address-list="MX-Block"] = "0") do={ add chain=prerouting action=drop src-address-list=MX-Block comment="Block MX traffic" }
