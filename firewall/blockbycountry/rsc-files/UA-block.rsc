@@ -1276,7 +1276,6 @@ add address=178.215.160.0/19 list=UA-Block
 add address=178.215.240.0/20 list=UA-Block
 add address=178.216.0.0/21 list=UA-Block
 add address=178.216.8.0/23 list=UA-Block
-add address=178.216.10.0/24 list=UA-Block
 add address=178.216.12.0/23 list=UA-Block
 add address=178.216.14.0/24 list=UA-Block
 add address=178.216.120.0/24 list=UA-Block

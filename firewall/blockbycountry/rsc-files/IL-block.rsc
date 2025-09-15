@@ -81,6 +81,7 @@ add address=62.182.192.0/21 list=IL-Block
 add address=62.219.0.0/16 list=IL-Block
 add address=63.250.56.0/21 list=IL-Block
 add address=64.7.88.0/22 list=IL-Block
+add address=64.226.196.0/22 list=IL-Block
 add address=64.239.23.0/24 list=IL-Block
 add address=69.7.78.0/24 list=IL-Block
 add address=77.124.0.0/14 list=IL-Block

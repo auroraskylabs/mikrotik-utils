@@ -45,6 +45,7 @@ add address=109.126.128.0/18 list=BY-Block
 add address=128.65.0.0/18 list=BY-Block
 add address=128.140.240.0/20 list=BY-Block
 add address=134.17.0.0/16 list=BY-Block
+add address=155.212.244.0/24 list=BY-Block
 add address=164.177.192.0/18 list=BY-Block
 add address=176.60.0.0/16 list=BY-Block
 add address=176.118.152.0/21 list=BY-Block

@@ -95,6 +95,7 @@ add address=138.59.108.0/22 list=EC-Block
 add address=138.122.108.0/22 list=EC-Block
 add address=138.185.136.0/22 list=EC-Block
 add address=143.255.248.0/22 list=EC-Block
+add address=148.227.173.0/24 list=EC-Block
 add address=157.100.0.0/16 list=EC-Block
 add address=160.20.164.0/22 list=EC-Block
 add address=164.163.48.0/22 list=EC-Block

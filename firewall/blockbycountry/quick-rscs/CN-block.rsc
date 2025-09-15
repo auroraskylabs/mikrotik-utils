@@ -2810,6 +2810,7 @@ add address=103.249.252.0/22 list=CN-Block
 add address=103.250.32.0/22 list=CN-Block
 add address=103.250.104.0/22 list=CN-Block
 add address=103.250.124.0/22 list=CN-Block
+add address=103.250.172.0/22 list=CN-Block
 add address=103.250.180.0/22 list=CN-Block
 add address=103.250.192.0/22 list=CN-Block
 add address=103.250.216.0/22 list=CN-Block

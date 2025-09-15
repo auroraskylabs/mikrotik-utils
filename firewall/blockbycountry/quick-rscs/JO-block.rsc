@@ -112,6 +112,7 @@ add address=193.188.64.0/19 list=JO-Block
 add address=193.189.148.0/24 list=JO-Block
 add address=193.203.24.0/23 list=JO-Block
 add address=193.203.110.0/23 list=JO-Block
+add address=194.104.95.0/24 list=JO-Block
 add address=194.110.236.0/24 list=JO-Block
 add address=194.165.128.0/19 list=JO-Block
 add address=195.18.9.0/24 list=JO-Block

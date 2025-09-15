@@ -296,6 +296,7 @@ add address=149.27.0.0/16 list=KZ-Block
 add address=149.154.188.0/22 list=KZ-Block
 add address=151.236.192.0/21 list=KZ-Block
 add address=151.237.144.0/20 list=KZ-Block
+add address=158.94.223.0/24 list=KZ-Block
 add address=162.255.196.0/22 list=KZ-Block
 add address=164.0.0.0/16 list=KZ-Block
 add address=164.40.0.0/17 list=KZ-Block

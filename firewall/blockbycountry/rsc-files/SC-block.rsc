@@ -12,6 +12,7 @@ add address=2.59.176.0/22 list=SC-Block
 add address=5.1.46.0/23 list=SC-Block
 add address=5.34.240.0/21 list=SC-Block
 add address=5.57.210.0/23 list=SC-Block
+add address=5.61.208.0/23 list=SC-Block
 add address=5.153.232.0/21 list=SC-Block
 add address=5.157.0.0/18 list=SC-Block
 add address=5.172.181.0/24 list=SC-Block

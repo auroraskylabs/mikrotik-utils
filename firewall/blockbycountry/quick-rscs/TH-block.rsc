@@ -459,7 +459,6 @@ add address=192.207.64.0/24 list=TH-Block
 add address=192.251.227.0/24 list=TH-Block
 add address=192.251.228.0/24 list=TH-Block
 add address=193.36.112.0/22 list=TH-Block
-add address=194.53.175.0/24 list=TH-Block
 add address=198.49.112.0/23 list=TH-Block
 add address=199.21.172.0/22 list=TH-Block
 add address=202.0.117.0/24 list=TH-Block

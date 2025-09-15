@@ -243,6 +243,7 @@ add address=202.93.153.0/24 list=KH-Block
 add address=202.124.32.0/20 list=KH-Block
 add address=202.129.236.0/24 list=KH-Block
 add address=202.131.80.0/21 list=KH-Block
+add address=202.133.92.0/22 list=KH-Block
 add address=202.150.0.0/22 list=KH-Block
 add address=202.150.8.0/22 list=KH-Block
 add address=202.172.20.0/22 list=KH-Block

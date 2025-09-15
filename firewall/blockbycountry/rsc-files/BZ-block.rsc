@@ -74,6 +74,7 @@ add address=138.99.120.0/22 list=BZ-Block
 add address=138.99.208.0/22 list=BZ-Block
 add address=138.185.76.0/22 list=BZ-Block
 add address=141.98.92.0/22 list=BZ-Block
+add address=148.224.24.0/22 list=BZ-Block
 add address=152.89.8.0/22 list=BZ-Block
 add address=160.238.136.0/22 list=BZ-Block
 add address=167.249.200.0/22 list=BZ-Block

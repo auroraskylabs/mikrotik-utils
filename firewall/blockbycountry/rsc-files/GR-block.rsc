@@ -143,6 +143,7 @@ add address=93.174.120.0/21 list=GR-Block
 add address=94.64.0.0/13 list=GR-Block
 add address=94.143.176.0/21 list=GR-Block
 add address=94.154.132.0/22 list=GR-Block
+add address=94.156.67.0/24 list=GR-Block
 add address=94.231.194.0/24 list=GR-Block
 add address=94.232.80.0/21 list=GR-Block
 add address=94.241.128.0/18 list=GR-Block
