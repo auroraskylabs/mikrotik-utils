@@ -428,6 +428,7 @@ add address=119.75.240.0/20 list=TW-Block
 add address=119.77.128.0/17 list=TW-Block
 add address=119.160.240.0/20 list=TW-Block
 add address=120.96.0.0/11 list=TW-Block
+add address=121.0.62.0/23 list=TW-Block
 add address=121.50.144.0/21 list=TW-Block
 add address=121.50.176.0/20 list=TW-Block
 add address=121.254.64.0/18 list=TW-Block

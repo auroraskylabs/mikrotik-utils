@@ -843,6 +843,7 @@ add address=195.234.186.0/24 list=BE-Block
 add address=195.238.0.0/19 list=BE-Block
 add address=195.242.172.0/24 list=BE-Block
 add address=195.244.160.0/19 list=BE-Block
+add address=195.253.208.0/22 list=BE-Block
 add address=199.103.123.0/24 list=BE-Block
 add address=199.103.124.0/22 list=BE-Block
 add address=203.31.103.0/24 list=BE-Block

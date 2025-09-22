@@ -852,6 +852,7 @@ add address=120.72.80.0/21 list=VN-Block
 add address=120.72.96.0/19 list=VN-Block
 add address=120.138.64.0/20 list=VN-Block
 add address=121.50.172.0/22 list=VN-Block
+add address=121.200.216.0/23 list=VN-Block
 add address=122.102.112.0/22 list=VN-Block
 add address=122.129.0.0/18 list=VN-Block
 add address=122.201.8.0/21 list=VN-Block

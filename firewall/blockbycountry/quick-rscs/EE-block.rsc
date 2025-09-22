@@ -350,7 +350,6 @@ add address=194.56.212.0/24 list=EE-Block
 add address=194.61.120.0/23 list=EE-Block
 add address=194.63.144.0/24 list=EE-Block
 add address=194.93.64.0/22 list=EE-Block
-add address=194.99.52.0/24 list=EE-Block
 add address=194.99.57.0/24 list=EE-Block
 add address=194.99.72.0/24 list=EE-Block
 add address=194.99.74.0/24 list=EE-Block

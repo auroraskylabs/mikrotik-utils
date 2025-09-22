@@ -479,6 +479,7 @@ add address=62.217.0.0/19 list=FR-Block
 add address=62.240.224.0/19 list=FR-Block
 add address=62.241.64.0/18 list=FR-Block
 add address=62.244.64.0/18 list=FR-Block
+add address=64.111.88.0/22 list=FR-Block
 add address=64.126.192.0/18 list=FR-Block
 add address=64.190.21.0/24 list=FR-Block
 add address=64.190.118.0/23 list=FR-Block

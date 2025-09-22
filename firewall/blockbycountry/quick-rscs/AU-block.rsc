@@ -5483,6 +5483,7 @@ add address=203.209.160.0/20 list=AU-Block
 add address=203.209.192.0/19 list=AU-Block
 add address=203.210.64.0/20 list=AU-Block
 add address=203.210.82.0/24 list=AU-Block
+add address=203.210.92.0/23 list=AU-Block
 add address=203.210.96.0/19 list=AU-Block
 add address=203.212.16.0/21 list=AU-Block
 add address=203.212.128.0/19 list=AU-Block

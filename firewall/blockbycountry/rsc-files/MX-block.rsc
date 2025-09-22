@@ -177,7 +177,6 @@ add address=148.227.0.0/18 list=MX-Block
 add address=148.227.128.0/19 list=MX-Block
 add address=148.227.160.0/21 list=MX-Block
 add address=148.227.168.0/22 list=MX-Block
-add address=148.227.174.0/24 list=MX-Block
 add address=148.227.176.0/20 list=MX-Block
 add address=148.227.192.0/18 list=MX-Block
 add address=148.228.0.0/15 list=MX-Block

@@ -215,6 +215,7 @@ add address=202.133.84.0/22 list=MM-Block
 add address=202.157.190.0/23 list=MM-Block
 add address=202.165.80.0/20 list=MM-Block
 add address=202.191.96.0/20 list=MM-Block
+add address=203.9.219.0/24 list=MM-Block
 add address=203.34.160.0/24 list=MM-Block
 add address=203.81.64.0/19 list=MM-Block
 add address=203.81.160.0/20 list=MM-Block

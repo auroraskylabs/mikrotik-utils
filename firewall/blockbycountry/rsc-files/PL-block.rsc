@@ -548,7 +548,14 @@ add address=87.101.32.0/20 list=PL-Block
 add address=87.101.64.0/20 list=PL-Block
 add address=87.105.0.0/16 list=PL-Block
 add address=87.116.192.0/18 list=PL-Block
-add address=87.199.0.0/16 list=PL-Block
+add address=87.199.0.0/18 list=PL-Block
+add address=87.199.64.0/19 list=PL-Block
+add address=87.199.96.0/20 list=PL-Block
+add address=87.199.112.0/21 list=PL-Block
+add address=87.199.120.0/22 list=PL-Block
+add address=87.199.124.0/23 list=PL-Block
+add address=87.199.126.0/24 list=PL-Block
+add address=87.199.128.0/17 list=PL-Block
 add address=87.204.0.0/14 list=PL-Block
 add address=87.236.36.0/24 list=PL-Block
 add address=87.239.40.0/21 list=PL-Block

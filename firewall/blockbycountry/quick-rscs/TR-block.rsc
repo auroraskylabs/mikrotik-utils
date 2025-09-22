@@ -595,6 +595,7 @@ add address=151.250.0.0/16 list=TR-Block
 add address=152.89.36.0/22 list=TR-Block
 add address=152.114.206.0/23 list=TR-Block
 add address=155.223.0.0/16 list=TR-Block
+add address=158.94.208.0/22 list=TR-Block
 add address=159.20.64.0/19 list=TR-Block
 add address=159.20.112.0/21 list=TR-Block
 add address=159.100.60.0/22 list=TR-Block

@@ -4,7 +4,8 @@ add address=5.206.232.0/21 list=AL-Block
 add address=31.22.48.0/20 list=AL-Block
 add address=31.41.33.0/24 list=AL-Block
 add address=31.44.64.0/20 list=AL-Block
-add address=31.171.152.0/21 list=AL-Block
+add address=31.171.152.0/22 list=AL-Block
+add address=31.171.159.0/24 list=AL-Block
 add address=31.222.40.0/21 list=AL-Block
 add address=37.26.64.0/21 list=AL-Block
 add address=37.26.80.0/21 list=AL-Block

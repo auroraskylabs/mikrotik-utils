@@ -4510,6 +4510,7 @@ add address=171.33.244.0/22 list=RU-Block
 add address=171.33.248.0/21 list=RU-Block
 add address=176.10.91.0/24 list=RU-Block
 add address=176.10.93.0/24 list=RU-Block
+add address=176.12.64.0/21 list=RU-Block
 add address=176.12.96.0/21 list=RU-Block
 add address=176.14.0.0/15 list=RU-Block
 add address=176.28.64.0/21 list=RU-Block
@@ -7206,6 +7207,7 @@ add address=194.34.237.0/24 list=RU-Block
 add address=194.34.239.0/24 list=RU-Block
 add address=194.35.44.0/22 list=RU-Block
 add address=194.35.48.0/22 list=RU-Block
+add address=194.35.114.0/23 list=RU-Block
 add address=194.35.116.0/22 list=RU-Block
 add address=194.36.16.0/23 list=RU-Block
 add address=194.36.148.0/22 list=RU-Block

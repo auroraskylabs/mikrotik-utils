@@ -4744,6 +4744,7 @@ add address=194.88.236.0/23 list=NL-Block
 add address=194.93.101.0/24 list=NL-Block
 add address=194.93.102.0/24 list=NL-Block
 add address=194.99.44.0/22 list=NL-Block
+add address=194.99.52.0/24 list=NL-Block
 add address=194.99.64.0/24 list=NL-Block
 add address=194.99.112.0/24 list=NL-Block
 add address=194.102.239.0/24 list=NL-Block
