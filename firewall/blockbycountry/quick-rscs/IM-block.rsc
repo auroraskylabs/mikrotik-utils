@@ -67,6 +67,7 @@ add address=195.10.96.0/19 list=IM-Block
 add address=213.137.0.0/19 list=IM-Block
 add address=217.23.160.0/20 list=IM-Block
 add address=217.28.0.0/20 list=IM-Block
+add address=217.180.38.0/24 list=IM-Block
 
 /ip firewall raw
  :if ([print count-only where src-address-list="IM-Block"] = "0") do={ add chain=prerouting action=drop src-address-list=IM-Block comment="Block IM traffic" }

@@ -67,3 +67,4 @@ add address=195.10.96.0/19 list=IM-Block
 add address=213.137.0.0/19 list=IM-Block
 add address=217.23.160.0/20 list=IM-Block
 add address=217.28.0.0/20 list=IM-Block
+add address=217.180.38.0/24 list=IM-Block

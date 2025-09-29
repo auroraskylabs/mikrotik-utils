@@ -4,6 +4,7 @@ add address=1.52.0.0/14 list=VN-Block
 add address=14.0.16.0/20 list=VN-Block
 add address=14.160.0.0/11 list=VN-Block
 add address=14.224.0.0/11 list=VN-Block
+add address=23.132.36.0/24 list=VN-Block
 add address=27.0.12.0/22 list=VN-Block
 add address=27.0.240.0/22 list=VN-Block
 add address=27.2.0.0/15 list=VN-Block

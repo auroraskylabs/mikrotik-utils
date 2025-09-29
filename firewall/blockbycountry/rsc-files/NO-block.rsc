@@ -89,6 +89,7 @@ add address=46.230.128.0/19 list=NO-Block
 add address=46.230.160.0/21 list=NO-Block
 add address=46.249.224.0/19 list=NO-Block
 add address=46.250.192.0/19 list=NO-Block
+add address=46.251.249.0/24 list=NO-Block
 add address=46.255.16.0/21 list=NO-Block
 add address=51.174.0.0/15 list=NO-Block
 add address=62.16.128.0/17 list=NO-Block
@@ -495,6 +496,7 @@ add address=160.68.0.0/16 list=NO-Block
 add address=161.4.0.0/16 list=NO-Block
 add address=163.34.0.0/16 list=NO-Block
 add address=163.174.0.0/16 list=NO-Block
+add address=167.150.120.0/24 list=NO-Block
 add address=171.22.152.0/22 list=NO-Block
 add address=171.23.0.0/16 list=NO-Block
 add address=171.25.160.0/22 list=NO-Block

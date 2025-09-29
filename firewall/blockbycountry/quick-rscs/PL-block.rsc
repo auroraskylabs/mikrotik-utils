@@ -149,6 +149,7 @@ add address=45.10.136.0/22 list=PL-Block
 add address=45.11.60.0/22 list=PL-Block
 add address=45.11.120.0/22 list=PL-Block
 add address=45.11.199.0/24 list=PL-Block
+add address=45.13.27.0/24 list=PL-Block
 add address=45.66.20.0/22 list=PL-Block
 add address=45.66.140.0/22 list=PL-Block
 add address=45.82.144.0/22 list=PL-Block

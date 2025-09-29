@@ -626,6 +626,7 @@ add address=217.20.128.0/20 list=HU-Block
 add address=217.21.16.0/20 list=HU-Block
 add address=217.27.208.0/20 list=HU-Block
 add address=217.65.96.0/19 list=HU-Block
+add address=217.70.14.0/24 list=HU-Block
 add address=217.79.128.0/20 list=HU-Block
 add address=217.112.128.0/20 list=HU-Block
 add address=217.113.49.0/24 list=HU-Block

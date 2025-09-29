@@ -8,6 +8,7 @@ add address=36.252.0.0/15 list=NP-Block
 add address=43.225.130.0/23 list=NP-Block
 add address=43.228.192.0/22 list=NP-Block
 add address=43.231.208.0/22 list=NP-Block
+add address=43.240.52.0/23 list=NP-Block
 add address=43.243.96.0/22 list=NP-Block
 add address=43.245.84.0/22 list=NP-Block
 add address=43.245.92.0/22 list=NP-Block

@@ -66,6 +66,7 @@ add address=45.113.132.0/22 list=BD-Block
 add address=45.114.84.0/22 list=BD-Block
 add address=45.114.88.0/22 list=BD-Block
 add address=45.115.12.0/22 list=BD-Block
+add address=45.115.40.0/23 list=BD-Block
 add address=45.115.112.0/22 list=BD-Block
 add address=45.117.60.0/22 list=BD-Block
 add address=45.118.60.0/22 list=BD-Block
@@ -1327,6 +1328,7 @@ add address=103.183.38.0/23 list=BD-Block
 add address=103.183.62.0/23 list=BD-Block
 add address=103.183.68.0/23 list=BD-Block
 add address=103.183.106.0/23 list=BD-Block
+add address=103.183.116.0/23 list=BD-Block
 add address=103.183.140.0/23 list=BD-Block
 add address=103.184.24.0/23 list=BD-Block
 add address=103.184.94.0/23 list=BD-Block
@@ -1989,6 +1991,7 @@ add address=203.18.158.0/23 list=BD-Block
 add address=203.20.108.0/23 list=BD-Block
 add address=203.25.161.0/24 list=BD-Block
 add address=203.26.150.0/23 list=BD-Block
+add address=203.26.240.0/23 list=BD-Block
 add address=203.28.104.0/23 list=BD-Block
 add address=203.28.134.0/23 list=BD-Block
 add address=203.28.252.0/23 list=BD-Block
@@ -2019,7 +2022,6 @@ add address=203.153.60.0/22 list=BD-Block
 add address=203.169.24.0/21 list=BD-Block
 add address=203.175.108.0/23 list=BD-Block
 add address=203.188.240.0/20 list=BD-Block
-add address=203.190.0.0/22 list=BD-Block
 add address=203.190.8.0/21 list=BD-Block
 add address=203.190.32.0/22 list=BD-Block
 add address=203.190.254.0/23 list=BD-Block
@@ -2044,6 +2046,7 @@ add address=223.25.252.0/22 list=BD-Block
 add address=223.27.80.0/20 list=BD-Block
 add address=223.29.212.0/22 list=BD-Block
 add address=223.130.8.0/23 list=BD-Block
+add address=223.165.2.0/23 list=BD-Block
 
 /ip firewall raw
  :if ([print count-only where src-address-list="BD-Block"] = "0") do={ add chain=prerouting action=drop src-address-list=BD-Block comment="Block BD traffic" }

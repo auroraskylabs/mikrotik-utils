@@ -660,6 +660,7 @@ add address=209.35.96.0/23 list=TW-Block
 add address=209.35.114.0/23 list=TW-Block
 add address=209.35.156.0/23 list=TW-Block
 add address=209.35.188.0/23 list=TW-Block
+add address=210.1.232.0/22 list=TW-Block
 add address=210.17.0.0/17 list=TW-Block
 add address=210.58.0.0/15 list=TW-Block
 add address=210.60.0.0/14 list=TW-Block
@@ -708,6 +709,7 @@ add address=223.26.0.0/20 list=TW-Block
 add address=223.26.64.0/18 list=TW-Block
 add address=223.27.32.0/19 list=TW-Block
 add address=223.136.0.0/13 list=TW-Block
+add address=223.165.0.0/23 list=TW-Block
 add address=223.165.8.0/21 list=TW-Block
 add address=223.200.0.0/16 list=TW-Block
 

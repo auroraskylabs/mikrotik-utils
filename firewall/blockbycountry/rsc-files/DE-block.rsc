@@ -8002,6 +8002,7 @@ add address=208.53.128.0/18 list=DE-Block
 add address=208.82.72.0/22 list=DE-Block
 add address=208.166.48.0/20 list=DE-Block
 add address=209.16.144.0/23 list=DE-Block
+add address=209.50.160.0/19 list=DE-Block
 add address=209.55.224.0/19 list=DE-Block
 add address=209.126.96.0/19 list=DE-Block
 add address=209.141.224.0/19 list=DE-Block
@@ -8322,6 +8323,7 @@ add address=213.244.192.0/24 list=DE-Block
 add address=213.252.0.0/18 list=DE-Block
 add address=213.252.128.0/18 list=DE-Block
 add address=213.254.32.0/19 list=DE-Block
+add address=216.26.224.0/19 list=DE-Block
 add address=216.31.64.0/18 list=DE-Block
 add address=216.83.208.0/20 list=DE-Block
 add address=216.120.180.0/23 list=DE-Block

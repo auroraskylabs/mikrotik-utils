@@ -687,6 +687,7 @@ add address=195.96.154.0/23 list=SC-Block
 add address=195.96.157.0/24 list=SC-Block
 add address=195.144.21.0/24 list=SC-Block
 add address=195.158.192.0/22 list=SC-Block
+add address=195.182.16.0/24 list=SC-Block
 add address=195.191.99.0/24 list=SC-Block
 add address=195.216.132.0/22 list=SC-Block
 add address=195.225.96.0/24 list=SC-Block

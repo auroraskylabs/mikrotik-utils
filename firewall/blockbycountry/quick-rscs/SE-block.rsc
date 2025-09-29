@@ -888,6 +888,7 @@ add address=178.72.0.0/20 list=SE-Block
 add address=178.72.24.0/21 list=SE-Block
 add address=178.73.192.0/18 list=SE-Block
 add address=178.78.192.0/18 list=SE-Block
+add address=178.108.0.0/14 list=SE-Block
 add address=178.132.72.0/21 list=SE-Block
 add address=178.132.248.0/21 list=SE-Block
 add address=178.174.128.0/17 list=SE-Block

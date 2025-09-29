@@ -16,6 +16,7 @@ add address=46.175.168.0/21 list=BY-Block
 add address=46.182.48.0/21 list=BY-Block
 add address=46.191.0.0/17 list=BY-Block
 add address=46.216.0.0/16 list=BY-Block
+add address=62.182.102.0/24 list=BY-Block
 add address=77.74.32.0/21 list=BY-Block
 add address=78.140.252.0/22 list=BY-Block
 add address=79.98.48.0/21 list=BY-Block
@@ -65,7 +66,7 @@ add address=185.47.152.0/23 list=BY-Block
 add address=185.49.68.0/22 list=BY-Block
 add address=185.53.72.0/22 list=BY-Block
 add address=185.61.104.0/22 list=BY-Block
-add address=185.65.137.0/24 list=BY-Block
+add address=185.65.136.0/23 list=BY-Block
 add address=185.66.68.0/22 list=BY-Block
 add address=185.70.12.0/22 list=BY-Block
 add address=185.99.142.0/23 list=BY-Block

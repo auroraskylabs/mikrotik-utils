@@ -435,8 +435,6 @@ add address=46.232.168.0/21 list=ES-Block
 add address=46.234.128.0/19 list=ES-Block
 add address=46.245.233.0/24 list=ES-Block
 add address=46.251.160.0/19 list=ES-Block
-add address=46.251.249.0/24 list=ES-Block
-add address=46.251.250.0/24 list=ES-Block
 add address=46.251.252.0/22 list=ES-Block
 add address=46.253.32.0/20 list=ES-Block
 add address=46.253.138.0/23 list=ES-Block
@@ -532,7 +530,12 @@ add address=79.98.64.0/21 list=ES-Block
 add address=79.98.216.0/21 list=ES-Block
 add address=79.98.244.0/22 list=ES-Block
 add address=79.99.208.0/21 list=ES-Block
-add address=79.108.0.0/15 list=ES-Block
+add address=79.108.0.0/17 list=ES-Block
+add address=79.108.128.0/18 list=ES-Block
+add address=79.108.200.0/21 list=ES-Block
+add address=79.108.208.0/20 list=ES-Block
+add address=79.108.224.0/19 list=ES-Block
+add address=79.109.0.0/16 list=ES-Block
 add address=79.112.0.0/15 list=ES-Block
 add address=79.116.0.0/15 list=ES-Block
 add address=79.132.136.0/21 list=ES-Block
@@ -611,7 +614,6 @@ add address=82.144.0.0/19 list=ES-Block
 add address=82.144.96.0/19 list=ES-Block
 add address=82.158.0.0/15 list=ES-Block
 add address=82.194.64.0/19 list=ES-Block
-add address=82.198.36.0/22 list=ES-Block
 add address=82.198.48.0/20 list=ES-Block
 add address=82.198.96.0/19 list=ES-Block
 add address=82.199.32.0/19 list=ES-Block
@@ -2697,6 +2699,7 @@ add address=193.27.84.0/23 list=ES-Block
 add address=193.27.246.0/23 list=ES-Block
 add address=193.27.248.0/23 list=ES-Block
 add address=193.29.44.0/22 list=ES-Block
+add address=193.29.49.0/24 list=ES-Block
 add address=193.29.202.0/24 list=ES-Block
 add address=193.30.8.0/22 list=ES-Block
 add address=193.30.31.0/24 list=ES-Block
@@ -3307,7 +3310,6 @@ add address=213.236.0.0/22 list=ES-Block
 add address=213.236.4.0/24 list=ES-Block
 add address=213.236.7.0/24 list=ES-Block
 add address=213.236.16.0/20 list=ES-Block
-add address=213.254.64.0/18 list=ES-Block
 add address=216.147.96.0/20 list=ES-Block
 add address=217.9.24.0/21 list=ES-Block
 add address=217.10.80.0/20 list=ES-Block

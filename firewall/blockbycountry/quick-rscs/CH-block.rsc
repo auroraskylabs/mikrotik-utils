@@ -2372,6 +2372,7 @@ add address=195.66.123.0/24 list=CH-Block
 add address=195.69.227.0/24 list=CH-Block
 add address=195.69.232.0/22 list=CH-Block
 add address=195.70.0.0/19 list=CH-Block
+add address=195.72.40.0/22 list=CH-Block
 add address=195.80.233.0/24 list=CH-Block
 add address=195.88.158.0/23 list=CH-Block
 add address=195.90.112.0/23 list=CH-Block

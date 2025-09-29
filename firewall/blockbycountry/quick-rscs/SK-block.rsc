@@ -404,6 +404,7 @@ add address=217.12.48.0/20 list=SK-Block
 add address=217.23.240.0/20 list=SK-Block
 add address=217.31.32.0/20 list=SK-Block
 add address=217.67.16.0/20 list=SK-Block
+add address=217.70.13.0/24 list=SK-Block
 add address=217.73.16.0/20 list=SK-Block
 add address=217.75.64.0/19 list=SK-Block
 add address=217.118.96.0/20 list=SK-Block

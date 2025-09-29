@@ -65,7 +65,6 @@ add address=41.85.0.0/17 list=ZA-Block
 add address=41.85.128.0/19 list=ZA-Block
 add address=41.85.224.0/19 list=ZA-Block
 add address=41.86.96.0/19 list=ZA-Block
-add address=41.86.192.0/19 list=ZA-Block
 add address=41.87.192.0/18 list=ZA-Block
 add address=41.112.0.0/12 list=ZA-Block
 add address=41.132.0.0/14 list=ZA-Block
@@ -315,6 +314,7 @@ add address=102.177.64.0/21 list=ZA-Block
 add address=102.177.112.0/20 list=ZA-Block
 add address=102.177.128.0/18 list=ZA-Block
 add address=102.182.0.0/16 list=ZA-Block
+add address=102.204.156.0/22 list=ZA-Block
 add address=102.204.200.0/22 list=ZA-Block
 add address=102.204.216.0/22 list=ZA-Block
 add address=102.204.224.0/21 list=ZA-Block
@@ -1535,7 +1535,6 @@ add address=213.150.208.0/20 list=ZA-Block
 add address=213.172.128.0/19 list=ZA-Block
 add address=213.193.40.0/21 list=ZA-Block
 add address=213.193.48.0/20 list=ZA-Block
-add address=216.236.176.0/20 list=ZA-Block
 add address=217.29.208.0/20 list=ZA-Block
 
 /ip firewall raw

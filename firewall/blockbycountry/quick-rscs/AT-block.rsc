@@ -573,6 +573,7 @@ add address=95.156.204.0/22 list=AT-Block
 add address=103.57.248.0/22 list=AT-Block
 add address=103.82.160.0/22 list=AT-Block
 add address=103.203.180.0/22 list=AT-Block
+add address=104.143.0.0/23 list=AT-Block
 add address=109.68.104.0/21 list=AT-Block
 add address=109.69.168.0/21 list=AT-Block
 add address=109.69.248.0/21 list=AT-Block

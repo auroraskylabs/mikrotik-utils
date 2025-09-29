@@ -1447,7 +1447,6 @@ add address=103.58.0.0/21 list=IN-Block
 add address=103.58.12.0/22 list=IN-Block
 add address=103.58.28.0/22 list=IN-Block
 add address=103.58.36.0/22 list=IN-Block
-add address=103.58.41.0/24 list=IN-Block
 add address=103.58.44.0/22 list=IN-Block
 add address=103.58.48.0/20 list=IN-Block
 add address=103.58.64.0/22 list=IN-Block

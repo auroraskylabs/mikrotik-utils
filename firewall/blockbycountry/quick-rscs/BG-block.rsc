@@ -917,7 +917,6 @@ add address=185.209.232.0/22 list=BG-Block
 add address=185.211.200.0/22 list=BG-Block
 add address=185.214.248.0/22 list=BG-Block
 add address=185.216.68.0/22 list=BG-Block
-add address=185.216.84.0/22 list=BG-Block
 add address=185.217.38.0/24 list=BG-Block
 add address=185.217.240.0/22 list=BG-Block
 add address=185.218.64.0/22 list=BG-Block

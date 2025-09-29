@@ -6,6 +6,7 @@ add address=43.247.24.0/22 list=MO-Block
 add address=45.64.20.0/22 list=MO-Block
 add address=45.123.200.0/22 list=MO-Block
 add address=60.246.0.0/16 list=MO-Block
+add address=74.119.64.0/21 list=MO-Block
 add address=103.5.218.0/23 list=MO-Block
 add address=103.88.176.0/22 list=MO-Block
 add address=103.96.60.0/22 list=MO-Block
