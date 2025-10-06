@@ -54,6 +54,7 @@ add address=43.245.192.0/22 list=BD-Block
 add address=43.245.232.0/22 list=BD-Block
 add address=43.245.244.0/22 list=BD-Block
 add address=43.246.200.0/22 list=BD-Block
+add address=43.248.254.0/23 list=BD-Block
 add address=43.250.80.0/22 list=BD-Block
 add address=43.251.84.0/22 list=BD-Block
 add address=43.254.96.0/22 list=BD-Block
@@ -504,7 +505,6 @@ add address=103.100.232.0/22 list=BD-Block
 add address=103.100.244.0/24 list=BD-Block
 add address=103.101.53.0/24 list=BD-Block
 add address=103.101.54.0/23 list=BD-Block
-add address=103.101.84.0/22 list=BD-Block
 add address=103.101.98.0/23 list=BD-Block
 add address=103.101.196.0/22 list=BD-Block
 add address=103.101.249.0/24 list=BD-Block
@@ -670,7 +670,7 @@ add address=103.124.30.0/23 list=BD-Block
 add address=103.124.32.0/22 list=BD-Block
 add address=103.124.52.0/22 list=BD-Block
 add address=103.124.110.0/23 list=BD-Block
-add address=103.124.180.0/22 list=BD-Block
+add address=103.124.180.0/23 list=BD-Block
 add address=103.124.224.0/22 list=BD-Block
 add address=103.124.232.0/21 list=BD-Block
 add address=103.124.248.0/22 list=BD-Block
@@ -1048,7 +1048,6 @@ add address=103.156.214.0/23 list=BD-Block
 add address=103.156.222.0/23 list=BD-Block
 add address=103.156.238.0/23 list=BD-Block
 add address=103.157.35.0/24 list=BD-Block
-add address=103.157.38.0/23 list=BD-Block
 add address=103.157.74.0/24 list=BD-Block
 add address=103.157.92.0/22 list=BD-Block
 add address=103.157.134.0/23 list=BD-Block

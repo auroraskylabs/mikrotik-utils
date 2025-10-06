@@ -2611,6 +2611,7 @@ add address=217.151.112.0/20 list=CH-Block
 add address=217.162.0.0/16 list=CH-Block
 add address=217.168.32.0/19 list=CH-Block
 add address=217.169.128.0/19 list=CH-Block
+add address=217.180.57.0/24 list=CH-Block
 add address=217.192.0.0/15 list=CH-Block
 add address=217.194.48.0/20 list=CH-Block
 add address=217.196.176.0/20 list=CH-Block

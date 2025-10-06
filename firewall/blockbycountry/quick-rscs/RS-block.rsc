@@ -153,6 +153,7 @@ add address=95.85.128.0/18 list=RS-Block
 add address=95.86.4.0/22 list=RS-Block
 add address=95.86.8.0/22 list=RS-Block
 add address=95.86.48.0/21 list=RS-Block
+add address=95.86.60.0/22 list=RS-Block
 add address=95.140.112.0/20 list=RS-Block
 add address=95.180.0.0/17 list=RS-Block
 add address=95.214.204.0/22 list=RS-Block

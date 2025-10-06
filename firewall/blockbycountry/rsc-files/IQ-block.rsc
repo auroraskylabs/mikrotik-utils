@@ -234,6 +234,7 @@ add address=188.72.0.0/18 list=IQ-Block
 add address=188.95.194.0/24 list=IQ-Block
 add address=192.161.6.0/23 list=IQ-Block
 add address=193.3.137.0/24 list=IQ-Block
+add address=193.8.95.0/24 list=IQ-Block
 add address=193.47.189.0/24 list=IQ-Block
 add address=193.56.135.0/24 list=IQ-Block
 add address=193.58.117.0/24 list=IQ-Block

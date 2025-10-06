@@ -33,6 +33,7 @@ add address=102.68.71.0/24 list=TZ-Block
 add address=102.69.164.0/22 list=TZ-Block
 add address=102.165.191.0/24 list=TZ-Block
 add address=102.177.80.0/21 list=TZ-Block
+add address=102.204.188.0/23 list=TZ-Block
 add address=102.205.10.0/23 list=TZ-Block
 add address=102.205.62.0/24 list=TZ-Block
 add address=102.205.200.0/22 list=TZ-Block

@@ -543,6 +543,8 @@ add address=202.149.96.0/19 list=TH-Block
 add address=202.151.4.0/22 list=TH-Block
 add address=202.151.40.0/21 list=TH-Block
 add address=202.151.176.0/20 list=TH-Block
+add address=202.157.149.0/24 list=TH-Block
+add address=202.157.150.0/24 list=TH-Block
 add address=202.162.76.0/22 list=TH-Block
 add address=202.170.112.0/20 list=TH-Block
 add address=202.172.16.0/22 list=TH-Block

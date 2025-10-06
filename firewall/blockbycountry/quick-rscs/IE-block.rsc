@@ -102,7 +102,6 @@ add address=62.17.0.0/16 list=IE-Block
 add address=62.40.32.0/19 list=IE-Block
 add address=62.77.160.0/19 list=IE-Block
 add address=62.146.164.0/22 list=IE-Block
-add address=62.222.0.0/15 list=IE-Block
 add address=62.231.32.0/19 list=IE-Block
 add address=62.233.16.0/20 list=IE-Block
 add address=64.43.0.0/18 list=IE-Block

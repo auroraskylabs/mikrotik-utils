@@ -8,6 +8,7 @@ add address=41.205.128.0/19 list=NA-Block
 add address=41.219.64.0/18 list=NA-Block
 add address=41.223.80.0/22 list=NA-Block
 add address=102.69.212.0/22 list=NA-Block
+add address=102.204.180.0/22 list=NA-Block
 add address=102.206.108.0/22 list=NA-Block
 add address=102.209.196.0/22 list=NA-Block
 add address=102.209.244.0/22 list=NA-Block

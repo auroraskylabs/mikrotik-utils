@@ -50,6 +50,7 @@ add address=95.66.0.0/17 list=KW-Block
 add address=109.71.188.0/23 list=KW-Block
 add address=139.141.0.0/16 list=KW-Block
 add address=149.147.0.0/16 list=KW-Block
+add address=158.94.180.0/23 list=KW-Block
 add address=161.252.0.0/16 list=KW-Block
 add address=168.187.0.0/16 list=KW-Block
 add address=171.25.224.0/24 list=KW-Block

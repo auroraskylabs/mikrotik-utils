@@ -583,6 +583,7 @@ add address=193.58.108.0/22 list=SC-Block
 add address=193.58.168.0/22 list=SC-Block
 add address=193.58.176.0/23 list=SC-Block
 add address=193.58.178.0/24 list=SC-Block
+add address=193.93.152.0/22 list=SC-Block
 add address=193.107.22.0/24 list=SC-Block
 add address=193.109.213.0/24 list=SC-Block
 add address=193.109.221.0/24 list=SC-Block

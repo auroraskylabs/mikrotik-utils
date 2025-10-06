@@ -9,6 +9,7 @@ add address=5.134.0.0/21 list=BE-Block
 add address=5.149.136.0/21 list=BE-Block
 add address=5.183.52.0/22 list=BE-Block
 add address=5.183.236.0/22 list=BE-Block
+add address=5.253.231.0/24 list=BE-Block
 add address=5.255.128.0/21 list=BE-Block
 add address=31.12.64.0/21 list=BE-Block
 add address=31.14.50.0/23 list=BE-Block

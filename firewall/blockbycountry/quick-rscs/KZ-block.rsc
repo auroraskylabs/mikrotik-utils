@@ -279,6 +279,7 @@ add address=109.201.32.0/19 list=KZ-Block
 add address=109.206.0.0/19 list=KZ-Block
 add address=109.229.160.0/19 list=KZ-Block
 add address=109.233.108.0/22 list=KZ-Block
+add address=109.233.206.0/24 list=KZ-Block
 add address=109.235.112.0/21 list=KZ-Block
 add address=109.238.160.0/20 list=KZ-Block
 add address=109.239.32.0/20 list=KZ-Block

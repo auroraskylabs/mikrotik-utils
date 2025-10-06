@@ -1958,6 +1958,7 @@ add address=185.137.158.0/24 list=IT-Block
 add address=185.137.204.0/22 list=IT-Block
 add address=185.137.224.0/22 list=IT-Block
 add address=185.138.36.0/22 list=IT-Block
+add address=185.138.60.0/22 list=IT-Block
 add address=185.138.216.0/22 list=IT-Block
 add address=185.139.28.0/22 list=IT-Block
 add address=185.139.48.0/22 list=IT-Block

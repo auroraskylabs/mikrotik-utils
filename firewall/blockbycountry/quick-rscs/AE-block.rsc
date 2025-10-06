@@ -553,7 +553,8 @@ add address=109.196.164.0/24 list=AE-Block
 add address=109.196.166.0/24 list=AE-Block
 add address=109.196.172.0/22 list=AE-Block
 add address=109.205.24.0/21 list=AE-Block
-add address=109.233.204.0/22 list=AE-Block
+add address=109.233.204.0/23 list=AE-Block
+add address=109.233.207.0/24 list=AE-Block
 add address=109.234.33.0/24 list=AE-Block
 add address=109.234.34.0/23 list=AE-Block
 add address=109.234.36.0/22 list=AE-Block
