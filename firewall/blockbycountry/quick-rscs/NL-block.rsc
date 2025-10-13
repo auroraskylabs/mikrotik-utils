@@ -5479,7 +5479,6 @@ add address=213.193.192.0/21 list=NL-Block
 add address=213.193.208.0/20 list=NL-Block
 add address=213.193.232.0/21 list=NL-Block
 add address=213.193.240.0/21 list=NL-Block
-add address=213.193.250.0/23 list=NL-Block
 add address=213.193.252.0/22 list=NL-Block
 add address=213.196.0.0/18 list=NL-Block
 add address=213.197.0.0/18 list=NL-Block

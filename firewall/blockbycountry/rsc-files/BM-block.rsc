@@ -45,4 +45,5 @@ add address=208.75.200.0/22 list=BM-Block
 add address=208.82.164.0/22 list=BM-Block
 add address=208.89.228.0/22 list=BM-Block
 add address=209.240.32.0/20 list=BM-Block
+add address=216.239.108.0/22 list=BM-Block
 add address=216.249.32.0/20 list=BM-Block

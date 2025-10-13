@@ -37,12 +37,10 @@ add address=94.125.56.0/21 list=IM-Block
 add address=103.214.248.0/23 list=IM-Block
 add address=109.70.40.0/21 list=IM-Block
 add address=109.202.112.0/21 list=IM-Block
-add address=146.247.48.0/20 list=IM-Block
 add address=178.16.0.0/20 list=IM-Block
 add address=178.211.144.0/24 list=IM-Block
 add address=178.217.93.0/24 list=IM-Block
 add address=185.1.178.0/24 list=IM-Block
-add address=185.16.0.0/22 list=IM-Block
 add address=185.28.72.0/22 list=IM-Block
 add address=185.48.76.0/22 list=IM-Block
 add address=185.60.88.0/22 list=IM-Block

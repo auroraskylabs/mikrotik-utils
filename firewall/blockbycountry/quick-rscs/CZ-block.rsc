@@ -625,6 +625,7 @@ add address=130.193.16.0/21 list=CZ-Block
 add address=131.117.192.0/21 list=CZ-Block
 add address=131.117.208.0/21 list=CZ-Block
 add address=137.98.0.0/16 list=CZ-Block
+add address=138.226.224.0/21 list=CZ-Block
 add address=139.28.116.0/22 list=CZ-Block
 add address=141.98.211.0/24 list=CZ-Block
 add address=141.170.128.0/18 list=CZ-Block

@@ -17,6 +17,7 @@ add address=14.129.0.0/16 list=KR-Block
 add address=14.138.0.0/16 list=KR-Block
 add address=14.192.80.0/20 list=KR-Block
 add address=14.206.0.0/16 list=KR-Block
+add address=23.133.68.0/24 list=KR-Block
 add address=23.142.12.0/24 list=KR-Block
 add address=27.0.236.0/22 list=KR-Block
 add address=27.1.0.0/16 list=KR-Block

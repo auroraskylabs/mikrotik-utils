@@ -363,7 +363,7 @@ add address=194.42.54.0/24 list=GR-Block
 add address=194.46.62.0/23 list=GR-Block
 add address=194.48.152.0/24 list=GR-Block
 add address=194.49.96.0/22 list=GR-Block
-add address=194.50.42.0/23 list=GR-Block
+add address=194.50.43.0/24 list=GR-Block
 add address=194.62.224.0/22 list=GR-Block
 add address=194.63.160.0/19 list=GR-Block
 add address=194.63.192.0/19 list=GR-Block

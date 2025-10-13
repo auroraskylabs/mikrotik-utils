@@ -23,6 +23,7 @@ add address=23.108.96.0/21 list=SG-Block
 add address=23.111.12.0/22 list=SG-Block
 add address=23.131.228.0/24 list=SG-Block
 add address=23.132.60.0/24 list=SG-Block
+add address=23.146.76.0/24 list=SG-Block
 add address=27.0.8.0/22 list=SG-Block
 add address=27.0.96.0/19 list=SG-Block
 add address=27.50.48.0/20 list=SG-Block

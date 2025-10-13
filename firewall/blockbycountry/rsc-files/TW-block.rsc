@@ -473,6 +473,8 @@ add address=125.62.224.0/20 list=TW-Block
 add address=125.224.0.0/13 list=TW-Block
 add address=125.232.0.0/15 list=TW-Block
 add address=134.208.0.0/16 list=TW-Block
+add address=138.252.10.0/23 list=TW-Block
+add address=138.252.12.0/23 list=TW-Block
 add address=139.175.0.0/16 list=TW-Block
 add address=139.223.0.0/16 list=TW-Block
 add address=140.92.0.0/16 list=TW-Block

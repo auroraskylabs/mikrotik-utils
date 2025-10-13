@@ -4,6 +4,7 @@ add address=41.75.64.0/20 list=CG-Block
 add address=102.64.116.0/22 list=CG-Block
 add address=102.129.64.0/19 list=CG-Block
 add address=102.141.0.0/18 list=CG-Block
+add address=102.204.124.0/24 list=CG-Block
 add address=102.209.72.0/22 list=CG-Block
 add address=102.213.232.0/22 list=CG-Block
 add address=102.220.244.0/22 list=CG-Block

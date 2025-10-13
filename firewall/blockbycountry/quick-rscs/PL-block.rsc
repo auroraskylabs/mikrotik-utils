@@ -1642,6 +1642,7 @@ add address=128.127.80.0/20 list=PL-Block
 add address=128.204.216.0/21 list=PL-Block
 add address=130.180.192.0/21 list=PL-Block
 add address=130.255.152.0/21 list=PL-Block
+add address=138.226.240.0/20 list=PL-Block
 add address=139.28.40.0/22 list=PL-Block
 add address=141.105.16.0/21 list=PL-Block
 add address=141.138.160.0/21 list=PL-Block

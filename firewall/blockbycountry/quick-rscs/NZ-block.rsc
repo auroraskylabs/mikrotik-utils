@@ -976,7 +976,6 @@ add address=202.37.68.0/22 list=NZ-Block
 add address=202.37.72.0/24 list=NZ-Block
 add address=202.37.75.0/24 list=NZ-Block
 add address=202.37.78.0/24 list=NZ-Block
-add address=202.37.80.0/22 list=NZ-Block
 add address=202.37.88.0/24 list=NZ-Block
 add address=202.37.93.0/24 list=NZ-Block
 add address=202.37.96.0/23 list=NZ-Block

@@ -90,6 +90,7 @@ add address=62.112.29.0/24 list=BE-Block
 add address=62.112.31.0/24 list=BE-Block
 add address=62.122.36.0/22 list=BE-Block
 add address=62.182.56.0/21 list=BE-Block
+add address=62.193.192.0/18 list=BE-Block
 add address=62.197.64.0/18 list=BE-Block
 add address=62.205.64.0/18 list=BE-Block
 add address=62.213.192.0/18 list=BE-Block

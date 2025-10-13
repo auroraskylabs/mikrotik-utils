@@ -17,6 +17,7 @@ add address=102.69.152.0/22 list=BF-Block
 add address=102.176.176.0/22 list=BF-Block
 add address=102.178.0.0/15 list=BF-Block
 add address=102.180.0.0/16 list=BF-Block
+add address=102.204.125.0/24 list=BF-Block
 add address=102.207.224.0/22 list=BF-Block
 add address=102.208.240.0/24 list=BF-Block
 add address=102.209.188.0/23 list=BF-Block

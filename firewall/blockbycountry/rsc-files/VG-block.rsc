@@ -83,6 +83,7 @@ add address=138.99.216.0/22 list=VG-Block
 add address=139.28.220.0/22 list=VG-Block
 add address=141.8.224.0/21 list=VG-Block
 add address=142.54.20.0/22 list=VG-Block
+add address=142.249.184.0/22 list=VG-Block
 add address=147.78.64.0/22 list=VG-Block
 add address=161.199.207.0/24 list=VG-Block
 add address=161.199.208.0/24 list=VG-Block

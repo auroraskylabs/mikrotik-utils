@@ -133,6 +133,7 @@ add address=200.61.224.0/20 list=PY-Block
 add address=200.85.32.0/19 list=PY-Block
 add address=200.108.128.0/20 list=PY-Block
 add address=200.115.16.0/23 list=PY-Block
+add address=200.123.36.0/23 list=PY-Block
 add address=200.124.120.0/24 list=PY-Block
 add address=201.131.51.0/24 list=PY-Block
 add address=201.217.0.0/18 list=PY-Block

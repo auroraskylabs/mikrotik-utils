@@ -3515,6 +3515,7 @@ add address=125.213.128.0/19 list=ID-Block
 add address=137.59.12.0/22 list=ID-Block
 add address=137.59.124.0/22 list=ID-Block
 add address=137.59.160.0/22 list=ID-Block
+add address=138.252.16.0/23 list=ID-Block
 add address=139.0.0.0/16 list=ID-Block
 add address=139.5.40.0/22 list=ID-Block
 add address=139.5.148.0/22 list=ID-Block
@@ -4220,6 +4221,7 @@ add address=202.93.112.0/20 list=ID-Block
 add address=202.93.128.0/20 list=ID-Block
 add address=202.93.224.0/20 list=ID-Block
 add address=202.93.240.0/21 list=ID-Block
+add address=202.94.71.0/24 list=ID-Block
 add address=202.94.80.0/24 list=ID-Block
 add address=202.94.83.0/24 list=ID-Block
 add address=202.95.128.0/19 list=ID-Block

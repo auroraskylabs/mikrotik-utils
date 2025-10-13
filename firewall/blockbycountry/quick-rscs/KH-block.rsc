@@ -33,6 +33,7 @@ add address=49.156.32.0/20 list=KH-Block
 add address=58.97.192.0/19 list=KH-Block
 add address=58.97.224.0/21 list=KH-Block
 add address=69.194.192.0/20 list=KH-Block
+add address=79.109.0.0/16 list=KH-Block
 add address=87.247.160.0/21 list=KH-Block
 add address=96.9.64.0/19 list=KH-Block
 add address=103.3.28.0/22 list=KH-Block

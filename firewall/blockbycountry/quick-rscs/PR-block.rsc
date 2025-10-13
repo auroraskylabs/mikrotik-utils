@@ -92,6 +92,7 @@ add address=136.175.224.0/22 list=PR-Block
 add address=139.60.176.0/20 list=PR-Block
 add address=140.235.220.0/22 list=PR-Block
 add address=141.193.44.0/22 list=PR-Block
+add address=142.248.176.0/22 list=PR-Block
 add address=147.92.80.0/21 list=PR-Block
 add address=161.38.240.0/22 list=PR-Block
 add address=162.12.224.0/21 list=PR-Block
