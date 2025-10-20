@@ -255,7 +255,6 @@ add address=185.32.0.0/22 list=MD-Block
 add address=185.33.104.0/22 list=MD-Block
 add address=185.40.105.0/24 list=MD-Block
 add address=185.46.60.0/22 list=MD-Block
-add address=185.50.7.0/24 list=MD-Block
 add address=185.51.120.0/24 list=MD-Block
 add address=185.53.46.0/24 list=MD-Block
 add address=185.57.44.0/22 list=MD-Block

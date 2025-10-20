@@ -255,6 +255,7 @@ add address=94.27.128.0/17 list=HU-Block
 add address=94.44.0.0/16 list=HU-Block
 add address=94.125.176.0/21 list=HU-Block
 add address=94.125.248.0/21 list=HU-Block
+add address=94.156.37.0/24 list=HU-Block
 add address=94.199.48.0/21 list=HU-Block
 add address=94.199.176.0/21 list=HU-Block
 add address=94.247.88.0/21 list=HU-Block

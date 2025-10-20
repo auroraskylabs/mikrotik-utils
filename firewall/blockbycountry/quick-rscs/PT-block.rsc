@@ -342,10 +342,13 @@ add address=194.110.76.0/24 list=PT-Block
 add address=194.117.0.0/19 list=PT-Block
 add address=194.117.32.0/20 list=PT-Block
 add address=194.117.48.0/23 list=PT-Block
+add address=194.117.75.0/24 list=PT-Block
+add address=194.117.93.0/24 list=PT-Block
 add address=194.140.232.0/24 list=PT-Block
 add address=194.140.238.0/24 list=PT-Block
 add address=194.145.121.0/24 list=PT-Block
 add address=194.153.132.0/24 list=PT-Block
+add address=194.169.156.0/24 list=PT-Block
 add address=194.169.215.0/24 list=PT-Block
 add address=194.180.32.0/22 list=PT-Block
 add address=194.210.0.0/16 list=PT-Block

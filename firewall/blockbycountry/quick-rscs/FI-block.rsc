@@ -353,7 +353,6 @@ add address=137.33.0.0/16 list=FI-Block
 add address=137.96.0.0/16 list=FI-Block
 add address=137.163.0.0/16 list=FI-Block
 add address=138.216.0.0/16 list=FI-Block
-add address=138.249.0.0/16 list=FI-Block
 add address=139.28.184.0/22 list=FI-Block
 add address=139.74.0.0/16 list=FI-Block
 add address=139.97.0.0/16 list=FI-Block

@@ -233,6 +233,7 @@ add address=128.204.240.0/20 list=SA-Block
 add address=128.234.0.0/16 list=SA-Block
 add address=129.208.0.0/16 list=SA-Block
 add address=130.164.128.0/17 list=SA-Block
+add address=130.193.31.0/24 list=SA-Block
 add address=130.255.176.0/21 list=SA-Block
 add address=134.239.0.0/16 list=SA-Block
 add address=139.64.0.0/17 list=SA-Block

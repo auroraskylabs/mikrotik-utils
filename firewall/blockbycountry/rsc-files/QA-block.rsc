@@ -42,4 +42,5 @@ add address=194.93.123.0/26 list=QA-Block
 add address=212.70.96.0/19 list=QA-Block
 add address=212.77.192.0/19 list=QA-Block
 add address=213.130.96.0/19 list=QA-Block
+add address=213.177.175.0/24 list=QA-Block
 add address=213.178.136.0/22 list=QA-Block

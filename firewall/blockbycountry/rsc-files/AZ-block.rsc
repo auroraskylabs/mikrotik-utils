@@ -96,6 +96,7 @@ add address=149.255.144.0/20 list=AZ-Block
 add address=158.181.32.0/20 list=AZ-Block
 add address=160.202.24.0/22 list=AZ-Block
 add address=164.215.96.0/21 list=AZ-Block
+add address=167.150.216.0/24 list=AZ-Block
 add address=176.28.80.0/21 list=AZ-Block
 add address=178.76.0.0/18 list=AZ-Block
 add address=178.237.64.0/20 list=AZ-Block

@@ -157,6 +157,7 @@ add address=194.39.82.0/23 list=AM-Block
 add address=194.39.102.0/23 list=AM-Block
 add address=194.50.153.0/24 list=AM-Block
 add address=194.61.88.0/22 list=AM-Block
+add address=194.117.80.0/24 list=AM-Block
 add address=194.247.50.0/24 list=AM-Block
 add address=195.8.50.0/23 list=AM-Block
 add address=195.20.16.0/24 list=AM-Block

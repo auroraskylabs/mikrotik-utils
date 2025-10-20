@@ -112,6 +112,7 @@ add address=91.142.0.0/20 list=LV-Block
 add address=91.188.32.0/19 list=LV-Block
 add address=91.190.32.0/19 list=LV-Block
 add address=91.190.128.0/21 list=LV-Block
+add address=91.192.161.0/24 list=LV-Block
 add address=91.193.64.0/22 list=LV-Block
 add address=91.194.110.0/24 list=LV-Block
 add address=91.194.176.0/24 list=LV-Block

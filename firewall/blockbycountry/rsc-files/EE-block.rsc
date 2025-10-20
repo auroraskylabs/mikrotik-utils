@@ -106,6 +106,7 @@ add address=87.119.160.0/19 list=EE-Block
 add address=87.236.146.0/24 list=EE-Block
 add address=88.196.0.0/16 list=EE-Block
 add address=89.36.21.0/24 list=EE-Block
+add address=89.42.118.0/23 list=EE-Block
 add address=89.191.234.0/24 list=EE-Block
 add address=89.221.64.0/20 list=EE-Block
 add address=89.235.192.0/18 list=EE-Block
@@ -357,6 +358,8 @@ add address=194.106.96.0/19 list=EE-Block
 add address=194.107.113.0/24 list=EE-Block
 add address=194.113.153.0/24 list=EE-Block
 add address=194.116.188.0/23 list=EE-Block
+add address=194.117.88.0/24 list=EE-Block
+add address=194.117.94.0/24 list=EE-Block
 add address=194.125.236.0/22 list=EE-Block
 add address=194.126.96.0/19 list=EE-Block
 add address=194.146.64.0/23 list=EE-Block

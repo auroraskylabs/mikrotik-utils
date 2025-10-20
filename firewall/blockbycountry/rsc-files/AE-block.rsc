@@ -532,6 +532,7 @@ add address=103.56.84.0/24 list=AE-Block
 add address=103.71.20.0/22 list=AE-Block
 add address=103.73.34.0/23 list=AE-Block
 add address=103.74.92.0/22 list=AE-Block
+add address=103.85.112.0/22 list=AE-Block
 add address=103.88.240.0/22 list=AE-Block
 add address=103.90.72.0/22 list=AE-Block
 add address=103.110.39.0/24 list=AE-Block

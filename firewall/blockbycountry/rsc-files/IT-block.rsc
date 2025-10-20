@@ -1470,7 +1470,10 @@ add address=178.236.160.0/20 list=IT-Block
 add address=178.237.0.0/20 list=IT-Block
 add address=178.238.48.0/20 list=IT-Block
 add address=178.239.20.0/23 list=IT-Block
-add address=178.239.32.0/20 list=IT-Block
+add address=178.239.32.0/22 list=IT-Block
+add address=178.239.36.0/23 list=IT-Block
+add address=178.239.38.0/24 list=IT-Block
+add address=178.239.40.0/21 list=IT-Block
 add address=178.239.176.0/20 list=IT-Block
 add address=178.248.48.0/21 list=IT-Block
 add address=178.248.88.0/21 list=IT-Block
@@ -3158,6 +3161,7 @@ add address=213.171.96.0/19 list=IT-Block
 add address=213.171.160.0/19 list=IT-Block
 add address=213.174.160.0/19 list=IT-Block
 add address=213.175.0.0/19 list=IT-Block
+add address=213.177.173.0/24 list=IT-Block
 add address=213.178.192.0/19 list=IT-Block
 add address=213.182.64.0/19 list=IT-Block
 add address=213.183.128.0/19 list=IT-Block

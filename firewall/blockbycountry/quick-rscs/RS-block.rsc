@@ -346,6 +346,7 @@ add address=195.222.96.0/22 list=RS-Block
 add address=195.242.76.0/23 list=RS-Block
 add address=195.250.96.0/19 list=RS-Block
 add address=195.252.64.0/18 list=RS-Block
+add address=198.143.176.0/21 list=RS-Block
 add address=199.21.96.0/22 list=RS-Block
 add address=199.36.240.0/22 list=RS-Block
 add address=202.37.103.0/24 list=RS-Block

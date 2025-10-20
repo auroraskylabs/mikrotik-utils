@@ -611,7 +611,7 @@ add address=124.150.139.0/24 list=NZ-Block
 add address=124.150.160.0/20 list=NZ-Block
 add address=124.155.224.0/20 list=NZ-Block
 add address=124.157.64.0/18 list=NZ-Block
-add address=124.198.224.0/19 list=NZ-Block
+add address=124.198.240.0/20 list=NZ-Block
 add address=124.248.128.0/20 list=NZ-Block
 add address=125.236.0.0/14 list=NZ-Block
 add address=130.123.0.0/16 list=NZ-Block

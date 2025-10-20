@@ -90,6 +90,7 @@ add address=193.105.82.0/24 list=BY-Block
 add address=193.151.40.0/22 list=BY-Block
 add address=193.176.180.0/22 list=BY-Block
 add address=194.62.64.0/24 list=BY-Block
+add address=194.117.83.0/24 list=BY-Block
 add address=194.158.192.0/19 list=BY-Block
 add address=195.50.0.0/19 list=BY-Block
 add address=195.137.160.0/24 list=BY-Block

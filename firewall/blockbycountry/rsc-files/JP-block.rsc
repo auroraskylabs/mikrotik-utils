@@ -1643,6 +1643,8 @@ add address=138.107.0.0/16 list=JP-Block
 add address=138.212.0.0/16 list=JP-Block
 add address=138.243.0.0/16 list=JP-Block
 add address=138.248.64.0/18 list=JP-Block
+add address=138.252.25.0/24 list=JP-Block
+add address=138.252.48.0/23 list=JP-Block
 add address=139.5.168.0/22 list=JP-Block
 add address=139.101.0.0/16 list=JP-Block
 add address=139.152.0.0/16 list=JP-Block

@@ -1682,6 +1682,7 @@ add address=194.153.32.0/19 list=SE-Block
 add address=194.153.64.0/21 list=SE-Block
 add address=194.153.84.0/24 list=SE-Block
 add address=194.153.91.0/24 list=SE-Block
+add address=194.153.157.0/25 list=SE-Block
 add address=194.164.14.0/23 list=SE-Block
 add address=194.165.32.0/24 list=SE-Block
 add address=194.165.224.0/19 list=SE-Block
@@ -1899,6 +1900,7 @@ add address=213.163.128.0/19 list=SE-Block
 add address=213.164.192.0/19 list=SE-Block
 add address=213.170.145.0/24 list=SE-Block
 add address=213.173.192.0/18 list=SE-Block
+add address=213.177.169.0/24 list=SE-Block
 add address=213.179.0.0/19 list=SE-Block
 add address=213.180.64.0/19 list=SE-Block
 add address=213.185.0.0/19 list=SE-Block

@@ -630,7 +630,7 @@ add address=94.156.14.0/23 list=BG-Block
 add address=94.156.20.0/22 list=BG-Block
 add address=94.156.24.0/23 list=BG-Block
 add address=94.156.34.0/24 list=BG-Block
-add address=94.156.36.0/23 list=BG-Block
+add address=94.156.36.0/24 list=BG-Block
 add address=94.156.42.0/24 list=BG-Block
 add address=94.156.44.0/24 list=BG-Block
 add address=94.156.46.0/23 list=BG-Block
