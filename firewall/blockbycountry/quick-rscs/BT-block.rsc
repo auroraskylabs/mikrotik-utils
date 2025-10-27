@@ -27,6 +27,7 @@ add address=103.245.240.0/22 list=BT-Block
 add address=103.252.84.0/24 list=BT-Block
 add address=118.103.136.0/21 list=BT-Block
 add address=119.2.96.0/19 list=BT-Block
+add address=138.252.94.0/24 list=BT-Block
 add address=157.10.120.0/21 list=BT-Block
 add address=157.10.128.0/23 list=BT-Block
 add address=157.10.136.0/21 list=BT-Block

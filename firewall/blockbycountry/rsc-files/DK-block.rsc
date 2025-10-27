@@ -982,6 +982,7 @@ add address=193.239.96.0/22 list=DK-Block
 add address=193.239.168.0/23 list=DK-Block
 add address=193.242.107.0/24 list=DK-Block
 add address=193.242.155.0/24 list=DK-Block
+add address=193.242.167.0/24 list=DK-Block
 add address=193.242.221.0/24 list=DK-Block
 add address=193.243.129.0/24 list=DK-Block
 add address=194.0.22.0/24 list=DK-Block

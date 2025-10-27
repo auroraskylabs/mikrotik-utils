@@ -698,6 +698,7 @@ add address=203.10.16.0/21 list=MY-Block
 add address=203.10.58.0/24 list=MY-Block
 add address=203.12.220.0/24 list=MY-Block
 add address=203.20.63.0/24 list=MY-Block
+add address=203.25.78.0/24 list=MY-Block
 add address=203.28.143.0/24 list=MY-Block
 add address=203.32.86.0/23 list=MY-Block
 add address=203.34.154.0/24 list=MY-Block

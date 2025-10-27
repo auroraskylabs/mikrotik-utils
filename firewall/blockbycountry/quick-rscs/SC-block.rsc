@@ -404,6 +404,7 @@ add address=155.212.233.0/24 list=SC-Block
 add address=155.212.240.0/24 list=SC-Block
 add address=156.0.200.0/22 list=SC-Block
 add address=156.224.0.0/11 list=SC-Block
+add address=157.22.0.0/16 list=SC-Block
 add address=158.222.0.0/20 list=SC-Block
 add address=160.119.64.0/20 list=SC-Block
 add address=160.119.88.0/21 list=SC-Block

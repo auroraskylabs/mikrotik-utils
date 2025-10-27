@@ -16,6 +16,7 @@ add address=5.253.176.0/22 list=EE-Block
 add address=31.24.56.0/21 list=EE-Block
 add address=37.0.24.0/21 list=EE-Block
 add address=37.49.224.0/21 list=EE-Block
+add address=37.72.111.0/24 list=EE-Block
 add address=37.143.64.0/21 list=EE-Block
 add address=37.157.64.0/18 list=EE-Block
 add address=45.67.128.0/22 list=EE-Block

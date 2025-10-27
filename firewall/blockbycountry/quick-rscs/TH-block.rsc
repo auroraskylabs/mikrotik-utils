@@ -392,6 +392,7 @@ add address=134.196.0.0/16 list=TH-Block
 add address=134.236.0.0/16 list=TH-Block
 add address=137.59.112.0/23 list=TH-Block
 add address=137.59.114.0/24 list=TH-Block
+add address=138.252.93.0/24 list=TH-Block
 add address=139.5.144.0/22 list=TH-Block
 add address=140.149.0.0/16 list=TH-Block
 add address=143.92.110.0/23 list=TH-Block

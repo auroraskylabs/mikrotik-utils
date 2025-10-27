@@ -516,6 +516,7 @@ add address=137.59.144.0/22 list=PK-Block
 add address=137.59.192.0/22 list=PK-Block
 add address=137.59.216.0/21 list=PK-Block
 add address=137.59.224.0/21 list=PK-Block
+add address=138.252.74.0/23 list=PK-Block
 add address=139.5.116.0/22 list=PK-Block
 add address=139.135.32.0/19 list=PK-Block
 add address=139.190.0.0/17 list=PK-Block

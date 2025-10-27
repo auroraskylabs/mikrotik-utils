@@ -322,6 +322,7 @@ add address=130.248.96.0/21 list=IE-Block
 add address=130.248.104.0/22 list=IE-Block
 add address=130.255.24.0/22 list=IE-Block
 add address=134.226.0.0/16 list=IE-Block
+add address=136.144.96.0/19 list=IE-Block
 add address=136.201.0.0/16 list=IE-Block
 add address=136.206.0.0/16 list=IE-Block
 add address=137.43.0.0/16 list=IE-Block
@@ -346,6 +347,7 @@ add address=149.153.0.0/16 list=IE-Block
 add address=149.157.0.0/16 list=IE-Block
 add address=157.190.0.0/16 list=IE-Block
 add address=158.146.128.0/20 list=IE-Block
+add address=159.100.160.0/20 list=IE-Block
 add address=159.134.0.0/16 list=IE-Block
 add address=159.253.224.0/22 list=IE-Block
 add address=160.6.0.0/16 list=IE-Block

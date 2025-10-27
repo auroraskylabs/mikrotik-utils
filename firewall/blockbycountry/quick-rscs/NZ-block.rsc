@@ -407,7 +407,7 @@ add address=103.196.108.0/23 list=NZ-Block
 add address=103.197.52.0/22 list=NZ-Block
 add address=103.197.60.0/22 list=NZ-Block
 add address=103.198.104.0/23 list=NZ-Block
-add address=103.198.184.0/23 list=NZ-Block
+add address=103.198.184.0/24 list=NZ-Block
 add address=103.199.0.0/23 list=NZ-Block
 add address=103.199.81.0/24 list=NZ-Block
 add address=103.203.188.0/24 list=NZ-Block

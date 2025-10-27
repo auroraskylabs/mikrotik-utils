@@ -314,6 +314,8 @@ add address=102.177.64.0/21 list=ZA-Block
 add address=102.177.112.0/20 list=ZA-Block
 add address=102.177.128.0/18 list=ZA-Block
 add address=102.182.0.0/16 list=ZA-Block
+add address=102.204.56.0/21 list=ZA-Block
+add address=102.204.65.0/24 list=ZA-Block
 add address=102.204.68.0/22 list=ZA-Block
 add address=102.204.72.0/22 list=ZA-Block
 add address=102.204.92.0/22 list=ZA-Block
@@ -1360,6 +1362,7 @@ add address=196.46.224.0/21 list=ZA-Block
 add address=196.47.0.0/18 list=ZA-Block
 add address=196.47.192.0/18 list=ZA-Block
 add address=196.49.100.0/24 list=ZA-Block
+add address=196.49.114.0/23 list=ZA-Block
 add address=196.50.0.0/23 list=ZA-Block
 add address=196.50.3.0/24 list=ZA-Block
 add address=196.50.64.0/18 list=ZA-Block

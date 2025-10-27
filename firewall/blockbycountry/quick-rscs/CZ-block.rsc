@@ -456,6 +456,7 @@ add address=91.218.188.0/22 list=CZ-Block
 add address=91.218.232.0/22 list=CZ-Block
 add address=91.219.44.0/22 list=CZ-Block
 add address=91.219.240.0/21 list=CZ-Block
+add address=91.220.20.0/24 list=CZ-Block
 add address=91.220.122.0/24 list=CZ-Block
 add address=91.220.201.0/24 list=CZ-Block
 add address=91.221.2.0/23 list=CZ-Block

@@ -148,6 +148,7 @@ add address=147.75.112.0/20 list=CO-Block
 add address=148.222.224.0/22 list=CO-Block
 add address=148.222.230.0/23 list=CO-Block
 add address=148.222.232.0/21 list=CO-Block
+add address=148.224.28.0/24 list=CO-Block
 add address=152.200.0.0/14 list=CO-Block
 add address=152.204.0.0/15 list=CO-Block
 add address=152.231.24.0/21 list=CO-Block

@@ -34,6 +34,8 @@ add address=66.98.0.0/18 list=DO-Block
 add address=66.98.64.0/19 list=DO-Block
 add address=103.7.135.0/24 list=DO-Block
 add address=103.8.92.0/22 list=DO-Block
+add address=103.71.62.0/23 list=DO-Block
+add address=103.207.44.0/22 list=DO-Block
 add address=128.201.112.0/22 list=DO-Block
 add address=131.108.236.0/22 list=DO-Block
 add address=131.221.4.0/22 list=DO-Block

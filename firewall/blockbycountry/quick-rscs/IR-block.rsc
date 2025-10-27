@@ -1668,6 +1668,7 @@ add address=213.109.240.0/20 list=IR-Block
 add address=213.134.17.0/24 list=IR-Block
 add address=213.176.0.0/17 list=IR-Block
 add address=213.177.176.0/22 list=IR-Block
+add address=213.177.181.0/24 list=IR-Block
 add address=213.195.0.0/20 list=IR-Block
 add address=213.195.16.0/21 list=IR-Block
 add address=213.195.32.0/19 list=IR-Block

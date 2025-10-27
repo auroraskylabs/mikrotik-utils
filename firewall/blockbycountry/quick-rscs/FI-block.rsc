@@ -317,6 +317,7 @@ add address=94.199.112.0/21 list=FI-Block
 add address=94.237.0.0/17 list=FI-Block
 add address=95.111.192.0/19 list=FI-Block
 add address=95.130.24.0/21 list=FI-Block
+add address=95.133.252.0/22 list=FI-Block
 add address=95.175.96.0/19 list=FI-Block
 add address=95.214.64.0/22 list=FI-Block
 add address=95.215.16.0/22 list=FI-Block

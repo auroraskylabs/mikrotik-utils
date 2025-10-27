@@ -164,6 +164,7 @@ add address=94.100.0.0/20 list=LV-Block
 add address=94.101.224.0/20 list=LV-Block
 add address=94.103.48.0/20 list=LV-Block
 add address=94.140.96.0/19 list=LV-Block
+add address=94.158.218.0/23 list=LV-Block
 add address=94.242.48.0/20 list=LV-Block
 add address=95.68.0.0/17 list=LV-Block
 add address=95.130.32.0/21 list=LV-Block

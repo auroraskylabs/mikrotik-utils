@@ -15,6 +15,7 @@ add address=102.67.160.0/22 list=ZM-Block
 add address=102.68.136.0/22 list=ZM-Block
 add address=102.130.100.0/24 list=ZM-Block
 add address=102.144.0.0/13 list=ZM-Block
+add address=102.204.66.0/23 list=ZM-Block
 add address=102.208.220.0/23 list=ZM-Block
 add address=102.210.96.0/22 list=ZM-Block
 add address=102.210.102.0/23 list=ZM-Block
