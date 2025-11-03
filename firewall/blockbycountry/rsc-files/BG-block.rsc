@@ -96,7 +96,6 @@ add address=45.133.100.0/22 list=BG-Block
 add address=45.133.251.0/24 list=BG-Block
 add address=45.137.220.0/22 list=BG-Block
 add address=45.139.105.0/24 list=BG-Block
-add address=45.139.106.0/24 list=BG-Block
 add address=45.139.123.0/24 list=BG-Block
 add address=45.141.156.0/23 list=BG-Block
 add address=45.141.158.0/24 list=BG-Block

@@ -456,6 +456,7 @@ add address=91.240.108.0/24 list=TR-Block
 add address=91.240.232.0/24 list=TR-Block
 add address=91.241.48.0/22 list=TR-Block
 add address=91.241.52.0/24 list=TR-Block
+add address=91.241.55.0/24 list=TR-Block
 add address=91.243.116.0/24 list=TR-Block
 add address=91.244.116.0/24 list=TR-Block
 add address=91.244.227.0/24 list=TR-Block
@@ -466,7 +467,7 @@ add address=92.42.4.0/24 list=TR-Block
 add address=92.42.32.0/21 list=TR-Block
 add address=92.42.204.0/24 list=TR-Block
 add address=92.44.0.0/15 list=TR-Block
-add address=92.53.160.0/24 list=TR-Block
+add address=92.53.160.0/23 list=TR-Block
 add address=92.61.0.0/20 list=TR-Block
 add address=92.63.0.0/20 list=TR-Block
 add address=92.114.1.0/24 list=TR-Block
@@ -585,6 +586,7 @@ add address=144.122.0.0/16 list=TR-Block
 add address=146.19.12.0/24 list=TR-Block
 add address=146.19.57.0/24 list=TR-Block
 add address=146.19.70.0/24 list=TR-Block
+add address=146.19.74.0/24 list=TR-Block
 add address=146.19.89.0/24 list=TR-Block
 add address=146.19.141.0/24 list=TR-Block
 add address=146.19.176.0/24 list=TR-Block
@@ -695,6 +697,7 @@ add address=185.15.196.0/22 list=TR-Block
 add address=185.16.236.0/22 list=TR-Block
 add address=185.17.136.0/22 list=TR-Block
 add address=185.19.32.0/24 list=TR-Block
+add address=185.19.43.0/24 list=TR-Block
 add address=185.19.80.0/22 list=TR-Block
 add address=185.19.92.0/22 list=TR-Block
 add address=185.19.152.0/22 list=TR-Block
@@ -875,6 +878,7 @@ add address=185.125.32.0/22 list=TR-Block
 add address=185.126.176.0/22 list=TR-Block
 add address=185.126.216.0/22 list=TR-Block
 add address=185.128.112.0/22 list=TR-Block
+add address=185.129.16.0/22 list=TR-Block
 add address=185.130.56.0/22 list=TR-Block
 add address=185.130.90.0/24 list=TR-Block
 add address=185.130.102.0/24 list=TR-Block
@@ -904,6 +908,7 @@ add address=185.141.32.0/22 list=TR-Block
 add address=185.141.108.0/22 list=TR-Block
 add address=185.144.76.0/22 list=TR-Block
 add address=185.144.248.0/22 list=TR-Block
+add address=185.146.136.0/22 list=TR-Block
 add address=185.148.84.0/22 list=TR-Block
 add address=185.148.240.0/22 list=TR-Block
 add address=185.149.100.0/22 list=TR-Block
@@ -1046,6 +1051,7 @@ add address=185.228.207.0/24 list=TR-Block
 add address=185.229.12.0/22 list=TR-Block
 add address=185.230.16.0/23 list=TR-Block
 add address=185.230.19.0/24 list=TR-Block
+add address=185.231.108.0/22 list=TR-Block
 add address=185.231.224.0/22 list=TR-Block
 add address=185.233.219.0/24 list=TR-Block
 add address=185.233.244.0/22 list=TR-Block
@@ -1125,6 +1131,7 @@ add address=193.3.35.0/24 list=TR-Block
 add address=193.3.41.0/24 list=TR-Block
 add address=193.3.52.0/24 list=TR-Block
 add address=193.3.167.0/24 list=TR-Block
+add address=193.9.51.0/24 list=TR-Block
 add address=193.17.4.0/22 list=TR-Block
 add address=193.22.12.0/24 list=TR-Block
 add address=193.22.163.0/24 list=TR-Block
@@ -1287,6 +1294,8 @@ add address=194.62.52.0/22 list=TR-Block
 add address=194.69.162.0/24 list=TR-Block
 add address=194.93.48.0/22 list=TR-Block
 add address=194.93.60.0/22 list=TR-Block
+add address=194.99.57.0/24 list=TR-Block
+add address=194.99.74.0/24 list=TR-Block
 add address=194.104.137.0/24 list=TR-Block
 add address=194.107.22.0/24 list=TR-Block
 add address=194.107.229.0/24 list=TR-Block
@@ -1356,6 +1365,7 @@ add address=195.88.119.0/24 list=TR-Block
 add address=195.93.226.0/24 list=TR-Block
 add address=195.95.160.0/24 list=TR-Block
 add address=195.95.179.0/24 list=TR-Block
+add address=195.96.145.0/24 list=TR-Block
 add address=195.112.128.0/19 list=TR-Block
 add address=195.128.32.0/21 list=TR-Block
 add address=195.137.222.0/23 list=TR-Block

@@ -404,6 +404,8 @@ add address=185.216.40.0/22 list=SA-Block
 add address=185.217.4.0/24 list=SA-Block
 add address=185.217.8.0/22 list=SA-Block
 add address=185.217.100.0/22 list=SA-Block
+add address=185.217.217.0/24 list=SA-Block
+add address=185.217.218.0/23 list=SA-Block
 add address=185.222.40.0/24 list=SA-Block
 add address=185.224.252.0/22 list=SA-Block
 add address=185.225.56.0/22 list=SA-Block

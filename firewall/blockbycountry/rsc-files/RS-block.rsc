@@ -338,7 +338,6 @@ add address=195.64.170.0/23 list=RS-Block
 add address=195.88.12.0/23 list=RS-Block
 add address=195.88.216.0/23 list=RS-Block
 add address=195.149.192.0/22 list=RS-Block
-add address=195.170.183.0/24 list=RS-Block
 add address=195.178.32.0/19 list=RS-Block
 add address=195.182.214.0/23 list=RS-Block
 add address=195.192.244.0/22 list=RS-Block

@@ -330,6 +330,7 @@ add address=176.65.72.0/21 list=LU-Block
 add address=176.119.203.0/24 list=LU-Block
 add address=176.119.219.0/24 list=LU-Block
 add address=176.126.122.0/24 list=LU-Block
+add address=178.107.0.0/19 list=LU-Block
 add address=178.249.192.0/21 list=LU-Block
 add address=178.251.160.0/21 list=LU-Block
 add address=178.254.64.0/18 list=LU-Block

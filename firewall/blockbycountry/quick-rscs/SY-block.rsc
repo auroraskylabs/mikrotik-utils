@@ -85,7 +85,6 @@ add address=185.134.132.0/22 list=SY-Block
 add address=185.135.48.0/22 list=SY-Block
 add address=185.136.144.0/22 list=SY-Block
 add address=185.145.236.0/22 list=SY-Block
-add address=185.146.136.0/22 list=SY-Block
 add address=185.148.192.0/22 list=SY-Block
 add address=185.150.140.0/22 list=SY-Block
 add address=185.151.80.0/22 list=SY-Block

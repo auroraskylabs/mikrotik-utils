@@ -262,6 +262,7 @@ add address=89.47.172.0/22 list=LT-Block
 add address=89.106.205.0/24 list=LT-Block
 add address=89.107.9.0/24 list=LT-Block
 add address=89.116.0.0/15 list=LT-Block
+add address=89.124.8.0/22 list=LT-Block
 add address=89.190.96.0/19 list=LT-Block
 add address=89.190.148.0/22 list=LT-Block
 add address=89.207.148.0/22 list=LT-Block

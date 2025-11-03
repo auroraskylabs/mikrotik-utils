@@ -133,6 +133,7 @@ add address=45.137.0.0/22 list=RO-Block
 add address=45.138.64.0/22 list=RO-Block
 add address=45.138.96.0/22 list=RO-Block
 add address=45.139.68.0/22 list=RO-Block
+add address=45.139.106.0/24 list=RO-Block
 add address=45.141.152.0/22 list=RO-Block
 add address=45.142.192.0/22 list=RO-Block
 add address=45.145.16.0/22 list=RO-Block

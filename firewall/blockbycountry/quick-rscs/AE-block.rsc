@@ -567,6 +567,7 @@ add address=128.0.1.0/24 list=AE-Block
 add address=128.0.41.0/24 list=AE-Block
 add address=128.127.72.0/21 list=AE-Block
 add address=130.0.232.0/21 list=AE-Block
+add address=130.49.160.0/22 list=AE-Block
 add address=130.185.120.0/21 list=AE-Block
 add address=130.255.0.0/21 list=AE-Block
 add address=134.0.216.0/21 list=AE-Block
@@ -590,6 +591,7 @@ add address=167.17.32.0/19 list=AE-Block
 add address=167.17.176.0/20 list=AE-Block
 add address=167.150.18.0/23 list=AE-Block
 add address=167.160.20.0/24 list=AE-Block
+add address=168.222.180.0/22 list=AE-Block
 add address=168.222.252.0/22 list=AE-Block
 add address=169.224.0.0/17 list=AE-Block
 add address=171.22.32.0/22 list=AE-Block

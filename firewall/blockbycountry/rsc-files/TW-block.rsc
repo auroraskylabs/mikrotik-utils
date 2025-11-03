@@ -475,6 +475,7 @@ add address=134.208.0.0/16 list=TW-Block
 add address=138.252.10.0/23 list=TW-Block
 add address=138.252.12.0/23 list=TW-Block
 add address=138.252.52.0/22 list=TW-Block
+add address=138.252.116.0/23 list=TW-Block
 add address=139.175.0.0/16 list=TW-Block
 add address=139.223.0.0/16 list=TW-Block
 add address=140.92.0.0/16 list=TW-Block

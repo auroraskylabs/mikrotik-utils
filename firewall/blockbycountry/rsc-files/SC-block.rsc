@@ -240,6 +240,7 @@ add address=84.246.106.0/24 list=SC-Block
 add address=84.246.109.0/24 list=SC-Block
 add address=84.246.110.0/24 list=SC-Block
 add address=85.209.128.0/22 list=SC-Block
+add address=85.235.80.0/23 list=SC-Block
 add address=86.54.42.0/24 list=SC-Block
 add address=87.236.150.0/23 list=SC-Block
 add address=87.236.167.0/24 list=SC-Block

@@ -516,7 +516,7 @@ add address=83.171.232.0/22 list=HK-Block
 add address=83.229.40.0/21 list=HK-Block
 add address=83.229.120.0/21 list=HK-Block
 add address=84.21.160.0/22 list=HK-Block
-add address=84.38.4.0/22 list=HK-Block
+add address=84.38.4.0/23 list=HK-Block
 add address=84.54.8.0/22 list=HK-Block
 add address=84.54.16.0/22 list=HK-Block
 add address=84.252.68.0/22 list=HK-Block

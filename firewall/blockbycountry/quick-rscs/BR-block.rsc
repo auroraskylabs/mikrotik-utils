@@ -1507,10 +1507,7 @@ add address=131.255.32.0/21 list=BR-Block
 add address=131.255.44.0/22 list=BR-Block
 add address=131.255.48.0/21 list=BR-Block
 add address=131.255.56.0/22 list=BR-Block
-add address=131.255.64.0/19 list=BR-Block
-add address=131.255.96.0/21 list=BR-Block
-add address=131.255.108.0/22 list=BR-Block
-add address=131.255.112.0/20 list=BR-Block
+add address=131.255.64.0/18 list=BR-Block
 add address=131.255.130.0/23 list=BR-Block
 add address=131.255.132.0/22 list=BR-Block
 add address=131.255.140.0/22 list=BR-Block

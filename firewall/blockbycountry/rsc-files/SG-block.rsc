@@ -715,7 +715,6 @@ add address=103.245.223.0/24 list=SG-Block
 add address=103.246.37.0/24 list=SG-Block
 add address=103.246.92.0/22 list=SG-Block
 add address=103.246.140.0/22 list=SG-Block
-add address=103.246.200.0/22 list=SG-Block
 add address=103.247.30.0/23 list=SG-Block
 add address=103.247.108.0/22 list=SG-Block
 add address=103.247.132.0/22 list=SG-Block

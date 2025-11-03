@@ -384,7 +384,6 @@ add address=103.170.171.0/24 list=MY-Block
 add address=103.170.206.0/23 list=MY-Block
 add address=103.171.42.0/24 list=MY-Block
 add address=103.171.104.0/23 list=MY-Block
-add address=103.172.74.0/23 list=MY-Block
 add address=103.173.114.0/23 list=MY-Block
 add address=103.174.136.0/23 list=MY-Block
 add address=103.174.146.0/23 list=MY-Block
@@ -560,6 +559,7 @@ add address=135.84.232.0/21 list=MY-Block
 add address=137.59.80.0/22 list=MY-Block
 add address=137.59.108.0/22 list=MY-Block
 add address=138.252.4.0/23 list=MY-Block
+add address=138.252.106.0/23 list=MY-Block
 add address=139.5.176.0/22 list=MY-Block
 add address=141.193.40.0/22 list=MY-Block
 add address=143.192.96.0/20 list=MY-Block

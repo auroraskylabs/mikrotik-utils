@@ -1387,6 +1387,7 @@ add address=103.144.176.0/23 list=CA-Block
 add address=103.151.126.0/23 list=CA-Block
 add address=103.200.72.0/23 list=CA-Block
 add address=103.217.104.0/23 list=CA-Block
+add address=103.246.200.0/22 list=CA-Block
 add address=103.247.28.0/23 list=CA-Block
 add address=103.253.96.0/22 list=CA-Block
 add address=104.36.64.0/21 list=CA-Block
@@ -1776,6 +1777,7 @@ add address=137.207.0.0/16 list=CA-Block
 add address=137.220.4.0/22 list=CA-Block
 add address=137.236.0.0/16 list=CA-Block
 add address=138.10.0.0/15 list=CA-Block
+add address=138.28.224.0/19 list=CA-Block
 add address=138.43.244.0/22 list=CA-Block
 add address=138.51.0.0/16 list=CA-Block
 add address=138.73.0.0/16 list=CA-Block
@@ -2442,6 +2444,7 @@ add address=168.151.17.0/24 list=CA-Block
 add address=168.151.25.0/24 list=CA-Block
 add address=168.151.26.0/24 list=CA-Block
 add address=168.151.255.0/24 list=CA-Block
+add address=168.222.184.0/22 list=CA-Block
 add address=168.235.144.0/20 list=CA-Block
 add address=168.235.192.0/20 list=CA-Block
 add address=168.235.224.0/20 list=CA-Block
@@ -4861,7 +4864,10 @@ add address=204.239.176.0/22 list=CA-Block
 add address=204.239.180.0/23 list=CA-Block
 add address=204.239.183.0/24 list=CA-Block
 add address=204.239.184.0/21 list=CA-Block
-add address=204.239.192.0/19 list=CA-Block
+add address=204.239.192.0/21 list=CA-Block
+add address=204.239.200.0/22 list=CA-Block
+add address=204.239.206.0/23 list=CA-Block
+add address=204.239.208.0/20 list=CA-Block
 add address=204.239.224.0/20 list=CA-Block
 add address=204.239.240.0/21 list=CA-Block
 add address=204.239.248.0/22 list=CA-Block
@@ -6029,7 +6035,7 @@ add address=216.146.28.0/22 list=CA-Block
 add address=216.146.128.0/20 list=CA-Block
 add address=216.150.0.0/24 list=CA-Block
 add address=216.150.2.0/23 list=CA-Block
-add address=216.150.4.0/23 list=CA-Block
+add address=216.150.4.0/24 list=CA-Block
 add address=216.150.17.0/24 list=CA-Block
 add address=216.150.20.0/23 list=CA-Block
 add address=216.150.29.0/24 list=CA-Block

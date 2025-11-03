@@ -121,7 +121,6 @@ add address=91.235.84.0/22 list=GE-Block
 add address=91.235.243.0/24 list=GE-Block
 add address=91.237.51.0/24 list=GE-Block
 add address=91.239.206.0/23 list=GE-Block
-add address=91.241.55.0/24 list=GE-Block
 add address=91.246.50.0/24 list=GE-Block
 add address=91.247.64.0/23 list=GE-Block
 add address=92.51.64.0/18 list=GE-Block
@@ -151,7 +150,6 @@ add address=134.19.224.0/19 list=GE-Block
 add address=134.90.0.0/17 list=GE-Block
 add address=141.8.208.0/21 list=GE-Block
 add address=146.19.4.0/24 list=GE-Block
-add address=146.19.74.0/24 list=GE-Block
 add address=146.19.199.0/24 list=GE-Block
 add address=146.19.203.0/24 list=GE-Block
 add address=146.255.224.0/19 list=GE-Block
@@ -262,7 +260,6 @@ add address=188.227.192.0/22 list=GE-Block
 add address=188.244.119.0/24 list=GE-Block
 add address=192.122.253.0/24 list=GE-Block
 add address=193.9.48.0/24 list=GE-Block
-add address=193.9.51.0/24 list=GE-Block
 add address=193.24.126.0/24 list=GE-Block
 add address=193.29.184.0/23 list=GE-Block
 add address=193.29.190.0/23 list=GE-Block
@@ -289,7 +286,6 @@ add address=195.5.179.0/24 list=GE-Block
 add address=195.54.178.0/23 list=GE-Block
 add address=195.69.140.0/22 list=GE-Block
 add address=195.96.130.0/23 list=GE-Block
-add address=195.96.145.0/24 list=GE-Block
 add address=195.114.6.0/23 list=GE-Block
 add address=195.211.116.0/22 list=GE-Block
 add address=212.52.14.0/24 list=GE-Block
