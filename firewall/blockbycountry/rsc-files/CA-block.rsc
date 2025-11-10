@@ -662,6 +662,7 @@ add address=64.251.64.0/19 list=CA-Block
 add address=64.253.128.0/19 list=CA-Block
 add address=64.254.0.0/19 list=CA-Block
 add address=64.254.224.0/19 list=CA-Block
+add address=64.255.10.0/23 list=CA-Block
 add address=64.255.228.0/22 list=CA-Block
 add address=65.7.0.0/17 list=CA-Block
 add address=65.23.128.0/20 list=CA-Block

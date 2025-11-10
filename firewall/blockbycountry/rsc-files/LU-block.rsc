@@ -127,6 +127,7 @@ add address=82.97.206.0/24 list=LU-Block
 add address=82.117.224.0/22 list=LU-Block
 add address=82.117.228.0/24 list=LU-Block
 add address=82.117.241.0/24 list=LU-Block
+add address=82.158.112.0/20 list=LU-Block
 add address=83.99.0.0/17 list=LU-Block
 add address=83.171.216.0/22 list=LU-Block
 add address=83.222.32.0/19 list=LU-Block

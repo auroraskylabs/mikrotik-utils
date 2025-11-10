@@ -2003,7 +2003,6 @@ add address=165.84.128.0/18 list=HK-Block
 add address=165.101.74.0/23 list=HK-Block
 add address=165.101.94.0/23 list=HK-Block
 add address=165.101.124.0/24 list=HK-Block
-add address=165.101.196.0/23 list=HK-Block
 add address=165.154.0.0/17 list=HK-Block
 add address=165.154.128.0/18 list=HK-Block
 add address=165.154.218.0/23 list=HK-Block
@@ -2845,6 +2844,7 @@ add address=213.232.204.0/24 list=HK-Block
 add address=213.232.206.0/24 list=HK-Block
 add address=213.255.200.0/22 list=HK-Block
 add address=213.255.228.0/22 list=HK-Block
+add address=216.57.104.0/21 list=HK-Block
 add address=216.108.240.0/20 list=HK-Block
 add address=216.118.224.0/19 list=HK-Block
 add address=216.151.192.0/20 list=HK-Block

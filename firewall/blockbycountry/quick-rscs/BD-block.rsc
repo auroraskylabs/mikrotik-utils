@@ -1686,7 +1686,11 @@ add address=138.252.84.0/23 list=BD-Block
 add address=138.252.88.0/23 list=BD-Block
 add address=138.252.102.0/23 list=BD-Block
 add address=138.252.112.0/23 list=BD-Block
+add address=138.252.115.0/24 list=BD-Block
 add address=138.252.120.0/23 list=BD-Block
+add address=138.252.124.0/23 list=BD-Block
+add address=138.252.129.0/24 list=BD-Block
+add address=138.252.144.0/23 list=BD-Block
 add address=144.48.84.0/22 list=BD-Block
 add address=144.48.96.0/22 list=BD-Block
 add address=144.48.108.0/22 list=BD-Block

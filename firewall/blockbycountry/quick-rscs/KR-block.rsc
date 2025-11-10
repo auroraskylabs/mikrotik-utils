@@ -673,6 +673,7 @@ add address=128.134.0.0/16 list=KR-Block
 add address=129.254.0.0/16 list=KR-Block
 add address=134.75.0.0/16 list=KR-Block
 add address=137.68.0.0/16 list=KR-Block
+add address=138.252.134.0/23 list=KR-Block
 add address=139.5.224.0/22 list=KR-Block
 add address=139.150.0.0/16 list=KR-Block
 add address=141.223.0.0/16 list=KR-Block

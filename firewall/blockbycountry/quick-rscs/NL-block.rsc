@@ -5086,6 +5086,7 @@ add address=195.73.0.0/16 list=NL-Block
 add address=195.74.87.0/24 list=NL-Block
 add address=195.75.0.0/16 list=NL-Block
 add address=195.78.84.0/23 list=NL-Block
+add address=195.78.120.0/23 list=NL-Block
 add address=195.79.0.0/16 list=NL-Block
 add address=195.80.40.0/22 list=NL-Block
 add address=195.80.226.0/24 list=NL-Block

@@ -870,6 +870,9 @@ add address=137.59.24.0/21 list=VN-Block
 add address=137.59.32.0/20 list=VN-Block
 add address=137.59.104.0/22 list=VN-Block
 add address=137.59.116.0/22 list=VN-Block
+add address=138.252.132.0/23 list=VN-Block
+add address=138.252.142.0/23 list=VN-Block
+add address=138.252.152.0/23 list=VN-Block
 add address=144.48.20.0/22 list=VN-Block
 add address=144.48.24.0/22 list=VN-Block
 add address=146.196.64.0/22 list=VN-Block

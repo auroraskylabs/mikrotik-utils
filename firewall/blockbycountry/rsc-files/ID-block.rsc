@@ -3528,6 +3528,13 @@ add address=138.252.95.0/24 list=ID-Block
 add address=138.252.98.0/24 list=ID-Block
 add address=138.252.114.0/24 list=ID-Block
 add address=138.252.122.0/23 list=ID-Block
+add address=138.252.128.0/24 list=ID-Block
+add address=138.252.136.0/23 list=ID-Block
+add address=138.252.139.0/24 list=ID-Block
+add address=138.252.140.0/23 list=ID-Block
+add address=138.252.157.0/24 list=ID-Block
+add address=138.252.158.0/23 list=ID-Block
+add address=138.252.160.0/23 list=ID-Block
 add address=139.0.0.0/16 list=ID-Block
 add address=139.5.40.0/22 list=ID-Block
 add address=139.5.148.0/22 list=ID-Block

@@ -203,6 +203,7 @@ add address=193.187.54.0/24 list=LB-Block
 add address=193.188.128.0/22 list=LB-Block
 add address=193.188.135.0/24 list=LB-Block
 add address=193.188.136.0/24 list=LB-Block
+add address=193.201.155.0/26 list=LB-Block
 add address=193.227.160.0/19 list=LB-Block
 add address=194.55.187.0/24 list=LB-Block
 add address=194.126.0.0/19 list=LB-Block

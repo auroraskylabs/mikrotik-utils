@@ -206,6 +206,7 @@ add address=120.89.96.0/19 list=NP-Block
 add address=121.0.60.0/23 list=NP-Block
 add address=124.41.192.0/18 list=NP-Block
 add address=138.252.2.0/23 list=NP-Block
+add address=138.252.150.0/23 list=NP-Block
 add address=139.5.68.0/22 list=NP-Block
 add address=139.5.72.0/22 list=NP-Block
 add address=150.107.106.0/23 list=NP-Block

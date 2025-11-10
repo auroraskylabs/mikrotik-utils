@@ -3527,6 +3527,7 @@ add address=138.252.72.0/23 list=CN-Block
 add address=138.252.78.0/23 list=CN-Block
 add address=138.252.96.0/23 list=CN-Block
 add address=138.252.118.0/23 list=CN-Block
+add address=138.252.162.0/23 list=CN-Block
 add address=139.5.56.0/21 list=CN-Block
 add address=139.5.80.0/22 list=CN-Block
 add address=139.5.92.0/22 list=CN-Block

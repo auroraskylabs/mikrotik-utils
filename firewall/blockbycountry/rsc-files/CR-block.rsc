@@ -39,6 +39,7 @@ add address=143.208.168.0/22 list=CR-Block
 add address=143.255.28.0/22 list=CR-Block
 add address=144.22.0.0/15 list=CR-Block
 add address=148.224.31.0/24 list=CR-Block
+add address=148.227.162.0/24 list=CR-Block
 add address=152.231.128.0/17 list=CR-Block
 add address=160.223.203.0/24 list=CR-Block
 add address=163.178.0.0/16 list=CR-Block

@@ -340,6 +340,7 @@ add address=190.110.96.0/20 list=CL-Block
 add address=190.110.120.0/21 list=CL-Block
 add address=190.110.128.0/19 list=CL-Block
 add address=190.110.160.0/20 list=CL-Block
+add address=190.110.253.0/24 list=CL-Block
 add address=190.112.48.0/22 list=CL-Block
 add address=190.113.0.0/19 list=CL-Block
 add address=190.113.244.0/22 list=CL-Block

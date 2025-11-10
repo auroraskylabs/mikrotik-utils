@@ -6,6 +6,7 @@ add address=5.45.44.0/22 list=LV-Block
 add address=5.152.224.0/21 list=LV-Block
 add address=5.179.0.0/19 list=LV-Block
 add address=5.252.168.0/22 list=LV-Block
+add address=31.24.81.0/24 list=LV-Block
 add address=31.24.192.0/21 list=LV-Block
 add address=31.42.80.0/20 list=LV-Block
 add address=31.131.88.0/22 list=LV-Block

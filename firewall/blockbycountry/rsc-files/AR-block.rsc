@@ -1132,7 +1132,9 @@ add address=190.110.232.0/21 list=AR-Block
 add address=190.110.240.0/24 list=AR-Block
 add address=190.110.242.0/23 list=AR-Block
 add address=190.110.244.0/24 list=AR-Block
-add address=190.110.248.0/21 list=AR-Block
+add address=190.110.248.0/22 list=AR-Block
+add address=190.110.252.0/24 list=AR-Block
+add address=190.110.254.0/23 list=AR-Block
 add address=190.111.32.0/19 list=AR-Block
 add address=190.111.112.0/21 list=AR-Block
 add address=190.111.124.0/22 list=AR-Block

@@ -49,7 +49,6 @@ add address=89.44.103.0/24 list=BZ-Block
 add address=89.45.67.0/24 list=BZ-Block
 add address=91.90.162.0/24 list=BZ-Block
 add address=91.209.70.0/24 list=BZ-Block
-add address=91.212.150.0/24 list=BZ-Block
 add address=91.226.97.0/24 list=BZ-Block
 add address=91.245.232.0/23 list=BZ-Block
 add address=92.114.35.0/24 list=BZ-Block

@@ -920,6 +920,7 @@ add address=137.132.0.0/16 list=SG-Block
 add address=137.220.128.0/17 list=SG-Block
 add address=138.75.0.0/16 list=SG-Block
 add address=138.239.0.0/16 list=SG-Block
+add address=138.252.148.0/23 list=SG-Block
 add address=139.59.0.0/16 list=SG-Block
 add address=141.140.32.0/19 list=SG-Block
 add address=142.79.192.0/19 list=SG-Block
