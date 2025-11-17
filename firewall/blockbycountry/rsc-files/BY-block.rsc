@@ -37,7 +37,7 @@ add address=91.220.250.0/24 list=BY-Block
 add address=93.84.0.0/15 list=BY-Block
 add address=93.125.0.0/17 list=BY-Block
 add address=93.177.124.0/24 list=BY-Block
-add address=93.189.224.0/22 list=BY-Block
+add address=93.189.224.0/23 list=BY-Block
 add address=93.191.96.0/21 list=BY-Block
 add address=95.128.64.0/21 list=BY-Block
 add address=95.130.80.0/21 list=BY-Block

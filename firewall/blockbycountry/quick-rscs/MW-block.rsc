@@ -18,6 +18,7 @@ add address=102.36.145.0/24 list=MW-Block
 add address=102.70.0.0/15 list=MW-Block
 add address=102.130.101.0/24 list=MW-Block
 add address=102.176.250.0/24 list=MW-Block
+add address=102.206.152.0/22 list=MW-Block
 add address=102.208.52.0/24 list=MW-Block
 add address=102.209.16.0/23 list=MW-Block
 add address=102.209.60.0/22 list=MW-Block

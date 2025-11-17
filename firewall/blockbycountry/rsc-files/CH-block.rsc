@@ -819,6 +819,7 @@ add address=151.252.32.0/21 list=CH-Block
 add address=152.88.0.0/16 list=CH-Block
 add address=152.89.80.0/22 list=CH-Block
 add address=152.96.0.0/16 list=CH-Block
+add address=153.51.0.0/17 list=CH-Block
 add address=153.92.41.0/24 list=CH-Block
 add address=153.92.47.0/24 list=CH-Block
 add address=153.108.0.0/15 list=CH-Block
@@ -1468,6 +1469,7 @@ add address=185.250.224.0/22 list=CH-Block
 add address=185.251.56.0/22 list=CH-Block
 add address=185.252.240.0/22 list=CH-Block
 add address=185.253.111.0/24 list=CH-Block
+add address=185.253.131.0/24 list=CH-Block
 add address=185.253.192.0/22 list=CH-Block
 add address=185.253.204.0/22 list=CH-Block
 add address=185.254.76.0/22 list=CH-Block
@@ -1483,6 +1485,7 @@ add address=188.92.144.0/21 list=CH-Block
 add address=188.92.224.0/21 list=CH-Block
 add address=188.94.176.0/21 list=CH-Block
 add address=188.94.189.0/24 list=CH-Block
+add address=188.137.160.0/20 list=CH-Block
 add address=188.154.0.0/15 list=CH-Block
 add address=188.184.0.0/15 list=CH-Block
 add address=188.190.108.0/22 list=CH-Block

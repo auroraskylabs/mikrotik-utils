@@ -72,6 +72,8 @@ add address=190.99.116.0/22 list=GT-Block
 add address=190.104.112.0/20 list=GT-Block
 add address=190.106.192.0/19 list=GT-Block
 add address=190.111.0.0/19 list=GT-Block
+add address=190.113.33.0/24 list=GT-Block
+add address=190.113.34.0/23 list=GT-Block
 add address=190.113.88.0/22 list=GT-Block
 add address=190.115.0.0/20 list=GT-Block
 add address=190.121.192.0/20 list=GT-Block

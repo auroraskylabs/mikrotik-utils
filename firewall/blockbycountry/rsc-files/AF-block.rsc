@@ -88,7 +88,6 @@ add address=103.233.183.0/24 list=AF-Block
 add address=103.235.176.0/22 list=AF-Block
 add address=103.241.156.0/22 list=AF-Block
 add address=103.242.50.0/23 list=AF-Block
-add address=103.244.146.0/23 list=AF-Block
 add address=103.247.198.0/24 list=AF-Block
 add address=103.254.166.0/24 list=AF-Block
 add address=103.255.204.0/23 list=AF-Block
@@ -97,7 +96,6 @@ add address=116.204.160.0/22 list=AF-Block
 add address=116.204.240.0/22 list=AF-Block
 add address=116.206.188.0/22 list=AF-Block
 add address=117.55.196.0/23 list=AF-Block
-add address=117.55.198.0/24 list=AF-Block
 add address=117.104.224.0/21 list=AF-Block
 add address=119.59.80.0/21 list=AF-Block
 add address=121.100.48.0/21 list=AF-Block

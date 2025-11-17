@@ -44,7 +44,6 @@ add address=178.208.192.0/19 list=GI-Block
 add address=178.211.128.0/24 list=GI-Block
 add address=185.9.212.0/22 list=GI-Block
 add address=185.16.192.0/22 list=GI-Block
-add address=185.39.28.0/23 list=GI-Block
 add address=185.49.216.0/22 list=GI-Block
 add address=185.74.72.0/22 list=GI-Block
 add address=185.75.80.0/22 list=GI-Block

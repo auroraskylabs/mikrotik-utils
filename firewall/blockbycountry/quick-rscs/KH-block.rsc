@@ -204,6 +204,7 @@ add address=150.107.4.0/22 list=KH-Block
 add address=150.129.20.0/22 list=KH-Block
 add address=157.10.72.0/23 list=KH-Block
 add address=157.15.69.0/24 list=KH-Block
+add address=157.85.64.0/21 list=KH-Block
 add address=157.119.96.0/22 list=KH-Block
 add address=160.22.76.0/23 list=KH-Block
 add address=160.30.9.0/24 list=KH-Block

@@ -442,7 +442,7 @@ add address=103.87.236.0/23 list=BD-Block
 add address=103.87.238.0/24 list=BD-Block
 add address=103.87.244.0/22 list=BD-Block
 add address=103.87.248.0/22 list=BD-Block
-add address=103.88.24.0/22 list=BD-Block
+add address=103.88.24.0/23 list=BD-Block
 add address=103.88.136.0/23 list=BD-Block
 add address=103.88.140.0/22 list=BD-Block
 add address=103.89.24.0/22 list=BD-Block
@@ -554,7 +554,7 @@ add address=103.109.92.0/22 list=BD-Block
 add address=103.109.96.0/22 list=BD-Block
 add address=103.109.105.0/24 list=BD-Block
 add address=103.109.212.0/22 list=BD-Block
-add address=103.109.236.0/22 list=BD-Block
+add address=103.109.238.0/23 list=BD-Block
 add address=103.110.5.0/24 list=BD-Block
 add address=103.110.56.0/22 list=BD-Block
 add address=103.110.78.0/23 list=BD-Block
@@ -941,7 +941,6 @@ add address=103.148.102.0/23 list=BD-Block
 add address=103.148.108.0/24 list=BD-Block
 add address=103.148.114.0/23 list=BD-Block
 add address=103.148.148.0/23 list=BD-Block
-add address=103.148.172.0/23 list=BD-Block
 add address=103.148.176.0/22 list=BD-Block
 add address=103.148.210.0/23 list=BD-Block
 add address=103.148.212.0/23 list=BD-Block
@@ -981,6 +980,7 @@ add address=103.151.182.0/23 list=BD-Block
 add address=103.151.196.0/23 list=BD-Block
 add address=103.151.212.0/23 list=BD-Block
 add address=103.152.10.0/23 list=BD-Block
+add address=103.152.18.0/23 list=BD-Block
 add address=103.152.26.0/23 list=BD-Block
 add address=103.152.102.0/23 list=BD-Block
 add address=103.152.104.0/22 list=BD-Block
@@ -1691,6 +1691,11 @@ add address=138.252.120.0/23 list=BD-Block
 add address=138.252.124.0/23 list=BD-Block
 add address=138.252.129.0/24 list=BD-Block
 add address=138.252.144.0/23 list=BD-Block
+add address=138.252.172.0/23 list=BD-Block
+add address=138.252.177.0/24 list=BD-Block
+add address=138.252.180.0/23 list=BD-Block
+add address=138.252.184.0/22 list=BD-Block
+add address=138.252.198.0/23 list=BD-Block
 add address=144.48.84.0/22 list=BD-Block
 add address=144.48.96.0/22 list=BD-Block
 add address=144.48.108.0/22 list=BD-Block

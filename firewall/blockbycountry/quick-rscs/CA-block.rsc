@@ -1,5 +1,6 @@
 /ip firewall address-list remove [find list="CA-Block"]
 /ip firewall address-list
+add address=2.59.21.0/24 list=CA-Block
 add address=2.59.22.0/24 list=CA-Block
 add address=5.23.0.0/19 list=CA-Block
 add address=5.181.164.0/22 list=CA-Block
@@ -138,8 +139,10 @@ add address=23.148.96.0/24 list=CA-Block
 add address=23.148.128.0/24 list=CA-Block
 add address=23.148.192.0/22 list=CA-Block
 add address=23.149.40.0/24 list=CA-Block
+add address=23.149.124.0/24 list=CA-Block
 add address=23.149.128.0/23 list=CA-Block
 add address=23.149.152.0/24 list=CA-Block
+add address=23.149.172.0/24 list=CA-Block
 add address=23.149.176.0/24 list=CA-Block
 add address=23.149.184.0/24 list=CA-Block
 add address=23.150.0.0/24 list=CA-Block
@@ -769,6 +772,7 @@ add address=66.102.64.0/19 list=CA-Block
 add address=66.103.32.0/19 list=CA-Block
 add address=66.103.152.0/22 list=CA-Block
 add address=66.103.192.0/19 list=CA-Block
+add address=66.110.88.0/21 list=CA-Block
 add address=66.110.128.0/19 list=CA-Block
 add address=66.110.160.0/20 list=CA-Block
 add address=66.111.32.0/20 list=CA-Block

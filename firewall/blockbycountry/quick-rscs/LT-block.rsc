@@ -376,8 +376,10 @@ add address=103.49.84.0/22 list=LT-Block
 add address=103.49.152.0/22 list=LT-Block
 add address=103.76.116.0/23 list=LT-Block
 add address=103.82.100.0/23 list=LT-Block
+add address=103.88.26.0/23 list=LT-Block
 add address=103.97.88.0/22 list=LT-Block
 add address=103.108.88.0/23 list=LT-Block
+add address=103.109.236.0/23 list=LT-Block
 add address=103.111.112.0/22 list=LT-Block
 add address=103.124.84.0/22 list=LT-Block
 add address=103.137.162.0/23 list=LT-Block

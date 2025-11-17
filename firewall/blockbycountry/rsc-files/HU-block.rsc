@@ -164,6 +164,7 @@ add address=84.236.0.0/17 list=HU-Block
 add address=85.66.0.0/15 list=HU-Block
 add address=85.90.160.0/19 list=HU-Block
 add address=85.119.8.0/21 list=HU-Block
+add address=85.155.240.0/21 list=HU-Block
 add address=85.159.48.0/21 list=HU-Block
 add address=85.235.92.0/22 list=HU-Block
 add address=85.238.64.0/19 list=HU-Block

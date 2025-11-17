@@ -28,7 +28,6 @@ add address=84.255.0.0/18 list=MT-Block
 add address=85.119.120.0/21 list=MT-Block
 add address=85.184.96.0/19 list=MT-Block
 add address=85.232.192.0/19 list=MT-Block
-add address=85.236.136.0/21 list=MT-Block
 add address=88.203.0.0/17 list=MT-Block
 add address=91.103.88.0/21 list=MT-Block
 add address=91.190.157.0/24 list=MT-Block

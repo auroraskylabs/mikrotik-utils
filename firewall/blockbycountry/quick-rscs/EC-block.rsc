@@ -44,6 +44,7 @@ add address=45.184.102.0/24 list=EC-Block
 add address=45.184.224.0/22 list=EC-Block
 add address=45.185.160.0/22 list=EC-Block
 add address=45.186.4.0/22 list=EC-Block
+add address=45.186.126.0/23 list=EC-Block
 add address=45.186.140.0/23 list=EC-Block
 add address=45.187.0.0/22 list=EC-Block
 add address=45.188.56.0/23 list=EC-Block
@@ -52,6 +53,7 @@ add address=45.188.228.0/22 list=EC-Block
 add address=45.188.232.0/22 list=EC-Block
 add address=45.189.56.0/22 list=EC-Block
 add address=45.189.112.0/22 list=EC-Block
+add address=45.190.87.0/24 list=EC-Block
 add address=45.224.20.0/22 list=EC-Block
 add address=45.224.96.0/22 list=EC-Block
 add address=45.224.116.0/22 list=EC-Block
@@ -195,6 +197,7 @@ add address=190.110.40.0/21 list=EC-Block
 add address=190.110.48.0/20 list=EC-Block
 add address=190.110.192.0/19 list=EC-Block
 add address=190.111.64.0/19 list=EC-Block
+add address=190.113.63.0/24 list=EC-Block
 add address=190.120.64.0/19 list=EC-Block
 add address=190.123.32.0/21 list=EC-Block
 add address=190.123.48.0/20 list=EC-Block
