@@ -340,7 +340,6 @@ add address=88.135.68.0/24 list=IR-Block
 add address=88.135.72.0/24 list=IR-Block
 add address=88.135.75.0/24 list=IR-Block
 add address=88.218.16.0/22 list=IR-Block
-add address=89.23.126.0/24 list=IR-Block
 add address=89.32.0.0/19 list=IR-Block
 add address=89.32.96.0/20 list=IR-Block
 add address=89.32.196.0/23 list=IR-Block

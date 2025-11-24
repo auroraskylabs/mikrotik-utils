@@ -17,6 +17,7 @@ add address=37.153.174.0/23 list=RS-Block
 add address=37.220.64.0/20 list=RS-Block
 add address=37.221.176.0/21 list=RS-Block
 add address=45.10.48.0/22 list=RS-Block
+add address=45.13.26.0/24 list=RS-Block
 add address=45.80.132.0/22 list=RS-Block
 add address=45.86.56.0/22 list=RS-Block
 add address=45.87.132.0/22 list=RS-Block

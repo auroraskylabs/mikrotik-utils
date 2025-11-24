@@ -274,7 +274,9 @@ add address=93.172.0.0/15 list=IL-Block
 add address=93.175.32.0/19 list=IL-Block
 add address=94.103.185.0/24 list=IL-Block
 add address=94.154.123.0/24 list=IL-Block
+add address=94.154.173.0/24 list=IL-Block
 add address=94.156.64.0/23 list=IL-Block
+add address=94.156.175.0/24 list=IL-Block
 add address=94.159.128.0/17 list=IL-Block
 add address=94.188.128.0/17 list=IL-Block
 add address=94.230.80.0/20 list=IL-Block

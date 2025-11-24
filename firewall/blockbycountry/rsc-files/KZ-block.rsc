@@ -253,6 +253,7 @@ add address=94.141.240.0/22 list=KZ-Block
 add address=94.141.248.0/22 list=KZ-Block
 add address=94.158.217.0/24 list=KZ-Block
 add address=94.158.223.0/24 list=KZ-Block
+add address=94.198.188.0/24 list=KZ-Block
 add address=94.247.64.0/21 list=KZ-Block
 add address=94.247.128.0/21 list=KZ-Block
 add address=95.56.0.0/14 list=KZ-Block

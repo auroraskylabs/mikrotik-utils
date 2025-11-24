@@ -724,10 +724,7 @@ add address=103.115.84.0/22 list=JP-Block
 add address=103.115.216.0/22 list=JP-Block
 add address=103.116.4.0/22 list=JP-Block
 add address=103.116.152.0/22 list=JP-Block
-add address=103.117.21.0/24 list=JP-Block
 add address=103.118.92.0/22 list=JP-Block
-add address=103.118.123.0/24 list=JP-Block
-add address=103.118.154.0/23 list=JP-Block
 add address=103.119.88.0/22 list=JP-Block
 add address=103.119.127.0/24 list=JP-Block
 add address=103.120.16.0/22 list=JP-Block

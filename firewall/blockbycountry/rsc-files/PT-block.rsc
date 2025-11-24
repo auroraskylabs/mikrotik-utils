@@ -344,6 +344,7 @@ add address=194.117.32.0/20 list=PT-Block
 add address=194.117.48.0/23 list=PT-Block
 add address=194.117.75.0/24 list=PT-Block
 add address=194.117.93.0/24 list=PT-Block
+add address=194.140.195.0/24 list=PT-Block
 add address=194.140.232.0/24 list=PT-Block
 add address=194.140.238.0/24 list=PT-Block
 add address=194.145.121.0/24 list=PT-Block

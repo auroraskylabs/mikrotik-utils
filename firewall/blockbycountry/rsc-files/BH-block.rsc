@@ -51,8 +51,6 @@ add address=185.165.176.0/22 list=BH-Block
 add address=185.236.132.0/22 list=BH-Block
 add address=188.116.192.0/18 list=BH-Block
 add address=188.137.128.0/19 list=BH-Block
-add address=188.137.184.0/21 list=BH-Block
-add address=188.137.224.0/20 list=BH-Block
 add address=193.25.204.0/24 list=BH-Block
 add address=193.188.12.0/23 list=BH-Block
 add address=193.188.96.0/19 list=BH-Block

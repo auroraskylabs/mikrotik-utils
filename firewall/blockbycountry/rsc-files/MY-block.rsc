@@ -561,6 +561,7 @@ add address=137.59.108.0/22 list=MY-Block
 add address=138.252.4.0/23 list=MY-Block
 add address=138.252.106.0/23 list=MY-Block
 add address=138.252.188.0/23 list=MY-Block
+add address=138.252.248.0/23 list=MY-Block
 add address=139.5.176.0/22 list=MY-Block
 add address=141.193.40.0/22 list=MY-Block
 add address=143.192.96.0/20 list=MY-Block

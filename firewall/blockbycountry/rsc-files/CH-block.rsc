@@ -2261,7 +2261,7 @@ add address=194.126.144.0/23 list=CH-Block
 add address=194.126.177.0/24 list=CH-Block
 add address=194.126.200.0/23 list=CH-Block
 add address=194.126.218.0/24 list=CH-Block
-add address=194.140.194.0/23 list=CH-Block
+add address=194.140.194.0/24 list=CH-Block
 add address=194.145.157.0/24 list=CH-Block
 add address=194.146.16.0/22 list=CH-Block
 add address=194.146.20.0/23 list=CH-Block

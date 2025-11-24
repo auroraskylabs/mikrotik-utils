@@ -2106,7 +2106,11 @@ add address=194.102.146.0/24 list=RO-Block
 add address=194.102.148.0/22 list=RO-Block
 add address=194.102.152.0/21 list=RO-Block
 add address=194.102.160.0/19 list=RO-Block
-add address=194.102.192.0/19 list=RO-Block
+add address=194.102.192.0/20 list=RO-Block
+add address=194.102.208.0/22 list=RO-Block
+add address=194.102.212.0/23 list=RO-Block
+add address=194.102.214.0/24 list=RO-Block
+add address=194.102.216.0/21 list=RO-Block
 add address=194.102.224.0/21 list=RO-Block
 add address=194.102.232.0/22 list=RO-Block
 add address=194.102.236.0/23 list=RO-Block

@@ -272,6 +272,7 @@ add address=80.91.220.0/24 list=CZ-Block
 add address=80.92.240.0/20 list=CZ-Block
 add address=80.95.96.0/19 list=CZ-Block
 add address=80.95.240.0/20 list=CZ-Block
+add address=80.173.200.0/22 list=CZ-Block
 add address=80.188.0.0/16 list=CZ-Block
 add address=80.243.96.0/20 list=CZ-Block
 add address=80.243.236.0/22 list=CZ-Block

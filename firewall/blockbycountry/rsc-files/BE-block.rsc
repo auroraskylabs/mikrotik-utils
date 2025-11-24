@@ -859,6 +859,7 @@ add address=212.68.192.0/18 list=BE-Block
 add address=212.71.0.0/19 list=BE-Block
 add address=212.76.224.0/19 list=BE-Block
 add address=212.79.64.0/19 list=BE-Block
+add address=212.85.56.0/21 list=BE-Block
 add address=212.87.96.0/19 list=BE-Block
 add address=212.88.224.0/19 list=BE-Block
 add address=212.100.160.0/19 list=BE-Block
@@ -890,6 +891,7 @@ add address=213.224.0.0/16 list=BE-Block
 add address=213.251.64.0/18 list=BE-Block
 add address=213.254.186.0/23 list=BE-Block
 add address=217.15.224.0/20 list=BE-Block
+add address=217.18.80.0/24 list=BE-Block
 add address=217.18.89.0/24 list=BE-Block
 add address=217.19.224.0/20 list=BE-Block
 add address=217.21.176.0/20 list=BE-Block

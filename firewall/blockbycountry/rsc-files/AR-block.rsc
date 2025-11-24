@@ -978,7 +978,6 @@ add address=186.65.108.0/22 list=AR-Block
 add address=186.96.192.0/21 list=AR-Block
 add address=186.100.0.0/16 list=AR-Block
 add address=186.108.0.0/14 list=AR-Block
-add address=186.121.136.0/21 list=AR-Block
 add address=186.121.144.0/20 list=AR-Block
 add address=186.121.168.0/21 list=AR-Block
 add address=186.121.176.0/20 list=AR-Block

@@ -159,6 +159,7 @@ add address=80.86.128.0/20 list=NO-Block
 add address=80.86.208.0/20 list=NO-Block
 add address=80.89.32.0/19 list=NO-Block
 add address=80.91.32.0/20 list=NO-Block
+add address=80.173.230.0/23 list=NO-Block
 add address=80.202.0.0/16 list=NO-Block
 add address=80.203.0.0/17 list=NO-Block
 add address=80.212.0.0/15 list=NO-Block
@@ -933,7 +934,8 @@ add address=193.90.0.0/16 list=NO-Block
 add address=193.91.128.0/17 list=NO-Block
 add address=193.93.128.0/22 list=NO-Block
 add address=193.93.220.0/22 list=NO-Block
-add address=193.93.252.0/22 list=NO-Block
+add address=193.93.253.0/24 list=NO-Block
+add address=193.93.254.0/23 list=NO-Block
 add address=193.104.105.0/24 list=NO-Block
 add address=193.105.77.0/24 list=NO-Block
 add address=193.105.112.0/24 list=NO-Block

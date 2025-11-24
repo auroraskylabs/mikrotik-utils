@@ -667,7 +667,7 @@ add address=94.46.252.0/22 list=SE-Block
 add address=94.103.192.0/20 list=SE-Block
 add address=94.126.80.0/21 list=SE-Block
 add address=94.126.216.0/21 list=SE-Block
-add address=94.126.224.0/21 list=SE-Block
+add address=94.126.228.0/22 list=SE-Block
 add address=94.127.32.0/21 list=SE-Block
 add address=94.136.64.0/19 list=SE-Block
 add address=94.137.96.0/19 list=SE-Block

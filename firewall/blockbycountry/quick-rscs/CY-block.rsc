@@ -43,7 +43,6 @@ add address=45.12.108.0/22 list=CY-Block
 add address=45.12.112.0/22 list=CY-Block
 add address=45.12.128.0/20 list=CY-Block
 add address=45.12.144.0/21 list=CY-Block
-add address=45.13.26.0/24 list=CY-Block
 add address=45.13.132.0/22 list=CY-Block
 add address=45.13.220.0/22 list=CY-Block
 add address=45.13.252.0/22 list=CY-Block
@@ -532,6 +531,7 @@ add address=217.28.139.0/24 list=CY-Block
 add address=217.65.75.0/24 list=CY-Block
 add address=217.72.12.0/22 list=CY-Block
 add address=217.175.208.0/20 list=CY-Block
+add address=217.177.48.0/21 list=CY-Block
 add address=217.197.104.0/24 list=CY-Block
 
 /ip firewall raw
