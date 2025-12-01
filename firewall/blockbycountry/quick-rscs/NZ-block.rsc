@@ -1047,7 +1047,6 @@ add address=202.49.140.0/23 list=NZ-Block
 add address=202.49.143.0/24 list=NZ-Block
 add address=202.49.144.0/24 list=NZ-Block
 add address=202.49.148.0/24 list=NZ-Block
-add address=202.49.150.0/24 list=NZ-Block
 add address=202.49.152.0/21 list=NZ-Block
 add address=202.49.160.0/22 list=NZ-Block
 add address=202.49.164.0/23 list=NZ-Block

@@ -1282,7 +1282,6 @@ add address=193.104.125.0/24 list=AT-Block
 add address=193.104.151.0/24 list=AT-Block
 add address=193.104.232.0/24 list=AT-Block
 add address=193.105.86.0/24 list=AT-Block
-add address=193.105.153.0/24 list=AT-Block
 add address=193.105.168.0/24 list=AT-Block
 add address=193.105.181.0/24 list=AT-Block
 add address=193.105.195.0/24 list=AT-Block
@@ -1767,6 +1766,7 @@ add address=203.32.197.0/24 list=AT-Block
 add address=203.34.137.0/24 list=AT-Block
 add address=203.56.45.0/24 list=AT-Block
 add address=203.98.67.0/24 list=AT-Block
+add address=204.154.104.0/22 list=AT-Block
 add address=205.147.200.0/23 list=AT-Block
 add address=206.225.20.0/22 list=AT-Block
 add address=207.244.212.0/24 list=AT-Block

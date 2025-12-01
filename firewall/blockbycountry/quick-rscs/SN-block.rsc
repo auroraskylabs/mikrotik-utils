@@ -7,6 +7,7 @@ add address=41.219.0.0/18 list=SN-Block
 add address=102.36.136.0/22 list=SN-Block
 add address=102.36.147.0/24 list=SN-Block
 add address=102.164.128.0/18 list=SN-Block
+add address=102.203.220.0/22 list=SN-Block
 add address=102.204.28.0/22 list=SN-Block
 add address=102.207.140.0/24 list=SN-Block
 add address=102.208.110.0/23 list=SN-Block

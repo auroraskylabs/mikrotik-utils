@@ -56,14 +56,11 @@ add address=185.120.96.0/22 list=GI-Block
 add address=185.149.68.0/22 list=GI-Block
 add address=185.192.4.0/22 list=GI-Block
 add address=192.190.168.0/22 list=GI-Block
-add address=193.33.64.0/23 list=GI-Block
 add address=193.34.188.0/23 list=GI-Block
 add address=193.105.57.0/24 list=GI-Block
 add address=193.169.30.0/24 list=GI-Block
 add address=194.164.146.0/23 list=GI-Block
 add address=195.166.192.0/19 list=GI-Block
-add address=195.214.213.0/24 list=GI-Block
-add address=195.214.214.0/24 list=GI-Block
 add address=195.244.192.0/19 list=GI-Block
 add address=212.22.224.0/19 list=GI-Block
 add address=212.86.97.0/24 list=GI-Block

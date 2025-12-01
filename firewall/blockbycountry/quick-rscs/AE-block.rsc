@@ -869,6 +869,7 @@ add address=193.27.224.0/23 list=AE-Block
 add address=193.28.183.0/24 list=AE-Block
 add address=193.31.40.0/22 list=AE-Block
 add address=193.32.85.0/24 list=AE-Block
+add address=193.32.114.0/23 list=AE-Block
 add address=193.32.188.0/23 list=AE-Block
 add address=193.33.48.0/24 list=AE-Block
 add address=193.33.102.0/23 list=AE-Block

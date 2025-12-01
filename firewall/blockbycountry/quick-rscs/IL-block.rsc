@@ -269,6 +269,7 @@ add address=92.61.224.0/20 list=IL-Block
 add address=93.93.205.0/24 list=IL-Block
 add address=93.113.31.0/24 list=IL-Block
 add address=93.114.168.0/24 list=IL-Block
+add address=93.123.20.0/24 list=IL-Block
 add address=93.157.80.0/21 list=IL-Block
 add address=93.172.0.0/15 list=IL-Block
 add address=93.175.32.0/19 list=IL-Block
@@ -323,6 +324,7 @@ add address=141.226.139.0/24 list=IL-Block
 add address=141.226.144.0/20 list=IL-Block
 add address=141.226.160.0/19 list=IL-Block
 add address=141.226.192.0/18 list=IL-Block
+add address=144.249.128.0/18 list=IL-Block
 add address=146.19.240.0/24 list=IL-Block
 add address=146.185.56.0/21 list=IL-Block
 add address=146.255.191.0/24 list=IL-Block
@@ -580,6 +582,7 @@ add address=193.202.8.0/21 list=IL-Block
 add address=193.202.80.0/21 list=IL-Block
 add address=193.203.8.0/22 list=IL-Block
 add address=193.218.207.128/25 list=IL-Block
+add address=193.222.98.0/24 list=IL-Block
 add address=193.222.129.0/24 list=IL-Block
 add address=193.238.188.0/23 list=IL-Block
 add address=193.238.190.0/24 list=IL-Block

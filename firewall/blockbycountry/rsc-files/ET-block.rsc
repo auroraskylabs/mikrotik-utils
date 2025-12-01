@@ -1,5 +1,6 @@
 /ip firewall address-list remove [find list="ET-Block"]
 /ip firewall address-list
+add address=102.203.224.0/22 list=ET-Block
 add address=102.204.190.0/23 list=ET-Block
 add address=102.208.96.0/22 list=ET-Block
 add address=102.208.136.0/22 list=ET-Block

@@ -619,7 +619,6 @@ add address=185.58.136.0/22 list=NO-Block
 add address=185.59.212.0/22 list=NO-Block
 add address=185.59.236.0/22 list=NO-Block
 add address=185.60.160.0/22 list=NO-Block
-add address=185.60.172.0/22 list=NO-Block
 add address=185.62.140.0/22 list=NO-Block
 add address=185.62.160.0/22 list=NO-Block
 add address=185.63.208.0/22 list=NO-Block

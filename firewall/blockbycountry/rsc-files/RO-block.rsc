@@ -1009,7 +1009,6 @@ add address=91.230.240.0/23 list=RO-Block
 add address=91.230.248.0/24 list=RO-Block
 add address=91.231.0.0/24 list=RO-Block
 add address=91.231.7.0/24 list=RO-Block
-add address=91.231.138.0/24 list=RO-Block
 add address=91.231.183.0/24 list=RO-Block
 add address=91.231.207.0/24 list=RO-Block
 add address=91.231.208.0/22 list=RO-Block

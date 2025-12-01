@@ -24,6 +24,7 @@ add address=37.19.8.0/21 list=BE-Block
 add address=37.44.240.0/22 list=BE-Block
 add address=37.58.40.0/21 list=BE-Block
 add address=37.62.0.0/16 list=BE-Block
+add address=37.72.110.0/24 list=BE-Block
 add address=37.72.160.0/21 list=BE-Block
 add address=37.123.232.0/21 list=BE-Block
 add address=37.143.0.0/21 list=BE-Block

@@ -13,6 +13,7 @@ add address=102.16.0.0/14 list=MG-Block
 add address=102.20.0.0/15 list=MG-Block
 add address=102.68.192.0/18 list=MG-Block
 add address=102.205.63.0/24 list=MG-Block
+add address=102.206.28.0/22 list=MG-Block
 add address=102.211.100.0/22 list=MG-Block
 add address=102.216.23.0/24 list=MG-Block
 add address=154.120.128.0/18 list=MG-Block

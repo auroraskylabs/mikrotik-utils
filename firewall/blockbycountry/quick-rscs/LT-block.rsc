@@ -622,6 +622,7 @@ add address=188.215.34.0/24 list=LT-Block
 add address=188.240.69.0/24 list=LT-Block
 add address=188.240.211.0/24 list=LT-Block
 add address=188.244.121.0/24 list=LT-Block
+add address=192.77.240.0/20 list=LT-Block
 add address=192.109.206.0/24 list=LT-Block
 add address=192.166.82.0/23 list=LT-Block
 add address=192.166.114.0/23 list=LT-Block

@@ -3558,6 +3558,11 @@ add address=139.255.0.0/16 list=ID-Block
 add address=140.0.0.0/16 list=ID-Block
 add address=140.213.0.0/16 list=ID-Block
 add address=144.48.12.0/22 list=ID-Block
+add address=144.79.9.0/24 list=ID-Block
+add address=144.79.17.0/24 list=ID-Block
+add address=144.79.24.0/23 list=ID-Block
+add address=144.79.34.0/23 list=ID-Block
+add address=144.79.36.0/23 list=ID-Block
 add address=146.196.40.0/22 list=ID-Block
 add address=146.196.96.0/22 list=ID-Block
 add address=146.196.104.0/21 list=ID-Block

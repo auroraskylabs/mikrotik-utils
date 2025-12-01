@@ -511,6 +511,7 @@ add address=91.240.35.0/24 list=CZ-Block
 add address=91.240.46.0/24 list=CZ-Block
 add address=91.241.8.0/22 list=CZ-Block
 add address=91.241.23.0/24 list=CZ-Block
+add address=91.241.77.0/24 list=CZ-Block
 add address=91.241.168.0/21 list=CZ-Block
 add address=91.245.0.0/19 list=CZ-Block
 add address=92.38.0.0/17 list=CZ-Block

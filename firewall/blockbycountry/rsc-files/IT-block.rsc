@@ -554,6 +554,7 @@ add address=80.93.128.0/20 list=IT-Block
 add address=80.94.112.0/20 list=IT-Block
 add address=80.104.0.0/15 list=IT-Block
 add address=80.116.0.0/15 list=IT-Block
+add address=80.173.224.0/22 list=IT-Block
 add address=80.180.0.0/14 list=IT-Block
 add address=80.204.0.0/14 list=IT-Block
 add address=80.208.248.0/22 list=IT-Block
@@ -3060,6 +3061,7 @@ add address=204.14.244.0/22 list=IT-Block
 add address=204.79.130.0/23 list=IT-Block
 add address=204.79.132.0/24 list=IT-Block
 add address=204.79.240.0/24 list=IT-Block
+add address=204.154.94.0/23 list=IT-Block
 add address=204.231.237.0/24 list=IT-Block
 add address=207.244.214.0/23 list=IT-Block
 add address=209.227.192.0/18 list=IT-Block
