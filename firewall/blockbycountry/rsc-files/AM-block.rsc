@@ -68,7 +68,6 @@ add address=91.205.136.0/21 list=AM-Block
 add address=91.205.196.0/22 list=AM-Block
 add address=91.208.76.0/24 list=AM-Block
 add address=91.209.38.0/24 list=AM-Block
-add address=91.210.40.0/22 list=AM-Block
 add address=91.212.71.0/24 list=AM-Block
 add address=91.217.157.0/24 list=AM-Block
 add address=91.218.4.0/22 list=AM-Block

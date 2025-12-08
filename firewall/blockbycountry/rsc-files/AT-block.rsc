@@ -1110,6 +1110,7 @@ add address=188.116.18.0/23 list=AT-Block
 add address=188.116.48.0/23 list=AT-Block
 add address=188.117.192.0/18 list=AT-Block
 add address=188.118.192.0/18 list=AT-Block
+add address=188.137.152.0/21 list=AT-Block
 add address=188.172.192.0/18 list=AT-Block
 add address=188.190.0.0/19 list=AT-Block
 add address=188.211.166.0/24 list=AT-Block

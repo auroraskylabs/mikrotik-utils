@@ -405,7 +405,8 @@ add address=109.236.176.0/20 list=DK-Block
 add address=109.238.48.0/20 list=DK-Block
 add address=128.0.8.0/21 list=DK-Block
 add address=128.0.72.0/21 list=DK-Block
-add address=128.76.0.0/16 list=DK-Block
+add address=128.76.0.0/18 list=DK-Block
+add address=128.76.128.0/17 list=DK-Block
 add address=128.77.128.0/17 list=DK-Block
 add address=129.142.0.0/16 list=DK-Block
 add address=130.185.128.0/20 list=DK-Block
@@ -435,7 +436,7 @@ add address=170.118.224.0/20 list=DK-Block
 add address=171.20.0.0/16 list=DK-Block
 add address=171.25.228.0/24 list=DK-Block
 add address=176.20.0.0/17 list=DK-Block
-add address=176.20.192.0/18 list=DK-Block
+add address=176.20.224.0/19 list=DK-Block
 add address=176.21.0.0/16 list=DK-Block
 add address=176.22.0.0/15 list=DK-Block
 add address=176.62.200.0/21 list=DK-Block
@@ -531,6 +532,7 @@ add address=185.72.208.0/22 list=DK-Block
 add address=185.73.72.0/22 list=DK-Block
 add address=185.73.196.0/22 list=DK-Block
 add address=185.74.48.0/22 list=DK-Block
+add address=185.75.22.0/23 list=DK-Block
 add address=185.81.36.0/22 list=DK-Block
 add address=185.81.116.0/22 list=DK-Block
 add address=185.82.228.0/22 list=DK-Block

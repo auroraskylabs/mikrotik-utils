@@ -261,6 +261,7 @@ add address=85.91.128.0/19 list=BG-Block
 add address=85.118.64.0/19 list=BG-Block
 add address=85.118.192.0/21 list=BG-Block
 add address=85.130.0.0/17 list=BG-Block
+add address=85.136.180.0/22 list=BG-Block
 add address=85.158.108.0/22 list=BG-Block
 add address=85.187.0.0/19 list=BG-Block
 add address=85.187.32.0/20 list=BG-Block

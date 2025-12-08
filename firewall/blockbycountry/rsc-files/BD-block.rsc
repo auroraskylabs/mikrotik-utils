@@ -1881,7 +1881,6 @@ add address=165.99.62.0/23 list=BD-Block
 add address=165.99.74.0/23 list=BD-Block
 add address=165.99.80.0/23 list=BD-Block
 add address=165.99.90.0/23 list=BD-Block
-add address=165.99.92.0/23 list=BD-Block
 add address=165.99.164.0/23 list=BD-Block
 add address=165.99.184.0/23 list=BD-Block
 add address=165.99.196.0/23 list=BD-Block

@@ -383,6 +383,7 @@ add address=185.49.100.0/22 list=IL-Block
 add address=185.51.23.0/24 list=IL-Block
 add address=185.53.208.0/22 list=IL-Block
 add address=185.56.72.0/22 list=IL-Block
+add address=185.60.58.0/24 list=IL-Block
 add address=185.60.168.0/22 list=IL-Block
 add address=185.62.120.0/22 list=IL-Block
 add address=185.63.134.0/24 list=IL-Block

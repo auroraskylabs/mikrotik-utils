@@ -43,6 +43,7 @@ add address=84.252.105.0/24 list=HR-Block
 add address=85.10.48.0/20 list=HR-Block
 add address=85.94.64.0/19 list=HR-Block
 add address=85.114.32.0/19 list=HR-Block
+add address=85.155.232.0/21 list=HR-Block
 add address=85.209.12.0/22 list=HR-Block
 add address=85.222.160.0/20 list=HR-Block
 add address=86.32.0.0/15 list=HR-Block

@@ -479,6 +479,7 @@ add address=195.200.200.0/24 list=SI-Block
 add address=195.206.228.0/23 list=SI-Block
 add address=195.210.192.0/18 list=SI-Block
 add address=195.216.253.0/24 list=SI-Block
+add address=195.222.107.0/24 list=SI-Block
 add address=195.225.50.0/24 list=SI-Block
 add address=195.230.121.0/24 list=SI-Block
 add address=195.234.137.0/24 list=SI-Block

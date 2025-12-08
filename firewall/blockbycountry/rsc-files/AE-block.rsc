@@ -241,6 +241,7 @@ add address=46.19.72.0/21 list=AE-Block
 add address=46.21.240.0/22 list=AE-Block
 add address=46.29.39.0/24 list=AE-Block
 add address=46.31.70.0/24 list=AE-Block
+add address=46.102.106.0/24 list=AE-Block
 add address=46.102.237.0/24 list=AE-Block
 add address=46.149.72.0/21 list=AE-Block
 add address=46.149.96.0/24 list=AE-Block

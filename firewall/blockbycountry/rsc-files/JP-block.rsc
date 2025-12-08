@@ -1660,6 +1660,7 @@ add address=143.189.0.0/16 list=JP-Block
 add address=143.201.0.0/16 list=JP-Block
 add address=144.1.0.0/16 list=JP-Block
 add address=144.48.8.0/22 list=JP-Block
+add address=144.79.51.0/24 list=JP-Block
 add address=144.91.128.0/19 list=JP-Block
 add address=144.91.160.0/20 list=JP-Block
 add address=144.213.0.0/16 list=JP-Block

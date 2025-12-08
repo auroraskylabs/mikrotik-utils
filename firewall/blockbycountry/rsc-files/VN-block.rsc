@@ -885,6 +885,7 @@ add address=138.252.244.0/23 list=VN-Block
 add address=144.48.20.0/22 list=VN-Block
 add address=144.48.24.0/22 list=VN-Block
 add address=144.79.12.0/22 list=VN-Block
+add address=144.79.78.0/23 list=VN-Block
 add address=146.196.64.0/22 list=VN-Block
 add address=148.222.88.0/22 list=VN-Block
 add address=148.222.94.0/23 list=VN-Block

@@ -539,7 +539,6 @@ add address=102.216.0.0/21 list=ZA-Block
 add address=102.216.16.0/22 list=ZA-Block
 add address=102.216.20.0/24 list=ZA-Block
 add address=102.216.22.0/24 list=ZA-Block
-add address=102.216.24.0/24 list=ZA-Block
 add address=102.216.28.0/22 list=ZA-Block
 add address=102.216.36.0/23 list=ZA-Block
 add address=102.216.40.0/22 list=ZA-Block

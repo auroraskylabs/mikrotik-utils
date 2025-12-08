@@ -2,6 +2,7 @@
 /ip firewall address-list
 add address=2.57.64.0/22 list=SK-Block
 add address=5.34.168.0/21 list=SK-Block
+add address=5.42.148.0/22 list=SK-Block
 add address=5.178.48.0/20 list=SK-Block
 add address=5.252.32.0/22 list=SK-Block
 add address=31.3.32.0/19 list=SK-Block

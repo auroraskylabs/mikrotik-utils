@@ -1149,7 +1149,6 @@ add address=192.124.209.0/24 list=CZ-Block
 add address=192.124.216.0/24 list=CZ-Block
 add address=192.144.44.0/22 list=CZ-Block
 add address=192.144.52.0/22 list=CZ-Block
-add address=192.144.56.0/22 list=CZ-Block
 add address=192.145.104.0/22 list=CZ-Block
 add address=192.146.204.0/24 list=CZ-Block
 add address=192.162.96.0/22 list=CZ-Block

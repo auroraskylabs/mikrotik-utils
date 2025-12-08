@@ -38,7 +38,6 @@ add address=45.129.199.0/24 list=EE-Block
 add address=45.131.164.0/22 list=EE-Block
 add address=45.132.64.0/22 list=EE-Block
 add address=45.132.188.0/22 list=EE-Block
-add address=45.139.40.0/22 list=EE-Block
 add address=45.139.107.0/24 list=EE-Block
 add address=45.140.48.0/22 list=EE-Block
 add address=45.142.100.0/22 list=EE-Block
@@ -46,7 +45,6 @@ add address=45.143.166.0/23 list=EE-Block
 add address=45.144.4.0/22 list=EE-Block
 add address=45.145.171.0/24 list=EE-Block
 add address=45.146.76.0/22 list=EE-Block
-add address=45.146.116.0/22 list=EE-Block
 add address=45.147.93.0/24 list=EE-Block
 add address=45.151.4.0/22 list=EE-Block
 add address=45.156.32.0/22 list=EE-Block
@@ -67,6 +65,7 @@ add address=62.65.32.0/19 list=EE-Block
 add address=62.65.192.0/18 list=EE-Block
 add address=62.106.66.0/24 list=EE-Block
 add address=62.192.154.0/24 list=EE-Block
+add address=62.204.35.0/24 list=EE-Block
 add address=77.72.85.0/24 list=EE-Block
 add address=77.83.85.0/24 list=EE-Block
 add address=77.83.86.0/23 list=EE-Block
@@ -74,7 +73,6 @@ add address=77.240.240.0/22 list=EE-Block
 add address=77.247.111.0/24 list=EE-Block
 add address=78.24.48.0/21 list=EE-Block
 add address=78.24.192.0/21 list=EE-Block
-add address=78.40.223.0/24 list=EE-Block
 add address=78.110.32.0/20 list=EE-Block
 add address=79.133.180.0/24 list=EE-Block
 add address=80.66.240.0/20 list=EE-Block
@@ -349,6 +347,7 @@ add address=194.36.162.0/24 list=EE-Block
 add address=194.48.211.0/24 list=EE-Block
 add address=194.55.8.0/22 list=EE-Block
 add address=194.56.212.0/24 list=EE-Block
+add address=194.59.183.0/24 list=EE-Block
 add address=194.61.120.0/23 list=EE-Block
 add address=194.63.144.0/24 list=EE-Block
 add address=194.93.64.0/22 list=EE-Block
@@ -358,7 +357,6 @@ add address=194.113.153.0/24 list=EE-Block
 add address=194.116.188.0/23 list=EE-Block
 add address=194.117.88.0/24 list=EE-Block
 add address=194.117.94.0/24 list=EE-Block
-add address=194.125.236.0/22 list=EE-Block
 add address=194.126.96.0/19 list=EE-Block
 add address=194.146.64.0/23 list=EE-Block
 add address=194.146.82.0/23 list=EE-Block
