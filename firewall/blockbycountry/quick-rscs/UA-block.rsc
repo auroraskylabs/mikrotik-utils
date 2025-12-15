@@ -1722,7 +1722,6 @@ add address=193.34.199.192/26 list=UA-Block
 add address=193.34.203.0/25 list=UA-Block
 add address=193.34.216.0/22 list=UA-Block
 add address=193.35.25.0/24 list=UA-Block
-add address=193.37.141.0/24 list=UA-Block
 add address=193.37.156.0/24 list=UA-Block
 add address=193.37.158.0/24 list=UA-Block
 add address=193.37.192.0/22 list=UA-Block

@@ -482,11 +482,9 @@ add address=185.30.232.0/22 list=SC-Block
 add address=185.46.175.0/24 list=SC-Block
 add address=185.56.80.0/22 list=SC-Block
 add address=185.60.236.0/22 list=SC-Block
-add address=185.68.152.0/22 list=SC-Block
 add address=185.81.71.0/24 list=SC-Block
 add address=185.85.120.0/22 list=SC-Block
 add address=185.92.211.0/24 list=SC-Block
-add address=185.94.32.0/22 list=SC-Block
 add address=185.98.104.0/22 list=SC-Block
 add address=185.99.96.0/22 list=SC-Block
 add address=185.101.20.0/22 list=SC-Block

@@ -2633,10 +2633,7 @@ add address=170.231.112.0/21 list=BR-Block
 add address=170.231.120.0/22 list=BR-Block
 add address=170.231.128.0/21 list=BR-Block
 add address=170.231.140.0/22 list=BR-Block
-add address=170.231.144.0/22 list=BR-Block
-add address=170.231.149.0/24 list=BR-Block
-add address=170.231.150.0/23 list=BR-Block
-add address=170.231.152.0/21 list=BR-Block
+add address=170.231.144.0/20 list=BR-Block
 add address=170.231.164.0/22 list=BR-Block
 add address=170.231.172.0/22 list=BR-Block
 add address=170.231.180.0/22 list=BR-Block

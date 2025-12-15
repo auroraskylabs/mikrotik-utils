@@ -282,6 +282,7 @@ add address=196.43.248.0/24 list=KE-Block
 add address=196.45.236.0/22 list=KE-Block
 add address=196.46.16.0/24 list=KE-Block
 add address=196.49.22.0/24 list=KE-Block
+add address=196.49.120.0/23 list=KE-Block
 add address=196.60.2.0/24 list=KE-Block
 add address=196.60.12.0/24 list=KE-Block
 add address=196.60.14.0/24 list=KE-Block
@@ -291,6 +292,7 @@ add address=196.60.68.0/24 list=KE-Block
 add address=196.60.80.0/24 list=KE-Block
 add address=196.60.114.0/24 list=KE-Block
 add address=196.60.124.0/24 list=KE-Block
+add address=196.60.162.0/23 list=KE-Block
 add address=196.61.52.0/22 list=KE-Block
 add address=196.96.0.0/12 list=KE-Block
 add address=196.200.16.0/20 list=KE-Block

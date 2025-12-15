@@ -203,6 +203,7 @@ add address=84.46.128.0/17 list=LT-Block
 add address=84.55.0.0/18 list=LT-Block
 add address=84.240.0.0/18 list=LT-Block
 add address=85.8.168.0/22 list=LT-Block
+add address=85.136.196.0/22 list=LT-Block
 add address=85.204.245.0/24 list=LT-Block
 add address=85.204.251.0/24 list=LT-Block
 add address=85.206.0.0/16 list=LT-Block
@@ -695,7 +696,6 @@ add address=193.161.245.0/24 list=LT-Block
 add address=193.163.127.0/24 list=LT-Block
 add address=193.164.1.0/24 list=LT-Block
 add address=193.164.10.0/24 list=LT-Block
-add address=193.169.212.0/24 list=LT-Block
 add address=193.176.54.0/23 list=LT-Block
 add address=193.176.128.0/23 list=LT-Block
 add address=193.178.226.0/23 list=LT-Block

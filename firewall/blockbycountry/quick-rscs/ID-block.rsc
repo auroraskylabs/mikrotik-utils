@@ -3569,6 +3569,12 @@ add address=144.79.52.0/23 list=ID-Block
 add address=144.79.60.0/23 list=ID-Block
 add address=144.79.64.0/23 list=ID-Block
 add address=144.79.72.0/22 list=ID-Block
+add address=144.79.77.0/24 list=ID-Block
+add address=144.79.82.0/23 list=ID-Block
+add address=144.79.88.0/22 list=ID-Block
+add address=144.79.94.0/23 list=ID-Block
+add address=144.79.96.0/22 list=ID-Block
+add address=144.79.115.0/24 list=ID-Block
 add address=146.196.40.0/22 list=ID-Block
 add address=146.196.96.0/22 list=ID-Block
 add address=146.196.104.0/21 list=ID-Block

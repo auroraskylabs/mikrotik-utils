@@ -342,6 +342,7 @@ add address=45.236.100.0/22 list=AR-Block
 add address=45.236.232.0/22 list=AR-Block
 add address=45.237.36.0/22 list=AR-Block
 add address=45.237.52.0/22 list=AR-Block
+add address=45.237.64.0/22 list=AR-Block
 add address=45.237.176.0/22 list=AR-Block
 add address=45.237.220.0/22 list=AR-Block
 add address=45.238.8.0/21 list=AR-Block

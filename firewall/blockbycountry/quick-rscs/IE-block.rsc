@@ -598,7 +598,6 @@ add address=193.95.128.0/18 list=IE-Block
 add address=193.104.136.0/24 list=IE-Block
 add address=193.104.215.0/24 list=IE-Block
 add address=193.105.145.0/24 list=IE-Block
-add address=193.105.253.0/24 list=IE-Block
 add address=193.111.28.0/24 list=IE-Block
 add address=193.111.82.0/24 list=IE-Block
 add address=193.120.0.0/16 list=IE-Block

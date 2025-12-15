@@ -368,7 +368,6 @@ add address=185.13.192.0/22 list=IL-Block
 add address=185.16.88.0/22 list=IL-Block
 add address=185.18.40.0/22 list=IL-Block
 add address=185.18.204.0/22 list=IL-Block
-add address=185.21.8.0/22 list=IL-Block
 add address=185.23.172.0/22 list=IL-Block
 add address=185.24.76.0/22 list=IL-Block
 add address=185.24.204.0/22 list=IL-Block

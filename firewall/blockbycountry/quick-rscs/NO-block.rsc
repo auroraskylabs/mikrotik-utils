@@ -220,6 +220,7 @@ add address=85.112.128.0/19 list=NO-Block
 add address=85.113.72.0/21 list=NO-Block
 add address=85.113.160.0/19 list=NO-Block
 add address=85.119.136.0/21 list=NO-Block
+add address=85.136.80.0/23 list=NO-Block
 add address=85.158.80.0/21 list=NO-Block
 add address=85.164.0.0/14 list=NO-Block
 add address=85.196.64.0/18 list=NO-Block

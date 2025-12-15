@@ -44,6 +44,7 @@ add address=196.32.208.0/21 list=MW-Block
 add address=196.45.188.0/22 list=MW-Block
 add address=196.49.72.0/24 list=MW-Block
 add address=196.49.106.0/24 list=MW-Block
+add address=196.49.118.0/24 list=MW-Block
 add address=196.60.122.0/24 list=MW-Block
 add address=196.60.254.0/24 list=MW-Block
 add address=196.216.8.0/21 list=MW-Block

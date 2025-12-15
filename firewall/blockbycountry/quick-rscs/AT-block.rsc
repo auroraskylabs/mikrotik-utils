@@ -296,6 +296,7 @@ add address=84.20.160.0/19 list=AT-Block
 add address=84.38.112.0/20 list=AT-Block
 add address=84.39.184.0/21 list=AT-Block
 add address=84.112.0.0/14 list=AT-Block
+add address=84.234.56.0/22 list=AT-Block
 add address=84.242.8.0/21 list=AT-Block
 add address=84.247.61.0/24 list=AT-Block
 add address=85.13.0.0/18 list=AT-Block

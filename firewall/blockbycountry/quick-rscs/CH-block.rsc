@@ -134,7 +134,7 @@ add address=45.141.52.0/22 list=CH-Block
 add address=45.141.96.0/22 list=CH-Block
 add address=45.142.224.0/22 list=CH-Block
 add address=45.143.124.0/22 list=CH-Block
-add address=45.143.156.0/22 list=CH-Block
+add address=45.143.156.0/23 list=CH-Block
 add address=45.143.212.0/22 list=CH-Block
 add address=45.144.20.0/22 list=CH-Block
 add address=45.146.194.0/23 list=CH-Block

@@ -24,6 +24,8 @@ add address=165.73.236.0/22 list=SL-Block
 add address=169.239.196.0/22 list=SL-Block
 add address=169.239.244.0/22 list=SL-Block
 add address=196.43.229.0/24 list=SL-Block
+add address=196.49.124.0/24 list=SL-Block
+add address=196.60.166.0/24 list=SL-Block
 add address=196.216.220.0/23 list=SL-Block
 add address=196.223.10.0/24 list=SL-Block
 add address=197.157.232.0/22 list=SL-Block

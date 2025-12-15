@@ -1288,6 +1288,7 @@ add address=193.164.218.0/23 list=CZ-Block
 add address=193.165.0.0/16 list=CZ-Block
 add address=193.168.244.0/22 list=CZ-Block
 add address=193.169.182.0/23 list=CZ-Block
+add address=193.169.212.0/24 list=CZ-Block
 add address=193.176.32.0/24 list=CZ-Block
 add address=193.179.0.0/16 list=CZ-Block
 add address=193.187.168.0/22 list=CZ-Block

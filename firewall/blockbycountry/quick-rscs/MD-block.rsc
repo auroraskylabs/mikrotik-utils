@@ -60,7 +60,6 @@ add address=80.245.80.0/20 list=MD-Block
 add address=81.31.128.0/20 list=MD-Block
 add address=83.143.68.0/22 list=MD-Block
 add address=83.218.192.0/19 list=MD-Block
-add address=84.234.56.0/22 list=MD-Block
 add address=84.246.85.0/24 list=MD-Block
 add address=85.204.176.0/21 list=MD-Block
 add address=86.104.72.0/22 list=MD-Block

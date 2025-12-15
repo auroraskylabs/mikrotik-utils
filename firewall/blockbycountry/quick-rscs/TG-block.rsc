@@ -6,6 +6,7 @@ add address=80.248.64.0/20 list=TG-Block
 add address=102.64.128.0/17 list=TG-Block
 add address=102.164.224.0/20 list=TG-Block
 add address=102.176.252.0/22 list=TG-Block
+add address=102.203.184.0/22 list=TG-Block
 add address=102.212.92.0/22 list=TG-Block
 add address=102.217.12.0/22 list=TG-Block
 add address=102.219.236.0/22 list=TG-Block

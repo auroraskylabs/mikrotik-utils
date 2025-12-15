@@ -2079,6 +2079,7 @@ add address=103.229.81.0/24 list=NL-Block
 add address=103.232.44.0/22 list=NL-Block
 add address=103.246.144.0/22 list=NL-Block
 add address=103.248.249.0/24 list=NL-Block
+add address=103.251.156.0/22 list=NL-Block
 add address=103.251.164.0/22 list=NL-Block
 add address=103.255.76.0/23 list=NL-Block
 add address=104.153.84.0/22 list=NL-Block
@@ -3508,6 +3509,8 @@ add address=185.202.200.0/22 list=NL-Block
 add address=185.202.252.0/22 list=NL-Block
 add address=185.203.148.0/22 list=NL-Block
 add address=185.203.188.0/22 list=NL-Block
+add address=185.203.204.0/23 list=NL-Block
+add address=185.203.206.0/24 list=NL-Block
 add address=185.203.240.0/22 list=NL-Block
 add address=185.204.36.0/22 list=NL-Block
 add address=185.204.109.0/24 list=NL-Block

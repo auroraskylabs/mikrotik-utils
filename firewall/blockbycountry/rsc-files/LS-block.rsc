@@ -5,6 +5,7 @@ add address=41.191.200.0/21 list=LS-Block
 add address=41.203.176.0/20 list=LS-Block
 add address=64.57.112.0/20 list=LS-Block
 add address=102.36.240.0/22 list=LS-Block
+add address=102.203.194.0/23 list=LS-Block
 add address=102.214.112.0/22 list=LS-Block
 add address=129.232.0.0/17 list=LS-Block
 add address=154.66.108.0/22 list=LS-Block

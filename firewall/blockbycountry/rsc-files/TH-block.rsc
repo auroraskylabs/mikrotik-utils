@@ -219,6 +219,7 @@ add address=103.122.45.0/24 list=TH-Block
 add address=103.122.112.0/22 list=TH-Block
 add address=103.125.82.0/24 list=TH-Block
 add address=103.125.92.0/22 list=TH-Block
+add address=103.126.52.0/22 list=TH-Block
 add address=103.126.248.0/22 list=TH-Block
 add address=103.127.88.0/23 list=TH-Block
 add address=103.130.180.0/23 list=TH-Block
