@@ -411,6 +411,7 @@ add address=91.201.4.0/22 list=AE-Block
 add address=91.201.112.0/22 list=AE-Block
 add address=91.202.211.0/24 list=AE-Block
 add address=91.206.92.0/23 list=AE-Block
+add address=91.207.208.0/24 list=AE-Block
 add address=91.207.236.0/24 list=AE-Block
 add address=91.208.61.0/24 list=AE-Block
 add address=91.208.122.0/24 list=AE-Block
@@ -549,6 +550,7 @@ add address=103.245.228.0/22 list=AE-Block
 add address=103.249.132.0/22 list=AE-Block
 add address=104.128.128.0/20 list=AE-Block
 add address=109.69.56.0/21 list=AE-Block
+add address=109.71.159.0/24 list=AE-Block
 add address=109.94.208.0/23 list=AE-Block
 add address=109.94.210.0/24 list=AE-Block
 add address=109.94.216.0/22 list=AE-Block
@@ -580,6 +582,7 @@ add address=130.0.232.0/21 list=AE-Block
 add address=130.49.160.0/22 list=AE-Block
 add address=130.185.120.0/21 list=AE-Block
 add address=130.255.0.0/21 list=AE-Block
+add address=131.222.0.0/16 list=AE-Block
 add address=134.0.216.0/21 list=AE-Block
 add address=138.128.224.0/22 list=AE-Block
 add address=140.225.192.0/19 list=AE-Block
@@ -751,6 +754,7 @@ add address=185.180.84.0/22 list=AE-Block
 add address=185.183.97.0/24 list=AE-Block
 add address=185.183.98.0/24 list=AE-Block
 add address=185.184.20.0/22 list=AE-Block
+add address=185.184.42.0/24 list=AE-Block
 add address=185.184.52.0/24 list=AE-Block
 add address=185.184.77.0/24 list=AE-Block
 add address=185.184.78.0/24 list=AE-Block
@@ -988,6 +992,7 @@ add address=194.150.210.0/23 list=AE-Block
 add address=194.153.153.128/25 list=AE-Block
 add address=194.156.0.0/23 list=AE-Block
 add address=194.156.27.0/24 list=AE-Block
+add address=194.156.28.0/22 list=AE-Block
 add address=194.156.92.0/22 list=AE-Block
 add address=194.156.96.0/22 list=AE-Block
 add address=194.156.120.0/23 list=AE-Block
@@ -1016,6 +1021,7 @@ add address=195.43.134.0/24 list=AE-Block
 add address=195.54.170.0/23 list=AE-Block
 add address=195.54.174.0/23 list=AE-Block
 add address=195.60.236.0/23 list=AE-Block
+add address=195.63.128.0/18 list=AE-Block
 add address=195.88.89.0/24 list=AE-Block
 add address=195.95.219.0/24 list=AE-Block
 add address=195.133.192.0/23 list=AE-Block

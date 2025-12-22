@@ -172,7 +172,6 @@ add address=86.54.46.0/23 list=BE-Block
 add address=86.107.120.0/21 list=BE-Block
 add address=87.64.0.0/14 list=BE-Block
 add address=87.236.33.0/24 list=BE-Block
-add address=87.236.178.0/23 list=BE-Block
 add address=87.237.8.0/21 list=BE-Block
 add address=87.238.160.0/21 list=BE-Block
 add address=87.238.224.0/21 list=BE-Block

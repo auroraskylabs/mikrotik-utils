@@ -163,6 +163,7 @@ add address=194.164.224.0/24 list=AZ-Block
 add address=195.26.8.0/23 list=AZ-Block
 add address=195.28.6.0/23 list=AZ-Block
 add address=195.216.230.0/24 list=AZ-Block
+add address=204.77.7.0/24 list=AZ-Block
 add address=208.122.23.0/24 list=AZ-Block
 add address=212.47.128.0/19 list=AZ-Block
 add address=212.102.123.0/24 list=AZ-Block
@@ -174,3 +175,4 @@ add address=217.18.88.0/24 list=AZ-Block
 add address=217.25.16.0/20 list=AZ-Block
 add address=217.64.16.0/20 list=AZ-Block
 add address=217.168.176.0/20 list=AZ-Block
+add address=217.179.126.0/24 list=AZ-Block

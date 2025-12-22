@@ -59,6 +59,7 @@ add address=85.235.84.0/22 list=BA-Block
 add address=87.247.136.0/22 list=BA-Block
 add address=87.250.96.0/19 list=BA-Block
 add address=89.111.192.0/18 list=BA-Block
+add address=89.124.12.0/22 list=BA-Block
 add address=89.146.128.0/18 list=BA-Block
 add address=91.191.0.0/18 list=BA-Block
 add address=91.198.219.0/24 list=BA-Block
@@ -146,6 +147,7 @@ add address=209.162.200.0/24 list=BA-Block
 add address=212.39.96.0/19 list=BA-Block
 add address=212.125.144.0/20 list=BA-Block
 add address=213.91.64.0/18 list=BA-Block
+add address=213.155.24.0/22 list=BA-Block
 add address=213.196.112.0/20 list=BA-Block
 add address=217.9.20.0/22 list=BA-Block
 add address=217.23.192.0/20 list=BA-Block

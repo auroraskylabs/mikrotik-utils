@@ -95,7 +95,6 @@ add address=111.125.152.0/21 list=AF-Block
 add address=116.204.160.0/22 list=AF-Block
 add address=116.204.240.0/22 list=AF-Block
 add address=116.206.188.0/22 list=AF-Block
-add address=117.55.196.0/23 list=AF-Block
 add address=117.104.224.0/21 list=AF-Block
 add address=119.59.80.0/21 list=AF-Block
 add address=121.100.48.0/21 list=AF-Block

@@ -3574,7 +3574,13 @@ add address=144.79.82.0/23 list=ID-Block
 add address=144.79.88.0/22 list=ID-Block
 add address=144.79.94.0/23 list=ID-Block
 add address=144.79.96.0/22 list=ID-Block
-add address=144.79.115.0/24 list=ID-Block
+add address=144.79.122.0/24 list=ID-Block
+add address=144.79.128.0/24 list=ID-Block
+add address=144.79.130.0/23 list=ID-Block
+add address=144.79.136.0/23 list=ID-Block
+add address=144.79.142.0/24 list=ID-Block
+add address=144.79.174.0/24 list=ID-Block
+add address=144.79.176.0/24 list=ID-Block
 add address=146.196.40.0/22 list=ID-Block
 add address=146.196.96.0/22 list=ID-Block
 add address=146.196.104.0/21 list=ID-Block

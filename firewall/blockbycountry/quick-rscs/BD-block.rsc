@@ -1711,6 +1711,9 @@ add address=144.79.102.0/23 list=BD-Block
 add address=144.79.104.0/24 list=BD-Block
 add address=144.79.106.0/23 list=BD-Block
 add address=144.79.108.0/23 list=BD-Block
+add address=144.79.124.0/23 list=BD-Block
+add address=144.79.132.0/23 list=BD-Block
+add address=144.79.162.0/23 list=BD-Block
 add address=146.196.48.0/22 list=BD-Block
 add address=150.107.52.0/22 list=BD-Block
 add address=150.129.16.0/23 list=BD-Block

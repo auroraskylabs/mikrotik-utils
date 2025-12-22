@@ -585,6 +585,7 @@ add address=200.114.88.0/21 list=CL-Block
 add address=200.115.184.0/24 list=CL-Block
 add address=200.119.224.0/19 list=CL-Block
 add address=200.120.0.0/16 list=CL-Block
+add address=200.123.44.0/24 list=CL-Block
 add address=200.124.32.0/19 list=CL-Block
 add address=200.126.32.0/20 list=CL-Block
 add address=200.126.49.0/24 list=CL-Block

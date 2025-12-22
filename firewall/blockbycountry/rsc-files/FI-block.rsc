@@ -715,7 +715,6 @@ add address=193.27.216.0/23 list=FI-Block
 add address=193.28.89.0/24 list=FI-Block
 add address=193.28.203.0/24 list=FI-Block
 add address=193.29.176.0/24 list=FI-Block
-add address=193.30.92.0/24 list=FI-Block
 add address=193.56.196.0/22 list=FI-Block
 add address=193.57.6.0/24 list=FI-Block
 add address=193.64.0.0/15 list=FI-Block

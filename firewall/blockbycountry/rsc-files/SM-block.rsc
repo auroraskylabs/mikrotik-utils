@@ -18,6 +18,7 @@ add address=185.62.32.0/22 list=SM-Block
 add address=185.86.60.0/22 list=SM-Block
 add address=185.125.240.0/24 list=SM-Block
 add address=185.146.128.0/22 list=SM-Block
+add address=185.159.90.0/24 list=SM-Block
 add address=185.168.168.0/22 list=SM-Block
 add address=192.145.48.0/22 list=SM-Block
 add address=194.0.27.0/24 list=SM-Block

@@ -542,6 +542,9 @@ add address=144.79.44.0/24 list=PK-Block
 add address=144.79.46.0/23 list=PK-Block
 add address=144.79.56.0/23 list=PK-Block
 add address=144.79.76.0/24 list=PK-Block
+add address=144.79.150.0/23 list=PK-Block
+add address=144.79.152.0/23 list=PK-Block
+add address=144.79.156.0/23 list=PK-Block
 add address=150.129.4.0/22 list=PK-Block
 add address=157.10.6.0/23 list=PK-Block
 add address=157.10.30.0/23 list=PK-Block

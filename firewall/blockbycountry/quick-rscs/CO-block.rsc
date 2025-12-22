@@ -2,6 +2,8 @@
 /ip firewall address-list
 add address=24.152.56.0/24 list=CO-Block
 add address=24.152.58.0/23 list=CO-Block
+add address=37.10.70.0/24 list=CO-Block
+add address=37.10.108.0/24 list=CO-Block
 add address=45.5.160.0/21 list=CO-Block
 add address=45.5.172.0/22 list=CO-Block
 add address=45.5.180.0/22 list=CO-Block
@@ -255,6 +257,8 @@ add address=181.233.168.0/22 list=CO-Block
 add address=181.234.0.0/15 list=CO-Block
 add address=181.236.0.0/15 list=CO-Block
 add address=181.240.0.0/12 list=CO-Block
+add address=185.28.216.0/22 list=CO-Block
+add address=185.42.20.0/22 list=CO-Block
 add address=185.74.16.0/22 list=CO-Block
 add address=185.122.240.0/22 list=CO-Block
 add address=185.197.128.0/22 list=CO-Block

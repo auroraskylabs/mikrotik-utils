@@ -154,7 +154,7 @@ add address=45.71.188.0/22 list=BR-Block
 add address=45.71.192.0/22 list=BR-Block
 add address=45.71.208.0/20 list=BR-Block
 add address=45.71.224.0/20 list=BR-Block
-add address=45.71.244.0/22 list=BR-Block
+add address=45.71.240.0/21 list=BR-Block
 add address=45.71.248.0/22 list=BR-Block
 add address=45.160.0.0/22 list=BR-Block
 add address=45.160.8.0/22 list=BR-Block
@@ -4226,8 +4226,7 @@ add address=200.7.12.0/23 list=BR-Block
 add address=200.7.112.0/20 list=BR-Block
 add address=200.9.0.0/23 list=BR-Block
 add address=200.9.2.0/24 list=BR-Block
-add address=200.9.20.0/22 list=BR-Block
-add address=200.9.24.0/21 list=BR-Block
+add address=200.9.16.0/20 list=BR-Block
 add address=200.9.65.0/24 list=BR-Block
 add address=200.9.66.0/23 list=BR-Block
 add address=200.9.68.0/22 list=BR-Block

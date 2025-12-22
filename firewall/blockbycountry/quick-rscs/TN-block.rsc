@@ -2,7 +2,6 @@
 /ip firewall address-list
 add address=41.62.0.0/16 list=TN-Block
 add address=41.224.0.0/13 list=TN-Block
-add address=91.198.207.0/24 list=TN-Block
 add address=102.24.0.0/13 list=TN-Block
 add address=102.104.0.0/13 list=TN-Block
 add address=102.128.0.0/18 list=TN-Block
@@ -32,10 +31,7 @@ add address=164.160.0.0/22 list=TN-Block
 add address=165.50.0.0/15 list=TN-Block
 add address=169.255.68.0/22 list=TN-Block
 add address=192.68.138.0/24 list=TN-Block
-add address=193.39.113.0/24 list=TN-Block
 add address=193.95.0.0/17 list=TN-Block
-add address=193.105.15.0/24 list=TN-Block
-add address=193.218.123.0/24 list=TN-Block
 add address=196.41.95.0/24 list=TN-Block
 add address=196.176.0.0/14 list=TN-Block
 add address=196.184.0.0/14 list=TN-Block

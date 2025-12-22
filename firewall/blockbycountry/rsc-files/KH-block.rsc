@@ -25,6 +25,7 @@ add address=45.115.180.0/22 list=KH-Block
 add address=45.115.208.0/22 list=KH-Block
 add address=45.118.76.0/22 list=KH-Block
 add address=45.119.132.0/22 list=KH-Block
+add address=45.120.132.0/22 list=KH-Block
 add address=45.121.236.0/22 list=KH-Block
 add address=45.127.152.0/22 list=KH-Block
 add address=45.250.236.0/22 list=KH-Block
@@ -199,6 +200,7 @@ add address=136.228.128.0/19 list=KH-Block
 add address=139.5.132.0/22 list=KH-Block
 add address=144.48.136.0/22 list=KH-Block
 add address=144.48.228.0/22 list=KH-Block
+add address=144.79.168.0/23 list=KH-Block
 add address=146.88.200.0/21 list=KH-Block
 add address=150.107.4.0/22 list=KH-Block
 add address=150.129.20.0/22 list=KH-Block

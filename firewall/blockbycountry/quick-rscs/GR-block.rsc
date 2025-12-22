@@ -52,6 +52,7 @@ add address=77.49.0.0/16 list=GR-Block
 add address=77.69.0.0/17 list=GR-Block
 add address=78.87.0.0/16 list=GR-Block
 add address=78.108.32.0/20 list=GR-Block
+add address=78.109.28.0/22 list=GR-Block
 add address=79.103.0.0/16 list=GR-Block
 add address=79.107.0.0/16 list=GR-Block
 add address=79.128.0.0/14 list=GR-Block

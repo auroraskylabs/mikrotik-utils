@@ -13,6 +13,7 @@ add address=37.18.224.0/20 list=SI-Block
 add address=37.19.64.0/21 list=SI-Block
 add address=45.8.0.0/22 list=SI-Block
 add address=45.15.44.0/22 list=SI-Block
+add address=45.136.188.0/22 list=SI-Block
 add address=45.141.168.0/22 list=SI-Block
 add address=45.144.52.0/22 list=SI-Block
 add address=45.146.232.0/22 list=SI-Block

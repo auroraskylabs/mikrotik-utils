@@ -4,7 +4,6 @@ add address=37.75.32.0/19 list=MT-Block
 add address=37.114.72.0/21 list=MT-Block
 add address=37.233.120.0/21 list=MT-Block
 add address=45.9.100.0/22 list=MT-Block
-add address=45.95.80.0/22 list=MT-Block
 add address=46.11.0.0/16 list=MT-Block
 add address=46.54.0.0/17 list=MT-Block
 add address=62.173.0.0/19 list=MT-Block
@@ -30,7 +29,6 @@ add address=85.184.96.0/19 list=MT-Block
 add address=85.232.192.0/19 list=MT-Block
 add address=88.203.0.0/17 list=MT-Block
 add address=91.103.88.0/21 list=MT-Block
-add address=91.190.157.0/24 list=MT-Block
 add address=91.194.92.0/23 list=MT-Block
 add address=91.199.56.0/24 list=MT-Block
 add address=91.200.196.0/22 list=MT-Block
@@ -80,7 +78,6 @@ add address=185.179.102.0/24 list=MT-Block
 add address=185.218.148.0/22 list=MT-Block
 add address=185.222.76.0/22 list=MT-Block
 add address=185.234.109.0/24 list=MT-Block
-add address=185.240.104.0/22 list=MT-Block
 add address=185.242.68.0/22 list=MT-Block
 add address=188.65.184.0/21 list=MT-Block
 add address=188.172.0.0/18 list=MT-Block
@@ -117,7 +114,6 @@ add address=195.234.51.0/24 list=MT-Block
 add address=195.245.251.0/24 list=MT-Block
 add address=212.56.128.0/19 list=MT-Block
 add address=212.65.96.0/19 list=MT-Block
-add address=212.103.44.0/22 list=MT-Block
 add address=213.134.19.0/24 list=MT-Block
 add address=213.165.160.0/19 list=MT-Block
 add address=213.217.192.0/18 list=MT-Block

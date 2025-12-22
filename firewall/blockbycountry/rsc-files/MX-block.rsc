@@ -161,7 +161,6 @@ add address=148.222.188.0/22 list=MX-Block
 add address=148.222.252.0/22 list=MX-Block
 add address=148.223.0.0/16 list=MX-Block
 add address=148.224.0.0/20 list=MX-Block
-add address=148.224.16.0/21 list=MX-Block
 add address=148.224.30.0/24 list=MX-Block
 add address=148.224.32.0/20 list=MX-Block
 add address=148.224.52.0/22 list=MX-Block

@@ -17,7 +17,6 @@ add address=45.85.120.0/22 list=HR-Block
 add address=45.87.24.0/22 list=HR-Block
 add address=45.95.168.0/22 list=HR-Block
 add address=45.136.142.0/23 list=HR-Block
-add address=45.136.188.0/22 list=HR-Block
 add address=45.137.248.0/22 list=HR-Block
 add address=45.142.8.0/22 list=HR-Block
 add address=45.143.216.0/22 list=HR-Block

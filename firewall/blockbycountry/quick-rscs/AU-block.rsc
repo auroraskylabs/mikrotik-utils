@@ -2630,6 +2630,8 @@ add address=144.53.0.0/16 list=AU-Block
 add address=144.55.0.0/16 list=AU-Block
 add address=144.79.6.0/23 list=AU-Block
 add address=144.79.26.0/23 list=AU-Block
+add address=144.79.129.0/24 list=AU-Block
+add address=144.79.167.0/24 list=AU-Block
 add address=144.97.0.0/16 list=AU-Block
 add address=144.110.0.0/16 list=AU-Block
 add address=144.130.0.0/15 list=AU-Block

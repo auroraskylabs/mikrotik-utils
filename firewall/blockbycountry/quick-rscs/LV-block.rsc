@@ -21,6 +21,7 @@ add address=45.13.96.0/22 list=LV-Block
 add address=45.65.124.0/22 list=LV-Block
 add address=45.80.52.0/22 list=LV-Block
 add address=45.93.23.0/24 list=LV-Block
+add address=45.95.80.0/22 list=LV-Block
 add address=45.95.164.0/22 list=LV-Block
 add address=45.131.182.0/23 list=LV-Block
 add address=45.140.32.0/22 list=LV-Block
@@ -113,6 +114,7 @@ add address=91.142.0.0/20 list=LV-Block
 add address=91.188.32.0/19 list=LV-Block
 add address=91.190.32.0/19 list=LV-Block
 add address=91.190.128.0/21 list=LV-Block
+add address=91.190.157.0/24 list=LV-Block
 add address=91.192.161.0/24 list=LV-Block
 add address=91.193.64.0/22 list=LV-Block
 add address=91.194.110.0/24 list=LV-Block
@@ -275,6 +277,7 @@ add address=185.220.116.0/22 list=LV-Block
 add address=185.220.196.0/22 list=LV-Block
 add address=185.227.77.0/24 list=LV-Block
 add address=185.228.100.0/22 list=LV-Block
+add address=185.240.104.0/22 list=LV-Block
 add address=185.242.104.0/22 list=LV-Block
 add address=185.250.116.0/22 list=LV-Block
 add address=185.253.61.0/24 list=LV-Block
@@ -407,6 +410,7 @@ add address=212.52.1.0/24 list=LV-Block
 add address=212.55.64.0/19 list=LV-Block
 add address=212.70.160.0/19 list=LV-Block
 add address=212.93.96.0/19 list=LV-Block
+add address=212.103.44.0/22 list=LV-Block
 add address=212.142.64.0/18 list=LV-Block
 add address=213.21.192.0/18 list=LV-Block
 add address=213.108.52.0/22 list=LV-Block
