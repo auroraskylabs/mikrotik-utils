@@ -149,6 +149,7 @@ add address=94.231.194.0/24 list=GR-Block
 add address=94.232.80.0/21 list=GR-Block
 add address=94.241.128.0/18 list=GR-Block
 add address=95.129.40.0/21 list=GR-Block
+add address=95.133.192.0/20 list=GR-Block
 add address=109.68.144.0/21 list=GR-Block
 add address=109.107.139.0/24 list=GR-Block
 add address=109.178.0.0/16 list=GR-Block

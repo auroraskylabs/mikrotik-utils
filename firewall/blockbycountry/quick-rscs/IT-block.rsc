@@ -710,6 +710,7 @@ add address=85.235.128.0/19 list=IT-Block
 add address=85.239.160.0/19 list=IT-Block
 add address=86.54.201.0/24 list=IT-Block
 add address=86.104.6.0/24 list=IT-Block
+add address=86.104.67.0/24 list=IT-Block
 add address=86.104.135.0/24 list=IT-Block
 add address=86.104.229.0/24 list=IT-Block
 add address=86.105.8.0/24 list=IT-Block

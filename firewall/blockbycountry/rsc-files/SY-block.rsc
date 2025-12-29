@@ -192,6 +192,7 @@ add address=198.51.144.0/23 list=SY-Block
 add address=198.51.146.0/24 list=SY-Block
 add address=205.209.64.0/19 list=SY-Block
 add address=212.11.192.0/19 list=SY-Block
+add address=213.177.185.0/24 list=SY-Block
 add address=213.178.224.0/19 list=SY-Block
 add address=213.217.32.0/19 list=SY-Block
 add address=217.20.208.0/20 list=SY-Block

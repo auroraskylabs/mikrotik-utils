@@ -652,7 +652,6 @@ add address=195.178.12.0/23 list=IL-Block
 add address=195.184.224.0/22 list=IL-Block
 add address=195.189.140.0/23 list=IL-Block
 add address=195.189.192.0/23 list=IL-Block
-add address=195.190.19.0/24 list=IL-Block
 add address=195.190.23.0/24 list=IL-Block
 add address=195.191.52.0/23 list=IL-Block
 add address=195.192.224.0/21 list=IL-Block

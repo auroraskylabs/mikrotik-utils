@@ -607,7 +607,7 @@ add address=81.172.0.0/17 list=ES-Block
 add address=81.173.40.0/23 list=ES-Block
 add address=81.173.104.0/21 list=ES-Block
 add address=81.184.0.0/16 list=ES-Block
-add address=81.202.0.0/15 list=ES-Block
+add address=81.202.0.0/16 list=ES-Block
 add address=82.86.0.0/16 list=ES-Block
 add address=82.98.128.0/18 list=ES-Block
 add address=82.116.160.0/19 list=ES-Block

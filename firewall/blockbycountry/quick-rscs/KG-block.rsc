@@ -102,6 +102,7 @@ add address=213.145.128.0/19 list=KG-Block
 add address=213.155.28.0/23 list=KG-Block
 add address=213.232.200.0/24 list=KG-Block
 add address=217.29.16.0/20 list=KG-Block
+add address=217.179.48.0/22 list=KG-Block
 
 /ip firewall raw
  :if ([print count-only where src-address-list="KG-Block"] = "0") do={ add chain=prerouting action=drop src-address-list=KG-Block comment="Block KG traffic" }

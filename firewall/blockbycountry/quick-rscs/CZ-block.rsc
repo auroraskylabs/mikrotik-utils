@@ -395,6 +395,7 @@ add address=89.190.32.0/19 list=CZ-Block
 add address=89.190.64.0/19 list=CZ-Block
 add address=89.190.128.0/22 list=CZ-Block
 add address=89.203.128.0/17 list=CZ-Block
+add address=89.207.155.0/24 list=CZ-Block
 add address=89.221.208.0/20 list=CZ-Block
 add address=89.233.128.0/18 list=CZ-Block
 add address=89.235.0.0/18 list=CZ-Block

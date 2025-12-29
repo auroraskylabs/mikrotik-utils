@@ -1074,7 +1074,7 @@ add address=193.138.67.0/24 list=BG-Block
 add address=193.142.0.0/24 list=BG-Block
 add address=193.148.48.0/22 list=BG-Block
 add address=193.148.56.0/22 list=BG-Block
-add address=193.148.252.0/23 list=BG-Block
+add address=193.148.252.0/24 list=BG-Block
 add address=193.149.28.0/22 list=BG-Block
 add address=193.150.67.0/24 list=BG-Block
 add address=193.151.20.0/22 list=BG-Block

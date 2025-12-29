@@ -438,7 +438,10 @@ add address=171.25.228.0/24 list=DK-Block
 add address=176.20.0.0/17 list=DK-Block
 add address=176.20.224.0/19 list=DK-Block
 add address=176.21.0.0/16 list=DK-Block
-add address=176.22.0.0/15 list=DK-Block
+add address=176.22.0.0/16 list=DK-Block
+add address=176.23.0.0/17 list=DK-Block
+add address=176.23.160.0/19 list=DK-Block
+add address=176.23.192.0/18 list=DK-Block
 add address=176.62.200.0/21 list=DK-Block
 add address=176.67.184.0/21 list=DK-Block
 add address=176.222.232.0/21 list=DK-Block

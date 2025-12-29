@@ -261,6 +261,7 @@ add address=203.95.196.0/22 list=KH-Block
 add address=203.118.242.0/24 list=KH-Block
 add address=203.119.79.0/24 list=KH-Block
 add address=203.144.64.0/19 list=KH-Block
+add address=203.147.128.0/20 list=KH-Block
 add address=203.167.16.0/22 list=KH-Block
 add address=203.171.252.0/22 list=KH-Block
 add address=203.176.128.0/20 list=KH-Block

@@ -2,6 +2,7 @@
 /ip firewall address-list
 add address=5.62.80.0/20 list=IM-Block
 add address=5.154.182.0/24 list=IM-Block
+add address=5.154.188.0/23 list=IM-Block
 add address=5.253.76.0/22 list=IM-Block
 add address=31.130.208.0/21 list=IM-Block
 add address=37.1.88.0/21 list=IM-Block

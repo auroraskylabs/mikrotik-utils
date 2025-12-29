@@ -1543,6 +1543,7 @@ add address=203.217.184.0/22 list=SG-Block
 add address=205.210.164.0/22 list=SG-Block
 add address=206.131.192.0/20 list=SG-Block
 add address=207.166.160.0/19 list=SG-Block
+add address=207.189.0.0/19 list=SG-Block
 add address=209.58.160.0/20 list=SG-Block
 add address=209.58.176.0/21 list=SG-Block
 add address=209.103.160.0/19 list=SG-Block

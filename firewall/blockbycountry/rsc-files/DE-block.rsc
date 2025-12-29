@@ -6260,6 +6260,7 @@ add address=193.143.224.0/24 list=DE-Block
 add address=193.148.68.0/22 list=DE-Block
 add address=193.148.72.0/22 list=DE-Block
 add address=193.148.160.0/19 list=DE-Block
+add address=193.148.253.0/24 list=DE-Block
 add address=193.149.8.0/21 list=DE-Block
 add address=193.149.24.0/22 list=DE-Block
 add address=193.149.32.0/19 list=DE-Block
@@ -8572,6 +8573,7 @@ add address=217.172.160.0/19 list=DE-Block
 add address=217.173.128.0/19 list=DE-Block
 add address=217.175.96.0/20 list=DE-Block
 add address=217.175.224.0/19 list=DE-Block
+add address=217.180.58.0/23 list=DE-Block
 add address=217.184.0.0/13 list=DE-Block
 add address=217.194.32.0/20 list=DE-Block
 add address=217.194.64.0/20 list=DE-Block

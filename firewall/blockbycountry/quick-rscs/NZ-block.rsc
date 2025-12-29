@@ -636,6 +636,7 @@ add address=139.180.64.0/18 list=NZ-Block
 add address=140.168.252.0/22 list=NZ-Block
 add address=143.96.0.0/16 list=NZ-Block
 add address=144.66.0.0/16 list=NZ-Block
+add address=144.249.224.0/20 list=NZ-Block
 add address=146.88.146.0/23 list=NZ-Block
 add address=146.171.0.0/16 list=NZ-Block
 add address=149.19.16.0/20 list=NZ-Block
