@@ -60,6 +60,7 @@ add address=62.212.32.0/19 list=GE-Block
 add address=62.233.61.0/24 list=GE-Block
 add address=77.74.40.0/21 list=GE-Block
 add address=77.91.64.0/20 list=GE-Block
+add address=77.91.96.0/19 list=GE-Block
 add address=77.92.224.0/19 list=GE-Block
 add address=77.242.48.0/20 list=GE-Block
 add address=78.40.104.0/22 list=GE-Block
@@ -105,6 +106,7 @@ add address=91.210.120.0/22 list=GE-Block
 add address=91.211.86.0/24 list=GE-Block
 add address=91.212.213.0/24 list=GE-Block
 add address=91.212.225.0/24 list=GE-Block
+add address=91.214.78.0/23 list=GE-Block
 add address=91.219.232.0/22 list=GE-Block
 add address=91.221.52.0/23 list=GE-Block
 add address=91.223.53.0/24 list=GE-Block

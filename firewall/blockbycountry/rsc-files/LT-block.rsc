@@ -543,7 +543,6 @@ add address=185.140.12.0/22 list=LT-Block
 add address=185.140.208.0/22 list=LT-Block
 add address=185.140.228.0/22 list=LT-Block
 add address=185.141.160.0/22 list=LT-Block
-add address=185.142.130.0/24 list=LT-Block
 add address=185.144.116.0/22 list=LT-Block
 add address=185.145.216.0/22 list=LT-Block
 add address=185.145.235.0/24 list=LT-Block

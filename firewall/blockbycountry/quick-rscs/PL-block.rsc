@@ -1682,6 +1682,7 @@ add address=162.27.160.0/23 list=PL-Block
 add address=162.27.162.0/24 list=PL-Block
 add address=164.40.240.0/21 list=PL-Block
 add address=164.126.0.0/15 list=PL-Block
+add address=167.104.48.0/24 list=PL-Block
 add address=168.222.232.0/21 list=PL-Block
 add address=170.117.202.0/23 list=PL-Block
 add address=171.22.80.0/22 list=PL-Block

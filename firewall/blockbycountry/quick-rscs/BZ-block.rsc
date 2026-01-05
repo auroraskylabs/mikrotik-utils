@@ -8,7 +8,6 @@ add address=45.70.228.0/22 list=BZ-Block
 add address=45.70.240.0/22 list=BZ-Block
 add address=45.87.220.0/22 list=BZ-Block
 add address=45.136.44.0/22 list=BZ-Block
-add address=45.143.220.0/22 list=BZ-Block
 add address=45.145.76.0/22 list=BZ-Block
 add address=45.151.24.0/22 list=BZ-Block
 add address=45.180.120.0/22 list=BZ-Block
@@ -17,8 +16,6 @@ add address=45.228.156.0/24 list=BZ-Block
 add address=45.234.88.0/22 list=BZ-Block
 add address=46.102.152.0/24 list=BZ-Block
 add address=46.102.252.0/23 list=BZ-Block
-add address=77.247.108.0/23 list=BZ-Block
-add address=77.247.110.0/24 list=BZ-Block
 add address=82.115.15.0/24 list=BZ-Block
 add address=83.150.236.0/22 list=BZ-Block
 add address=85.204.74.0/24 list=BZ-Block
@@ -92,8 +89,6 @@ add address=179.60.144.0/21 list=BZ-Block
 add address=179.63.216.0/21 list=BZ-Block
 add address=181.177.64.0/18 list=BZ-Block
 add address=181.233.124.0/22 list=BZ-Block
-add address=185.53.88.0/23 list=BZ-Block
-add address=185.53.90.0/24 list=BZ-Block
 add address=185.77.128.0/22 list=BZ-Block
 add address=185.130.44.0/22 list=BZ-Block
 add address=185.131.222.0/23 list=BZ-Block

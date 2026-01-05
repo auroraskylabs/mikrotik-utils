@@ -2844,6 +2844,7 @@ add address=103.255.200.0/22 list=CN-Block
 add address=103.255.208.0/23 list=CN-Block
 add address=103.255.212.0/22 list=CN-Block
 add address=103.255.228.0/22 list=CN-Block
+add address=104.167.17.0/24 list=CN-Block
 add address=106.0.0.0/24 list=CN-Block
 add address=106.0.2.0/23 list=CN-Block
 add address=106.0.4.0/22 list=CN-Block

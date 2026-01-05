@@ -1965,7 +1965,7 @@ add address=185.65.112.0/22 list=FR-Block
 add address=185.65.141.0/24 list=FR-Block
 add address=185.65.224.0/22 list=FR-Block
 add address=185.65.248.0/22 list=FR-Block
-add address=185.66.100.0/22 list=FR-Block
+add address=185.66.96.0/21 list=FR-Block
 add address=185.66.152.0/22 list=FR-Block
 add address=185.66.232.0/22 list=FR-Block
 add address=185.67.72.0/22 list=FR-Block
@@ -3835,6 +3835,7 @@ add address=195.216.214.0/23 list=FR-Block
 add address=195.216.242.0/24 list=FR-Block
 add address=195.216.249.0/24 list=FR-Block
 add address=195.220.0.0/15 list=FR-Block
+add address=195.222.104.0/24 list=FR-Block
 add address=195.225.80.0/24 list=FR-Block
 add address=195.225.204.0/22 list=FR-Block
 add address=195.226.215.0/24 list=FR-Block

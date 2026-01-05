@@ -144,6 +144,7 @@ add address=93.190.160.0/21 list=RS-Block
 add address=94.127.0.0/21 list=RS-Block
 add address=94.154.104.0/21 list=RS-Block
 add address=94.189.128.0/17 list=RS-Block
+add address=94.198.8.0/21 list=RS-Block
 add address=94.228.224.0/20 list=RS-Block
 add address=94.229.112.0/20 list=RS-Block
 add address=94.230.176.0/20 list=RS-Block
@@ -186,6 +187,7 @@ add address=130.193.76.0/24 list=RS-Block
 add address=139.28.12.0/22 list=RS-Block
 add address=147.91.0.0/16 list=RS-Block
 add address=160.99.0.0/16 list=RS-Block
+add address=160.238.60.0/24 list=RS-Block
 add address=176.67.192.0/19 list=RS-Block
 add address=176.103.216.0/23 list=RS-Block
 add address=176.104.104.0/21 list=RS-Block

@@ -488,6 +488,7 @@ add address=140.128.0.0/13 list=TW-Block
 add address=140.136.0.0/15 list=TW-Block
 add address=140.138.0.0/16 list=TW-Block
 add address=144.79.66.0/23 list=TW-Block
+add address=144.79.236.0/23 list=TW-Block
 add address=150.107.56.0/21 list=TW-Block
 add address=150.107.64.0/22 list=TW-Block
 add address=150.116.0.0/15 list=TW-Block
@@ -517,7 +518,7 @@ add address=160.187.72.0/23 list=TW-Block
 add address=160.187.100.0/23 list=TW-Block
 add address=160.187.198.0/23 list=TW-Block
 add address=160.187.200.0/23 list=TW-Block
-add address=160.191.4.0/22 list=TW-Block
+add address=160.191.4.0/23 list=TW-Block
 add address=160.191.8.0/23 list=TW-Block
 add address=160.191.168.0/23 list=TW-Block
 add address=160.191.202.0/23 list=TW-Block

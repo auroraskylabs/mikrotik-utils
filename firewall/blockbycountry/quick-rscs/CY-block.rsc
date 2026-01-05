@@ -309,7 +309,6 @@ add address=185.50.68.0/22 list=CY-Block
 add address=185.52.88.0/22 list=CY-Block
 add address=185.61.240.0/22 list=CY-Block
 add address=185.68.128.0/22 list=CY-Block
-add address=185.71.216.0/22 list=CY-Block
 add address=185.77.96.0/23 list=CY-Block
 add address=185.78.128.0/22 list=CY-Block
 add address=185.81.32.0/22 list=CY-Block

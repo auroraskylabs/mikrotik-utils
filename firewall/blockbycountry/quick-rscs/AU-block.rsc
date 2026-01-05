@@ -717,7 +717,6 @@ add address=103.49.80.0/22 list=AU-Block
 add address=103.49.106.0/23 list=AU-Block
 add address=103.49.127.0/24 list=AU-Block
 add address=103.49.144.0/23 list=AU-Block
-add address=103.49.151.0/24 list=AU-Block
 add address=103.50.12.0/23 list=AU-Block
 add address=103.50.34.0/23 list=AU-Block
 add address=103.50.100.0/22 list=AU-Block

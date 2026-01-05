@@ -7,7 +7,6 @@ add address=46.33.192.0/19 list=ME-Block
 add address=46.161.64.0/18 list=ME-Block
 add address=62.4.32.0/19 list=ME-Block
 add address=77.91.80.0/20 list=ME-Block
-add address=77.91.96.0/19 list=ME-Block
 add address=77.222.0.0/19 list=ME-Block
 add address=78.155.32.0/19 list=ME-Block
 add address=79.140.144.0/20 list=ME-Block

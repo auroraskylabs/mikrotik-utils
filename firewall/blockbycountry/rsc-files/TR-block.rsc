@@ -786,6 +786,7 @@ add address=185.70.84.0/22 list=TR-Block
 add address=185.70.96.0/22 list=TR-Block
 add address=185.70.140.0/22 list=TR-Block
 add address=185.71.116.0/22 list=TR-Block
+add address=185.71.216.0/22 list=TR-Block
 add address=185.73.84.0/24 list=TR-Block
 add address=185.73.86.0/24 list=TR-Block
 add address=185.73.128.0/22 list=TR-Block
@@ -876,6 +877,7 @@ add address=185.118.142.0/23 list=TR-Block
 add address=185.118.176.0/22 list=TR-Block
 add address=185.118.192.0/22 list=TR-Block
 add address=185.119.80.0/22 list=TR-Block
+add address=185.119.197.0/24 list=TR-Block
 add address=185.121.124.0/22 list=TR-Block
 add address=185.122.12.0/22 list=TR-Block
 add address=185.122.200.0/22 list=TR-Block

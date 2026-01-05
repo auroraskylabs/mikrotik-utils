@@ -718,6 +718,7 @@ add address=213.255.232.0/21 list=IL-Block
 add address=213.255.240.0/22 list=IL-Block
 add address=213.255.248.0/21 list=IL-Block
 add address=216.150.30.0/23 list=IL-Block
+add address=216.203.59.0/24 list=IL-Block
 add address=216.252.176.0/20 list=IL-Block
 add address=217.22.112.0/20 list=IL-Block
 add address=217.65.32.0/20 list=IL-Block

@@ -688,6 +688,7 @@ add address=85.119.40.0/21 list=IT-Block
 add address=85.119.176.0/21 list=IT-Block
 add address=85.136.192.0/22 list=IT-Block
 add address=85.155.104.0/22 list=IT-Block
+add address=85.155.156.0/22 list=IT-Block
 add address=85.158.240.0/21 list=IT-Block
 add address=85.159.115.0/24 list=IT-Block
 add address=85.159.118.0/24 list=IT-Block
