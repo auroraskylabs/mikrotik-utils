@@ -853,6 +853,7 @@ add address=213.111.128.0/20 list=LT-Block
 add address=213.159.32.0/19 list=LT-Block
 add address=213.164.96.0/19 list=LT-Block
 add address=213.173.32.0/22 list=LT-Block
+add address=213.177.187.0/24 list=LT-Block
 add address=213.183.32.0/20 list=LT-Block
 add address=213.183.48.0/22 list=LT-Block
 add address=213.183.52.0/23 list=LT-Block

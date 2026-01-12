@@ -4498,7 +4498,10 @@ add address=155.212.236.0/22 list=RU-Block
 add address=155.212.245.0/24 list=RU-Block
 add address=155.212.246.0/23 list=RU-Block
 add address=155.212.248.0/21 list=RU-Block
-add address=157.22.240.0/23 list=RU-Block
+add address=157.22.216.0/21 list=RU-Block
+add address=157.22.224.0/21 list=RU-Block
+add address=157.22.240.0/21 list=RU-Block
+add address=157.22.248.0/22 list=RU-Block
 add address=157.186.0.0/16 list=RU-Block
 add address=158.46.0.0/16 list=RU-Block
 add address=158.58.128.0/21 list=RU-Block
@@ -4523,6 +4526,7 @@ add address=164.177.176.0/21 list=RU-Block
 add address=164.215.48.0/21 list=RU-Block
 add address=164.215.64.0/19 list=RU-Block
 add address=168.222.176.0/22 list=RU-Block
+add address=168.222.192.0/20 list=RU-Block
 add address=171.22.72.0/22 list=RU-Block
 add address=171.22.180.0/22 list=RU-Block
 add address=171.22.212.0/22 list=RU-Block

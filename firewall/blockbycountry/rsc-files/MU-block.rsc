@@ -60,7 +60,6 @@ add address=105.16.0.0/12 list=MU-Block
 add address=105.235.144.0/20 list=MU-Block
 add address=152.108.0.0/16 list=MU-Block
 add address=154.65.8.0/22 list=MU-Block
-add address=154.66.228.0/22 list=MU-Block
 add address=154.66.240.0/21 list=MU-Block
 add address=154.71.0.0/19 list=MU-Block
 add address=154.72.240.0/20 list=MU-Block

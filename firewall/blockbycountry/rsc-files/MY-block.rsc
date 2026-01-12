@@ -578,6 +578,7 @@ add address=150.107.156.0/22 list=MY-Block
 add address=150.129.68.0/22 list=MY-Block
 add address=150.129.184.0/22 list=MY-Block
 add address=150.242.180.0/22 list=MY-Block
+add address=151.158.0.0/23 list=MY-Block
 add address=157.10.54.0/23 list=MY-Block
 add address=157.15.30.0/23 list=MY-Block
 add address=159.117.132.0/22 list=MY-Block

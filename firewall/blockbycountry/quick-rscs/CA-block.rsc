@@ -642,7 +642,6 @@ add address=64.239.7.0/24 list=CA-Block
 add address=64.239.8.0/21 list=CA-Block
 add address=64.239.18.0/24 list=CA-Block
 add address=64.239.22.0/24 list=CA-Block
-add address=64.239.28.0/23 list=CA-Block
 add address=64.239.30.0/24 list=CA-Block
 add address=64.239.36.0/24 list=CA-Block
 add address=64.239.38.0/23 list=CA-Block
@@ -1174,7 +1173,7 @@ add address=72.45.64.0/18 list=CA-Block
 add address=72.46.80.0/22 list=CA-Block
 add address=72.46.88.0/22 list=CA-Block
 add address=72.51.4.0/22 list=CA-Block
-add address=72.51.8.0/21 list=CA-Block
+add address=72.51.8.0/22 list=CA-Block
 add address=72.51.16.0/20 list=CA-Block
 add address=72.51.32.0/20 list=CA-Block
 add address=72.51.48.0/22 list=CA-Block
@@ -3791,7 +3790,6 @@ add address=198.235.1.0/24 list=CA-Block
 add address=198.235.2.0/23 list=CA-Block
 add address=198.235.4.0/22 list=CA-Block
 add address=198.235.8.0/21 list=CA-Block
-add address=198.235.16.0/22 list=CA-Block
 add address=198.235.25.0/24 list=CA-Block
 add address=198.235.26.0/24 list=CA-Block
 add address=198.235.28.0/23 list=CA-Block

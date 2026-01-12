@@ -274,7 +274,6 @@ add address=162.255.144.0/22 list=CY-Block
 add address=164.138.96.0/22 list=CY-Block
 add address=164.215.0.0/19 list=CY-Block
 add address=167.150.21.0/24 list=CY-Block
-add address=168.222.192.0/20 list=CY-Block
 add address=171.22.108.0/22 list=CY-Block
 add address=171.22.112.0/20 list=CY-Block
 add address=171.22.128.0/21 list=CY-Block

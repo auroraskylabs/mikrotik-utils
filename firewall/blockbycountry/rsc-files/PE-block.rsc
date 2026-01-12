@@ -20,7 +20,6 @@ add address=45.173.200.0/22 list=PE-Block
 add address=45.177.20.0/22 list=PE-Block
 add address=45.177.196.0/23 list=PE-Block
 add address=45.178.196.0/22 list=PE-Block
-add address=45.182.36.0/22 list=PE-Block
 add address=45.183.44.0/22 list=PE-Block
 add address=45.183.106.0/23 list=PE-Block
 add address=45.183.108.0/22 list=PE-Block

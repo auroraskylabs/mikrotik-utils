@@ -7,7 +7,6 @@ add address=45.238.28.0/22 list=NI-Block
 add address=131.255.16.0/24 list=NI-Block
 add address=138.97.160.0/22 list=NI-Block
 add address=138.117.4.0/22 list=NI-Block
-add address=138.185.28.0/22 list=NI-Block
 add address=138.185.104.0/22 list=NI-Block
 add address=143.137.24.0/22 list=NI-Block
 add address=143.202.252.0/22 list=NI-Block

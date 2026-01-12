@@ -33,3 +33,4 @@ add address=163.223.148.0/23 list=TL-Block
 add address=180.189.160.0/20 list=TL-Block
 add address=185.126.46.0/23 list=TL-Block
 add address=185.242.38.0/23 list=TL-Block
+add address=192.52.185.0/24 list=TL-Block

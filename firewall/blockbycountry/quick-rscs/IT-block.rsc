@@ -2351,6 +2351,7 @@ add address=185.236.104.0/22 list=IT-Block
 add address=185.238.148.0/22 list=IT-Block
 add address=185.238.156.0/22 list=IT-Block
 add address=185.239.96.0/22 list=IT-Block
+add address=185.239.174.0/24 list=IT-Block
 add address=185.240.12.0/22 list=IT-Block
 add address=185.240.68.0/22 list=IT-Block
 add address=185.241.11.0/24 list=IT-Block

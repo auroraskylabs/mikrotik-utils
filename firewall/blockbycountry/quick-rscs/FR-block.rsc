@@ -541,7 +541,10 @@ add address=78.155.128.0/19 list=FR-Block
 add address=78.159.0.0/19 list=FR-Block
 add address=78.159.132.0/22 list=FR-Block
 add address=78.159.148.0/24 list=FR-Block
-add address=78.192.0.0/10 list=FR-Block
+add address=78.192.0.0/11 list=FR-Block
+add address=78.231.0.0/16 list=FR-Block
+add address=78.232.0.0/13 list=FR-Block
+add address=78.240.0.0/12 list=FR-Block
 add address=79.80.0.0/12 list=FR-Block
 add address=79.98.16.0/21 list=FR-Block
 add address=79.98.56.0/21 list=FR-Block

@@ -1947,6 +1947,8 @@ add address=192.140.252.0/22 list=BD-Block
 add address=192.144.80.0/22 list=BD-Block
 add address=192.144.86.0/23 list=BD-Block
 add address=192.144.88.0/22 list=BD-Block
+add address=192.232.58.0/23 list=BD-Block
+add address=192.232.60.0/22 list=BD-Block
 add address=198.56.24.0/23 list=BD-Block
 add address=202.0.94.0/24 list=BD-Block
 add address=202.1.28.0/23 list=BD-Block

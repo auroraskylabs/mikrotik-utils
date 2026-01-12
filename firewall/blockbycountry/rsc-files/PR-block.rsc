@@ -22,6 +22,7 @@ add address=23.143.160.0/24 list=PR-Block
 add address=23.144.104.0/24 list=PR-Block
 add address=23.145.112.0/24 list=PR-Block
 add address=23.150.240.0/24 list=PR-Block
+add address=23.152.36.0/24 list=PR-Block
 add address=23.161.16.0/24 list=PR-Block
 add address=23.162.64.0/24 list=PR-Block
 add address=23.167.48.0/24 list=PR-Block

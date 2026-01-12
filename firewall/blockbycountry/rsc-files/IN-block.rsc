@@ -5920,6 +5920,7 @@ add address=160.22.131.0/24 list=IN-Block
 add address=160.22.132.0/23 list=IN-Block
 add address=160.22.146.0/23 list=IN-Block
 add address=160.22.153.0/24 list=IN-Block
+add address=160.22.166.0/23 list=IN-Block
 add address=160.22.186.0/24 list=IN-Block
 add address=160.22.226.0/23 list=IN-Block
 add address=160.22.232.0/23 list=IN-Block
@@ -6440,6 +6441,10 @@ add address=192.172.245.0/24 list=IN-Block
 add address=192.188.90.0/24 list=IN-Block
 add address=192.203.156.0/23 list=IN-Block
 add address=192.232.32.0/23 list=IN-Block
+add address=192.232.40.0/23 list=IN-Block
+add address=192.232.50.0/23 list=IN-Block
+add address=192.232.54.0/23 list=IN-Block
+add address=192.232.56.0/23 list=IN-Block
 add address=192.245.162.0/24 list=IN-Block
 add address=193.19.204.0/22 list=IN-Block
 add address=193.36.89.0/24 list=IN-Block

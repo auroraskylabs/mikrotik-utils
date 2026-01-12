@@ -508,6 +508,7 @@ add address=85.113.64.0/22 list=PL-Block
 add address=85.115.212.0/22 list=PL-Block
 add address=85.117.0.0/19 list=PL-Block
 add address=85.128.0.0/16 list=PL-Block
+add address=85.155.80.0/21 list=PL-Block
 add address=85.155.248.0/22 list=PL-Block
 add address=85.193.192.0/18 list=PL-Block
 add address=85.194.240.0/21 list=PL-Block

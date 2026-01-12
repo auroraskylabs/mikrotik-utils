@@ -1492,6 +1492,7 @@ add address=213.177.160.0/24 list=TR-Block
 add address=213.177.164.0/24 list=TR-Block
 add address=213.177.171.0/24 list=TR-Block
 add address=213.177.182.0/24 list=TR-Block
+add address=213.177.186.0/24 list=TR-Block
 add address=213.186.128.0/19 list=TR-Block
 add address=213.194.64.0/18 list=TR-Block
 add address=213.211.0.0/19 list=TR-Block

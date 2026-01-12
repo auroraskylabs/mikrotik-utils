@@ -424,11 +424,9 @@ add address=156.0.200.0/22 list=SC-Block
 add address=156.224.0.0/11 list=SC-Block
 add address=157.22.0.0/17 list=SC-Block
 add address=157.22.128.0/18 list=SC-Block
-add address=157.22.192.0/19 list=SC-Block
-add address=157.22.224.0/21 list=SC-Block
-add address=157.22.242.0/23 list=SC-Block
-add address=157.22.244.0/22 list=SC-Block
-add address=157.22.248.0/21 list=SC-Block
+add address=157.22.192.0/20 list=SC-Block
+add address=157.22.208.0/21 list=SC-Block
+add address=157.22.252.0/22 list=SC-Block
 add address=158.222.0.0/20 list=SC-Block
 add address=160.119.64.0/20 list=SC-Block
 add address=160.119.88.0/21 list=SC-Block

@@ -607,9 +607,12 @@ add address=180.149.208.0/20 list=PK-Block
 add address=180.178.128.0/18 list=PK-Block
 add address=182.176.0.0/12 list=PK-Block
 add address=182.255.48.0/22 list=PK-Block
+add address=192.58.97.0/24 list=PK-Block
 add address=192.135.90.0/23 list=PK-Block
 add address=192.140.144.0/21 list=PK-Block
 add address=192.188.86.0/23 list=PK-Block
+add address=192.232.42.0/23 list=PK-Block
+add address=192.232.52.0/23 list=PK-Block
 add address=196.3.72.0/24 list=PK-Block
 add address=202.0.110.0/24 list=PK-Block
 add address=202.1.26.0/23 list=PK-Block

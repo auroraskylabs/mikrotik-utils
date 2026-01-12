@@ -18,7 +18,6 @@ add address=103.71.57.0/24 list=MV-Block
 add address=103.76.2.0/24 list=MV-Block
 add address=103.84.132.0/24 list=MV-Block
 add address=103.84.134.0/24 list=MV-Block
-add address=103.87.188.0/24 list=MV-Block
 add address=103.103.66.0/24 list=MV-Block
 add address=103.110.40.0/24 list=MV-Block
 add address=103.110.109.0/24 list=MV-Block
