@@ -957,7 +957,7 @@ add address=148.7.0.0/16 list=SG-Block
 add address=148.66.128.0/19 list=SG-Block
 add address=148.145.128.0/17 list=SG-Block
 add address=148.222.64.0/20 list=SG-Block
-add address=148.222.80.0/21 list=SG-Block
+add address=148.222.84.0/22 list=SG-Block
 add address=148.222.92.0/24 list=SG-Block
 add address=148.222.160.0/20 list=SG-Block
 add address=149.129.0.0/16 list=SG-Block

@@ -906,7 +906,6 @@ add address=178.249.144.0/21 list=SE-Block
 add address=178.251.128.0/21 list=SE-Block
 add address=178.251.240.0/21 list=SE-Block
 add address=178.255.112.0/22 list=SE-Block
-add address=185.1.79.0/24 list=SE-Block
 add address=185.1.82.0/24 list=SE-Block
 add address=185.1.88.0/24 list=SE-Block
 add address=185.1.107.0/24 list=SE-Block

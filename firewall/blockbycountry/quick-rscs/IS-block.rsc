@@ -25,6 +25,7 @@ add address=82.148.64.0/19 list=IS-Block
 add address=82.221.0.0/16 list=IS-Block
 add address=83.173.0.0/18 list=IS-Block
 add address=85.116.64.0/19 list=IS-Block
+add address=85.137.128.0/19 list=IS-Block
 add address=85.197.192.0/18 list=IS-Block
 add address=85.220.0.0/17 list=IS-Block
 add address=87.121.23.0/24 list=IS-Block

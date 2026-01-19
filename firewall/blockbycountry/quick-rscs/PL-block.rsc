@@ -312,6 +312,7 @@ add address=64.39.228.0/24 list=PL-Block
 add address=64.190.43.0/24 list=PL-Block
 add address=64.190.141.0/24 list=PL-Block
 add address=64.225.128.0/20 list=PL-Block
+add address=69.46.41.0/24 list=PL-Block
 add address=74.63.0.0/20 list=PL-Block
 add address=77.32.240.0/20 list=PL-Block
 add address=77.45.0.0/17 list=PL-Block

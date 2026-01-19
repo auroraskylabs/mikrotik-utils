@@ -9,6 +9,7 @@ add address=67.211.240.0/20 list=VI-Block
 add address=98.142.160.0/20 list=VI-Block
 add address=104.192.184.0/21 list=VI-Block
 add address=130.12.44.0/22 list=VI-Block
+add address=131.143.68.0/22 list=VI-Block
 add address=132.147.224.0/20 list=VI-Block
 add address=136.143.195.0/24 list=VI-Block
 add address=142.147.102.0/23 list=VI-Block

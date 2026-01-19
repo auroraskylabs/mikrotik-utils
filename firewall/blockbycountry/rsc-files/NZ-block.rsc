@@ -644,6 +644,7 @@ add address=150.107.160.0/22 list=NZ-Block
 add address=150.107.172.0/22 list=NZ-Block
 add address=150.242.40.0/22 list=NZ-Block
 add address=150.242.128.0/22 list=NZ-Block
+add address=151.158.12.0/23 list=NZ-Block
 add address=151.210.128.0/17 list=NZ-Block
 add address=152.153.0.0/16 list=NZ-Block
 add address=153.111.0.0/16 list=NZ-Block

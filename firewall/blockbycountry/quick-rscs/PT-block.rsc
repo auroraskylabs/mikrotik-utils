@@ -107,7 +107,6 @@ add address=95.92.0.0/14 list=PT-Block
 add address=95.136.0.0/17 list=PT-Block
 add address=95.172.160.0/19 list=PT-Block
 add address=103.117.124.0/22 list=PT-Block
-add address=103.156.50.0/23 list=PT-Block
 add address=103.243.124.0/22 list=PT-Block
 add address=104.244.8.0/22 list=PT-Block
 add address=109.48.0.0/14 list=PT-Block

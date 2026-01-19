@@ -51,6 +51,7 @@ add address=178.217.168.0/21 list=KG-Block
 add address=178.219.159.0/24 list=KG-Block
 add address=185.1.110.0/24 list=KG-Block
 add address=185.1.151.0/24 list=KG-Block
+add address=185.5.74.0/23 list=KG-Block
 add address=185.9.24.0/22 list=KG-Block
 add address=185.20.120.0/22 list=KG-Block
 add address=185.28.172.0/22 list=KG-Block

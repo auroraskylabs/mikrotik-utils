@@ -221,6 +221,7 @@ add address=85.113.72.0/21 list=NO-Block
 add address=85.113.160.0/19 list=NO-Block
 add address=85.119.136.0/21 list=NO-Block
 add address=85.136.80.0/23 list=NO-Block
+add address=85.137.228.0/22 list=NO-Block
 add address=85.158.80.0/21 list=NO-Block
 add address=85.164.0.0/14 list=NO-Block
 add address=85.196.64.0/18 list=NO-Block
@@ -1041,6 +1042,7 @@ add address=194.19.0.0/17 list=NO-Block
 add address=194.24.252.0/23 list=NO-Block
 add address=194.29.200.0/22 list=NO-Block
 add address=194.31.39.0/24 list=NO-Block
+add address=194.31.222.0/24 list=NO-Block
 add address=194.32.107.0/24 list=NO-Block
 add address=194.33.30.0/24 list=NO-Block
 add address=194.35.64.0/21 list=NO-Block

@@ -629,6 +629,7 @@ add address=82.149.32.0/19 list=IT-Block
 add address=82.163.32.0/22 list=IT-Block
 add address=82.180.32.0/19 list=IT-Block
 add address=82.184.0.0/13 list=IT-Block
+add address=82.192.112.0/20 list=IT-Block
 add address=82.192.128.0/19 list=IT-Block
 add address=82.193.0.0/18 list=IT-Block
 add address=82.213.64.0/18 list=IT-Block
