@@ -52,6 +52,7 @@ add address=5.189.222.0/24 list=LU-Block
 add address=5.252.24.0/22 list=LU-Block
 add address=31.13.213.0/24 list=LU-Block
 add address=31.22.120.0/21 list=LU-Block
+add address=31.171.215.0/24 list=LU-Block
 add address=31.172.144.0/21 list=LU-Block
 add address=31.184.206.0/23 list=LU-Block
 add address=31.184.244.0/22 list=LU-Block

@@ -141,6 +141,7 @@ add address=190.52.112.0/20 list=PE-Block
 add address=190.81.0.0/16 list=PE-Block
 add address=190.83.60.0/23 list=PE-Block
 add address=190.89.28.0/24 list=PE-Block
+add address=190.93.224.0/22 list=PE-Block
 add address=190.102.128.0/19 list=PE-Block
 add address=190.105.240.0/20 list=PE-Block
 add address=190.107.180.0/22 list=PE-Block

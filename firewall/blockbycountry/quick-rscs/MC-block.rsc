@@ -17,6 +17,7 @@ add address=185.162.120.0/22 list=MC-Block
 add address=185.193.108.0/22 list=MC-Block
 add address=185.243.3.0/24 list=MC-Block
 add address=185.250.4.0/22 list=MC-Block
+add address=188.119.153.0/24 list=MC-Block
 add address=188.191.136.0/21 list=MC-Block
 add address=193.34.228.0/23 list=MC-Block
 add address=193.35.2.0/23 list=MC-Block

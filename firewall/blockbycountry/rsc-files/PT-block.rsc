@@ -151,6 +151,7 @@ add address=185.32.188.0/22 list=PT-Block
 add address=185.36.101.0/24 list=PT-Block
 add address=185.37.208.0/22 list=PT-Block
 add address=185.38.140.0/22 list=PT-Block
+add address=185.38.173.0/24 list=PT-Block
 add address=185.39.208.0/22 list=PT-Block
 add address=185.41.116.0/22 list=PT-Block
 add address=185.42.162.0/24 list=PT-Block

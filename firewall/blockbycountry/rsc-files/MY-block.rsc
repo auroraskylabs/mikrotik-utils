@@ -663,6 +663,7 @@ add address=202.56.80.0/20 list=MY-Block
 add address=202.58.80.0/20 list=MY-Block
 add address=202.59.8.0/22 list=MY-Block
 add address=202.60.56.0/22 list=MY-Block
+add address=202.61.72.0/22 list=MY-Block
 add address=202.71.96.0/20 list=MY-Block
 add address=202.73.8.0/21 list=MY-Block
 add address=202.75.4.0/22 list=MY-Block

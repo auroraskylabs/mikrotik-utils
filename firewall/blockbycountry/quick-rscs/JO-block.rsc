@@ -82,6 +82,7 @@ add address=185.40.19.0/24 list=JO-Block
 add address=185.43.146.0/24 list=JO-Block
 add address=185.51.212.0/22 list=JO-Block
 add address=185.57.120.0/22 list=JO-Block
+add address=185.68.54.0/24 list=JO-Block
 add address=185.80.24.0/22 list=JO-Block
 add address=185.80.104.0/22 list=JO-Block
 add address=185.98.220.0/22 list=JO-Block

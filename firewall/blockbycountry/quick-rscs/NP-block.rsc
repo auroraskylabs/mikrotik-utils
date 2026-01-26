@@ -34,7 +34,6 @@ add address=103.13.194.0/23 list=NP-Block
 add address=103.16.208.0/23 list=NP-Block
 add address=103.28.84.0/22 list=NP-Block
 add address=103.29.114.0/24 list=NP-Block
-add address=103.37.186.0/23 list=NP-Block
 add address=103.38.196.0/22 list=NP-Block
 add address=103.38.248.0/23 list=NP-Block
 add address=103.41.172.0/22 list=NP-Block

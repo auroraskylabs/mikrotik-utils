@@ -239,6 +239,7 @@ add address=81.24.16.0/20 list=RO-Block
 add address=81.26.156.0/24 list=RO-Block
 add address=81.26.158.0/23 list=RO-Block
 add address=81.89.0.0/19 list=RO-Block
+add address=81.92.200.0/21 list=RO-Block
 add address=81.161.0.0/20 list=RO-Block
 add address=81.161.48.0/21 list=RO-Block
 add address=81.161.59.0/24 list=RO-Block

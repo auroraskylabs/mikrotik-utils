@@ -502,7 +502,6 @@ add address=195.149.91.0/24 list=SA-Block
 add address=195.170.180.0/24 list=SA-Block
 add address=195.182.31.0/24 list=SA-Block
 add address=195.189.212.0/23 list=SA-Block
-add address=195.191.6.0/23 list=SA-Block
 add address=195.242.188.0/24 list=SA-Block
 add address=195.242.196.0/22 list=SA-Block
 add address=195.246.104.0/23 list=SA-Block
@@ -535,6 +534,7 @@ add address=212.26.0.0/17 list=SA-Block
 add address=212.33.160.0/19 list=SA-Block
 add address=212.38.128.0/19 list=SA-Block
 add address=212.46.63.0/24 list=SA-Block
+add address=212.47.47.0/24 list=SA-Block
 add address=212.57.192.0/19 list=SA-Block
 add address=212.62.96.0/19 list=SA-Block
 add address=212.70.32.0/19 list=SA-Block

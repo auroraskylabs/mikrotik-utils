@@ -1527,7 +1527,6 @@ add address=193.180.0.0/14 list=SE-Block
 add address=193.187.88.0/22 list=SE-Block
 add address=193.188.4.0/23 list=SE-Block
 add address=193.188.6.0/24 list=SE-Block
-add address=193.188.134.120/29 list=SE-Block
 add address=193.188.156.0/23 list=SE-Block
 add address=193.188.201.0/24 list=SE-Block
 add address=193.188.202.0/23 list=SE-Block

@@ -168,7 +168,6 @@ add address=45.179.54.0/23 list=AR-Block
 add address=45.179.60.0/24 list=AR-Block
 add address=45.179.72.0/22 list=AR-Block
 add address=45.179.92.0/22 list=AR-Block
-add address=45.179.254.0/23 list=AR-Block
 add address=45.180.60.0/22 list=AR-Block
 add address=45.180.76.0/22 list=AR-Block
 add address=45.180.176.0/23 list=AR-Block

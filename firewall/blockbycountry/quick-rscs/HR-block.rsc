@@ -4,6 +4,7 @@ add address=5.39.128.0/19 list=HR-Block
 add address=5.43.160.0/19 list=HR-Block
 add address=31.45.128.0/17 list=HR-Block
 add address=31.147.0.0/16 list=HR-Block
+add address=31.171.211.0/24 list=HR-Block
 add address=31.216.192.0/19 list=HR-Block
 add address=31.217.0.0/17 list=HR-Block
 add address=36.255.92.0/22 list=HR-Block

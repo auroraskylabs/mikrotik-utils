@@ -536,6 +536,7 @@ add address=185.120.136.0/22 list=LT-Block
 add address=185.122.140.0/22 list=LT-Block
 add address=185.124.241.0/24 list=LT-Block
 add address=185.127.0.0/22 list=LT-Block
+add address=185.127.41.0/24 list=LT-Block
 add address=185.130.89.0/24 list=LT-Block
 add address=185.131.64.0/22 list=LT-Block
 add address=185.135.84.0/22 list=LT-Block

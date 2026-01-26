@@ -48,6 +48,7 @@ add address=5.179.192.0/21 list=FR-Block
 add address=5.180.56.0/22 list=FR-Block
 add address=5.181.53.0/24 list=FR-Block
 add address=5.181.172.0/22 list=FR-Block
+add address=5.182.60.0/24 list=FR-Block
 add address=5.182.136.0/22 list=FR-Block
 add address=5.182.144.0/22 list=FR-Block
 add address=5.182.156.0/22 list=FR-Block
@@ -492,6 +493,7 @@ add address=77.32.192.0/19 list=FR-Block
 add address=77.72.40.0/21 list=FR-Block
 add address=77.72.88.0/21 list=FR-Block
 add address=77.73.34.0/23 list=FR-Block
+add address=77.73.116.0/24 list=FR-Block
 add address=77.74.152.0/21 list=FR-Block
 add address=77.74.208.0/21 list=FR-Block
 add address=77.74.240.0/21 list=FR-Block
@@ -759,6 +761,7 @@ add address=87.100.0.0/17 list=FR-Block
 add address=87.121.88.0/24 list=FR-Block
 add address=87.121.136.0/21 list=FR-Block
 add address=87.121.208.0/21 list=FR-Block
+add address=87.192.192.0/21 list=FR-Block
 add address=87.231.0.0/16 list=FR-Block
 add address=87.236.34.0/23 list=FR-Block
 add address=87.236.72.0/21 list=FR-Block
@@ -1254,6 +1257,8 @@ add address=95.140.0.0/20 list=FR-Block
 add address=95.141.96.0/19 list=FR-Block
 add address=95.142.160.0/20 list=FR-Block
 add address=95.143.64.0/20 list=FR-Block
+add address=95.143.96.0/24 list=FR-Block
+add address=95.143.102.0/24 list=FR-Block
 add address=95.157.128.0/17 list=FR-Block
 add address=95.168.0.0/19 list=FR-Block
 add address=95.170.0.0/18 list=FR-Block
@@ -2093,6 +2098,7 @@ add address=185.102.176.0/22 list=FR-Block
 add address=185.103.64.0/22 list=FR-Block
 add address=185.103.118.0/24 list=FR-Block
 add address=185.103.140.0/22 list=FR-Block
+add address=185.104.0.0/24 list=FR-Block
 add address=185.104.76.0/22 list=FR-Block
 add address=185.104.172.0/22 list=FR-Block
 add address=185.105.28.0/22 list=FR-Block
@@ -2165,6 +2171,7 @@ add address=185.124.200.0/22 list=FR-Block
 add address=185.124.216.0/22 list=FR-Block
 add address=185.124.236.0/22 list=FR-Block
 add address=185.125.52.0/22 list=FR-Block
+add address=185.125.141.0/24 list=FR-Block
 add address=185.126.33.0/24 list=FR-Block
 add address=185.126.228.0/22 list=FR-Block
 add address=185.126.244.0/22 list=FR-Block
@@ -2517,6 +2524,7 @@ add address=185.212.7.0/24 list=FR-Block
 add address=185.212.20.0/22 list=FR-Block
 add address=185.212.72.0/22 list=FR-Block
 add address=185.212.96.0/22 list=FR-Block
+add address=185.212.114.0/24 list=FR-Block
 add address=185.212.224.0/22 list=FR-Block
 add address=185.213.72.0/22 list=FR-Block
 add address=185.213.160.0/22 list=FR-Block

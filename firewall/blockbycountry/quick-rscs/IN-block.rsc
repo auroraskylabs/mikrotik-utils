@@ -5798,6 +5798,10 @@ add address=151.158.18.0/23 list=IN-Block
 add address=151.158.24.0/23 list=IN-Block
 add address=151.158.28.0/23 list=IN-Block
 add address=151.158.32.0/22 list=IN-Block
+add address=151.158.52.0/23 list=IN-Block
+add address=151.158.58.0/23 list=IN-Block
+add address=151.158.60.0/23 list=IN-Block
+add address=151.158.66.0/23 list=IN-Block
 add address=151.185.32.0/19 list=IN-Block
 add address=152.52.0.0/16 list=IN-Block
 add address=152.56.0.0/14 list=IN-Block

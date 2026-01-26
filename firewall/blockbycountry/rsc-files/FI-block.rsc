@@ -849,6 +849,7 @@ add address=194.89.0.0/16 list=FI-Block
 add address=194.93.72.0/24 list=FI-Block
 add address=194.99.33.0/24 list=FI-Block
 add address=194.100.0.0/16 list=FI-Block
+add address=194.107.113.0/24 list=FI-Block
 add address=194.110.23.0/24 list=FI-Block
 add address=194.110.31.0/24 list=FI-Block
 add address=194.110.32.0/20 list=FI-Block

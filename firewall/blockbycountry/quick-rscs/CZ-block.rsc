@@ -578,6 +578,7 @@ add address=95.85.192.0/18 list=CZ-Block
 add address=95.129.96.0/21 list=CZ-Block
 add address=95.129.240.0/21 list=CZ-Block
 add address=95.140.240.0/20 list=CZ-Block
+add address=95.143.109.0/24 list=CZ-Block
 add address=95.143.128.0/20 list=CZ-Block
 add address=95.168.192.0/19 list=CZ-Block
 add address=95.173.64.0/19 list=CZ-Block
