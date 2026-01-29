@@ -1,7 +1,3 @@
-
-
-
-Markdown Output
 # MikroTik Tools and Utilities
 
 <br>
