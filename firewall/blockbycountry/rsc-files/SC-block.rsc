@@ -754,7 +754,6 @@ add address=197.234.0.0/20 list=SC-Block
 add address=197.234.240.0/22 list=SC-Block
 add address=199.26.96.0/21 list=SC-Block
 add address=202.50.166.0/24 list=SC-Block
-add address=202.128.108.0/23 list=SC-Block
 add address=205.201.0.0/20 list=SC-Block
 add address=208.87.166.0/23 list=SC-Block
 add address=209.35.158.0/24 list=SC-Block

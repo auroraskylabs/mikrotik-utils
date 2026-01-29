@@ -327,6 +327,7 @@ add address=149.134.0.0/16 list=BE-Block
 add address=149.154.192.0/18 list=BE-Block
 add address=150.251.0.0/16 list=BE-Block
 add address=151.216.128.0/17 list=BE-Block
+add address=152.55.156.0/22 list=BE-Block
 add address=152.152.0.0/16 list=BE-Block
 add address=153.89.0.0/16 list=BE-Block
 add address=153.98.0.0/16 list=BE-Block

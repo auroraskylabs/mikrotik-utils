@@ -1056,11 +1056,13 @@ add address=194.54.96.0/19 list=NO-Block
 add address=194.60.75.0/24 list=NO-Block
 add address=194.61.95.0/24 list=NO-Block
 add address=194.62.100.0/23 list=NO-Block
+add address=194.62.163.0/24 list=NO-Block
 add address=194.62.204.0/22 list=NO-Block
 add address=194.62.208.0/22 list=NO-Block
 add address=194.62.212.0/23 list=NO-Block
 add address=194.63.248.0/21 list=NO-Block
 add address=194.69.208.0/20 list=NO-Block
+add address=194.76.185.0/24 list=NO-Block
 add address=194.76.246.0/24 list=NO-Block
 add address=194.88.144.0/23 list=NO-Block
 add address=194.99.40.0/22 list=NO-Block

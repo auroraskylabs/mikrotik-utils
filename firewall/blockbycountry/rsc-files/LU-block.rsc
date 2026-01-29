@@ -419,6 +419,7 @@ add address=185.244.208.0/22 list=LU-Block
 add address=185.244.227.0/24 list=LU-Block
 add address=185.249.132.0/22 list=LU-Block
 add address=185.250.16.0/22 list=LU-Block
+add address=185.251.17.0/24 list=LU-Block
 add address=185.254.20.0/22 list=LU-Block
 add address=188.42.0.0/16 list=LU-Block
 add address=188.93.168.0/21 list=LU-Block

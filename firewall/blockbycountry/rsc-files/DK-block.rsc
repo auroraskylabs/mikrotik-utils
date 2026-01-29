@@ -563,6 +563,7 @@ add address=185.101.140.0/22 list=DK-Block
 add address=185.101.152.0/22 list=DK-Block
 add address=185.103.120.0/22 list=DK-Block
 add address=185.105.180.0/22 list=DK-Block
+add address=185.106.119.0/24 list=DK-Block
 add address=185.107.12.0/22 list=DK-Block
 add address=185.107.168.0/22 list=DK-Block
 add address=185.107.176.0/22 list=DK-Block

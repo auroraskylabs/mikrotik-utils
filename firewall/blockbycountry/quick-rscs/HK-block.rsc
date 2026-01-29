@@ -2529,6 +2529,7 @@ add address=202.130.214.0/24 list=HK-Block
 add address=202.131.32.0/20 list=HK-Block
 add address=202.131.64.0/20 list=HK-Block
 add address=202.133.8.0/21 list=HK-Block
+add address=202.134.60.0/22 list=HK-Block
 add address=202.134.64.0/18 list=HK-Block
 add address=202.140.64.0/18 list=HK-Block
 add address=202.140.224.0/19 list=HK-Block

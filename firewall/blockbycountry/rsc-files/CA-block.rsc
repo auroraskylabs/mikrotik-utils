@@ -1754,6 +1754,7 @@ add address=135.84.16.0/20 list=CA-Block
 add address=135.84.104.0/22 list=CA-Block
 add address=135.84.136.0/22 list=CA-Block
 add address=135.84.176.0/20 list=CA-Block
+add address=135.136.192.0/18 list=CA-Block
 add address=136.143.140.0/22 list=CA-Block
 add address=136.143.208.0/20 list=CA-Block
 add address=136.159.0.0/16 list=CA-Block

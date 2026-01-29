@@ -103,6 +103,7 @@ add address=94.103.176.0/24 list=HR-Block
 add address=94.250.128.0/18 list=HR-Block
 add address=94.253.128.0/17 list=HR-Block
 add address=95.128.232.0/21 list=HR-Block
+add address=95.141.246.0/24 list=HR-Block
 add address=95.168.96.0/19 list=HR-Block
 add address=95.178.128.0/17 list=HR-Block
 add address=109.60.0.0/17 list=HR-Block

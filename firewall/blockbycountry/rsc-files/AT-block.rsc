@@ -920,6 +920,7 @@ add address=185.151.20.0/22 list=AT-Block
 add address=185.154.40.0/22 list=AT-Block
 add address=185.154.80.0/22 list=AT-Block
 add address=185.154.232.0/22 list=AT-Block
+add address=185.155.117.0/24 list=AT-Block
 add address=185.155.124.0/22 list=AT-Block
 add address=185.156.144.0/22 list=AT-Block
 add address=185.157.123.0/24 list=AT-Block
@@ -1798,6 +1799,7 @@ add address=212.88.160.0/19 list=AT-Block
 add address=212.89.160.0/19 list=AT-Block
 add address=212.95.0.0/19 list=AT-Block
 add address=212.102.112.0/24 list=AT-Block
+add address=212.104.133.0/24 list=AT-Block
 add address=212.104.211.0/24 list=AT-Block
 add address=212.108.32.0/19 list=AT-Block
 add address=212.124.128.0/19 list=AT-Block

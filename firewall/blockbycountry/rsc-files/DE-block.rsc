@@ -1,5 +1,6 @@
 /ip firewall address-list remove [find list="DE-Block"]
 /ip firewall address-list
+add address=2.56.11.0/24 list=DE-Block
 add address=2.56.20.0/22 list=DE-Block
 add address=2.56.72.0/21 list=DE-Block
 add address=2.56.96.0/22 list=DE-Block
@@ -1033,6 +1034,7 @@ add address=62.8.32.0/19 list=DE-Block
 add address=62.8.128.0/17 list=DE-Block
 add address=62.24.0.0/19 list=DE-Block
 add address=62.26.0.0/15 list=DE-Block
+add address=62.32.40.0/21 list=DE-Block
 add address=62.40.0.0/19 list=DE-Block
 add address=62.48.64.0/19 list=DE-Block
 add address=62.50.96.0/19 list=DE-Block
@@ -1224,7 +1226,6 @@ add address=78.109.56.0/21 list=DE-Block
 add address=78.110.224.0/20 list=DE-Block
 add address=78.111.64.0/20 list=DE-Block
 add address=78.111.96.0/24 list=DE-Block
-add address=78.111.176.0/20 list=DE-Block
 add address=78.137.96.0/21 list=DE-Block
 add address=78.138.9.0/24 list=DE-Block
 add address=78.138.61.0/24 list=DE-Block
@@ -2634,6 +2635,7 @@ add address=104.167.24.0/22 list=DE-Block
 add address=104.204.244.0/22 list=DE-Block
 add address=104.207.32.0/19 list=DE-Block
 add address=104.244.168.0/21 list=DE-Block
+add address=107.150.174.0/24 list=DE-Block
 add address=108.179.64.0/18 list=DE-Block
 add address=109.40.0.0/13 list=DE-Block
 add address=109.68.32.0/21 list=DE-Block
@@ -5978,6 +5980,7 @@ add address=193.46.250.0/23 list=DE-Block
 add address=193.47.73.0/24 list=DE-Block
 add address=193.47.77.0/24 list=DE-Block
 add address=193.47.82.0/24 list=DE-Block
+add address=193.47.84.0/24 list=DE-Block
 add address=193.47.99.0/24 list=DE-Block
 add address=193.47.100.0/24 list=DE-Block
 add address=193.47.149.0/24 list=DE-Block
@@ -7091,6 +7094,7 @@ add address=194.104.108.0/22 list=DE-Block
 add address=194.104.114.0/23 list=DE-Block
 add address=194.104.121.0/24 list=DE-Block
 add address=194.104.130.0/24 list=DE-Block
+add address=194.104.134.0/24 list=DE-Block
 add address=194.104.144.0/22 list=DE-Block
 add address=194.104.148.0/23 list=DE-Block
 add address=194.104.152.0/22 list=DE-Block
@@ -8372,8 +8376,10 @@ add address=213.232.64.0/22 list=DE-Block
 add address=213.232.84.0/22 list=DE-Block
 add address=213.232.100.0/22 list=DE-Block
 add address=213.232.112.0/22 list=DE-Block
+add address=213.232.193.0/24 list=DE-Block
 add address=213.232.238.0/23 list=DE-Block
 add address=213.238.32.0/19 list=DE-Block
+add address=213.239.140.0/22 list=DE-Block
 add address=213.239.192.0/18 list=DE-Block
 add address=213.240.128.0/18 list=DE-Block
 add address=213.241.128.0/18 list=DE-Block
