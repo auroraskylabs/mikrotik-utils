@@ -2,3 +2,8 @@ firewall/blockbycountry/generate.py
 firewall/blockbycountry/archive.py
 firewall/blockbycountry/quick-gen.py
 firewall/blockbycountry/weekly.sh
+firewall/blockbycountry/root-dns/build-root-ips.sh
+firewall/blockbycountry/root-dns/gen_root_rsc.sh
+firewall/blockbycountry/root-dns/build_root_list.log
+firewall/blockbycountry/root-dns/build_root_errors.log
+firewall/blockbycountry/root-dns/dns_infra_allow_v4.txt
