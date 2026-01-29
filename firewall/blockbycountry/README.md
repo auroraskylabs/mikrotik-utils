@@ -42,3 +42,16 @@ Quick RSCs:
 <br>
 
 You can add this to a script in System >> Scripts >> Add, then set it to run every week to update the address lists automatically.
+
+
+### ROOT DNS Nameserver Addition
+
+<br>
+
+In time I found that I was encountering issues with certain TLDs — namely, I was unable to access DNS for them. This was because the TLS Root nameservers are scattered throughout the globe and blocking certain countries would also block access to the TLD Root Nameservers.
+
+<br>
+
+I have added ROOT DNS to the blockbycountry scripts which creates a new address list and accept rule for all global TLD Root Nameservers.
+
+<br> If you are running your own nameserver, you are going to want to make sure to utilize this whitelist.
