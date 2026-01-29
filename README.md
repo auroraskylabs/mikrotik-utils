@@ -47,3 +47,17 @@ Quick RSCs:
 <br>
 
 You can add this to a script in System >> Scripts >> Add, then set it to run every week to update the address lists automatically.
+
+<br>
+
+#### Root DNS Server Whitelist
+
+<br>
+
+If you run your own DNS server, you will want to add the whitelist for Root DNS servers. This is also updated weekly.
+
+<br>
+
+<pre>/tool fetch url="https://raw.githubusercontent.com/auroraskylabs/mikrotik-utils/refs/heads/main/firewall/blockbycountry/root-dns/Root-DNS.rsc" mode=https 
+/import file-name="Root-DNS.rsc"
+</pre>
