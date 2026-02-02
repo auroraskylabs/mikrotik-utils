@@ -1937,6 +1937,7 @@ add address=193.193.128.0/19 list=CH-Block
 add address=193.194.138.0/23 list=CH-Block
 add address=193.200.5.0/24 list=CH-Block
 add address=193.200.79.0/24 list=CH-Block
+add address=193.200.115.0/24 list=CH-Block
 add address=193.200.144.0/24 list=CH-Block
 add address=193.200.157.0/24 list=CH-Block
 add address=193.200.181.0/24 list=CH-Block

@@ -620,6 +620,7 @@ add address=192.188.86.0/23 list=PK-Block
 add address=192.232.42.0/23 list=PK-Block
 add address=192.232.52.0/23 list=PK-Block
 add address=196.3.72.0/24 list=PK-Block
+add address=198.15.21.0/24 list=PK-Block
 add address=202.0.110.0/24 list=PK-Block
 add address=202.1.26.0/23 list=PK-Block
 add address=202.3.130.0/23 list=PK-Block

@@ -6157,7 +6157,8 @@ add address=216.183.128.0/19 list=CA-Block
 add address=216.185.64.0/19 list=CA-Block
 add address=216.185.240.0/20 list=CA-Block
 add address=216.187.64.0/18 list=CA-Block
-add address=216.194.64.0/20 list=CA-Block
+add address=216.194.64.0/21 list=CA-Block
+add address=216.194.76.0/22 list=CA-Block
 add address=216.197.88.0/22 list=CA-Block
 add address=216.197.92.0/23 list=CA-Block
 add address=216.197.128.0/17 list=CA-Block

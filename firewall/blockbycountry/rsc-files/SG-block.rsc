@@ -56,6 +56,7 @@ add address=42.60.0.0/15 list=SG-Block
 add address=42.201.128.0/17 list=SG-Block
 add address=43.0.0.0/9 list=SG-Block
 add address=43.128.0.0/13 list=SG-Block
+add address=43.146.0.0/15 list=SG-Block
 add address=43.152.0.0/13 list=SG-Block
 add address=43.160.0.0/12 list=SG-Block
 add address=43.224.152.0/22 list=SG-Block
@@ -929,6 +930,7 @@ add address=138.252.148.0/23 list=SG-Block
 add address=138.252.224.0/23 list=SG-Block
 add address=138.252.240.0/23 list=SG-Block
 add address=139.59.0.0/16 list=SG-Block
+add address=142.70.0.0/16 list=SG-Block
 add address=142.79.192.0/19 list=SG-Block
 add address=142.91.96.0/21 list=SG-Block
 add address=143.92.32.0/19 list=SG-Block
@@ -975,6 +977,7 @@ add address=150.107.168.0/22 list=SG-Block
 add address=150.109.0.0/16 list=SG-Block
 add address=151.146.0.0/16 list=SG-Block
 add address=151.153.0.0/16 list=SG-Block
+add address=151.158.96.0/23 list=SG-Block
 add address=151.192.0.0/16 list=SG-Block
 add address=152.102.0.0/16 list=SG-Block
 add address=152.226.0.0/16 list=SG-Block

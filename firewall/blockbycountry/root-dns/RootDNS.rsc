@@ -130,6 +130,7 @@ add address=125.208.44.1 list=RootDNS
 add address=125.208.49.10 list=RootDNS
 add address=128.10.2.5 list=RootDNS
 add address=128.139.34.240 list=RootDNS
+add address=128.139.35.5 list=RootDNS
 add address=128.199.117.237 list=RootDNS
 add address=128.199.180.188 list=RootDNS
 add address=128.223.32.35 list=RootDNS
@@ -1920,7 +1921,6 @@ add address=200.107.82.100 list=RootDNS
 add address=200.107.82.219 list=RootDNS
 add address=200.108.148.50 list=RootDNS
 add address=200.119.166.36 list=RootDNS
-add address=200.12.199.1 list=RootDNS
 add address=200.16.112.16 list=RootDNS
 add address=200.160.0.5 list=RootDNS
 add address=200.189.41.10 list=RootDNS
@@ -1967,6 +1967,7 @@ add address=202.3.225.20 list=RootDNS
 add address=202.30.124.100 list=RootDNS
 add address=202.31.190.1 list=RootDNS
 add address=202.45.188.39 list=RootDNS
+add address=202.46.187.130 list=RootDNS
 add address=202.46.188.130 list=RootDNS
 add address=202.46.189.130 list=RootDNS
 add address=202.46.190.130 list=RootDNS
@@ -2602,6 +2603,7 @@ add address=41.228.62.63 list=RootDNS
 add address=41.228.63.62 list=RootDNS
 add address=41.77.190.237 list=RootDNS
 add address=41.77.232.4 list=RootDNS
+add address=41.85.191.2 list=RootDNS
 add address=41.86.56.214 list=RootDNS
 add address=41.87.2.154 list=RootDNS
 add address=41.87.5.162 list=RootDNS
@@ -2692,6 +2694,8 @@ add address=45.126.57.57 list=RootDNS
 add address=45.142.220.101 list=RootDNS
 add address=45.142.220.65 list=RootDNS
 add address=45.142.220.81 list=RootDNS
+add address=45.175.22.4 list=RootDNS
+add address=45.175.22.88 list=RootDNS
 add address=45.54.45.54 list=RootDNS
 add address=45.83.41.38 list=RootDNS
 add address=45.93.171.206 list=RootDNS
@@ -4616,6 +4620,7 @@ add address=81.91.164.5 list=RootDNS
 add address=81.91.173.130 list=RootDNS
 add address=82.114.164.244 list=RootDNS
 add address=82.137.200.85 list=RootDNS
+add address=82.151.64.2 list=RootDNS
 add address=82.199.184.194 list=RootDNS
 add address=82.199.186.130 list=RootDNS
 add address=83.218.14.53 list=RootDNS

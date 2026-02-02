@@ -99,6 +99,7 @@ add address=77.72.48.0/21 list=DK-Block
 add address=77.75.80.0/21 list=DK-Block
 add address=77.75.160.0/21 list=DK-Block
 add address=77.83.76.0/22 list=DK-Block
+add address=77.95.218.0/24 list=DK-Block
 add address=77.111.240.0/22 list=DK-Block
 add address=77.212.0.0/14 list=DK-Block
 add address=77.221.224.0/19 list=DK-Block

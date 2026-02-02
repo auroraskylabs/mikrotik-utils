@@ -704,8 +704,6 @@ add address=85.137.248.0/23 list=ES-Block
 add address=85.152.0.0/16 list=ES-Block
 add address=85.155.0.0/19 list=ES-Block
 add address=85.155.72.0/21 list=ES-Block
-add address=85.155.88.0/21 list=ES-Block
-add address=85.155.144.0/22 list=ES-Block
 add address=85.155.152.0/22 list=ES-Block
 add address=85.155.160.0/20 list=ES-Block
 add address=85.155.192.0/19 list=ES-Block
@@ -1749,7 +1747,6 @@ add address=185.87.188.0/22 list=ES-Block
 add address=185.88.0.0/22 list=ES-Block
 add address=185.88.52.0/22 list=ES-Block
 add address=185.88.68.0/22 list=ES-Block
-add address=185.88.202.0/23 list=ES-Block
 add address=185.88.232.0/22 list=ES-Block
 add address=185.89.60.0/22 list=ES-Block
 add address=185.90.28.0/22 list=ES-Block

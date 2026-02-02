@@ -4,6 +4,7 @@ add address=5.183.163.0/24 list=SM-Block
 add address=31.193.32.0/21 list=SM-Block
 add address=45.65.80.0/22 list=SM-Block
 add address=77.242.208.0/20 list=SM-Block
+add address=85.155.144.0/22 list=SM-Block
 add address=89.186.32.0/19 list=SM-Block
 add address=91.223.220.0/24 list=SM-Block
 add address=91.234.215.0/24 list=SM-Block

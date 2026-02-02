@@ -213,6 +213,7 @@ add address=193.105.23.0/24 list=HR-Block
 add address=193.105.193.0/24 list=HR-Block
 add address=193.111.164.0/24 list=HR-Block
 add address=193.198.0.0/16 list=HR-Block
+add address=193.200.114.0/24 list=HR-Block
 add address=193.200.203.0/24 list=HR-Block
 add address=193.228.230.0/24 list=HR-Block
 add address=193.242.141.0/24 list=HR-Block

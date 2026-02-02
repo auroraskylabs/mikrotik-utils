@@ -282,7 +282,7 @@ add address=185.183.148.0/22 list=RS-Block
 add address=185.190.152.0/22 list=RS-Block
 add address=185.199.120.0/22 list=RS-Block
 add address=185.211.64.0/22 list=RS-Block
-add address=185.214.43.0/24 list=RS-Block
+add address=185.214.40.0/22 list=RS-Block
 add address=185.220.128.0/22 list=RS-Block
 add address=185.222.72.0/22 list=RS-Block
 add address=185.231.128.0/22 list=RS-Block

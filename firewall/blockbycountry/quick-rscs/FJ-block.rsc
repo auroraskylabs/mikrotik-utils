@@ -24,6 +24,7 @@ add address=119.235.96.0/21 list=FJ-Block
 add address=124.108.24.0/21 list=FJ-Block
 add address=144.120.0.0/16 list=FJ-Block
 add address=183.81.128.0/20 list=FJ-Block
+add address=198.15.17.0/24 list=FJ-Block
 add address=202.62.6.0/23 list=FJ-Block
 add address=202.62.118.0/23 list=FJ-Block
 add address=202.62.120.0/21 list=FJ-Block

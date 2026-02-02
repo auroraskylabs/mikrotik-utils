@@ -592,7 +592,12 @@ add address=200.66.128.0/17 list=MX-Block
 add address=200.67.0.0/16 list=MX-Block
 add address=200.68.128.0/18 list=MX-Block
 add address=200.71.108.0/22 list=MX-Block
-add address=200.76.0.0/16 list=MX-Block
+add address=200.76.0.0/18 list=MX-Block
+add address=200.76.64.0/19 list=MX-Block
+add address=200.76.96.0/20 list=MX-Block
+add address=200.76.116.0/22 list=MX-Block
+add address=200.76.120.0/21 list=MX-Block
+add address=200.76.128.0/17 list=MX-Block
 add address=200.77.0.0/17 list=MX-Block
 add address=200.77.128.0/19 list=MX-Block
 add address=200.77.160.0/20 list=MX-Block

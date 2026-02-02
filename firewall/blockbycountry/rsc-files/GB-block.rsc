@@ -1367,7 +1367,9 @@ add address=81.27.76.0/24 list=GB-Block
 add address=81.27.80.0/22 list=GB-Block
 add address=81.27.85.0/24 list=GB-Block
 add address=81.27.87.0/24 list=GB-Block
-add address=81.27.88.0/21 list=GB-Block
+add address=81.27.88.0/22 list=GB-Block
+add address=81.27.92.0/24 list=GB-Block
+add address=81.27.94.0/23 list=GB-Block
 add address=81.29.48.0/20 list=GB-Block
 add address=81.29.64.0/19 list=GB-Block
 add address=81.30.104.0/24 list=GB-Block
