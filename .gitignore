@@ -8,4 +8,5 @@ firewall/blockbycountry/root-dns/build_root_list.log
 firewall/blockbycountry/root-dns/build_root_errors.log
 firewall/blockbycountry/root-dns/dns_infra_allow_v4.txt
 firewall/blockbycountry/root-dns/weekly.sh
-
+firewall/blocklists/spamhaus/scripts/*
+firewall/blocklists/spamhaus/scripts
