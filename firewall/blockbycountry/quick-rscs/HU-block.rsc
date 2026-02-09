@@ -569,6 +569,7 @@ add address=194.180.16.0/24 list=HU-Block
 add address=194.180.19.0/24 list=HU-Block
 add address=194.246.102.0/24 list=HU-Block
 add address=195.5.177.0/24 list=HU-Block
+add address=195.20.115.0/24 list=HU-Block
 add address=195.20.152.0/24 list=HU-Block
 add address=195.38.96.0/19 list=HU-Block
 add address=195.56.0.0/16 list=HU-Block

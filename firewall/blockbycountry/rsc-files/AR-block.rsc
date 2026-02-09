@@ -772,7 +772,8 @@ add address=179.0.132.0/22 list=AR-Block
 add address=179.0.136.0/21 list=AR-Block
 add address=179.0.144.0/23 list=AR-Block
 add address=179.0.147.0/24 list=AR-Block
-add address=179.0.148.0/22 list=AR-Block
+add address=179.0.148.0/23 list=AR-Block
+add address=179.0.151.0/24 list=AR-Block
 add address=179.0.180.0/22 list=AR-Block
 add address=179.0.184.0/22 list=AR-Block
 add address=179.0.193.0/24 list=AR-Block

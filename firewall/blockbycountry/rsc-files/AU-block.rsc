@@ -2699,6 +2699,7 @@ add address=151.158.40.0/23 list=AU-Block
 add address=151.158.62.0/23 list=AU-Block
 add address=151.158.68.0/23 list=AU-Block
 add address=151.158.98.0/23 list=AU-Block
+add address=151.158.128.0/23 list=AU-Block
 add address=151.178.0.0/16 list=AU-Block
 add address=152.65.192.0/18 list=AU-Block
 add address=152.76.0.0/16 list=AU-Block

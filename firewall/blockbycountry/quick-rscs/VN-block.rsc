@@ -902,6 +902,8 @@ add address=151.158.64.0/23 list=VN-Block
 add address=151.158.94.0/23 list=VN-Block
 add address=151.158.102.0/23 list=VN-Block
 add address=151.158.108.0/23 list=VN-Block
+add address=151.158.126.0/23 list=VN-Block
+add address=151.158.130.0/23 list=VN-Block
 add address=157.10.42.0/23 list=VN-Block
 add address=157.10.44.0/22 list=VN-Block
 add address=157.10.48.0/22 list=VN-Block

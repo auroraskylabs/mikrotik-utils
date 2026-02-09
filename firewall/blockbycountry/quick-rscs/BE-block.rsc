@@ -834,6 +834,7 @@ add address=195.189.202.0/23 list=BE-Block
 add address=195.200.24.0/23 list=BE-Block
 add address=195.200.201.0/24 list=BE-Block
 add address=195.207.0.0/16 list=BE-Block
+add address=195.222.105.0/24 list=BE-Block
 add address=195.225.100.0/22 list=BE-Block
 add address=195.225.164.0/22 list=BE-Block
 add address=195.225.220.0/22 list=BE-Block

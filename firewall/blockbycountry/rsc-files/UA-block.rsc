@@ -523,7 +523,8 @@ add address=91.201.188.0/22 list=UA-Block
 add address=91.201.224.0/22 list=UA-Block
 add address=91.201.232.0/22 list=UA-Block
 add address=91.201.240.0/21 list=UA-Block
-add address=91.202.0.0/22 list=UA-Block
+add address=91.202.0.0/23 list=UA-Block
+add address=91.202.3.0/24 list=UA-Block
 add address=91.202.6.0/23 list=UA-Block
 add address=91.202.72.0/22 list=UA-Block
 add address=91.202.104.0/21 list=UA-Block

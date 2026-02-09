@@ -448,7 +448,7 @@ add address=91.92.198.0/23 list=BG-Block
 add address=91.92.219.0/24 list=BG-Block
 add address=91.92.232.0/22 list=BG-Block
 add address=91.92.246.0/23 list=BG-Block
-add address=91.92.250.0/23 list=BG-Block
+add address=91.92.251.0/24 list=BG-Block
 add address=91.92.252.0/22 list=BG-Block
 add address=91.132.60.0/22 list=BG-Block
 add address=91.139.128.0/17 list=BG-Block

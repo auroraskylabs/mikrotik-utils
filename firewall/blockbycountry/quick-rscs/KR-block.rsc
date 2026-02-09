@@ -95,6 +95,7 @@ add address=45.120.64.0/21 list=KR-Block
 add address=45.121.164.0/22 list=KR-Block
 add address=45.125.232.0/22 list=KR-Block
 add address=45.126.148.0/22 list=KR-Block
+add address=45.151.180.0/22 list=KR-Block
 add address=45.248.72.0/22 list=KR-Block
 add address=45.249.64.0/22 list=KR-Block
 add address=45.249.160.0/22 list=KR-Block
@@ -167,6 +168,7 @@ add address=61.247.128.0/19 list=KR-Block
 add address=61.247.192.0/19 list=KR-Block
 add address=61.248.0.0/13 list=KR-Block
 add address=64.188.32.0/20 list=KR-Block
+add address=85.208.212.0/22 list=KR-Block
 add address=91.240.89.0/24 list=KR-Block
 add address=101.1.8.0/21 list=KR-Block
 add address=101.1.32.0/19 list=KR-Block
@@ -811,6 +813,7 @@ add address=183.90.128.0/19 list=KR-Block
 add address=183.91.192.0/18 list=KR-Block
 add address=183.96.0.0/11 list=KR-Block
 add address=185.130.49.0/24 list=KR-Block
+add address=185.227.152.0/22 list=KR-Block
 add address=192.5.90.0/24 list=KR-Block
 add address=192.40.0.0/22 list=KR-Block
 add address=192.100.2.0/24 list=KR-Block
