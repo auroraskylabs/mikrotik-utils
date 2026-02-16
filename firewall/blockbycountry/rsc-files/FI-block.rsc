@@ -904,6 +904,7 @@ add address=195.94.96.0/21 list=FI-Block
 add address=195.94.104.0/22 list=FI-Block
 add address=195.95.208.0/23 list=FI-Block
 add address=195.134.224.0/19 list=FI-Block
+add address=195.137.221.0/24 list=FI-Block
 add address=195.138.213.0/24 list=FI-Block
 add address=195.140.192.0/22 list=FI-Block
 add address=195.148.0.0/16 list=FI-Block
@@ -991,3 +992,4 @@ add address=217.140.128.0/17 list=FI-Block
 add address=217.149.48.0/20 list=FI-Block
 add address=217.152.0.0/16 list=FI-Block
 add address=217.169.64.0/20 list=FI-Block
+add address=217.177.40.0/22 list=FI-Block

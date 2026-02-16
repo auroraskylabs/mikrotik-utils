@@ -938,7 +938,7 @@ add address=193.91.128.0/17 list=NO-Block
 add address=193.93.128.0/22 list=NO-Block
 add address=193.93.220.0/22 list=NO-Block
 add address=193.93.253.0/24 list=NO-Block
-add address=193.93.254.0/23 list=NO-Block
+add address=193.93.255.0/24 list=NO-Block
 add address=193.104.105.0/24 list=NO-Block
 add address=193.105.77.0/24 list=NO-Block
 add address=193.105.112.0/24 list=NO-Block

@@ -587,7 +587,6 @@ add address=130.185.120.0/21 list=AE-Block
 add address=130.255.0.0/21 list=AE-Block
 add address=131.222.0.0/17 list=AE-Block
 add address=131.222.128.0/23 list=AE-Block
-add address=131.222.130.0/24 list=AE-Block
 add address=131.222.132.0/22 list=AE-Block
 add address=131.222.136.0/21 list=AE-Block
 add address=131.222.144.0/20 list=AE-Block
@@ -610,7 +609,13 @@ add address=151.158.76.0/23 list=AE-Block
 add address=151.240.0.0/13 list=AE-Block
 add address=151.248.96.0/20 list=AE-Block
 add address=151.253.0.0/16 list=AE-Block
-add address=153.56.0.0/16 list=AE-Block
+add address=153.56.0.0/17 list=AE-Block
+add address=153.56.130.0/23 list=AE-Block
+add address=153.56.132.0/22 list=AE-Block
+add address=153.56.136.0/21 list=AE-Block
+add address=153.56.144.0/20 list=AE-Block
+add address=153.56.160.0/19 list=AE-Block
+add address=153.56.192.0/18 list=AE-Block
 add address=158.255.77.0/24 list=AE-Block
 add address=167.17.32.0/19 list=AE-Block
 add address=167.17.176.0/20 list=AE-Block
@@ -907,6 +912,7 @@ add address=193.56.185.0/24 list=AE-Block
 add address=193.56.186.0/24 list=AE-Block
 add address=193.58.104.0/22 list=AE-Block
 add address=193.58.119.0/24 list=AE-Block
+add address=193.93.170.0/24 list=AE-Block
 add address=193.104.120.0/24 list=AE-Block
 add address=193.107.49.0/24 list=AE-Block
 add address=193.107.208.0/22 list=AE-Block
@@ -932,13 +938,13 @@ add address=193.178.172.0/24 list=AE-Block
 add address=193.178.174.0/24 list=AE-Block
 add address=193.203.60.0/22 list=AE-Block
 add address=193.203.105.0/24 list=AE-Block
-add address=193.223.100.0/24 list=AE-Block
 add address=193.228.139.0/24 list=AE-Block
 add address=193.238.134.0/23 list=AE-Block
 add address=193.242.180.0/24 list=AE-Block
 add address=194.5.192.0/23 list=AE-Block
 add address=194.5.206.0/23 list=AE-Block
 add address=194.15.56.0/22 list=AE-Block
+add address=194.28.112.0/22 list=AE-Block
 add address=194.31.72.0/22 list=AE-Block
 add address=194.32.96.0/22 list=AE-Block
 add address=194.32.104.0/24 list=AE-Block

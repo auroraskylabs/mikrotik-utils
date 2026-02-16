@@ -556,7 +556,6 @@ add address=185.236.142.0/24 list=IE-Block
 add address=185.237.52.0/22 list=IE-Block
 add address=185.237.148.0/22 list=IE-Block
 add address=185.238.172.0/22 list=IE-Block
-add address=185.239.76.0/22 list=IE-Block
 add address=185.240.184.0/22 list=IE-Block
 add address=185.241.132.0/22 list=IE-Block
 add address=185.242.236.0/22 list=IE-Block

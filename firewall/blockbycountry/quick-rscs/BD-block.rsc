@@ -1739,6 +1739,10 @@ add address=151.158.110.0/23 list=BD-Block
 add address=151.158.112.0/23 list=BD-Block
 add address=151.158.120.0/23 list=BD-Block
 add address=151.158.124.0/23 list=BD-Block
+add address=151.158.152.0/22 list=BD-Block
+add address=151.158.158.0/23 list=BD-Block
+add address=151.158.164.0/23 list=BD-Block
+add address=151.158.172.0/23 list=BD-Block
 add address=155.35.34.0/23 list=BD-Block
 add address=155.35.46.0/23 list=BD-Block
 add address=157.10.28.0/23 list=BD-Block

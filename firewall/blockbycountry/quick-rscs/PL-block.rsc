@@ -298,6 +298,7 @@ add address=62.122.232.0/21 list=PL-Block
 add address=62.129.192.0/18 list=PL-Block
 add address=62.133.128.0/19 list=PL-Block
 add address=62.141.192.0/18 list=PL-Block
+add address=62.144.32.0/19 list=PL-Block
 add address=62.148.64.0/19 list=PL-Block
 add address=62.152.128.0/19 list=PL-Block
 add address=62.181.0.0/19 list=PL-Block
@@ -1859,7 +1860,6 @@ add address=185.1.145.0/24 list=PL-Block
 add address=185.1.164.0/24 list=PL-Block
 add address=185.1.199.0/24 list=PL-Block
 add address=185.1.217.0/24 list=PL-Block
-add address=185.1.254.0/24 list=PL-Block
 add address=185.2.36.0/22 list=PL-Block
 add address=185.2.112.0/22 list=PL-Block
 add address=185.3.60.0/22 list=PL-Block
@@ -3481,6 +3481,7 @@ add address=195.54.46.0/23 list=PL-Block
 add address=195.54.50.0/23 list=PL-Block
 add address=195.54.184.0/22 list=PL-Block
 add address=195.54.188.0/23 list=PL-Block
+add address=195.58.152.0/23 list=PL-Block
 add address=195.60.64.0/23 list=PL-Block
 add address=195.60.80.96/27 list=PL-Block
 add address=195.60.80.160/27 list=PL-Block
@@ -3772,6 +3773,7 @@ add address=195.254.156.0/23 list=PL-Block
 add address=195.254.174.0/23 list=PL-Block
 add address=195.254.176.0/23 list=PL-Block
 add address=195.254.184.0/23 list=PL-Block
+add address=198.202.29.0/24 list=PL-Block
 add address=199.83.103.0/24 list=PL-Block
 add address=202.49.176.0/24 list=PL-Block
 add address=202.181.148.0/24 list=PL-Block

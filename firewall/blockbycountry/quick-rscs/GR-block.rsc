@@ -195,7 +195,6 @@ add address=185.1.123.0/24 list=GR-Block
 add address=185.1.172.0/24 list=GR-Block
 add address=185.3.220.0/22 list=GR-Block
 add address=185.4.88.0/22 list=GR-Block
-add address=185.4.132.0/22 list=GR-Block
 add address=185.4.236.0/22 list=GR-Block
 add address=185.5.76.0/22 list=GR-Block
 add address=185.6.76.0/22 list=GR-Block
@@ -240,7 +239,6 @@ add address=185.109.16.0/22 list=GR-Block
 add address=185.117.32.0/22 list=GR-Block
 add address=185.118.125.0/24 list=GR-Block
 add address=185.134.112.0/22 list=GR-Block
-add address=185.138.40.0/22 list=GR-Block
 add address=185.140.240.0/22 list=GR-Block
 add address=185.143.52.0/22 list=GR-Block
 add address=185.145.164.0/22 list=GR-Block

@@ -415,7 +415,6 @@ add address=103.4.40.0/22 list=JP-Block
 add address=103.4.68.0/22 list=JP-Block
 add address=103.4.200.0/22 list=JP-Block
 add address=103.5.20.0/22 list=JP-Block
-add address=103.5.40.0/23 list=JP-Block
 add address=103.5.64.0/22 list=JP-Block
 add address=103.5.116.0/22 list=JP-Block
 add address=103.5.140.0/22 list=JP-Block
@@ -697,6 +696,7 @@ add address=103.96.252.0/22 list=JP-Block
 add address=103.97.208.0/23 list=JP-Block
 add address=103.97.232.0/21 list=JP-Block
 add address=103.99.80.0/22 list=JP-Block
+add address=103.99.124.0/22 list=JP-Block
 add address=103.99.168.0/22 list=JP-Block
 add address=103.100.72.0/22 list=JP-Block
 add address=103.100.156.0/22 list=JP-Block

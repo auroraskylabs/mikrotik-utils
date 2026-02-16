@@ -177,6 +177,7 @@ add address=217.18.88.0/24 list=AZ-Block
 add address=217.25.16.0/20 list=AZ-Block
 add address=217.64.16.0/20 list=AZ-Block
 add address=217.168.176.0/20 list=AZ-Block
+add address=217.179.72.0/23 list=AZ-Block
 add address=217.179.126.0/24 list=AZ-Block
 
 /ip firewall raw

@@ -506,7 +506,6 @@ add address=195.46.224.0/19 list=LU-Block
 add address=195.80.235.0/24 list=LU-Block
 add address=195.85.44.0/24 list=LU-Block
 add address=195.96.140.0/24 list=LU-Block
-add address=195.137.221.0/24 list=LU-Block
 add address=195.137.228.0/23 list=LU-Block
 add address=195.189.152.0/23 list=LU-Block
 add address=195.189.164.0/23 list=LU-Block

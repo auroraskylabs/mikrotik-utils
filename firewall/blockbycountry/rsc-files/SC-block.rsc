@@ -383,7 +383,6 @@ add address=130.193.79.0/24 list=SC-Block
 add address=130.255.169.0/24 list=SC-Block
 add address=135.106.0.0/17 list=SC-Block
 add address=135.106.134.0/23 list=SC-Block
-add address=136.234.0.0/18 list=SC-Block
 add address=136.234.127.0/24 list=SC-Block
 add address=136.234.128.0/17 list=SC-Block
 add address=137.63.0.0/17 list=SC-Block

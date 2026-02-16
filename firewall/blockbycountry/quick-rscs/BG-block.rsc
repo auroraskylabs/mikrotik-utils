@@ -380,7 +380,8 @@ add address=87.121.104.0/21 list=BG-Block
 add address=87.121.112.0/22 list=BG-Block
 add address=87.121.118.0/23 list=BG-Block
 add address=87.121.120.0/21 list=BG-Block
-add address=87.121.128.0/21 list=BG-Block
+add address=87.121.128.0/22 list=BG-Block
+add address=87.121.132.0/23 list=BG-Block
 add address=87.121.144.0/22 list=BG-Block
 add address=87.121.150.0/23 list=BG-Block
 add address=87.121.152.0/21 list=BG-Block

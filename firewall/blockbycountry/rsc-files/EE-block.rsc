@@ -244,7 +244,6 @@ add address=185.97.36.0/22 list=EE-Block
 add address=185.97.148.0/22 list=EE-Block
 add address=185.97.248.0/22 list=EE-Block
 add address=185.103.203.0/24 list=EE-Block
-add address=185.104.191.0/24 list=EE-Block
 add address=185.113.252.0/22 list=EE-Block
 add address=185.114.176.0/22 list=EE-Block
 add address=185.116.88.0/22 list=EE-Block
@@ -296,7 +295,7 @@ add address=185.223.92.0/22 list=EE-Block
 add address=185.228.250.0/24 list=EE-Block
 add address=185.233.184.0/24 list=EE-Block
 add address=185.235.80.0/22 list=EE-Block
-add address=185.235.142.0/23 list=EE-Block
+add address=185.235.143.0/24 list=EE-Block
 add address=185.235.160.0/22 list=EE-Block
 add address=185.236.32.0/22 list=EE-Block
 add address=185.241.206.0/24 list=EE-Block
