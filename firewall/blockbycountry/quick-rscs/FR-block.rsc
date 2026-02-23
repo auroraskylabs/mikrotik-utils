@@ -1531,7 +1531,12 @@ add address=160.231.64.0/18 list=FR-Block
 add address=160.238.52.0/22 list=FR-Block
 add address=161.3.0.0/16 list=FR-Block
 add address=161.48.0.0/16 list=FR-Block
-add address=161.104.0.0/15 list=FR-Block
+add address=161.104.0.0/17 list=FR-Block
+add address=161.104.128.0/19 list=FR-Block
+add address=161.104.160.0/20 list=FR-Block
+add address=161.104.184.0/21 list=FR-Block
+add address=161.104.192.0/18 list=FR-Block
+add address=161.105.0.0/16 list=FR-Block
 add address=161.106.0.0/16 list=FR-Block
 add address=162.19.0.0/16 list=FR-Block
 add address=162.38.0.0/16 list=FR-Block

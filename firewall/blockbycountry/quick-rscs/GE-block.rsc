@@ -306,6 +306,7 @@ add address=213.131.32.0/19 list=GE-Block
 add address=213.134.15.0/24 list=GE-Block
 add address=213.139.236.0/22 list=GE-Block
 add address=213.157.192.0/19 list=GE-Block
+add address=213.173.15.0/24 list=GE-Block
 add address=213.177.188.0/24 list=GE-Block
 add address=213.200.0.0/19 list=GE-Block
 add address=213.217.16.0/22 list=GE-Block

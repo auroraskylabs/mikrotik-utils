@@ -231,7 +231,6 @@ add address=103.138.194.0/23 list=TW-Block
 add address=103.140.232.0/23 list=TW-Block
 add address=103.142.176.0/23 list=TW-Block
 add address=103.144.32.0/22 list=TW-Block
-add address=103.145.22.0/23 list=TW-Block
 add address=103.146.80.0/23 list=TW-Block
 add address=103.146.164.0/23 list=TW-Block
 add address=103.146.210.0/23 list=TW-Block

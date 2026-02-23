@@ -310,6 +310,7 @@ add address=93.106.0.0/16 list=FI-Block
 add address=93.174.192.0/21 list=FI-Block
 add address=93.183.0.0/18 list=FI-Block
 add address=93.190.96.0/21 list=FI-Block
+add address=93.190.127.0/24 list=FI-Block
 add address=93.191.120.0/21 list=FI-Block
 add address=94.22.0.0/16 list=FI-Block
 add address=94.101.0.0/20 list=FI-Block

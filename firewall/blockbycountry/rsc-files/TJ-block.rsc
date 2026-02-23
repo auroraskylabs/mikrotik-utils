@@ -28,6 +28,7 @@ add address=109.74.64.0/20 list=TJ-Block
 add address=109.75.48.0/20 list=TJ-Block
 add address=141.193.59.0/24 list=TJ-Block
 add address=146.19.183.0/24 list=TJ-Block
+add address=153.56.136.0/24 list=TJ-Block
 add address=162.120.21.0/24 list=TJ-Block
 add address=176.113.128.0/20 list=TJ-Block
 add address=185.42.96.0/22 list=TJ-Block

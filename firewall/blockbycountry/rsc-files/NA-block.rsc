@@ -4,6 +4,8 @@ add address=41.63.192.0/18 list=NA-Block
 add address=41.182.0.0/16 list=NA-Block
 add address=41.190.84.0/22 list=NA-Block
 add address=41.190.96.0/19 list=NA-Block
+add address=41.198.16.0/20 list=NA-Block
+add address=41.198.32.0/19 list=NA-Block
 add address=41.205.128.0/19 list=NA-Block
 add address=41.219.64.0/18 list=NA-Block
 add address=41.223.80.0/22 list=NA-Block
@@ -26,6 +28,7 @@ add address=196.12.10.0/24 list=NA-Block
 add address=196.20.0.0/19 list=NA-Block
 add address=196.44.128.0/19 list=NA-Block
 add address=196.46.28.0/24 list=NA-Block
+add address=196.47.64.0/20 list=NA-Block
 add address=196.49.2.0/24 list=NA-Block
 add address=196.216.164.0/22 list=NA-Block
 add address=196.216.207.0/24 list=NA-Block

@@ -497,6 +497,7 @@ add address=195.248.68.0/24 list=SI-Block
 add address=195.250.49.0/24 list=SI-Block
 add address=195.250.58.0/24 list=SI-Block
 add address=195.250.192.0/19 list=SI-Block
+add address=198.203.198.0/23 list=SI-Block
 add address=202.92.212.0/24 list=SI-Block
 add address=203.19.252.0/24 list=SI-Block
 add address=206.245.160.0/22 list=SI-Block

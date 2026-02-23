@@ -576,6 +576,7 @@ add address=217.30.12.0/22 list=SA-Block
 add address=217.145.240.0/20 list=SA-Block
 add address=217.170.32.0/19 list=SA-Block
 add address=217.173.80.0/20 list=SA-Block
+add address=217.180.55.0/24 list=SA-Block
 
 /ip firewall raw
  :if ([print count-only where src-address-list="SA-Block"] = "0") do={ add chain=prerouting action=drop src-address-list=SA-Block comment="Block SA traffic" }

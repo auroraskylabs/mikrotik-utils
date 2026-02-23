@@ -5,9 +5,11 @@ add address=66.212.62.0/23 list=LC-Block
 add address=72.14.98.0/23 list=LC-Block
 add address=104.218.216.0/22 list=LC-Block
 add address=104.255.252.0/22 list=LC-Block
+add address=149.112.194.0/23 list=LC-Block
 add address=162.0.155.0/24 list=LC-Block
 add address=162.212.208.0/23 list=LC-Block
 add address=162.245.76.0/22 list=LC-Block
+add address=167.150.204.0/22 list=LC-Block
 add address=192.58.142.0/23 list=LC-Block
 add address=192.147.231.0/24 list=LC-Block
 add address=199.38.192.0/21 list=LC-Block

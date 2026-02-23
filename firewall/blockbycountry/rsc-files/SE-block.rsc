@@ -669,7 +669,6 @@ add address=94.46.252.0/22 list=SE-Block
 add address=94.103.192.0/20 list=SE-Block
 add address=94.126.80.0/21 list=SE-Block
 add address=94.126.216.0/21 list=SE-Block
-add address=94.126.228.0/22 list=SE-Block
 add address=94.127.32.0/21 list=SE-Block
 add address=94.136.64.0/19 list=SE-Block
 add address=94.137.96.0/19 list=SE-Block
@@ -1846,6 +1845,7 @@ add address=212.37.0.0/19 list=SE-Block
 add address=212.37.96.0/19 list=SE-Block
 add address=212.39.32.0/19 list=SE-Block
 add address=212.46.51.0/24 list=SE-Block
+add address=212.47.49.0/24 list=SE-Block
 add address=212.52.0.0/24 list=SE-Block
 add address=212.53.96.0/19 list=SE-Block
 add address=212.63.192.0/19 list=SE-Block

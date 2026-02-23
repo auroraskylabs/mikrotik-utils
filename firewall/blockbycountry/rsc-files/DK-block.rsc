@@ -21,6 +21,7 @@ add address=5.206.192.0/21 list=DK-Block
 add address=31.3.72.0/21 list=DK-Block
 add address=31.25.16.0/21 list=DK-Block
 add address=31.31.80.0/21 list=DK-Block
+add address=31.99.200.0/21 list=DK-Block
 add address=31.131.188.0/23 list=DK-Block
 add address=31.185.64.0/19 list=DK-Block
 add address=31.193.232.0/21 list=DK-Block
@@ -372,7 +373,6 @@ add address=93.178.128.0/18 list=DK-Block
 add address=93.180.80.0/21 list=DK-Block
 add address=93.184.192.0/20 list=DK-Block
 add address=93.187.69.0/24 list=DK-Block
-add address=93.190.127.0/24 list=DK-Block
 add address=93.191.152.0/21 list=DK-Block
 add address=94.18.0.0/16 list=DK-Block
 add address=94.101.208.0/20 list=DK-Block

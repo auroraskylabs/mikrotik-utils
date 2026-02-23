@@ -155,7 +155,6 @@ add address=185.38.173.0/24 list=PT-Block
 add address=185.39.208.0/22 list=PT-Block
 add address=185.41.116.0/22 list=PT-Block
 add address=185.42.162.0/24 list=PT-Block
-add address=185.47.200.0/22 list=PT-Block
 add address=185.51.92.0/22 list=PT-Block
 add address=185.58.80.0/22 list=PT-Block
 add address=185.63.180.0/22 list=PT-Block
@@ -191,7 +190,6 @@ add address=185.142.131.0/24 list=PT-Block
 add address=185.146.92.0/22 list=PT-Block
 add address=185.160.115.0/24 list=PT-Block
 add address=185.162.180.0/22 list=PT-Block
-add address=185.164.208.0/22 list=PT-Block
 add address=185.165.104.0/22 list=PT-Block
 add address=185.166.144.0/24 list=PT-Block
 add address=185.169.96.0/22 list=PT-Block
@@ -353,7 +351,6 @@ add address=194.145.121.0/24 list=PT-Block
 add address=194.153.132.0/24 list=PT-Block
 add address=194.169.156.0/24 list=PT-Block
 add address=194.169.215.0/24 list=PT-Block
-add address=194.180.32.0/22 list=PT-Block
 add address=194.210.0.0/16 list=PT-Block
 add address=195.8.0.0/19 list=PT-Block
 add address=195.8.58.0/23 list=PT-Block

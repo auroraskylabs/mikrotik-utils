@@ -422,7 +422,6 @@ add address=160.25.170.0/23 list=TH-Block
 add address=160.187.192.0/23 list=TH-Block
 add address=160.187.248.0/23 list=TH-Block
 add address=160.238.12.0/22 list=TH-Block
-add address=160.250.116.0/23 list=TH-Block
 add address=160.250.202.0/23 list=TH-Block
 add address=161.82.128.0/17 list=TH-Block
 add address=161.200.0.0/16 list=TH-Block
