@@ -35,6 +35,7 @@ add address=115.84.128.0/19 list=MV-Block
 add address=123.176.0.0/19 list=MV-Block
 add address=124.195.192.0/19 list=MV-Block
 add address=150.107.196.0/22 list=MV-Block
+add address=151.158.209.0/24 list=MV-Block
 add address=185.215.32.0/22 list=MV-Block
 add address=202.1.192.0/20 list=MV-Block
 add address=202.21.176.0/20 list=MV-Block

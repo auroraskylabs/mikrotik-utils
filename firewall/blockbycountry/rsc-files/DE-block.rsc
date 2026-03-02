@@ -1,5 +1,6 @@
 /ip firewall address-list remove [find list="DE-Block"]
 /ip firewall address-list
+add address=2.28.0.0/14 list=DE-Block
 add address=2.56.11.0/24 list=DE-Block
 add address=2.56.20.0/22 list=DE-Block
 add address=2.56.72.0/21 list=DE-Block
@@ -2947,6 +2948,7 @@ add address=141.101.32.0/20 list=DE-Block
 add address=141.113.0.0/16 list=DE-Block
 add address=141.130.0.0/16 list=DE-Block
 add address=141.169.0.0/16 list=DE-Block
+add address=141.171.0.0/16 list=DE-Block
 add address=141.200.0.0/16 list=DE-Block
 add address=141.226.135.0/24 list=DE-Block
 add address=142.132.128.0/17 list=DE-Block
@@ -5220,7 +5222,6 @@ add address=192.16.137.0/24 list=DE-Block
 add address=192.26.174.0/23 list=DE-Block
 add address=192.26.176.0/20 list=DE-Block
 add address=192.26.192.0/23 list=DE-Block
-add address=192.26.237.0/24 list=DE-Block
 add address=192.31.14.0/24 list=DE-Block
 add address=192.31.102.0/24 list=DE-Block
 add address=192.33.254.0/24 list=DE-Block
@@ -8072,6 +8073,7 @@ add address=207.244.196.0/22 list=DE-Block
 add address=207.244.208.0/22 list=DE-Block
 add address=208.53.128.0/18 list=DE-Block
 add address=208.82.72.0/22 list=DE-Block
+add address=208.122.6.0/23 list=DE-Block
 add address=208.166.48.0/20 list=DE-Block
 add address=209.16.144.0/23 list=DE-Block
 add address=209.50.160.0/19 list=DE-Block
@@ -8621,6 +8623,7 @@ add address=217.173.128.0/19 list=DE-Block
 add address=217.175.96.0/20 list=DE-Block
 add address=217.175.224.0/19 list=DE-Block
 add address=217.180.58.0/23 list=DE-Block
+add address=217.181.64.0/19 list=DE-Block
 add address=217.184.0.0/13 list=DE-Block
 add address=217.194.32.0/20 list=DE-Block
 add address=217.194.64.0/20 list=DE-Block

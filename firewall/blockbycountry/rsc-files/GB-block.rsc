@@ -2,7 +2,6 @@
 /ip firewall address-list
 add address=1.186.0.0/16 list=GB-Block
 add address=2.26.0.0/15 list=GB-Block
-add address=2.28.0.0/14 list=GB-Block
 add address=2.56.84.0/22 list=GB-Block
 add address=2.56.148.0/22 list=GB-Block
 add address=2.56.188.0/22 list=GB-Block
@@ -1069,6 +1068,7 @@ add address=65.181.120.0/21 list=GB-Block
 add address=66.33.92.0/23 list=GB-Block
 add address=66.51.96.0/22 list=GB-Block
 add address=66.163.221.0/24 list=GB-Block
+add address=66.179.29.0/24 list=GB-Block
 add address=66.180.96.0/19 list=GB-Block
 add address=66.248.237.0/24 list=GB-Block
 add address=67.208.52.0/22 list=GB-Block
@@ -1479,6 +1479,7 @@ add address=82.197.74.0/23 list=GB-Block
 add address=82.203.0.0/17 list=GB-Block
 add address=82.206.128.0/17 list=GB-Block
 add address=82.211.64.0/18 list=GB-Block
+add address=82.215.0.0/18 list=GB-Block
 add address=82.215.64.0/24 list=GB-Block
 add address=82.219.0.0/16 list=GB-Block
 add address=83.67.0.0/16 list=GB-Block
@@ -1569,6 +1570,7 @@ add address=84.43.0.0/17 list=GB-Block
 add address=84.45.0.0/16 list=GB-Block
 add address=84.51.128.0/18 list=GB-Block
 add address=84.64.0.0/13 list=GB-Block
+add address=84.75.0.0/16 list=GB-Block
 add address=84.81.0.0/16 list=GB-Block
 add address=84.92.0.0/15 list=GB-Block
 add address=84.205.161.0/24 list=GB-Block
@@ -3204,6 +3206,7 @@ add address=135.254.0.0/15 list=GB-Block
 add address=136.144.64.0/19 list=GB-Block
 add address=136.148.0.0/16 list=GB-Block
 add address=136.156.0.0/16 list=GB-Block
+add address=136.175.222.0/23 list=GB-Block
 add address=136.225.0.0/16 list=GB-Block
 add address=137.22.160.0/19 list=GB-Block
 add address=137.44.0.0/16 list=GB-Block
@@ -3464,7 +3467,6 @@ add address=151.180.0.0/16 list=GB-Block
 add address=151.206.0.0/16 list=GB-Block
 add address=151.211.0.0/16 list=GB-Block
 add address=151.212.0.0/16 list=GB-Block
-add address=151.216.32.0/21 list=GB-Block
 add address=151.224.0.0/13 list=GB-Block
 add address=151.236.32.0/19 list=GB-Block
 add address=151.236.208.0/21 list=GB-Block
@@ -6466,6 +6468,7 @@ add address=193.201.92.0/22 list=GB-Block
 add address=193.201.120.0/23 list=GB-Block
 add address=193.201.124.0/23 list=GB-Block
 add address=193.201.132.0/22 list=GB-Block
+add address=193.201.149.128/26 list=GB-Block
 add address=193.201.151.128/26 list=GB-Block
 add address=193.201.153.0/24 list=GB-Block
 add address=193.201.154.0/25 list=GB-Block
@@ -7218,7 +7221,6 @@ add address=195.54.36.0/23 list=GB-Block
 add address=195.54.224.0/19 list=GB-Block
 add address=195.58.64.0/19 list=GB-Block
 add address=195.58.128.0/20 list=GB-Block
-add address=195.58.144.0/21 list=GB-Block
 add address=195.58.156.0/22 list=GB-Block
 add address=195.58.192.0/19 list=GB-Block
 add address=195.59.0.0/16 list=GB-Block
@@ -7514,6 +7516,7 @@ add address=199.103.56.0/21 list=GB-Block
 add address=199.103.64.0/22 list=GB-Block
 add address=199.103.86.0/24 list=GB-Block
 add address=199.118.0.0/16 list=GB-Block
+add address=199.120.230.0/24 list=GB-Block
 add address=199.175.48.0/21 list=GB-Block
 add address=199.181.77.0/24 list=GB-Block
 add address=199.185.139.0/24 list=GB-Block
@@ -7545,7 +7548,9 @@ add address=204.231.224.0/24 list=GB-Block
 add address=204.231.232.0/24 list=GB-Block
 add address=204.231.253.0/24 list=GB-Block
 add address=205.157.160.0/19 list=GB-Block
+add address=205.178.176.0/24 list=GB-Block
 add address=205.210.40.0/24 list=GB-Block
+add address=205.220.227.0/24 list=GB-Block
 add address=206.41.72.0/21 list=GB-Block
 add address=206.53.138.0/24 list=GB-Block
 add address=206.123.0.0/24 list=GB-Block
@@ -7553,6 +7558,7 @@ add address=206.123.30.0/24 list=GB-Block
 add address=206.130.2.0/23 list=GB-Block
 add address=206.130.61.0/24 list=GB-Block
 add address=206.197.208.0/24 list=GB-Block
+add address=206.209.210.0/24 list=GB-Block
 add address=206.245.192.0/18 list=GB-Block
 add address=207.103.0.0/16 list=GB-Block
 add address=207.211.208.0/21 list=GB-Block
@@ -8120,9 +8126,12 @@ add address=217.174.240.0/20 list=GB-Block
 add address=217.175.64.0/20 list=GB-Block
 add address=217.176.0.0/16 list=GB-Block
 add address=217.177.0.0/19 list=GB-Block
-add address=217.177.32.0/21 list=GB-Block
+add address=217.177.36.0/22 list=GB-Block
 add address=217.177.56.0/21 list=GB-Block
-add address=217.177.64.0/18 list=GB-Block
+add address=217.177.64.0/21 list=GB-Block
+add address=217.177.76.0/22 list=GB-Block
+add address=217.177.80.0/20 list=GB-Block
+add address=217.177.96.0/19 list=GB-Block
 add address=217.179.0.0/19 list=GB-Block
 add address=217.179.32.0/20 list=GB-Block
 add address=217.179.52.0/22 list=GB-Block
@@ -8149,7 +8158,8 @@ add address=217.180.56.0/24 list=GB-Block
 add address=217.180.60.0/24 list=GB-Block
 add address=217.180.62.0/23 list=GB-Block
 add address=217.180.64.0/18 list=GB-Block
-add address=217.181.0.0/17 list=GB-Block
+add address=217.181.0.0/18 list=GB-Block
+add address=217.181.96.0/19 list=GB-Block
 add address=217.194.208.0/20 list=GB-Block
 add address=217.196.0.0/20 list=GB-Block
 add address=217.196.224.0/19 list=GB-Block

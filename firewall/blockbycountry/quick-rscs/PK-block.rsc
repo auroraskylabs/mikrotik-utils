@@ -552,6 +552,7 @@ add address=150.129.4.0/22 list=PK-Block
 add address=151.158.46.0/23 list=PK-Block
 add address=151.158.174.0/23 list=PK-Block
 add address=151.158.200.0/23 list=PK-Block
+add address=151.158.212.0/22 list=PK-Block
 add address=157.10.6.0/23 list=PK-Block
 add address=157.10.30.0/23 list=PK-Block
 add address=157.10.226.0/23 list=PK-Block

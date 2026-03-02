@@ -786,7 +786,6 @@ add address=194.145.152.0/24 list=BE-Block
 add address=194.145.155.0/24 list=BE-Block
 add address=194.146.23.0/24 list=BE-Block
 add address=194.146.121.0/24 list=BE-Block
-add address=194.147.40.0/22 list=BE-Block
 add address=194.150.224.0/23 list=BE-Block
 add address=194.165.51.0/24 list=BE-Block
 add address=194.176.106.0/24 list=BE-Block

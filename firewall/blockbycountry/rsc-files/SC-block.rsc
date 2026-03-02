@@ -430,7 +430,6 @@ add address=156.0.200.0/22 list=SC-Block
 add address=156.224.0.0/11 list=SC-Block
 add address=157.22.0.0/17 list=SC-Block
 add address=157.22.128.0/19 list=SC-Block
-add address=157.22.160.0/20 list=SC-Block
 add address=157.22.208.0/21 list=SC-Block
 add address=157.22.252.0/22 list=SC-Block
 add address=158.222.0.0/20 list=SC-Block

@@ -64,6 +64,7 @@ add address=45.12.44.0/22 list=AT-Block
 add address=45.12.96.0/22 list=AT-Block
 add address=45.12.160.0/22 list=AT-Block
 add address=45.12.232.0/22 list=AT-Block
+add address=45.13.64.0/22 list=AT-Block
 add address=45.13.244.0/22 list=AT-Block
 add address=45.14.44.0/22 list=AT-Block
 add address=45.15.36.0/22 list=AT-Block
@@ -1120,6 +1121,7 @@ add address=188.213.232.0/24 list=AT-Block
 add address=188.214.32.0/21 list=AT-Block
 add address=188.241.124.0/23 list=AT-Block
 add address=192.5.162.0/24 list=AT-Block
+add address=192.26.237.0/24 list=AT-Block
 add address=192.26.238.0/24 list=AT-Block
 add address=192.35.206.0/24 list=AT-Block
 add address=192.35.240.0/22 list=AT-Block

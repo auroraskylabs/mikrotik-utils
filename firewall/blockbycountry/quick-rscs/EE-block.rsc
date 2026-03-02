@@ -320,7 +320,6 @@ add address=193.16.32.0/22 list=EE-Block
 add address=193.28.254.0/24 list=EE-Block
 add address=193.31.108.0/22 list=EE-Block
 add address=193.32.100.0/24 list=EE-Block
-add address=193.39.79.0/24 list=EE-Block
 add address=193.40.0.0/16 list=EE-Block
 add address=193.42.48.0/22 list=EE-Block
 add address=193.47.234.0/23 list=EE-Block

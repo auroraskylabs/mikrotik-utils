@@ -765,6 +765,7 @@ add address=151.232.0.0/14 list=IR-Block
 add address=151.238.0.0/15 list=IR-Block
 add address=152.89.12.0/22 list=IR-Block
 add address=152.89.44.0/22 list=IR-Block
+add address=153.51.0.0/19 list=IR-Block
 add address=153.51.128.0/19 list=IR-Block
 add address=157.119.188.0/22 list=IR-Block
 add address=158.58.0.0/17 list=IR-Block
