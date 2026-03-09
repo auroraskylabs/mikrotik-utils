@@ -1542,6 +1542,7 @@ add address=103.240.2.0/23 list=BD-Block
 add address=103.240.4.0/23 list=BD-Block
 add address=103.240.44.0/22 list=BD-Block
 add address=103.240.248.0/22 list=BD-Block
+add address=103.241.194.0/23 list=BD-Block
 add address=103.242.8.0/23 list=BD-Block
 add address=103.242.20.0/22 list=BD-Block
 add address=103.242.102.0/23 list=BD-Block

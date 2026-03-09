@@ -575,6 +575,7 @@ add address=217.15.176.0/20 list=KZ-Block
 add address=217.65.129.0/24 list=KZ-Block
 add address=217.76.64.0/20 list=KZ-Block
 add address=217.171.144.0/24 list=KZ-Block
+add address=217.180.18.0/23 list=KZ-Block
 add address=217.196.16.0/20 list=KZ-Block
 
 /ip firewall raw

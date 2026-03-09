@@ -17,6 +17,7 @@ add address=2001:678:e4c::/48 list=SpamHausCrime comment=SBL623571
 add address=2001:67c:508::/48 list=SpamHausCrime comment=SBL679052
 add address=2001:67c:f38::/48 list=SpamHausCrime comment=SBL675589
 add address=2001:67c:2dbc::/48 list=SpamHausCrime comment=SBL675591
+add address=2001:43f8:a21::/48 list=SpamHausCrime comment=SBL694560
 add address=2401:1760::/48 list=SpamHausCrime comment=SBL655827
 add address=2401:c580::/32 list=SpamHausCrime comment=SBL246818
 add address=2402:6680::/32 list=SpamHausCrime comment=SBL310886

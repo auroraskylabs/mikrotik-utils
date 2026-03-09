@@ -1065,7 +1065,6 @@ add address=95.133.128.0/18 list=UA-Block
 add address=95.133.208.0/20 list=UA-Block
 add address=95.133.228.0/22 list=UA-Block
 add address=95.133.236.0/23 list=UA-Block
-add address=95.133.250.0/23 list=UA-Block
 add address=95.134.0.0/15 list=UA-Block
 add address=95.141.245.0/24 list=UA-Block
 add address=95.158.0.0/18 list=UA-Block
@@ -2216,7 +2215,7 @@ add address=194.213.120.0/23 list=UA-Block
 add address=194.242.60.0/24 list=UA-Block
 add address=194.242.96.0/21 list=UA-Block
 add address=194.242.116.0/22 list=UA-Block
-add address=194.246.74.0/23 list=UA-Block
+add address=194.246.74.0/24 list=UA-Block
 add address=194.246.77.0/24 list=UA-Block
 add address=194.246.99.0/24 list=UA-Block
 add address=194.246.104.0/23 list=UA-Block

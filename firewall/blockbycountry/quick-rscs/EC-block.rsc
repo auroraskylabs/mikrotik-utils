@@ -162,6 +162,7 @@ add address=186.65.0.0/18 list=EC-Block
 add address=186.66.0.0/16 list=EC-Block
 add address=186.68.0.0/14 list=EC-Block
 add address=186.101.0.0/16 list=EC-Block
+add address=186.121.148.0/22 list=EC-Block
 add address=186.121.160.0/23 list=EC-Block
 add address=186.121.164.0/22 list=EC-Block
 add address=186.178.0.0/16 list=EC-Block
