@@ -4249,6 +4249,7 @@ add address=200.9.143.0/24 list=BR-Block
 add address=200.9.144.0/24 list=BR-Block
 add address=200.9.148.0/23 list=BR-Block
 add address=200.9.154.0/23 list=BR-Block
+add address=200.9.156.0/24 list=BR-Block
 add address=200.9.160.0/22 list=BR-Block
 add address=200.9.164.0/24 list=BR-Block
 add address=200.9.174.0/23 list=BR-Block

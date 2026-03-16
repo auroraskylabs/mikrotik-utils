@@ -109,6 +109,7 @@ add address=141.98.140.0/22 list=AL-Block
 add address=144.48.52.0/22 list=AL-Block
 add address=146.0.16.0/21 list=AL-Block
 add address=147.78.160.0/22 list=AL-Block
+add address=151.123.186.0/23 list=AL-Block
 add address=171.22.148.0/22 list=AL-Block
 add address=178.132.216.0/21 list=AL-Block
 add address=178.175.0.0/17 list=AL-Block

@@ -148,6 +148,7 @@ add address=83.168.0.0/18 list=CY-Block
 add address=84.238.132.0/23 list=CY-Block
 add address=84.246.111.0/24 list=CY-Block
 add address=85.132.224.0/19 list=CY-Block
+add address=85.137.172.0/22 list=CY-Block
 add address=85.208.96.0/22 list=CY-Block
 add address=85.208.104.0/21 list=CY-Block
 add address=85.208.112.0/21 list=CY-Block

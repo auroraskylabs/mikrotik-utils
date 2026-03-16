@@ -215,6 +215,7 @@ add address=194.146.152.0/22 list=LB-Block
 add address=194.147.124.0/22 list=LB-Block
 add address=194.246.88.0/22 list=LB-Block
 add address=195.5.173.0/24 list=LB-Block
+add address=195.60.84.192/26 list=LB-Block
 add address=195.88.19.0/24 list=LB-Block
 add address=195.112.192.0/19 list=LB-Block
 add address=212.28.224.0/19 list=LB-Block

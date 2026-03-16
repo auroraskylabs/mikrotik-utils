@@ -115,6 +115,7 @@ add address=185.43.188.0/22 list=AZ-Block
 add address=185.47.4.0/22 list=AZ-Block
 add address=185.52.128.0/22 list=AZ-Block
 add address=185.55.36.0/22 list=AZ-Block
+add address=185.65.119.0/24 list=AZ-Block
 add address=185.77.3.0/24 list=AZ-Block
 add address=185.77.248.0/24 list=AZ-Block
 add address=185.80.172.0/22 list=AZ-Block

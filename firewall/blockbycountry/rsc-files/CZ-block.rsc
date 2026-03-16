@@ -134,7 +134,6 @@ add address=45.156.44.0/22 list=CZ-Block
 add address=45.156.112.0/22 list=CZ-Block
 add address=45.158.88.0/22 list=CZ-Block
 add address=45.158.224.0/22 list=CZ-Block
-add address=45.159.109.0/24 list=CZ-Block
 add address=45.159.110.0/23 list=CZ-Block
 add address=45.159.116.0/22 list=CZ-Block
 add address=46.8.0.0/16 list=CZ-Block

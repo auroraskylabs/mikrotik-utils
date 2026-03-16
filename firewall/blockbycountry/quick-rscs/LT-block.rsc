@@ -446,6 +446,7 @@ add address=152.89.0.0/22 list=LT-Block
 add address=152.89.28.0/22 list=LT-Block
 add address=152.89.248.0/22 list=LT-Block
 add address=152.163.0.0/16 list=LT-Block
+add address=153.56.132.0/22 list=LT-Block
 add address=158.120.252.0/23 list=LT-Block
 add address=158.129.0.0/16 list=LT-Block
 add address=158.255.76.0/24 list=LT-Block
@@ -488,7 +489,6 @@ add address=185.5.52.0/22 list=LT-Block
 add address=185.6.12.0/22 list=LT-Block
 add address=185.8.104.0/22 list=LT-Block
 add address=185.11.24.0/22 list=LT-Block
-add address=185.19.200.0/24 list=LT-Block
 add address=185.21.50.0/24 list=LT-Block
 add address=185.23.16.0/22 list=LT-Block
 add address=185.25.0.0/22 list=LT-Block

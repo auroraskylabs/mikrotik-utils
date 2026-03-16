@@ -1063,7 +1063,11 @@ add address=190.14.144.0/21 list=AR-Block
 add address=190.14.156.0/22 list=AR-Block
 add address=190.14.160.0/19 list=AR-Block
 add address=190.15.80.0/20 list=AR-Block
-add address=190.15.192.0/18 list=AR-Block
+add address=190.15.192.0/19 list=AR-Block
+add address=190.15.224.0/20 list=AR-Block
+add address=190.15.240.0/21 list=AR-Block
+add address=190.15.248.0/23 list=AR-Block
+add address=190.15.250.0/24 list=AR-Block
 add address=190.16.0.0/14 list=AR-Block
 add address=190.30.0.0/15 list=AR-Block
 add address=190.48.0.0/14 list=AR-Block

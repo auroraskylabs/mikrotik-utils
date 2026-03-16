@@ -25,6 +25,7 @@ add address=162.222.84.0/22 list=AG-Block
 add address=162.252.188.0/22 list=AG-Block
 add address=170.39.108.0/22 list=AG-Block
 add address=178.18.224.0/20 list=AG-Block
+add address=185.26.72.0/22 list=AG-Block
 add address=185.51.60.0/22 list=AG-Block
 add address=185.182.12.0/22 list=AG-Block
 add address=188.65.64.0/21 list=AG-Block

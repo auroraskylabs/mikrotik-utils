@@ -918,6 +918,7 @@ add address=185.63.113.0/24 list=IR-Block
 add address=185.63.114.0/24 list=IR-Block
 add address=185.63.236.0/22 list=IR-Block
 add address=185.64.176.0/22 list=IR-Block
+add address=185.65.118.0/24 list=IR-Block
 add address=185.66.224.0/21 list=IR-Block
 add address=185.67.12.0/22 list=IR-Block
 add address=185.67.100.0/22 list=IR-Block

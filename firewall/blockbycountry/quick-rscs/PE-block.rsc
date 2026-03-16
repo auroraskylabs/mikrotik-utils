@@ -17,6 +17,7 @@ add address=45.171.164.0/22 list=PE-Block
 add address=45.172.8.0/22 list=PE-Block
 add address=45.173.72.0/22 list=PE-Block
 add address=45.173.200.0/22 list=PE-Block
+add address=45.174.226.0/24 list=PE-Block
 add address=45.177.20.0/22 list=PE-Block
 add address=45.177.196.0/23 list=PE-Block
 add address=45.178.196.0/22 list=PE-Block
@@ -48,6 +49,7 @@ add address=45.236.172.0/23 list=PE-Block
 add address=45.236.228.0/22 list=PE-Block
 add address=45.237.172.0/22 list=PE-Block
 add address=45.239.22.0/23 list=PE-Block
+add address=91.216.77.0/24 list=PE-Block
 add address=131.161.100.0/22 list=PE-Block
 add address=131.255.136.0/22 list=PE-Block
 add address=131.255.192.0/22 list=PE-Block
@@ -136,6 +138,8 @@ add address=187.86.164.0/22 list=PE-Block
 add address=187.102.208.0/22 list=PE-Block
 add address=190.8.128.0/19 list=PE-Block
 add address=190.12.64.0/19 list=PE-Block
+add address=190.15.251.0/24 list=PE-Block
+add address=190.15.252.0/22 list=PE-Block
 add address=190.40.0.0/14 list=PE-Block
 add address=190.52.112.0/20 list=PE-Block
 add address=190.81.0.0/16 list=PE-Block
@@ -176,7 +180,9 @@ add address=200.3.241.0/24 list=PE-Block
 add address=200.4.192.0/18 list=PE-Block
 add address=200.10.64.0/19 list=PE-Block
 add address=200.10.130.0/23 list=PE-Block
+add address=200.10.163.0/24 list=PE-Block
 add address=200.10.188.0/24 list=PE-Block
+add address=200.10.204.0/24 list=PE-Block
 add address=200.10.250.0/24 list=PE-Block
 add address=200.11.32.0/24 list=PE-Block
 add address=200.11.34.0/23 list=PE-Block

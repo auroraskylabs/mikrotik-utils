@@ -1088,6 +1088,8 @@ add address=163.61.72.0/22 list=VN-Block
 add address=163.61.108.0/22 list=VN-Block
 add address=163.61.180.0/22 list=VN-Block
 add address=163.61.242.0/23 list=VN-Block
+add address=163.128.36.0/23 list=VN-Block
+add address=163.128.42.0/23 list=VN-Block
 add address=163.223.6.0/23 list=VN-Block
 add address=163.223.8.0/21 list=VN-Block
 add address=163.223.16.0/23 list=VN-Block

@@ -18,6 +18,7 @@ add address=96.43.160.0/19 list=JM-Block
 add address=104.152.236.0/22 list=JM-Block
 add address=104.244.224.0/21 list=JM-Block
 add address=142.0.224.0/20 list=JM-Block
+add address=149.112.196.0/24 list=JM-Block
 add address=162.216.160.0/21 list=JM-Block
 add address=162.246.0.0/22 list=JM-Block
 add address=170.62.168.0/22 list=JM-Block
