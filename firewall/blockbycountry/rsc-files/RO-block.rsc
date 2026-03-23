@@ -112,7 +112,6 @@ add address=45.93.128.0/22 list=RO-Block
 add address=45.93.196.0/22 list=RO-Block
 add address=45.95.220.0/22 list=RO-Block
 add address=45.95.228.0/22 list=RO-Block
-add address=45.114.8.0/22 list=RO-Block
 add address=45.128.36.0/22 list=RO-Block
 add address=45.128.116.0/22 list=RO-Block
 add address=45.128.168.0/22 list=RO-Block
@@ -147,7 +146,6 @@ add address=45.155.120.0/22 list=RO-Block
 add address=45.158.80.0/22 list=RO-Block
 add address=45.158.116.0/22 list=RO-Block
 add address=45.159.120.0/22 list=RO-Block
-add address=45.250.64.0/22 list=RO-Block
 add address=46.18.108.0/24 list=RO-Block
 add address=46.20.128.0/20 list=RO-Block
 add address=46.97.0.0/16 list=RO-Block
@@ -537,7 +535,7 @@ add address=89.35.57.0/24 list=RO-Block
 add address=89.35.74.0/23 list=RO-Block
 add address=89.35.77.0/24 list=RO-Block
 add address=89.35.80.0/23 list=RO-Block
-add address=89.35.112.0/23 list=RO-Block
+add address=89.35.113.0/24 list=RO-Block
 add address=89.35.115.0/24 list=RO-Block
 add address=89.35.116.0/23 list=RO-Block
 add address=89.35.128.0/24 list=RO-Block
@@ -862,7 +860,6 @@ add address=89.249.72.0/23 list=RO-Block
 add address=91.90.120.0/21 list=RO-Block
 add address=91.102.64.0/23 list=RO-Block
 add address=91.132.4.0/22 list=RO-Block
-add address=91.132.114.0/23 list=RO-Block
 add address=91.132.136.0/22 list=RO-Block
 add address=91.132.248.0/22 list=RO-Block
 add address=91.188.224.0/22 list=RO-Block
@@ -1346,11 +1343,8 @@ add address=95.214.132.0/22 list=RO-Block
 add address=95.215.16.0/22 list=RO-Block
 add address=95.215.220.0/23 list=RO-Block
 add address=95.215.222.0/24 list=RO-Block
-add address=103.37.180.0/22 list=RO-Block
-add address=103.53.82.0/23 list=RO-Block
 add address=103.75.68.0/22 list=RO-Block
 add address=103.76.128.0/22 list=RO-Block
-add address=103.101.88.0/22 list=RO-Block
 add address=103.110.160.0/22 list=RO-Block
 add address=103.112.170.0/23 list=RO-Block
 add address=103.113.29.0/24 list=RO-Block
@@ -1358,7 +1352,6 @@ add address=103.121.48.0/23 list=RO-Block
 add address=103.126.50.0/23 list=RO-Block
 add address=103.195.144.0/22 list=RO-Block
 add address=103.219.212.0/23 list=RO-Block
-add address=103.240.180.0/22 list=RO-Block
 add address=103.244.144.0/23 list=RO-Block
 add address=103.246.248.0/23 list=RO-Block
 add address=109.73.128.0/22 list=RO-Block
@@ -1503,7 +1496,6 @@ add address=185.16.251.0/24 list=RO-Block
 add address=185.18.226.0/23 list=RO-Block
 add address=185.21.92.0/22 list=RO-Block
 add address=185.22.231.0/24 list=RO-Block
-add address=185.25.107.0/24 list=RO-Block
 add address=185.28.156.0/22 list=RO-Block
 add address=185.29.135.0/24 list=RO-Block
 add address=185.32.24.0/22 list=RO-Block
@@ -1591,7 +1583,6 @@ add address=185.135.64.0/22 list=RO-Block
 add address=185.136.8.0/22 list=RO-Block
 add address=185.137.132.0/22 list=RO-Block
 add address=185.140.251.0/24 list=RO-Block
-add address=185.144.13.0/24 list=RO-Block
 add address=185.144.80.0/22 list=RO-Block
 add address=185.145.136.0/22 list=RO-Block
 add address=185.146.84.0/22 list=RO-Block
@@ -1643,7 +1634,6 @@ add address=185.218.227.0/24 list=RO-Block
 add address=185.220.68.0/22 list=RO-Block
 add address=185.220.184.0/22 list=RO-Block
 add address=185.222.132.0/22 list=RO-Block
-add address=185.222.213.0/24 list=RO-Block
 add address=185.225.76.0/22 list=RO-Block
 add address=185.225.204.0/22 list=RO-Block
 add address=185.226.68.0/22 list=RO-Block
@@ -1906,10 +1896,6 @@ add address=193.26.136.0/21 list=RO-Block
 add address=193.27.12.0/22 list=RO-Block
 add address=193.27.64.0/23 list=RO-Block
 add address=193.27.70.0/23 list=RO-Block
-add address=193.28.182.0/24 list=RO-Block
-add address=193.28.191.0/24 list=RO-Block
-add address=193.28.202.0/24 list=RO-Block
-add address=193.28.237.0/24 list=RO-Block
 add address=193.29.12.0/22 list=RO-Block
 add address=193.29.104.0/22 list=RO-Block
 add address=193.29.187.0/24 list=RO-Block
@@ -1970,7 +1956,6 @@ add address=193.93.142.0/23 list=RO-Block
 add address=193.104.21.0/24 list=RO-Block
 add address=193.104.30.0/24 list=RO-Block
 add address=193.104.73.0/24 list=RO-Block
-add address=193.104.96.0/24 list=RO-Block
 add address=193.104.106.0/24 list=RO-Block
 add address=193.104.121.0/24 list=RO-Block
 add address=193.104.123.0/24 list=RO-Block

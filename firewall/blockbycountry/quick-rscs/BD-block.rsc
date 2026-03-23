@@ -1893,6 +1893,8 @@ add address=163.61.216.0/23 list=BD-Block
 add address=163.61.236.0/23 list=BD-Block
 add address=163.61.240.0/23 list=BD-Block
 add address=163.128.24.0/23 list=BD-Block
+add address=163.128.78.0/23 list=BD-Block
+add address=163.128.94.0/24 list=BD-Block
 add address=163.223.20.0/23 list=BD-Block
 add address=163.223.34.0/23 list=BD-Block
 add address=163.223.38.0/23 list=BD-Block

@@ -591,6 +591,8 @@ add address=163.61.154.0/24 list=PK-Block
 add address=163.61.226.0/23 list=PK-Block
 add address=163.128.8.0/23 list=PK-Block
 add address=163.128.50.0/23 list=PK-Block
+add address=163.128.56.0/23 list=PK-Block
+add address=163.128.74.0/23 list=PK-Block
 add address=163.223.4.0/23 list=PK-Block
 add address=163.223.92.0/23 list=PK-Block
 add address=163.227.212.0/23 list=PK-Block

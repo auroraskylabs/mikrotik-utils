@@ -115,6 +115,7 @@ add address=185.196.212.0/22 list=UZ-Block
 add address=185.196.216.0/22 list=UZ-Block
 add address=185.203.236.0/22 list=UZ-Block
 add address=185.208.176.0/22 list=UZ-Block
+add address=185.210.231.0/24 list=UZ-Block
 add address=185.211.128.0/22 list=UZ-Block
 add address=185.213.228.0/22 list=UZ-Block
 add address=185.215.5.0/24 list=UZ-Block

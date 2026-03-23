@@ -142,6 +142,7 @@ add address=91.234.233.0/24 list=EE-Block
 add address=91.235.234.0/24 list=EE-Block
 add address=91.236.38.0/23 list=EE-Block
 add address=91.236.44.0/24 list=EE-Block
+add address=91.236.186.0/24 list=EE-Block
 add address=91.236.201.0/24 list=EE-Block
 add address=91.236.222.0/24 list=EE-Block
 add address=91.240.175.0/24 list=EE-Block
@@ -420,6 +421,7 @@ add address=217.71.32.0/20 list=EE-Block
 add address=217.119.138.0/24 list=EE-Block
 add address=217.146.64.0/20 list=EE-Block
 add address=217.159.128.0/17 list=EE-Block
+add address=217.180.23.0/24 list=EE-Block
 
 /ip firewall raw
  :if ([print count-only where src-address-list="EE-Block"] = "0") do={ add chain=prerouting action=drop src-address-list=EE-Block comment="Block EE traffic" }

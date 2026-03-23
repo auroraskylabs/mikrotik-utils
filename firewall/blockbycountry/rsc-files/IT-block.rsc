@@ -2885,6 +2885,7 @@ add address=194.58.216.0/22 list=IT-Block
 add address=194.59.208.0/22 list=IT-Block
 add address=194.60.212.0/22 list=IT-Block
 add address=194.62.60.0/22 list=IT-Block
+add address=194.62.112.0/24 list=IT-Block
 add address=194.62.200.0/22 list=IT-Block
 add address=194.63.146.0/24 list=IT-Block
 add address=194.69.60.0/22 list=IT-Block

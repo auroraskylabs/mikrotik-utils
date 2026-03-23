@@ -1158,6 +1158,7 @@ add address=212.20.192.0/19 list=NO-Block
 add address=212.33.128.0/19 list=NO-Block
 add address=212.37.224.0/19 list=NO-Block
 add address=212.45.160.0/19 list=NO-Block
+add address=212.47.54.0/24 list=NO-Block
 add address=212.52.22.0/24 list=NO-Block
 add address=212.62.224.0/19 list=NO-Block
 add address=212.67.48.0/20 list=NO-Block

@@ -3089,6 +3089,7 @@ add address=194.149.72.0/22 list=ES-Block
 add address=194.149.192.0/19 list=ES-Block
 add address=194.150.180.0/23 list=ES-Block
 add address=194.150.242.0/23 list=ES-Block
+add address=194.154.24.0/21 list=ES-Block
 add address=194.156.72.0/22 list=ES-Block
 add address=194.165.42.0/24 list=ES-Block
 add address=194.165.60.0/24 list=ES-Block

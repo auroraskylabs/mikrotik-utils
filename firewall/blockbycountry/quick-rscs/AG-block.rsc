@@ -7,6 +7,7 @@ add address=69.50.64.0/20 list=AG-Block
 add address=69.57.224.0/19 list=AG-Block
 add address=76.76.160.0/19 list=AG-Block
 add address=77.239.224.0/19 list=AG-Block
+add address=83.243.64.0/21 list=AG-Block
 add address=91.108.0.0/18 list=AG-Block
 add address=91.212.88.0/24 list=AG-Block
 add address=92.62.48.0/20 list=AG-Block
@@ -30,6 +31,7 @@ add address=185.51.60.0/22 list=AG-Block
 add address=185.182.12.0/22 list=AG-Block
 add address=188.65.64.0/21 list=AG-Block
 add address=192.64.120.0/22 list=AG-Block
+add address=193.218.140.0/22 list=AG-Block
 add address=199.16.56.0/22 list=AG-Block
 add address=199.48.204.0/22 list=AG-Block
 add address=199.189.112.0/22 list=AG-Block

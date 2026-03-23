@@ -621,6 +621,7 @@ add address=143.245.0.0/16 list=AT-Block
 add address=144.65.0.0/16 list=AT-Block
 add address=144.208.0.0/18 list=AT-Block
 add address=144.208.128.0/17 list=AT-Block
+add address=145.11.40.0/21 list=AT-Block
 add address=145.14.248.0/21 list=AT-Block
 add address=145.40.32.0/19 list=AT-Block
 add address=145.244.0.0/16 list=AT-Block
@@ -1525,6 +1526,7 @@ add address=194.59.177.0/24 list=AT-Block
 add address=194.59.178.0/24 list=AT-Block
 add address=194.61.27.0/24 list=AT-Block
 add address=194.61.36.0/22 list=AT-Block
+add address=194.62.113.0/24 list=AT-Block
 add address=194.62.237.0/24 list=AT-Block
 add address=194.76.210.0/24 list=AT-Block
 add address=194.76.239.0/24 list=AT-Block
@@ -1657,6 +1659,7 @@ add address=195.54.58.0/24 list=AT-Block
 add address=195.54.172.0/23 list=AT-Block
 add address=195.58.160.0/19 list=AT-Block
 add address=195.60.66.0/23 list=AT-Block
+add address=195.60.85.192/26 list=AT-Block
 add address=195.60.162.0/23 list=AT-Block
 add address=195.62.26.0/23 list=AT-Block
 add address=195.62.31.0/24 list=AT-Block
