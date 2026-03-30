@@ -592,15 +592,15 @@ add address=130.185.120.0/21 list=AE-Block
 add address=130.255.0.0/21 list=AE-Block
 add address=131.222.0.0/17 list=AE-Block
 add address=131.222.129.0/24 list=AE-Block
-add address=131.222.133.0/24 list=AE-Block
-add address=131.222.134.0/23 list=AE-Block
 add address=131.222.136.0/21 list=AE-Block
 add address=131.222.144.0/20 list=AE-Block
 add address=131.222.160.0/19 list=AE-Block
 add address=131.222.192.0/19 list=AE-Block
+add address=132.243.112.0/20 list=AE-Block
 add address=134.0.216.0/21 list=AE-Block
 add address=135.136.176.0/20 list=AE-Block
 add address=138.128.224.0/22 list=AE-Block
+add address=140.150.48.0/20 list=AE-Block
 add address=140.225.192.0/19 list=AE-Block
 add address=141.98.88.0/22 list=AE-Block
 add address=141.105.160.0/21 list=AE-Block

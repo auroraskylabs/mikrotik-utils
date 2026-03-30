@@ -553,6 +553,7 @@ add address=212.233.120.0/22 list=KZ-Block
 add address=213.5.184.0/21 list=KZ-Block
 add address=213.109.146.0/24 list=KZ-Block
 add address=213.109.208.0/20 list=KZ-Block
+add address=213.130.74.0/24 list=KZ-Block
 add address=213.134.30.0/24 list=KZ-Block
 add address=213.141.160.0/19 list=KZ-Block
 add address=213.148.0.0/20 list=KZ-Block

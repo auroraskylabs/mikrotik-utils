@@ -367,6 +367,10 @@ add address=194.146.64.0/23 list=EE-Block
 add address=194.146.82.0/23 list=EE-Block
 add address=194.147.215.0/24 list=EE-Block
 add address=194.147.218.0/24 list=EE-Block
+add address=194.147.241.0/24 list=EE-Block
+add address=194.147.244.0/24 list=EE-Block
+add address=194.147.255.0/24 list=EE-Block
+add address=194.149.89.0/24 list=EE-Block
 add address=194.150.64.0/22 list=EE-Block
 add address=194.152.45.0/24 list=EE-Block
 add address=194.164.246.0/24 list=EE-Block

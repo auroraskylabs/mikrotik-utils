@@ -36,6 +36,8 @@ add address=180.189.160.0/20 list=TL-Block
 add address=185.126.46.0/23 list=TL-Block
 add address=185.242.38.0/23 list=TL-Block
 add address=192.52.185.0/24 list=TL-Block
+add address=223.29.230.0/23 list=TL-Block
+add address=223.29.236.0/22 list=TL-Block
 
 /ip firewall raw
  :if ([print count-only where src-address-list="TL-Block"] = "0") do={ add chain=prerouting action=drop src-address-list=TL-Block comment="Block TL traffic" }

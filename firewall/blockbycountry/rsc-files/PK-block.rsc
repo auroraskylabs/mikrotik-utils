@@ -593,6 +593,7 @@ add address=163.128.8.0/23 list=PK-Block
 add address=163.128.50.0/23 list=PK-Block
 add address=163.128.56.0/23 list=PK-Block
 add address=163.128.74.0/23 list=PK-Block
+add address=163.128.122.0/23 list=PK-Block
 add address=163.223.4.0/23 list=PK-Block
 add address=163.223.92.0/23 list=PK-Block
 add address=163.227.212.0/23 list=PK-Block
@@ -712,5 +713,7 @@ add address=210.79.166.0/23 list=PK-Block
 add address=218.100.85.0/24 list=PK-Block
 add address=221.120.192.0/18 list=PK-Block
 add address=221.132.112.0/21 list=PK-Block
-add address=223.29.224.0/20 list=PK-Block
+add address=223.29.224.0/22 list=PK-Block
+add address=223.29.228.0/23 list=PK-Block
+add address=223.29.232.0/22 list=PK-Block
 add address=223.123.0.0/17 list=PK-Block

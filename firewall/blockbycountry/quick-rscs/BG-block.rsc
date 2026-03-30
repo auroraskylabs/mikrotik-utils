@@ -586,7 +586,8 @@ add address=93.123.103.0/24 list=BG-Block
 add address=93.123.104.0/22 list=BG-Block
 add address=93.123.109.0/24 list=BG-Block
 add address=93.123.110.0/24 list=BG-Block
-add address=93.123.112.0/22 list=BG-Block
+add address=93.123.112.0/24 list=BG-Block
+add address=93.123.114.0/23 list=BG-Block
 add address=93.123.116.0/24 list=BG-Block
 add address=93.123.118.0/24 list=BG-Block
 add address=93.123.120.0/21 list=BG-Block

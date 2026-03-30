@@ -40,6 +40,7 @@ add address=103.42.216.0/22 list=MM-Block
 add address=103.47.184.0/23 list=MM-Block
 add address=103.52.12.0/22 list=MM-Block
 add address=103.52.228.0/22 list=MM-Block
+add address=103.56.212.0/22 list=MM-Block
 add address=103.57.204.0/22 list=MM-Block
 add address=103.59.162.0/23 list=MM-Block
 add address=103.61.8.0/22 list=MM-Block

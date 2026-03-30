@@ -8,7 +8,6 @@ add address=104.153.248.0/22 list=DM-Block
 add address=104.245.204.0/22 list=DM-Block
 add address=162.213.168.0/22 list=DM-Block
 add address=162.253.100.0/22 list=DM-Block
-add address=192.243.48.0/20 list=DM-Block
 add address=193.169.160.0/23 list=DM-Block
 add address=198.101.28.0/22 list=DM-Block
 add address=199.127.196.0/22 list=DM-Block

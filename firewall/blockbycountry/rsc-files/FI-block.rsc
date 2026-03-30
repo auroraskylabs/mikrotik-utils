@@ -562,6 +562,7 @@ add address=185.195.149.0/24 list=FI-Block
 add address=185.195.150.0/23 list=FI-Block
 add address=185.196.4.0/22 list=FI-Block
 add address=185.196.232.0/22 list=FI-Block
+add address=185.204.144.0/22 list=FI-Block
 add address=185.205.0.0/22 list=FI-Block
 add address=185.206.176.0/22 list=FI-Block
 add address=185.207.84.0/22 list=FI-Block

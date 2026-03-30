@@ -443,6 +443,7 @@ add address=194.55.188.0/23 list=CY-Block
 add address=194.59.220.0/23 list=CY-Block
 add address=194.59.244.0/23 list=CY-Block
 add address=194.61.116.0/22 list=CY-Block
+add address=194.62.117.0/24 list=CY-Block
 add address=194.63.145.0/24 list=CY-Block
 add address=194.64.144.0/22 list=CY-Block
 add address=194.76.136.0/22 list=CY-Block

@@ -718,7 +718,6 @@ add address=212.147.128.0/18 list=IE-Block
 add address=212.147.192.0/19 list=IE-Block
 add address=213.79.32.0/19 list=IE-Block
 add address=213.94.128.0/17 list=IE-Block
-add address=213.130.74.0/24 list=IE-Block
 add address=213.133.64.0/21 list=IE-Block
 add address=213.159.128.0/22 list=IE-Block
 add address=213.190.128.0/19 list=IE-Block

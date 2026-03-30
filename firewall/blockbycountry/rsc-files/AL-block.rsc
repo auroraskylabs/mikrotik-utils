@@ -72,6 +72,7 @@ add address=92.119.236.0/22 list=AL-Block
 add address=93.93.168.0/22 list=AL-Block
 add address=93.115.6.0/24 list=AL-Block
 add address=93.115.108.0/24 list=AL-Block
+add address=93.123.113.0/24 list=AL-Block
 add address=93.159.192.0/21 list=AL-Block
 add address=93.187.110.0/24 list=AL-Block
 add address=94.100.48.0/20 list=AL-Block
