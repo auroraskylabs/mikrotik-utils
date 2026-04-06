@@ -2406,6 +2406,7 @@ add address=195.47.245.0/24 list=CH-Block
 add address=195.48.0.0/16 list=CH-Block
 add address=195.49.0.0/17 list=CH-Block
 add address=195.60.80.192/27 list=CH-Block
+add address=195.60.91.128/26 list=CH-Block
 add address=195.60.93.128/26 list=CH-Block
 add address=195.60.192.0/22 list=CH-Block
 add address=195.62.86.0/23 list=CH-Block

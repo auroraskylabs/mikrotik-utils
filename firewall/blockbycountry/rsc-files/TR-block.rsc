@@ -590,6 +590,7 @@ add address=130.255.173.0/24 list=TR-Block
 add address=131.222.128.0/24 list=TR-Block
 add address=131.222.130.0/23 list=TR-Block
 add address=131.222.132.0/24 list=TR-Block
+add address=131.222.198.0/23 list=TR-Block
 add address=131.222.224.0/19 list=TR-Block
 add address=134.19.200.0/21 list=TR-Block
 add address=134.255.199.0/24 list=TR-Block

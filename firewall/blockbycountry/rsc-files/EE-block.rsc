@@ -328,6 +328,7 @@ add address=193.47.244.0/23 list=EE-Block
 add address=193.93.252.0/24 list=EE-Block
 add address=193.104.75.0/24 list=EE-Block
 add address=193.109.120.0/24 list=EE-Block
+add address=193.124.56.0/22 list=EE-Block
 add address=193.138.8.0/24 list=EE-Block
 add address=193.143.8.0/21 list=EE-Block
 add address=193.143.240.0/21 list=EE-Block

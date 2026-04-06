@@ -374,6 +374,7 @@ add address=46.102.188.0/23 list=IT-Block
 add address=46.102.255.0/24 list=IT-Block
 add address=46.141.0.0/16 list=IT-Block
 add address=46.149.97.0/24 list=IT-Block
+add address=46.149.98.0/24 list=IT-Block
 add address=46.149.102.0/24 list=IT-Block
 add address=46.149.108.0/24 list=IT-Block
 add address=46.149.168.0/22 list=IT-Block

@@ -1335,6 +1335,7 @@ add address=86.111.54.0/23 list=BR-Block
 add address=93.158.236.0/22 list=BR-Block
 add address=99.198.80.0/20 list=BR-Block
 add address=103.68.206.0/23 list=BR-Block
+add address=103.151.110.0/23 list=BR-Block
 add address=128.201.0.0/22 list=BR-Block
 add address=128.201.8.0/21 list=BR-Block
 add address=128.201.16.0/22 list=BR-Block
@@ -2009,6 +2010,7 @@ add address=149.234.232.0/23 list=BR-Block
 add address=150.161.0.0/16 list=BR-Block
 add address=150.162.0.0/15 list=BR-Block
 add address=150.164.0.0/15 list=BR-Block
+add address=151.216.1.0/24 list=BR-Block
 add address=152.84.0.0/16 list=BR-Block
 add address=152.92.0.0/16 list=BR-Block
 add address=152.233.128.0/17 list=BR-Block

@@ -5,7 +5,6 @@ add address=103.9.228.0/22 list=WS-Block
 add address=103.55.178.0/24 list=WS-Block
 add address=103.63.27.0/24 list=WS-Block
 add address=103.131.62.0/23 list=WS-Block
-add address=103.143.149.0/24 list=WS-Block
 add address=103.154.194.0/23 list=WS-Block
 add address=110.5.112.0/22 list=WS-Block
 add address=123.176.72.0/21 list=WS-Block

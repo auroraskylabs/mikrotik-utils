@@ -32,7 +32,6 @@ add address=103.123.12.0/24 list=PG-Block
 add address=103.127.90.0/24 list=PG-Block
 add address=103.136.226.0/23 list=PG-Block
 add address=103.145.26.0/24 list=PG-Block
-add address=103.145.49.0/24 list=PG-Block
 add address=103.146.200.0/23 list=PG-Block
 add address=103.152.8.0/24 list=PG-Block
 add address=103.153.108.0/24 list=PG-Block
@@ -52,7 +51,6 @@ add address=124.240.192.0/19 list=PG-Block
 add address=125.254.50.0/23 list=PG-Block
 add address=160.20.143.0/24 list=PG-Block
 add address=160.191.118.0/23 list=PG-Block
-add address=163.61.10.0/23 list=PG-Block
 add address=163.227.43.0/24 list=PG-Block
 add address=180.150.252.0/22 list=PG-Block
 add address=202.1.32.0/19 list=PG-Block

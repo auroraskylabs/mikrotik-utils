@@ -175,6 +175,7 @@ add address=103.244.188.0/23 list=MM-Block
 add address=103.250.76.0/24 list=MM-Block
 add address=103.250.220.0/23 list=MM-Block
 add address=103.255.172.0/22 list=MM-Block
+add address=116.206.120.0/22 list=MM-Block
 add address=116.206.136.0/22 list=MM-Block
 add address=116.206.192.0/22 list=MM-Block
 add address=117.18.228.0/22 list=MM-Block

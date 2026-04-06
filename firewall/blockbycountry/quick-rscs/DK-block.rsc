@@ -427,6 +427,7 @@ add address=147.29.0.0/16 list=DK-Block
 add address=147.78.28.0/22 list=DK-Block
 add address=147.78.72.0/22 list=DK-Block
 add address=150.251.224.0/21 list=DK-Block
+add address=151.216.128.0/18 list=DK-Block
 add address=152.73.0.0/16 list=DK-Block
 add address=152.95.0.0/16 list=DK-Block
 add address=152.115.0.0/16 list=DK-Block

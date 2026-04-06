@@ -477,7 +477,8 @@ add address=103.94.246.0/23 list=BD-Block
 add address=103.95.38.0/24 list=BD-Block
 add address=103.95.96.0/22 list=BD-Block
 add address=103.95.108.0/23 list=BD-Block
-add address=103.95.208.0/22 list=BD-Block
+add address=103.95.208.0/23 list=BD-Block
+add address=103.95.211.0/24 list=BD-Block
 add address=103.96.36.0/22 list=BD-Block
 add address=103.96.68.0/22 list=BD-Block
 add address=103.96.89.0/24 list=BD-Block
@@ -884,7 +885,6 @@ add address=103.144.236.0/24 list=BD-Block
 add address=103.145.28.0/23 list=BD-Block
 add address=103.145.44.0/23 list=BD-Block
 add address=103.145.57.0/24 list=BD-Block
-add address=103.145.64.0/23 list=BD-Block
 add address=103.145.70.0/23 list=BD-Block
 add address=103.145.74.0/24 list=BD-Block
 add address=103.145.76.0/23 list=BD-Block
@@ -1273,7 +1273,7 @@ add address=103.178.72.0/23 list=BD-Block
 add address=103.178.82.0/24 list=BD-Block
 add address=103.178.94.0/23 list=BD-Block
 add address=103.178.186.0/23 list=BD-Block
-add address=103.178.188.0/22 list=BD-Block
+add address=103.178.190.0/23 list=BD-Block
 add address=103.178.220.0/23 list=BD-Block
 add address=103.178.236.0/22 list=BD-Block
 add address=103.178.242.0/23 list=BD-Block
@@ -1833,7 +1833,6 @@ add address=160.238.0.0/24 list=BD-Block
 add address=160.238.16.0/22 list=BD-Block
 add address=160.238.33.0/24 list=BD-Block
 add address=160.250.8.0/23 list=BD-Block
-add address=160.250.36.0/23 list=BD-Block
 add address=160.250.40.0/23 list=BD-Block
 add address=160.250.48.0/23 list=BD-Block
 add address=160.250.52.0/23 list=BD-Block
@@ -1896,6 +1895,10 @@ add address=163.128.24.0/23 list=BD-Block
 add address=163.128.78.0/23 list=BD-Block
 add address=163.128.94.0/24 list=BD-Block
 add address=163.128.108.0/23 list=BD-Block
+add address=163.128.126.0/23 list=BD-Block
+add address=163.128.140.0/23 list=BD-Block
+add address=163.128.144.0/23 list=BD-Block
+add address=163.128.150.0/23 list=BD-Block
 add address=163.223.20.0/23 list=BD-Block
 add address=163.223.34.0/23 list=BD-Block
 add address=163.223.38.0/23 list=BD-Block

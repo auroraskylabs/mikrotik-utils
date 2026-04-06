@@ -1415,7 +1415,8 @@ add address=200.49.192.0/19 list=AR-Block
 add address=200.49.224.0/20 list=AR-Block
 add address=200.49.248.0/21 list=AR-Block
 add address=200.50.152.0/22 list=AR-Block
-add address=200.50.160.0/19 list=AR-Block
+add address=200.50.160.0/20 list=AR-Block
+add address=200.50.184.0/21 list=AR-Block
 add address=200.50.240.0/20 list=AR-Block
 add address=200.51.0.0/16 list=AR-Block
 add address=200.55.0.0/17 list=AR-Block

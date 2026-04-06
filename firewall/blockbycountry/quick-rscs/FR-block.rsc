@@ -895,7 +895,6 @@ add address=91.198.199.0/24 list=FR-Block
 add address=91.199.0.0/24 list=FR-Block
 add address=91.199.11.0/24 list=FR-Block
 add address=91.199.103.0/24 list=FR-Block
-add address=91.199.152.0/24 list=FR-Block
 add address=91.199.179.0/24 list=FR-Block
 add address=91.199.221.0/24 list=FR-Block
 add address=91.199.233.0/24 list=FR-Block
@@ -3299,7 +3298,6 @@ add address=193.178.191.0/24 list=FR-Block
 add address=193.178.211.0/24 list=FR-Block
 add address=193.186.8.0/24 list=FR-Block
 add address=193.186.192.0/22 list=FR-Block
-add address=193.188.134.64/27 list=FR-Block
 add address=193.188.134.144/28 list=FR-Block
 add address=193.188.249.0/24 list=FR-Block
 add address=193.188.255.0/24 list=FR-Block

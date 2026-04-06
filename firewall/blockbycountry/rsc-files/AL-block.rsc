@@ -60,7 +60,6 @@ add address=91.187.96.0/19 list=AL-Block
 add address=91.210.136.0/22 list=AL-Block
 add address=91.212.96.0/24 list=AL-Block
 add address=91.217.6.0/23 list=AL-Block
-add address=91.217.72.0/23 list=AL-Block
 add address=91.226.220.0/24 list=AL-Block
 add address=91.230.254.0/23 list=AL-Block
 add address=91.239.6.0/23 list=AL-Block

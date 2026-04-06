@@ -192,6 +192,7 @@ add address=185.245.12.0/22 list=HR-Block
 add address=185.253.188.0/22 list=HR-Block
 add address=185.254.176.0/22 list=HR-Block
 add address=185.254.252.0/22 list=HR-Block
+add address=188.94.43.0/24 list=HR-Block
 add address=188.95.88.0/24 list=HR-Block
 add address=188.125.0.0/19 list=HR-Block
 add address=188.129.0.0/17 list=HR-Block
