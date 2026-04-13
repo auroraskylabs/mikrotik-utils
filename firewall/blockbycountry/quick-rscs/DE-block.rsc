@@ -579,6 +579,7 @@ add address=45.91.76.0/22 list=DE-Block
 add address=45.91.100.0/22 list=DE-Block
 add address=45.91.156.0/22 list=DE-Block
 add address=45.91.176.0/22 list=DE-Block
+add address=45.91.195.0/24 list=DE-Block
 add address=45.91.196.0/22 list=DE-Block
 add address=45.91.212.0/22 list=DE-Block
 add address=45.91.248.0/22 list=DE-Block
@@ -836,6 +837,7 @@ add address=45.153.144.0/22 list=DE-Block
 add address=45.153.176.0/22 list=DE-Block
 add address=45.153.240.0/21 list=DE-Block
 add address=45.154.20.0/22 list=DE-Block
+add address=45.154.32.0/24 list=DE-Block
 add address=45.154.48.0/22 list=DE-Block
 add address=45.154.92.0/22 list=DE-Block
 add address=45.154.108.0/22 list=DE-Block

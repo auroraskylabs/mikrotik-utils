@@ -683,7 +683,7 @@ add address=94.230.208.0/20 list=CH-Block
 add address=94.231.80.0/20 list=CH-Block
 add address=94.244.192.0/18 list=CH-Block
 add address=94.247.216.0/21 list=CH-Block
-add address=95.36.96.0/22 list=CH-Block
+add address=95.36.96.0/21 list=CH-Block
 add address=95.128.32.0/21 list=CH-Block
 add address=95.128.80.0/21 list=CH-Block
 add address=95.128.157.0/24 list=CH-Block

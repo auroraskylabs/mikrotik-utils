@@ -1179,6 +1179,7 @@ add address=95.131.40.0/21 list=IT-Block
 add address=95.131.56.0/21 list=IT-Block
 add address=95.131.203.0/24 list=IT-Block
 add address=95.131.206.0/23 list=IT-Block
+add address=95.133.128.0/22 list=IT-Block
 add address=95.140.128.0/20 list=IT-Block
 add address=95.141.32.0/20 list=IT-Block
 add address=95.142.176.0/20 list=IT-Block

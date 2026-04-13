@@ -6182,6 +6182,15 @@ add address=163.128.112.0/23 list=IN-Block
 add address=163.128.124.0/23 list=IN-Block
 add address=163.128.130.0/23 list=IN-Block
 add address=163.128.142.0/23 list=IN-Block
+add address=163.128.164.0/22 list=IN-Block
+add address=163.128.168.0/23 list=IN-Block
+add address=163.128.174.0/23 list=IN-Block
+add address=163.128.177.0/24 list=IN-Block
+add address=163.128.178.0/23 list=IN-Block
+add address=163.128.180.0/23 list=IN-Block
+add address=163.128.196.0/23 list=IN-Block
+add address=163.128.200.0/23 list=IN-Block
+add address=163.128.204.0/23 list=IN-Block
 add address=163.223.0.0/23 list=IN-Block
 add address=163.223.26.0/23 list=IN-Block
 add address=163.223.42.0/23 list=IN-Block

@@ -6,7 +6,6 @@ add address=45.5.116.0/22 list=GT-Block
 add address=45.68.4.0/22 list=GT-Block
 add address=45.68.48.0/22 list=GT-Block
 add address=45.164.148.0/22 list=GT-Block
-add address=45.165.152.0/24 list=GT-Block
 add address=45.166.240.0/22 list=GT-Block
 add address=45.171.64.0/22 list=GT-Block
 add address=45.173.216.0/22 list=GT-Block

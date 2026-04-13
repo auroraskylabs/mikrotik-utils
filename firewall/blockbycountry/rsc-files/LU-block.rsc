@@ -3,6 +3,7 @@
 add address=2.56.104.0/22 list=LU-Block
 add address=2.56.220.0/22 list=LU-Block
 add address=2.57.172.0/22 list=LU-Block
+add address=2.152.68.0/22 list=LU-Block
 add address=5.8.24.0/22 list=LU-Block
 add address=5.8.32.0/22 list=LU-Block
 add address=5.8.40.0/23 list=LU-Block
@@ -330,6 +331,8 @@ add address=158.120.254.0/24 list=LU-Block
 add address=158.166.0.0/15 list=LU-Block
 add address=158.168.0.0/15 list=LU-Block
 add address=171.22.196.0/22 list=LU-Block
+add address=173.255.148.0/24 list=LU-Block
+add address=173.255.150.0/24 list=LU-Block
 add address=176.65.72.0/21 list=LU-Block
 add address=176.119.203.0/24 list=LU-Block
 add address=176.119.219.0/24 list=LU-Block
@@ -534,6 +537,7 @@ add address=217.28.137.0/24 list=LU-Block
 add address=217.31.64.0/20 list=LU-Block
 add address=217.117.192.0/20 list=LU-Block
 add address=217.171.176.0/20 list=LU-Block
+add address=217.180.16.0/23 list=LU-Block
 add address=217.195.193.0/24 list=LU-Block
 add address=217.195.194.0/24 list=LU-Block
 add address=217.195.200.0/23 list=LU-Block

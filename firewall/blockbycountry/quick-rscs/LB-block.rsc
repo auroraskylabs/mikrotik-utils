@@ -12,7 +12,6 @@ add address=45.129.136.0/22 list=LB-Block
 add address=45.131.20.0/22 list=LB-Block
 add address=45.142.84.0/22 list=LB-Block
 add address=45.142.136.0/22 list=LB-Block
-add address=45.145.60.0/22 list=LB-Block
 add address=45.155.132.0/22 list=LB-Block
 add address=45.159.184.0/22 list=LB-Block
 add address=46.19.192.0/21 list=LB-Block

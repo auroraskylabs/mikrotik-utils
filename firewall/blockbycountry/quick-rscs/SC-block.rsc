@@ -213,7 +213,6 @@ add address=62.233.60.0/24 list=SC-Block
 add address=64.226.54.0/23 list=SC-Block
 add address=64.226.156.0/22 list=SC-Block
 add address=66.133.80.0/20 list=SC-Block
-add address=69.5.189.0/24 list=SC-Block
 add address=77.83.84.0/24 list=SC-Block
 add address=77.83.184.0/22 list=SC-Block
 add address=77.87.120.0/24 list=SC-Block
@@ -245,7 +244,6 @@ add address=84.246.109.0/24 list=SC-Block
 add address=84.246.110.0/24 list=SC-Block
 add address=85.209.128.0/22 list=SC-Block
 add address=85.235.80.0/23 list=SC-Block
-add address=86.54.42.0/24 list=SC-Block
 add address=87.236.150.0/23 list=SC-Block
 add address=87.236.167.0/24 list=SC-Block
 add address=88.151.13.0/24 list=SC-Block
@@ -526,14 +524,12 @@ add address=185.188.31.0/24 list=SC-Block
 add address=185.188.41.0/24 list=SC-Block
 add address=185.191.124.0/22 list=SC-Block
 add address=185.192.0.0/22 list=SC-Block
-add address=185.196.8.0/22 list=SC-Block
 add address=185.196.46.0/24 list=SC-Block
 add address=185.198.153.0/24 list=SC-Block
 add address=185.200.208.0/22 list=SC-Block
 add address=185.202.106.0/23 list=SC-Block
 add address=185.207.213.0/24 list=SC-Block
 add address=185.207.214.0/24 list=SC-Block
-add address=185.208.156.0/22 list=SC-Block
 add address=185.212.112.0/24 list=SC-Block
 add address=185.214.72.0/24 list=SC-Block
 add address=185.214.74.0/23 list=SC-Block
@@ -764,7 +760,6 @@ add address=202.50.166.0/24 list=SC-Block
 add address=205.201.0.0/20 list=SC-Block
 add address=208.87.166.0/23 list=SC-Block
 add address=209.35.158.0/24 list=SC-Block
-add address=212.11.64.0/24 list=SC-Block
 add address=212.18.96.0/24 list=SC-Block
 add address=212.18.100.0/24 list=SC-Block
 add address=212.18.103.0/24 list=SC-Block
@@ -790,7 +785,6 @@ add address=217.114.32.0/24 list=SC-Block
 add address=217.114.41.0/24 list=SC-Block
 add address=217.114.42.0/24 list=SC-Block
 add address=217.119.130.0/24 list=SC-Block
-add address=217.119.139.0/24 list=SC-Block
 add address=217.198.176.0/24 list=SC-Block
 add address=217.198.178.0/23 list=SC-Block
 add address=217.198.180.0/23 list=SC-Block

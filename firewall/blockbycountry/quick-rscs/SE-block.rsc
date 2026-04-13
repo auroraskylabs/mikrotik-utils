@@ -289,7 +289,6 @@ add address=80.244.9.0/24 list=SE-Block
 add address=80.244.64.0/19 list=SE-Block
 add address=80.244.192.0/20 list=SE-Block
 add address=80.245.224.0/20 list=SE-Block
-add address=80.248.128.0/21 list=SE-Block
 add address=80.248.224.0/20 list=SE-Block
 add address=80.251.192.0/20 list=SE-Block
 add address=80.252.160.0/19 list=SE-Block
@@ -1977,6 +1976,7 @@ add address=217.151.48.0/20 list=SE-Block
 add address=217.151.192.0/20 list=SE-Block
 add address=217.174.64.0/19 list=SE-Block
 add address=217.175.112.0/20 list=SE-Block
+add address=217.177.8.0/23 list=SE-Block
 add address=217.197.48.0/20 list=SE-Block
 add address=217.198.64.0/20 list=SE-Block
 add address=217.198.144.0/20 list=SE-Block

@@ -129,6 +129,7 @@ add address=80.248.141.0/24 list=BE-Block
 add address=80.248.142.0/23 list=BE-Block
 add address=81.11.128.0/17 list=BE-Block
 add address=81.82.0.0/15 list=BE-Block
+add address=81.85.61.0/24 list=BE-Block
 add address=81.92.112.0/20 list=BE-Block
 add address=81.95.112.0/20 list=BE-Block
 add address=81.164.0.0/15 list=BE-Block

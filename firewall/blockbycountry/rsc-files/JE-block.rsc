@@ -16,7 +16,9 @@ add address=103.105.148.0/22 list=JE-Block
 add address=109.68.192.0/22 list=JE-Block
 add address=146.19.127.0/24 list=JE-Block
 add address=165.250.0.0/16 list=JE-Block
-add address=173.255.144.0/21 list=JE-Block
+add address=173.255.144.0/22 list=JE-Block
+add address=173.255.149.0/24 list=JE-Block
+add address=173.255.151.0/24 list=JE-Block
 add address=185.3.52.0/22 list=JE-Block
 add address=185.16.68.0/22 list=JE-Block
 add address=185.48.60.0/22 list=JE-Block
