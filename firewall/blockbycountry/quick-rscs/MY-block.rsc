@@ -621,6 +621,8 @@ add address=163.61.18.0/24 list=MY-Block
 add address=163.61.92.0/23 list=MY-Block
 add address=163.61.102.0/23 list=MY-Block
 add address=163.128.146.0/23 list=MY-Block
+add address=163.128.218.0/24 list=MY-Block
+add address=163.128.246.0/24 list=MY-Block
 add address=163.223.146.0/23 list=MY-Block
 add address=163.223.158.0/23 list=MY-Block
 add address=165.84.232.0/21 list=MY-Block

@@ -1900,6 +1900,8 @@ add address=163.128.140.0/23 list=BD-Block
 add address=163.128.144.0/23 list=BD-Block
 add address=163.128.150.0/23 list=BD-Block
 add address=163.128.188.0/23 list=BD-Block
+add address=163.128.210.0/23 list=BD-Block
+add address=163.128.216.0/23 list=BD-Block
 add address=163.223.20.0/23 list=BD-Block
 add address=163.223.34.0/23 list=BD-Block
 add address=163.223.38.0/23 list=BD-Block

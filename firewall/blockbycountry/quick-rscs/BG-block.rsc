@@ -1263,6 +1263,7 @@ add address=195.246.240.0/23 list=BG-Block
 add address=195.250.60.0/24 list=BG-Block
 add address=198.60.193.0/24 list=BG-Block
 add address=204.137.13.0/24 list=BG-Block
+add address=212.2.32.0/21 list=BG-Block
 add address=212.5.32.0/19 list=BG-Block
 add address=212.5.128.0/19 list=BG-Block
 add address=212.21.128.0/19 list=BG-Block

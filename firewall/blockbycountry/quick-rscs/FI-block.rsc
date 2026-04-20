@@ -647,11 +647,7 @@ add address=192.84.204.0/22 list=FI-Block
 add address=192.88.86.0/24 list=FI-Block
 add address=192.89.0.0/16 list=FI-Block
 add address=192.92.116.0/24 list=FI-Block
-add address=192.98.0.0/18 list=FI-Block
-add address=192.98.64.0/19 list=FI-Block
-add address=192.98.96.0/20 list=FI-Block
-add address=192.98.112.0/21 list=FI-Block
-add address=192.98.128.0/17 list=FI-Block
+add address=192.98.0.0/16 list=FI-Block
 add address=192.101.192.0/24 list=FI-Block
 add address=192.102.18.0/23 list=FI-Block
 add address=192.102.20.0/22 list=FI-Block

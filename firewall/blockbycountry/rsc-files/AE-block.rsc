@@ -9,6 +9,7 @@ add address=2.57.16.0/21 list=AE-Block
 add address=2.57.148.0/22 list=AE-Block
 add address=2.57.240.0/22 list=AE-Block
 add address=2.58.28.0/22 list=AE-Block
+add address=2.58.60.0/22 list=AE-Block
 add address=2.58.96.0/23 list=AE-Block
 add address=2.58.99.0/24 list=AE-Block
 add address=2.58.172.0/22 list=AE-Block
@@ -35,6 +36,7 @@ add address=5.180.16.0/22 list=AE-Block
 add address=5.181.14.0/23 list=AE-Block
 add address=5.181.124.0/22 list=AE-Block
 add address=5.181.128.0/21 list=AE-Block
+add address=5.181.161.0/24 list=AE-Block
 add address=5.182.24.0/22 list=AE-Block
 add address=5.182.108.0/22 list=AE-Block
 add address=5.182.124.0/22 list=AE-Block
@@ -46,6 +48,7 @@ add address=5.252.72.0/21 list=AE-Block
 add address=5.252.80.0/22 list=AE-Block
 add address=5.252.160.0/22 list=AE-Block
 add address=5.253.200.0/22 list=AE-Block
+add address=23.145.116.0/24 list=AE-Block
 add address=31.14.10.0/24 list=AE-Block
 add address=31.24.253.0/24 list=AE-Block
 add address=31.29.64.0/19 list=AE-Block
@@ -596,10 +599,11 @@ add address=131.222.129.0/24 list=AE-Block
 add address=131.222.136.0/21 list=AE-Block
 add address=131.222.144.0/20 list=AE-Block
 add address=131.222.160.0/19 list=AE-Block
-add address=131.222.192.0/22 list=AE-Block
-add address=131.222.196.0/23 list=AE-Block
-add address=131.222.200.0/21 list=AE-Block
-add address=131.222.208.0/20 list=AE-Block
+add address=131.222.194.0/23 list=AE-Block
+add address=131.222.200.0/24 list=AE-Block
+add address=131.222.203.0/24 list=AE-Block
+add address=131.222.204.0/22 list=AE-Block
+add address=131.222.222.0/23 list=AE-Block
 add address=132.243.16.0/20 list=AE-Block
 add address=132.243.112.0/20 list=AE-Block
 add address=134.0.216.0/21 list=AE-Block
@@ -628,10 +632,13 @@ add address=153.56.138.0/23 list=AE-Block
 add address=153.56.140.0/22 list=AE-Block
 add address=153.56.144.0/21 list=AE-Block
 add address=153.56.152.0/23 list=AE-Block
-add address=153.56.154.0/24 list=AE-Block
 add address=153.56.156.0/22 list=AE-Block
 add address=153.56.160.0/19 list=AE-Block
-add address=153.56.192.0/18 list=AE-Block
+add address=153.56.192.0/21 list=AE-Block
+add address=153.56.200.0/22 list=AE-Block
+add address=153.56.204.0/23 list=AE-Block
+add address=153.56.208.0/20 list=AE-Block
+add address=153.56.224.0/19 list=AE-Block
 add address=153.75.80.0/20 list=AE-Block
 add address=158.255.77.0/24 list=AE-Block
 add address=167.17.32.0/19 list=AE-Block
@@ -795,6 +802,7 @@ add address=185.184.52.0/24 list=AE-Block
 add address=185.184.77.0/24 list=AE-Block
 add address=185.184.78.0/24 list=AE-Block
 add address=185.184.152.0/22 list=AE-Block
+add address=185.186.52.0/24 list=AE-Block
 add address=185.187.88.0/24 list=AE-Block
 add address=185.187.196.0/23 list=AE-Block
 add address=185.187.198.0/24 list=AE-Block
@@ -981,6 +989,7 @@ add address=194.35.125.0/24 list=AE-Block
 add address=194.35.126.0/23 list=AE-Block
 add address=194.36.188.0/24 list=AE-Block
 add address=194.36.190.0/23 list=AE-Block
+add address=194.48.203.0/24 list=AE-Block
 add address=194.50.0.0/23 list=AE-Block
 add address=194.50.4.0/23 list=AE-Block
 add address=194.50.223.0/24 list=AE-Block

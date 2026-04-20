@@ -9,6 +9,7 @@ add address=45.87.224.0/22 list=QA-Block
 add address=78.100.0.0/15 list=QA-Block
 add address=80.76.160.0/20 list=QA-Block
 add address=81.29.160.0/20 list=QA-Block
+add address=81.85.84.0/22 list=QA-Block
 add address=82.148.96.0/19 list=QA-Block
 add address=86.36.0.0/15 list=QA-Block
 add address=86.62.192.0/18 list=QA-Block

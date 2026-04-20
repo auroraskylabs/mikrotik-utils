@@ -57,6 +57,7 @@ add address=102.164.52.0/22 list=KE-Block
 add address=102.164.56.0/21 list=KE-Block
 add address=102.166.0.0/15 list=KE-Block
 add address=102.176.180.0/22 list=KE-Block
+add address=102.202.189.0/24 list=KE-Block
 add address=102.203.2.0/23 list=KE-Block
 add address=102.203.44.0/22 list=KE-Block
 add address=102.203.64.0/22 list=KE-Block
@@ -68,6 +69,7 @@ add address=102.203.126.0/23 list=KE-Block
 add address=102.203.132.0/22 list=KE-Block
 add address=102.203.137.0/24 list=KE-Block
 add address=102.203.140.0/22 list=KE-Block
+add address=102.203.144.0/22 list=KE-Block
 add address=102.203.172.0/22 list=KE-Block
 add address=102.203.215.0/24 list=KE-Block
 add address=102.203.216.0/22 list=KE-Block

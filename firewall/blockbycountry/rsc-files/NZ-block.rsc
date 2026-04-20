@@ -711,6 +711,7 @@ add address=165.205.0.0/16 list=NZ-Block
 add address=166.65.0.0/16 list=NZ-Block
 add address=166.83.0.0/16 list=NZ-Block
 add address=167.179.2.0/24 list=NZ-Block
+add address=167.179.33.0/24 list=NZ-Block
 add address=167.179.196.0/23 list=NZ-Block
 add address=167.179.198.0/24 list=NZ-Block
 add address=167.179.208.0/22 list=NZ-Block

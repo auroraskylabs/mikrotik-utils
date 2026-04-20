@@ -1,7 +1,6 @@
 /ip firewall address-list remove [find list="IE-Block"]
 /ip firewall address-list
 add address=2.57.24.0/22 list=IE-Block
-add address=2.58.60.0/22 list=IE-Block
 add address=2.58.180.0/22 list=IE-Block
 add address=2.59.104.0/22 list=IE-Block
 add address=5.61.112.0/21 list=IE-Block
@@ -14,7 +13,6 @@ add address=5.159.40.0/21 list=IE-Block
 add address=5.179.32.0/19 list=IE-Block
 add address=5.179.64.0/21 list=IE-Block
 add address=5.181.8.0/22 list=IE-Block
-add address=5.181.161.0/24 list=IE-Block
 add address=5.183.196.0/22 list=IE-Block
 add address=5.253.124.0/22 list=IE-Block
 add address=31.7.48.0/21 list=IE-Block
@@ -220,7 +218,6 @@ add address=89.126.232.0/21 list=IE-Block
 add address=89.126.240.0/20 list=IE-Block
 add address=89.127.0.0/17 list=IE-Block
 add address=89.127.128.0/18 list=IE-Block
-add address=89.127.192.0/19 list=IE-Block
 add address=89.127.224.0/21 list=IE-Block
 add address=89.127.248.0/22 list=IE-Block
 add address=89.127.254.0/23 list=IE-Block
@@ -652,7 +649,6 @@ add address=194.45.233.0/24 list=IE-Block
 add address=194.46.192.0/18 list=IE-Block
 add address=194.48.3.0/24 list=IE-Block
 add address=194.48.191.0/24 list=IE-Block
-add address=194.48.203.0/24 list=IE-Block
 add address=194.50.183.0/24 list=IE-Block
 add address=194.60.81.0/24 list=IE-Block
 add address=194.61.12.0/22 list=IE-Block

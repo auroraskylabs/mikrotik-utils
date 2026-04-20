@@ -623,6 +623,7 @@ add address=194.36.88.0/22 list=IL-Block
 add address=194.37.80.0/22 list=IL-Block
 add address=194.41.120.0/22 list=IL-Block
 add address=194.50.71.0/24 list=IL-Block
+add address=194.50.89.0/24 list=IL-Block
 add address=194.50.175.0/24 list=IL-Block
 add address=194.54.168.0/22 list=IL-Block
 add address=194.56.215.0/24 list=IL-Block

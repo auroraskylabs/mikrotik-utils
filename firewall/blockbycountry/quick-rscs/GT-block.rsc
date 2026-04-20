@@ -31,7 +31,7 @@ add address=138.118.104.0/22 list=GT-Block
 add address=143.208.56.0/22 list=GT-Block
 add address=143.208.180.0/22 list=GT-Block
 add address=148.222.58.0/23 list=GT-Block
-add address=148.224.60.0/24 list=GT-Block
+add address=148.224.60.0/23 list=GT-Block
 add address=148.227.208.0/20 list=GT-Block
 add address=148.230.16.0/20 list=GT-Block
 add address=167.250.220.0/22 list=GT-Block

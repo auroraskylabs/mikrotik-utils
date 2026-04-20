@@ -166,7 +166,6 @@ add address=148.224.30.0/24 list=MX-Block
 add address=148.224.32.0/20 list=MX-Block
 add address=148.224.52.0/22 list=MX-Block
 add address=148.224.56.0/22 list=MX-Block
-add address=148.224.61.0/24 list=MX-Block
 add address=148.224.64.0/18 list=MX-Block
 add address=148.224.128.0/17 list=MX-Block
 add address=148.225.0.0/16 list=MX-Block
@@ -378,7 +377,6 @@ add address=192.148.175.0/24 list=MX-Block
 add address=192.153.155.0/24 list=MX-Block
 add address=192.160.111.0/24 list=MX-Block
 add address=192.190.30.0/23 list=MX-Block
-add address=192.190.144.0/22 list=MX-Block
 add address=192.203.177.0/24 list=MX-Block
 add address=192.207.204.0/23 list=MX-Block
 add address=192.234.102.0/24 list=MX-Block
@@ -389,6 +387,7 @@ add address=200.0.84.0/24 list=MX-Block
 add address=200.0.90.0/23 list=MX-Block
 add address=200.0.92.0/23 list=MX-Block
 add address=200.0.95.0/24 list=MX-Block
+add address=200.0.96.0/22 list=MX-Block
 add address=200.0.103.0/24 list=MX-Block
 add address=200.0.104.0/23 list=MX-Block
 add address=200.0.106.0/24 list=MX-Block
@@ -797,7 +796,6 @@ add address=208.78.16.0/22 list=MX-Block
 add address=208.88.68.0/24 list=MX-Block
 add address=209.35.184.0/22 list=MX-Block
 add address=209.178.128.0/18 list=MX-Block
-add address=209.209.52.0/22 list=MX-Block
 
 /ip firewall raw
  :if ([print count-only where src-address-list="MX-Block"] = "0") do={ add chain=prerouting action=drop src-address-list=MX-Block comment="Block MX traffic" }

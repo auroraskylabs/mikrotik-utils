@@ -497,6 +497,7 @@ add address=91.92.220.0/22 list=IR-Block
 add address=91.92.228.0/23 list=IR-Block
 add address=91.92.231.0/24 list=IR-Block
 add address=91.92.236.0/22 list=IR-Block
+add address=91.102.126.0/23 list=IR-Block
 add address=91.106.64.0/19 list=IR-Block
 add address=91.108.128.0/19 list=IR-Block
 add address=91.109.104.0/21 list=IR-Block

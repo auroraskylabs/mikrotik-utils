@@ -936,6 +936,7 @@ add address=193.69.0.0/16 list=NO-Block
 add address=193.71.0.0/16 list=NO-Block
 add address=193.75.0.0/17 list=NO-Block
 add address=193.84.10.0/24 list=NO-Block
+add address=193.84.17.0/24 list=NO-Block
 add address=193.90.0.0/16 list=NO-Block
 add address=193.91.128.0/17 list=NO-Block
 add address=193.93.128.0/22 list=NO-Block

@@ -435,7 +435,6 @@ add address=188.241.71.0/24 list=LU-Block
 add address=188.241.250.0/24 list=LU-Block
 add address=192.58.28.0/24 list=LU-Block
 add address=192.91.140.0/23 list=LU-Block
-add address=192.98.120.0/21 list=LU-Block
 add address=192.103.2.0/24 list=LU-Block
 add address=192.156.248.0/24 list=LU-Block
 add address=192.160.22.0/24 list=LU-Block
