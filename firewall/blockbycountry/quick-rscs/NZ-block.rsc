@@ -689,6 +689,7 @@ add address=160.250.138.0/23 list=NZ-Block
 add address=161.29.0.0/16 list=NZ-Block
 add address=161.65.0.0/16 list=NZ-Block
 add address=161.248.127.0/24 list=NZ-Block
+add address=162.4.18.0/23 list=NZ-Block
 add address=162.112.0.0/16 list=NZ-Block
 add address=162.208.16.0/24 list=NZ-Block
 add address=163.7.128.0/19 list=NZ-Block
@@ -1000,7 +1001,6 @@ add address=202.37.163.0/24 list=NZ-Block
 add address=202.37.167.0/24 list=NZ-Block
 add address=202.37.168.0/24 list=NZ-Block
 add address=202.37.183.0/24 list=NZ-Block
-add address=202.37.194.0/24 list=NZ-Block
 add address=202.37.197.0/24 list=NZ-Block
 add address=202.37.198.0/24 list=NZ-Block
 add address=202.37.200.0/21 list=NZ-Block

@@ -3138,7 +3138,6 @@ add address=194.6.204.0/22 list=PL-Block
 add address=194.6.241.0/24 list=PL-Block
 add address=194.6.245.0/24 list=PL-Block
 add address=194.6.246.0/24 list=PL-Block
-add address=194.8.14.0/24 list=PL-Block
 add address=194.8.45.0/24 list=PL-Block
 add address=194.8.46.0/24 list=PL-Block
 add address=194.8.68.0/23 list=PL-Block

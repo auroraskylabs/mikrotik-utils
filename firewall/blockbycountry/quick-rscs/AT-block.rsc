@@ -1763,7 +1763,6 @@ add address=195.242.166.0/24 list=AT-Block
 add address=195.242.168.0/24 list=AT-Block
 add address=195.242.175.0/24 list=AT-Block
 add address=195.242.184.0/24 list=AT-Block
-add address=195.244.18.0/23 list=AT-Block
 add address=195.245.92.0/23 list=AT-Block
 add address=195.245.225.0/24 list=AT-Block
 add address=195.248.32.0/19 list=AT-Block

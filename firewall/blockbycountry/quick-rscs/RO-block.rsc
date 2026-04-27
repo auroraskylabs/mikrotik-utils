@@ -2125,7 +2125,6 @@ add address=194.60.72.0/24 list=RO-Block
 add address=194.60.82.0/24 list=RO-Block
 add address=194.61.80.0/24 list=RO-Block
 add address=194.61.82.0/23 list=RO-Block
-add address=194.61.156.0/23 list=RO-Block
 add address=194.62.2.0/23 list=RO-Block
 add address=194.62.22.0/24 list=RO-Block
 add address=194.62.122.0/23 list=RO-Block

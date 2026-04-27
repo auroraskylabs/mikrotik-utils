@@ -144,6 +144,7 @@ add address=213.167.128.0/19 list=IS-Block
 add address=213.176.128.0/19 list=IS-Block
 add address=213.181.96.0/19 list=IS-Block
 add address=213.190.96.0/19 list=IS-Block
+add address=213.193.235.0/24 list=IS-Block
 add address=213.213.128.0/19 list=IS-Block
 add address=213.218.160.0/24 list=IS-Block
 add address=213.220.64.0/18 list=IS-Block

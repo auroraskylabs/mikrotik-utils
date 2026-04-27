@@ -99,6 +99,7 @@ add address=109.68.120.0/21 list=AM-Block
 add address=109.75.32.0/20 list=AM-Block
 add address=130.193.27.0/24 list=AM-Block
 add address=130.193.120.0/21 list=AM-Block
+add address=132.243.176.0/20 list=AM-Block
 add address=141.136.64.0/19 list=AM-Block
 add address=176.32.192.0/21 list=AM-Block
 add address=176.113.118.0/24 list=AM-Block
