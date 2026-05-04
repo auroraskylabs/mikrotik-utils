@@ -18,7 +18,10 @@ add address=186.2.176.0/20 list=CW-Block
 add address=186.148.216.0/21 list=CW-Block
 add address=186.190.232.0/22 list=CW-Block
 add address=186.190.240.0/20 list=CW-Block
-add address=190.2.128.0/18 list=CW-Block
+add address=190.2.128.0/19 list=CW-Block
+add address=190.2.160.0/20 list=CW-Block
+add address=190.2.176.0/21 list=CW-Block
+add address=190.2.188.0/22 list=CW-Block
 add address=190.4.128.0/18 list=CW-Block
 add address=190.13.120.0/21 list=CW-Block
 add address=190.88.0.0/16 list=CW-Block
