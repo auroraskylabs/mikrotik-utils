@@ -836,6 +836,7 @@ add address=192.245.249.0/24 list=KR-Block
 add address=192.245.250.0/23 list=KR-Block
 add address=192.249.16.0/20 list=KR-Block
 add address=198.148.192.0/22 list=KR-Block
+add address=199.241.120.0/21 list=KR-Block
 add address=202.3.16.0/20 list=KR-Block
 add address=202.6.95.0/24 list=KR-Block
 add address=202.8.160.0/19 list=KR-Block

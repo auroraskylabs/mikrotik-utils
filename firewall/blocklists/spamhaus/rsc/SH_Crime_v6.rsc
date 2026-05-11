@@ -26,7 +26,6 @@ add address=2405:b180::/32 list=SpamHausCrime comment=SBL312915
 add address=2405:b480::/32 list=SpamHausCrime comment=SBL341597
 add address=2405:e880::/32 list=SpamHausCrime comment=SBL327648
 add address=2602:f68a::/40 list=SpamHausCrime comment=SBL678470
-add address=2602:f959:1::/48 list=SpamHausCrime comment=SBL678365
 add address=2602:f9bb::/36 list=SpamHausCrime comment=SBL679675
 add address=2602:ffa0::/36 list=SpamHausCrime comment=SBL262027
 add address=2604:be0:fff0::/44 list=SpamHausCrime comment=SBL683025
@@ -58,7 +57,6 @@ add address=2a09:ac80::/29 list=SpamHausCrime comment=SBL494347
 add address=2a0a:c00::/29 list=SpamHausCrime comment=SBL311394
 add address=2a0a:53c0:938::/48 list=SpamHausCrime comment=SBL635702
 add address=2a0a:6240::/29 list=SpamHausCrime comment=SBL353065
-add address=2a0a:a840::/29 list=SpamHausCrime comment=SBL354872
 add address=2a0b:3e80::/29 list=SpamHausCrime comment=SBL340167
 add address=2a0b:7ec0::/29 list=SpamHausCrime comment=SBL689991
 add address=2a0b:88c0:16::/48 list=SpamHausCrime comment=SBL689998

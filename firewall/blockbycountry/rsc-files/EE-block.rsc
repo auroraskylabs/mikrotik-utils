@@ -200,6 +200,7 @@ add address=176.118.4.0/22 list=EE-Block
 add address=176.119.141.0/24 list=EE-Block
 add address=176.124.32.0/23 list=EE-Block
 add address=176.124.247.0/24 list=EE-Block
+add address=178.17.247.0/24 list=EE-Block
 add address=178.21.240.0/21 list=EE-Block
 add address=178.23.112.0/21 list=EE-Block
 add address=178.212.137.0/24 list=EE-Block

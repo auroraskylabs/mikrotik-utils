@@ -877,6 +877,7 @@ add address=195.8.54.0/23 list=FI-Block
 add address=195.8.60.0/23 list=FI-Block
 add address=195.8.63.0/24 list=FI-Block
 add address=195.10.128.0/18 list=FI-Block
+add address=195.13.36.0/24 list=FI-Block
 add address=195.14.15.0/24 list=FI-Block
 add address=195.16.192.0/19 list=FI-Block
 add address=195.20.116.0/23 list=FI-Block

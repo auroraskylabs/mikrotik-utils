@@ -62,6 +62,7 @@ add address=202.95.192.0/20 list=PG-Block
 add address=202.165.192.0/20 list=PG-Block
 add address=202.171.240.0/21 list=PG-Block
 add address=203.83.16.0/21 list=PG-Block
+add address=207.241.186.0/23 list=PG-Block
 
 /ip firewall raw
  :if ([print count-only where src-address-list="PG-Block"] = "0") do={ add chain=prerouting action=drop src-address-list=PG-Block comment="Block PG traffic" }

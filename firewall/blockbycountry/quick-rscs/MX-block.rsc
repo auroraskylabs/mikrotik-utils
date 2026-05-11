@@ -1,6 +1,7 @@
 /ip firewall address-list remove [find list="MX-Block"]
 /ip firewall address-list
 add address=23.156.104.0/24 list=MX-Block
+add address=23.157.236.0/24 list=MX-Block
 add address=45.5.52.0/22 list=MX-Block
 add address=45.5.92.0/22 list=MX-Block
 add address=45.6.60.0/22 list=MX-Block

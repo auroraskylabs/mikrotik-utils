@@ -62,3 +62,4 @@ add address=202.95.192.0/20 list=PG-Block
 add address=202.165.192.0/20 list=PG-Block
 add address=202.171.240.0/21 list=PG-Block
 add address=203.83.16.0/21 list=PG-Block
+add address=207.241.186.0/23 list=PG-Block

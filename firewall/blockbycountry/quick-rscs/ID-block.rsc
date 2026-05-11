@@ -3631,6 +3631,7 @@ add address=151.158.239.0/24 list=ID-Block
 add address=151.158.240.0/23 list=ID-Block
 add address=151.158.250.0/24 list=ID-Block
 add address=152.118.0.0/16 list=ID-Block
+add address=153.76.64.0/19 list=ID-Block
 add address=153.124.160.0/21 list=ID-Block
 add address=157.10.0.0/22 list=ID-Block
 add address=157.10.4.0/23 list=ID-Block
@@ -3967,6 +3968,11 @@ add address=162.4.36.0/22 list=ID-Block
 add address=162.4.44.0/22 list=ID-Block
 add address=162.4.62.0/23 list=ID-Block
 add address=162.4.68.0/23 list=ID-Block
+add address=162.4.71.0/24 list=ID-Block
+add address=162.4.78.0/24 list=ID-Block
+add address=162.4.86.0/23 list=ID-Block
+add address=162.4.90.0/23 list=ID-Block
+add address=162.4.96.0/24 list=ID-Block
 add address=163.47.22.0/24 list=ID-Block
 add address=163.47.25.0/24 list=ID-Block
 add address=163.47.28.0/24 list=ID-Block
