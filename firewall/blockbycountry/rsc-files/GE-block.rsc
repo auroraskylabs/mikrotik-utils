@@ -82,6 +82,7 @@ add address=84.38.245.0/24 list=GE-Block
 add address=85.114.224.0/19 list=GE-Block
 add address=85.117.32.0/19 list=GE-Block
 add address=85.118.96.0/19 list=GE-Block
+add address=85.137.81.0/24 list=GE-Block
 add address=85.209.80.0/22 list=GE-Block
 add address=85.238.32.0/19 list=GE-Block
 add address=87.253.32.0/19 list=GE-Block

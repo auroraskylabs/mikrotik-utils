@@ -980,7 +980,8 @@ add address=186.96.192.0/21 list=AR-Block
 add address=186.100.0.0/16 list=AR-Block
 add address=186.108.0.0/14 list=AR-Block
 add address=186.121.146.0/23 list=AR-Block
-add address=186.121.152.0/21 list=AR-Block
+add address=186.121.154.0/23 list=AR-Block
+add address=186.121.156.0/22 list=AR-Block
 add address=186.121.168.0/21 list=AR-Block
 add address=186.121.176.0/20 list=AR-Block
 add address=186.122.0.0/15 list=AR-Block

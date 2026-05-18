@@ -1,14 +1,12 @@
 /ip firewall address-list remove [find list="VI-Block"]
 /ip firewall address-list
 add address=23.143.120.0/24 list=VI-Block
-add address=23.177.184.0/23 list=VI-Block
 add address=66.59.216.0/24 list=VI-Block
 add address=66.185.32.0/20 list=VI-Block
 add address=66.248.160.0/19 list=VI-Block
 add address=67.211.240.0/20 list=VI-Block
 add address=98.142.160.0/20 list=VI-Block
 add address=104.192.184.0/21 list=VI-Block
-add address=130.12.44.0/22 list=VI-Block
 add address=131.143.68.0/22 list=VI-Block
 add address=132.147.224.0/20 list=VI-Block
 add address=136.143.195.0/24 list=VI-Block

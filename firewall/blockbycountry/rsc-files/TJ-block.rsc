@@ -33,6 +33,7 @@ add address=153.56.136.0/24 list=TJ-Block
 add address=162.120.21.0/24 list=TJ-Block
 add address=176.113.128.0/20 list=TJ-Block
 add address=185.42.96.0/22 list=TJ-Block
+add address=185.60.222.0/24 list=TJ-Block
 add address=185.105.228.0/22 list=TJ-Block
 add address=185.121.0.0/22 list=TJ-Block
 add address=185.166.56.0/22 list=TJ-Block

@@ -142,7 +142,7 @@ add address=80.160.0.0/13 list=DK-Block
 add address=80.196.0.0/14 list=DK-Block
 add address=80.208.0.0/17 list=DK-Block
 add address=80.209.0.0/17 list=DK-Block
-add address=80.210.64.0/19 list=DK-Block
+add address=80.210.64.0/20 list=DK-Block
 add address=80.243.112.0/20 list=DK-Block
 add address=80.245.100.0/22 list=DK-Block
 add address=80.248.136.0/24 list=DK-Block
@@ -187,7 +187,6 @@ add address=85.129.0.0/17 list=DK-Block
 add address=85.184.128.0/18 list=DK-Block
 add address=85.191.0.0/16 list=DK-Block
 add address=85.194.233.0/24 list=DK-Block
-add address=85.194.254.0/23 list=DK-Block
 add address=85.202.16.0/20 list=DK-Block
 add address=85.202.64.0/20 list=DK-Block
 add address=85.203.128.0/17 list=DK-Block

@@ -1975,6 +1975,7 @@ add address=193.106.44.0/22 list=RO-Block
 add address=193.106.124.0/22 list=RO-Block
 add address=193.106.149.0/24 list=RO-Block
 add address=193.111.16.0/23 list=RO-Block
+add address=193.111.68.0/23 list=RO-Block
 add address=193.111.120.0/23 list=RO-Block
 add address=193.111.161.0/24 list=RO-Block
 add address=193.111.232.0/24 list=RO-Block

@@ -637,7 +637,6 @@ add address=151.253.0.0/16 list=AE-Block
 add address=153.56.0.0/17 list=AE-Block
 add address=153.56.131.0/24 list=AE-Block
 add address=153.56.137.0/24 list=AE-Block
-add address=153.56.140.0/23 list=AE-Block
 add address=153.56.143.0/24 list=AE-Block
 add address=153.56.144.0/21 list=AE-Block
 add address=153.56.152.0/23 list=AE-Block

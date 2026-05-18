@@ -4313,7 +4313,6 @@ add address=103.189.172.0/23 list=IN-Block
 add address=103.189.178.0/23 list=IN-Block
 add address=103.189.182.0/23 list=IN-Block
 add address=103.189.184.0/24 list=IN-Block
-add address=103.189.196.0/24 list=IN-Block
 add address=103.189.211.0/24 list=IN-Block
 add address=103.189.214.0/23 list=IN-Block
 add address=103.189.216.0/23 list=IN-Block
@@ -6135,6 +6134,11 @@ add address=162.4.93.0/24 list=IN-Block
 add address=162.4.97.0/24 list=IN-Block
 add address=162.4.100.0/23 list=IN-Block
 add address=162.4.102.0/24 list=IN-Block
+add address=162.4.108.0/22 list=IN-Block
+add address=162.4.118.0/24 list=IN-Block
+add address=162.4.124.0/23 list=IN-Block
+add address=162.4.130.0/23 list=IN-Block
+add address=162.4.132.0/23 list=IN-Block
 add address=162.12.244.0/22 list=IN-Block
 add address=162.56.0.0/16 list=IN-Block
 add address=162.216.140.0/22 list=IN-Block

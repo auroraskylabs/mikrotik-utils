@@ -72,13 +72,11 @@ add address=60.234.0.0/16 list=NZ-Block
 add address=64.246.80.0/20 list=NZ-Block
 add address=66.235.120.0/21 list=NZ-Block
 add address=67.215.112.0/20 list=NZ-Block
-add address=69.30.89.0/24 list=NZ-Block
 add address=78.138.10.0/23 list=NZ-Block
 add address=91.208.208.0/24 list=NZ-Block
 add address=91.208.228.0/24 list=NZ-Block
 add address=91.208.230.0/24 list=NZ-Block
 add address=91.208.233.0/24 list=NZ-Block
-add address=91.218.78.0/23 list=NZ-Block
 add address=101.53.192.0/19 list=NZ-Block
 add address=101.98.0.0/16 list=NZ-Block
 add address=101.100.0.0/17 list=NZ-Block

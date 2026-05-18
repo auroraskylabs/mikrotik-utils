@@ -220,6 +220,7 @@ add address=160.30.180.0/23 list=NP-Block
 add address=160.250.254.0/23 list=NP-Block
 add address=161.248.156.0/23 list=NP-Block
 add address=161.248.216.0/23 list=NP-Block
+add address=162.4.106.0/24 list=NP-Block
 add address=163.47.148.0/22 list=NP-Block
 add address=163.53.24.0/23 list=NP-Block
 add address=163.61.40.0/23 list=NP-Block

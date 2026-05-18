@@ -12,6 +12,7 @@ add address=41.223.248.0/22 list=BJ-Block
 add address=45.221.224.0/19 list=BJ-Block
 add address=81.91.224.0/20 list=BJ-Block
 add address=102.38.128.0/19 list=BJ-Block
+add address=102.202.108.0/22 list=BJ-Block
 add address=102.203.12.0/22 list=BJ-Block
 add address=102.207.72.0/22 list=BJ-Block
 add address=102.207.112.0/22 list=BJ-Block

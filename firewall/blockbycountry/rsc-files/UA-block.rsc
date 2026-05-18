@@ -328,6 +328,7 @@ add address=82.117.240.0/24 list=UA-Block
 add address=82.117.246.0/23 list=UA-Block
 add address=82.117.248.0/22 list=UA-Block
 add address=82.144.192.0/19 list=UA-Block
+add address=82.158.192.0/20 list=UA-Block
 add address=82.207.0.0/17 list=UA-Block
 add address=83.97.76.0/24 list=UA-Block
 add address=83.137.88.0/21 list=UA-Block

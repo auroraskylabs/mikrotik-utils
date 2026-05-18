@@ -10,7 +10,6 @@ add address=154.119.0.0/19 list=BI-Block
 add address=196.2.8.0/21 list=BI-Block
 add address=196.13.223.0/24 list=BI-Block
 add address=196.49.3.0/24 list=BI-Block
-add address=196.223.3.0/24 list=BI-Block
 add address=196.223.36.0/24 list=BI-Block
 add address=197.157.192.0/22 list=BI-Block
 
