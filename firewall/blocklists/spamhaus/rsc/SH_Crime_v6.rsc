@@ -1,6 +1,7 @@
 /ipv6 firewall address-list
 :if ([print count-only where list="SpamHausCrime"] > "0") do={ remove [find list="SpamHausCrime"]}
 
+add address=2001:678:254::/48 list=SpamHausCrime comment=SBL697648
 add address=2001:678:6c0::/48 list=SpamHausCrime comment=SBL624855
 add address=2001:678:6c4::/48 list=SpamHausCrime comment=SBL626637
 add address=2001:678:724::/48 list=SpamHausCrime comment=SBL631364

@@ -267,7 +267,6 @@ add address=194.9.82.0/23 list=KE-Block
 add address=195.202.64.0/19 list=KE-Block
 add address=196.1.4.0/24 list=KE-Block
 add address=196.1.116.0/23 list=KE-Block
-add address=196.1.131.0/24 list=KE-Block
 add address=196.1.132.0/24 list=KE-Block
 add address=196.3.58.0/23 list=KE-Block
 add address=196.6.202.0/23 list=KE-Block

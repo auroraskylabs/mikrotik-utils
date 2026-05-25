@@ -687,6 +687,7 @@ add address=146.88.84.0/22 list=KR-Block
 add address=147.6.0.0/16 list=KR-Block
 add address=147.43.0.0/16 list=KR-Block
 add address=147.46.0.0/15 list=KR-Block
+add address=149.170.60.0/23 list=KR-Block
 add address=150.107.68.0/22 list=KR-Block
 add address=150.107.80.0/21 list=KR-Block
 add address=150.129.224.0/22 list=KR-Block

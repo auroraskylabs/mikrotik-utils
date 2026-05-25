@@ -123,6 +123,7 @@ add address=103.157.44.0/23 list=NP-Block
 add address=103.157.90.0/23 list=NP-Block
 add address=103.158.110.0/24 list=NP-Block
 add address=103.158.198.0/23 list=NP-Block
+add address=103.160.22.0/23 list=NP-Block
 add address=103.160.82.0/23 list=NP-Block
 add address=103.162.2.0/23 list=NP-Block
 add address=103.162.6.0/24 list=NP-Block

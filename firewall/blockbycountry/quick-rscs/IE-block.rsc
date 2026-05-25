@@ -346,6 +346,7 @@ add address=148.252.8.0/21 list=IE-Block
 add address=149.62.34.0/24 list=IE-Block
 add address=149.153.0.0/16 list=IE-Block
 add address=149.157.0.0/16 list=IE-Block
+add address=149.170.59.0/24 list=IE-Block
 add address=157.190.0.0/16 list=IE-Block
 add address=158.146.128.0/20 list=IE-Block
 add address=159.100.160.0/20 list=IE-Block

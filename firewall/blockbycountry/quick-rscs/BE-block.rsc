@@ -330,14 +330,13 @@ add address=147.196.0.0/16 list=BE-Block
 add address=149.126.56.0/21 list=BE-Block
 add address=149.134.0.0/16 list=BE-Block
 add address=149.154.192.0/18 list=BE-Block
-add address=150.251.0.0/18 list=BE-Block
-add address=150.251.72.0/22 list=BE-Block
+add address=150.251.0.0/20 list=BE-Block
+add address=150.251.32.0/19 list=BE-Block
 add address=150.251.80.0/20 list=BE-Block
 add address=150.251.96.0/20 list=BE-Block
 add address=150.251.124.0/22 list=BE-Block
 add address=150.251.176.0/20 list=BE-Block
-add address=150.251.192.0/19 list=BE-Block
-add address=150.251.232.0/21 list=BE-Block
+add address=150.251.208.0/20 list=BE-Block
 add address=152.55.156.0/22 list=BE-Block
 add address=152.152.0.0/16 list=BE-Block
 add address=153.89.0.0/16 list=BE-Block

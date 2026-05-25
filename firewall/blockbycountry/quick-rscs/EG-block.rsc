@@ -63,6 +63,7 @@ add address=102.131.32.0/22 list=EG-Block
 add address=102.164.114.0/23 list=EG-Block
 add address=102.164.122.0/24 list=EG-Block
 add address=102.184.0.0/13 list=EG-Block
+add address=102.202.78.0/24 list=EG-Block
 add address=102.202.166.0/23 list=EG-Block
 add address=102.202.222.0/24 list=EG-Block
 add address=102.204.121.0/24 list=EG-Block

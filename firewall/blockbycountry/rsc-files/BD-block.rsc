@@ -1636,6 +1636,7 @@ add address=118.179.128.0/18 list=BD-Block
 add address=118.179.192.0/19 list=BD-Block
 add address=119.10.168.0/21 list=BD-Block
 add address=119.15.154.0/23 list=BD-Block
+add address=119.15.156.0/22 list=BD-Block
 add address=119.18.144.0/21 list=BD-Block
 add address=119.30.32.0/20 list=BD-Block
 add address=119.40.80.0/20 list=BD-Block

@@ -5,6 +5,7 @@ add address=23.137.40.0/24 list=KN-Block
 add address=45.42.252.0/22 list=KN-Block
 add address=66.198.225.0/24 list=KN-Block
 add address=104.245.228.0/22 list=KN-Block
+add address=104.251.180.0/22 list=KN-Block
 add address=149.112.30.0/24 list=KN-Block
 add address=170.39.88.0/24 list=KN-Block
 add address=173.249.168.0/22 list=KN-Block

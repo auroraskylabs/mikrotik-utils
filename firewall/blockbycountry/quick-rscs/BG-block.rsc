@@ -147,6 +147,7 @@ add address=62.204.42.0/24 list=BG-Block
 add address=62.204.128.0/19 list=BG-Block
 add address=62.221.128.0/19 list=BG-Block
 add address=62.233.37.0/24 list=BG-Block
+add address=64.30.158.0/24 list=BG-Block
 add address=77.70.0.0/17 list=BG-Block
 add address=77.71.0.0/17 list=BG-Block
 add address=77.76.0.0/18 list=BG-Block

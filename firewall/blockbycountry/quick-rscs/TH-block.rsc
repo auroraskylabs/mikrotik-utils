@@ -373,6 +373,7 @@ add address=117.18.124.0/22 list=TH-Block
 add address=117.47.0.0/16 list=TH-Block
 add address=117.121.208.0/20 list=TH-Block
 add address=118.172.0.0/14 list=TH-Block
+add address=119.10.136.0/21 list=TH-Block
 add address=119.13.24.0/21 list=TH-Block
 add address=119.31.0.0/17 list=TH-Block
 add address=119.42.64.0/18 list=TH-Block

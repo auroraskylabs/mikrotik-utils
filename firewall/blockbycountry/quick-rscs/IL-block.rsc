@@ -360,6 +360,8 @@ add address=147.236.0.0/15 list=IL-Block
 add address=149.49.0.0/16 list=IL-Block
 add address=149.106.128.0/19 list=IL-Block
 add address=149.106.224.0/19 list=IL-Block
+add address=150.251.72.0/22 list=IL-Block
+add address=150.251.232.0/21 list=IL-Block
 add address=159.117.224.0/19 list=IL-Block
 add address=159.253.121.0/24 list=IL-Block
 add address=164.138.112.0/20 list=IL-Block

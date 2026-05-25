@@ -257,6 +257,8 @@ add address=181.240.0.0/12 list=CO-Block
 add address=185.28.216.0/22 list=CO-Block
 add address=185.42.20.0/22 list=CO-Block
 add address=185.74.16.0/22 list=CO-Block
+add address=185.91.192.0/22 list=CO-Block
+add address=185.104.164.0/22 list=CO-Block
 add address=185.122.240.0/22 list=CO-Block
 add address=185.197.128.0/22 list=CO-Block
 add address=186.0.0.0/17 list=CO-Block
