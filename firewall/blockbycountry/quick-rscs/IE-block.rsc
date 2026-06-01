@@ -259,7 +259,6 @@ add address=91.216.236.0/24 list=IE-Block
 add address=91.216.241.0/24 list=IE-Block
 add address=91.217.88.0/23 list=IE-Block
 add address=91.220.45.0/24 list=IE-Block
-add address=91.220.193.0/24 list=IE-Block
 add address=91.220.224.0/24 list=IE-Block
 add address=91.223.9.0/24 list=IE-Block
 add address=91.223.87.0/24 list=IE-Block

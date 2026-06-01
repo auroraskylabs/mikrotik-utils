@@ -1481,7 +1481,6 @@ add address=103.213.244.0/22 list=HK-Block
 add address=103.214.16.0/22 list=HK-Block
 add address=103.214.32.0/22 list=HK-Block
 add address=103.214.41.0/24 list=HK-Block
-add address=103.214.56.0/24 list=HK-Block
 add address=103.214.64.0/22 list=HK-Block
 add address=103.214.76.0/22 list=HK-Block
 add address=103.214.140.0/22 list=HK-Block

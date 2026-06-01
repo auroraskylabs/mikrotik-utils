@@ -2,7 +2,7 @@
 /ip firewall address-list
 add address=43.240.88.0/22 list=GU-Block
 add address=43.247.60.0/22 list=GU-Block
-add address=49.128.104.0/22 list=GU-Block
+add address=49.128.107.0/24 list=GU-Block
 add address=101.99.128.0/17 list=GU-Block
 add address=103.3.240.0/22 list=GU-Block
 add address=103.7.100.0/22 list=GU-Block

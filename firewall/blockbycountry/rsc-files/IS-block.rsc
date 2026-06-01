@@ -66,6 +66,7 @@ add address=160.210.0.0/16 list=IS-Block
 add address=164.37.40.0/24 list=IS-Block
 add address=176.10.32.0/21 list=IS-Block
 add address=176.57.224.0/20 list=IS-Block
+add address=178.17.240.0/24 list=IS-Block
 add address=178.19.48.0/20 list=IS-Block
 add address=178.248.16.0/21 list=IS-Block
 add address=185.1.200.0/24 list=IS-Block

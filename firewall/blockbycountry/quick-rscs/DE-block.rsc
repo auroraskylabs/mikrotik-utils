@@ -103,7 +103,6 @@ add address=5.133.112.0/24 list=DE-Block
 add address=5.133.116.0/22 list=DE-Block
 add address=5.134.16.0/21 list=DE-Block
 add address=5.145.128.0/20 list=DE-Block
-add address=5.145.176.0/23 list=DE-Block
 add address=5.145.184.0/21 list=DE-Block
 add address=5.146.0.0/15 list=DE-Block
 add address=5.149.224.0/20 list=DE-Block
@@ -2305,7 +2304,6 @@ add address=91.234.171.0/24 list=DE-Block
 add address=91.234.213.0/24 list=DE-Block
 add address=91.234.216.0/24 list=DE-Block
 add address=91.234.239.0/24 list=DE-Block
-add address=91.234.244.0/24 list=DE-Block
 add address=91.235.8.0/22 list=DE-Block
 add address=91.235.45.0/24 list=DE-Block
 add address=91.235.47.0/24 list=DE-Block
@@ -3146,6 +3144,9 @@ add address=152.89.244.0/22 list=DE-Block
 add address=152.89.252.0/22 list=DE-Block
 add address=152.143.0.0/16 list=DE-Block
 add address=153.17.0.0/16 list=DE-Block
+add address=153.60.32.0/19 list=DE-Block
+add address=153.60.192.0/18 list=DE-Block
+add address=153.76.32.0/19 list=DE-Block
 add address=153.92.28.0/22 list=DE-Block
 add address=153.92.32.0/21 list=DE-Block
 add address=153.92.40.0/24 list=DE-Block
@@ -3181,7 +3182,6 @@ add address=156.67.12.0/23 list=DE-Block
 add address=156.67.15.0/24 list=DE-Block
 add address=156.67.16.0/22 list=DE-Block
 add address=156.67.24.0/21 list=DE-Block
-add address=156.67.36.0/23 list=DE-Block
 add address=156.67.40.0/21 list=DE-Block
 add address=156.67.52.0/22 list=DE-Block
 add address=156.67.56.0/22 list=DE-Block
@@ -3866,6 +3866,7 @@ add address=185.61.40.0/22 list=DE-Block
 add address=185.61.100.0/22 list=DE-Block
 add address=185.61.120.0/22 list=DE-Block
 add address=185.62.24.0/22 list=DE-Block
+add address=185.62.45.0/24 list=DE-Block
 add address=185.62.64.0/22 list=DE-Block
 add address=185.62.88.0/22 list=DE-Block
 add address=185.62.144.0/21 list=DE-Block
@@ -6272,7 +6273,8 @@ add address=193.135.120.0/22 list=DE-Block
 add address=193.138.10.0/23 list=DE-Block
 add address=193.138.12.0/22 list=DE-Block
 add address=193.138.16.0/21 list=DE-Block
-add address=193.138.24.0/22 list=DE-Block
+add address=193.138.24.0/23 list=DE-Block
+add address=193.138.26.0/24 list=DE-Block
 add address=193.138.31.0/24 list=DE-Block
 add address=193.138.66.0/24 list=DE-Block
 add address=193.138.68.0/24 list=DE-Block
@@ -8421,7 +8423,7 @@ add address=213.217.30.0/24 list=DE-Block
 add address=213.217.64.0/18 list=DE-Block
 add address=213.218.0.0/19 list=DE-Block
 add address=213.218.161.0/24 list=DE-Block
-add address=213.218.162.0/23 list=DE-Block
+add address=213.218.163.0/24 list=DE-Block
 add address=213.218.164.0/22 list=DE-Block
 add address=213.218.168.0/21 list=DE-Block
 add address=213.218.176.0/20 list=DE-Block

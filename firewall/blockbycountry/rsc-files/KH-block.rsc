@@ -210,6 +210,7 @@ add address=160.22.76.0/23 list=KH-Block
 add address=160.30.9.0/24 list=KH-Block
 add address=160.202.32.0/22 list=KH-Block
 add address=160.250.86.0/24 list=KH-Block
+add address=162.4.174.0/23 list=KH-Block
 add address=163.47.12.0/22 list=KH-Block
 add address=163.47.172.0/22 list=KH-Block
 add address=163.53.28.0/22 list=KH-Block

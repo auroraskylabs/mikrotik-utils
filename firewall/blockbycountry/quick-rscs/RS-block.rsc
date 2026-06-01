@@ -116,7 +116,6 @@ add address=91.228.16.0/22 list=RS-Block
 add address=91.228.20.0/23 list=RS-Block
 add address=91.228.252.0/23 list=RS-Block
 add address=91.228.254.0/24 list=RS-Block
-add address=91.231.88.0/24 list=RS-Block
 add address=91.231.158.0/23 list=RS-Block
 add address=91.232.106.0/23 list=RS-Block
 add address=91.232.200.0/23 list=RS-Block

@@ -15,6 +15,7 @@ add address=45.65.232.0/22 list=CO-Block
 add address=45.68.24.0/21 list=CO-Block
 add address=45.68.32.0/24 list=CO-Block
 add address=45.68.36.0/22 list=CO-Block
+add address=45.68.128.0/22 list=CO-Block
 add address=45.70.168.0/22 list=CO-Block
 add address=45.71.7.0/24 list=CO-Block
 add address=45.71.180.0/22 list=CO-Block
