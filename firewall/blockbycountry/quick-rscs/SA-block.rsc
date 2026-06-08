@@ -79,9 +79,11 @@ add address=77.64.0.0/17 list=SA-Block
 add address=77.73.192.0/21 list=SA-Block
 add address=77.75.224.0/24 list=SA-Block
 add address=77.79.64.0/18 list=SA-Block
+add address=77.83.88.0/22 list=SA-Block
 add address=77.87.16.0/21 list=SA-Block
 add address=77.90.192.0/18 list=SA-Block
 add address=77.92.160.0/21 list=SA-Block
+add address=77.92.180.0/22 list=SA-Block
 add address=77.220.116.0/22 list=SA-Block
 add address=77.221.96.0/19 list=SA-Block
 add address=77.223.224.0/19 list=SA-Block

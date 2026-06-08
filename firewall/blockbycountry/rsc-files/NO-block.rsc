@@ -724,7 +724,8 @@ add address=185.142.240.0/22 list=NO-Block
 add address=185.143.208.0/22 list=NO-Block
 add address=185.143.216.0/22 list=NO-Block
 add address=185.144.128.0/22 list=NO-Block
-add address=185.145.188.0/22 list=NO-Block
+add address=185.145.189.0/24 list=NO-Block
+add address=185.145.190.0/23 list=NO-Block
 add address=185.146.100.0/22 list=NO-Block
 add address=185.146.200.0/22 list=NO-Block
 add address=185.148.16.0/22 list=NO-Block

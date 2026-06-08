@@ -816,6 +816,7 @@ add address=185.59.120.0/22 list=CZ-Block
 add address=185.59.144.0/22 list=CZ-Block
 add address=185.59.208.0/22 list=CZ-Block
 add address=185.60.104.0/22 list=CZ-Block
+add address=185.60.182.0/24 list=CZ-Block
 add address=185.61.84.0/22 list=CZ-Block
 add address=185.61.228.0/22 list=CZ-Block
 add address=185.62.108.0/22 list=CZ-Block

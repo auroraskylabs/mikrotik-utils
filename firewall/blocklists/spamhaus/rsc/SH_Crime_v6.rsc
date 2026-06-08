@@ -62,7 +62,6 @@ add address=2a0b:3e80::/29 list=SpamHausCrime comment=SBL340167
 add address=2a0b:7ec0::/29 list=SpamHausCrime comment=SBL689991
 add address=2a0b:88c0:16::/48 list=SpamHausCrime comment=SBL689998
 add address=2a0b:88c0:32::/48 list=SpamHausCrime comment=SBL689999
-add address=2a0b:fdc0::/29 list=SpamHausCrime comment=SBL618937
 add address=2a0d:6c2::/32 list=SpamHausCrime comment=SBL635654
 add address=2a0d:c700::/29 list=SpamHausCrime comment=SBL389715
 add address=2a0d:e7c7:ffff::/48 list=SpamHausCrime comment=SBL494346

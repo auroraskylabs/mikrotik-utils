@@ -25,8 +25,7 @@ add address=102.203.1.0/24 list=AO-Block
 add address=102.203.128.0/22 list=AO-Block
 add address=102.203.139.0/24 list=AO-Block
 add address=102.203.164.0/22 list=AO-Block
-add address=102.203.240.0/21 list=AO-Block
-add address=102.203.248.0/22 list=AO-Block
+add address=102.203.240.0/20 list=AO-Block
 add address=102.204.164.0/22 list=AO-Block
 add address=102.204.192.0/22 list=AO-Block
 add address=102.205.75.0/24 list=AO-Block

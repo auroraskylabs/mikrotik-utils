@@ -1511,7 +1511,7 @@ add address=200.115.192.0/18 list=AR-Block
 add address=200.117.0.0/16 list=AR-Block
 add address=200.122.0.0/17 list=AR-Block
 add address=200.123.32.0/22 list=AR-Block
-add address=200.123.38.0/23 list=AR-Block
+add address=200.123.39.0/24 list=AR-Block
 add address=200.123.40.0/23 list=AR-Block
 add address=200.123.43.0/24 list=AR-Block
 add address=200.123.45.0/24 list=AR-Block

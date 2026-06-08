@@ -698,12 +698,10 @@ add address=85.118.240.0/21 list=ES-Block
 add address=85.119.192.0/21 list=ES-Block
 add address=85.136.82.0/23 list=ES-Block
 add address=85.137.16.0/23 list=ES-Block
-add address=85.137.24.0/22 list=ES-Block
-add address=85.137.30.0/23 list=ES-Block
+add address=85.137.31.0/24 list=ES-Block
 add address=85.137.82.0/23 list=ES-Block
 add address=85.137.180.0/23 list=ES-Block
 add address=85.137.212.0/23 list=ES-Block
-add address=85.137.214.0/24 list=ES-Block
 add address=85.152.0.0/16 list=ES-Block
 add address=85.155.0.0/19 list=ES-Block
 add address=85.155.192.0/19 list=ES-Block

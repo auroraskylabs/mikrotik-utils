@@ -25,6 +25,7 @@ add address=37.33.0.0/16 list=FI-Block
 add address=37.35.16.0/20 list=FI-Block
 add address=37.35.80.0/21 list=FI-Block
 add address=37.44.48.0/21 list=FI-Block
+add address=37.72.109.0/24 list=FI-Block
 add address=37.98.128.0/20 list=FI-Block
 add address=37.114.80.0/21 list=FI-Block
 add address=37.130.160.0/19 list=FI-Block

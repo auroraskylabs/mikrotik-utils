@@ -542,6 +542,7 @@ add address=91.209.0.0/24 list=SE-Block
 add address=91.209.227.0/24 list=SE-Block
 add address=91.209.232.0/24 list=SE-Block
 add address=91.209.240.0/24 list=SE-Block
+add address=91.210.42.0/24 list=SE-Block
 add address=91.210.60.0/22 list=SE-Block
 add address=91.211.168.0/22 list=SE-Block
 add address=91.212.10.0/24 list=SE-Block

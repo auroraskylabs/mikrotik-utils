@@ -211,6 +211,7 @@ add address=178.216.16.0/21 list=LV-Block
 add address=178.236.192.0/22 list=LV-Block
 add address=178.249.32.0/21 list=LV-Block
 add address=178.250.184.0/21 list=LV-Block
+add address=185.1.202.0/23 list=LV-Block
 add address=185.1.236.0/24 list=LV-Block
 add address=185.3.148.0/22 list=LV-Block
 add address=185.7.236.0/22 list=LV-Block

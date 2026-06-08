@@ -36,6 +36,7 @@ add address=88.149.0.0/17 list=IS-Block
 add address=88.151.48.0/21 list=IS-Block
 add address=89.17.128.0/19 list=IS-Block
 add address=89.104.128.0/19 list=IS-Block
+add address=89.124.252.0/24 list=IS-Block
 add address=89.127.232.0/22 list=IS-Block
 add address=89.147.108.0/22 list=IS-Block
 add address=89.160.128.0/17 list=IS-Block
@@ -53,6 +54,7 @@ add address=94.142.152.0/21 list=IS-Block
 add address=94.198.48.0/23 list=IS-Block
 add address=94.198.190.0/24 list=IS-Block
 add address=95.133.160.0/23 list=IS-Block
+add address=95.133.164.0/22 list=IS-Block
 add address=128.140.232.0/21 list=IS-Block
 add address=130.208.0.0/16 list=IS-Block
 add address=141.138.152.0/21 list=IS-Block

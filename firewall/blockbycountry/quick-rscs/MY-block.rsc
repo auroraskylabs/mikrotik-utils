@@ -560,6 +560,7 @@ add address=124.197.224.0/19 list=MY-Block
 add address=124.217.224.0/19 list=MY-Block
 add address=130.12.56.0/22 list=MY-Block
 add address=131.143.128.0/22 list=MY-Block
+add address=134.65.126.0/23 list=MY-Block
 add address=135.84.232.0/21 list=MY-Block
 add address=137.59.80.0/22 list=MY-Block
 add address=137.59.108.0/22 list=MY-Block

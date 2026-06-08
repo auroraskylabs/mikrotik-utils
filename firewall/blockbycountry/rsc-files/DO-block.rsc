@@ -139,3 +139,4 @@ add address=201.131.107.0/24 list=DO-Block
 add address=201.221.126.0/24 list=DO-Block
 add address=201.229.128.0/17 list=DO-Block
 add address=204.126.128.0/23 list=DO-Block
+add address=205.233.76.0/22 list=DO-Block

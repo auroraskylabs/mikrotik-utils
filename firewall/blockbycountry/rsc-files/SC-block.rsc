@@ -263,7 +263,6 @@ add address=91.188.220.0/23 list=SC-Block
 add address=91.188.222.0/24 list=SC-Block
 add address=91.188.244.0/24 list=SC-Block
 add address=91.190.153.0/24 list=SC-Block
-add address=91.198.230.0/24 list=SC-Block
 add address=91.199.3.0/24 list=SC-Block
 add address=91.199.189.0/24 list=SC-Block
 add address=91.206.68.0/23 list=SC-Block
@@ -353,6 +352,7 @@ add address=103.139.48.0/22 list=SC-Block
 add address=103.142.232.0/23 list=SC-Block
 add address=103.160.58.0/23 list=SC-Block
 add address=103.163.52.0/23 list=SC-Block
+add address=103.166.154.0/23 list=SC-Block
 add address=103.209.230.0/23 list=SC-Block
 add address=103.211.216.0/22 list=SC-Block
 add address=103.227.84.0/22 list=SC-Block
@@ -383,8 +383,9 @@ add address=137.63.0.0/17 list=SC-Block
 add address=138.16.0.0/17 list=SC-Block
 add address=138.16.138.0/23 list=SC-Block
 add address=141.133.0.0/17 list=SC-Block
-add address=141.133.128.0/18 list=SC-Block
-add address=141.133.192.0/19 list=SC-Block
+add address=141.133.128.0/19 list=SC-Block
+add address=141.133.160.0/21 list=SC-Block
+add address=141.133.168.0/22 list=SC-Block
 add address=141.193.20.0/24 list=SC-Block
 add address=146.19.10.0/24 list=SC-Block
 add address=146.19.15.0/24 list=SC-Block

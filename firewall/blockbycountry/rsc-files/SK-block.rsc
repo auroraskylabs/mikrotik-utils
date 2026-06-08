@@ -160,6 +160,7 @@ add address=147.78.168.0/22 list=SK-Block
 add address=147.175.0.0/16 list=SK-Block
 add address=147.213.0.0/16 list=SK-Block
 add address=147.232.0.0/16 list=SK-Block
+add address=151.216.4.0/24 list=SK-Block
 add address=151.236.224.0/20 list=SK-Block
 add address=152.89.16.0/22 list=SK-Block
 add address=158.193.0.0/16 list=SK-Block

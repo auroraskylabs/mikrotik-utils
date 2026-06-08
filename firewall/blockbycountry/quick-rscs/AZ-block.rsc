@@ -47,6 +47,7 @@ add address=89.37.16.0/21 list=AZ-Block
 add address=89.37.32.0/21 list=AZ-Block
 add address=89.40.30.0/24 list=AZ-Block
 add address=89.41.0.0/21 list=AZ-Block
+add address=89.124.248.0/23 list=AZ-Block
 add address=89.147.192.0/18 list=AZ-Block
 add address=89.219.36.0/22 list=AZ-Block
 add address=89.219.40.0/21 list=AZ-Block
@@ -93,6 +94,7 @@ add address=131.117.128.0/20 list=AZ-Block
 add address=134.19.208.0/20 list=AZ-Block
 add address=149.126.112.0/20 list=AZ-Block
 add address=149.255.144.0/20 list=AZ-Block
+add address=153.56.144.0/24 list=AZ-Block
 add address=158.181.32.0/20 list=AZ-Block
 add address=160.202.24.0/22 list=AZ-Block
 add address=164.40.238.0/24 list=AZ-Block

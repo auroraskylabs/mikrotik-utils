@@ -6531,7 +6531,6 @@ add address=188.209.154.0/24 list=IN-Block
 add address=188.241.60.0/22 list=IN-Block
 add address=188.241.76.0/22 list=IN-Block
 add address=188.241.187.0/24 list=IN-Block
-add address=188.241.220.0/24 list=IN-Block
 add address=192.8.32.0/21 list=IN-Block
 add address=192.8.40.0/22 list=IN-Block
 add address=192.8.116.0/22 list=IN-Block

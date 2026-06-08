@@ -1969,6 +1969,7 @@ add address=158.132.0.0/16 list=HK-Block
 add address=158.182.0.0/16 list=HK-Block
 add address=159.117.40.0/21 list=HK-Block
 add address=159.117.96.0/21 list=HK-Block
+add address=159.200.0.0/16 list=HK-Block
 add address=160.19.48.0/22 list=HK-Block
 add address=160.20.52.0/22 list=HK-Block
 add address=160.20.56.0/21 list=HK-Block
@@ -1995,6 +1996,7 @@ add address=160.250.201.0/24 list=HK-Block
 add address=161.81.0.0/16 list=HK-Block
 add address=162.4.40.0/23 list=HK-Block
 add address=162.4.114.0/23 list=HK-Block
+add address=162.4.204.0/23 list=HK-Block
 add address=162.219.32.0/21 list=HK-Block
 add address=162.219.80.0/21 list=HK-Block
 add address=162.245.124.0/22 list=HK-Block
