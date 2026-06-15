@@ -106,6 +106,7 @@ add address=61.11.208.0/20 list=MY-Block
 add address=66.23.160.0/19 list=MY-Block
 add address=72.35.248.0/22 list=MY-Block
 add address=74.114.48.0/22 list=MY-Block
+add address=85.137.16.0/23 list=MY-Block
 add address=91.218.183.0/24 list=MY-Block
 add address=101.78.16.0/20 list=MY-Block
 add address=101.99.64.0/19 list=MY-Block

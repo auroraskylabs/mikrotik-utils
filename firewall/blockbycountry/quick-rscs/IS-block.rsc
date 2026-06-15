@@ -118,6 +118,7 @@ add address=185.179.108.0/22 list=IS-Block
 add address=185.191.232.0/22 list=IS-Block
 add address=185.198.144.0/22 list=IS-Block
 add address=185.208.202.0/24 list=IS-Block
+add address=185.219.128.0/24 list=IS-Block
 add address=185.219.148.0/22 list=IS-Block
 add address=185.221.176.0/22 list=IS-Block
 add address=185.221.232.0/22 list=IS-Block

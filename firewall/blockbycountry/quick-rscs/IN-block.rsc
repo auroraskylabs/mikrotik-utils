@@ -6146,6 +6146,10 @@ add address=162.4.152.0/23 list=IN-Block
 add address=162.4.156.0/23 list=IN-Block
 add address=162.4.164.0/23 list=IN-Block
 add address=162.4.188.0/23 list=IN-Block
+add address=162.4.226.0/23 list=IN-Block
+add address=162.4.234.0/23 list=IN-Block
+add address=162.4.240.0/23 list=IN-Block
+add address=162.4.244.0/23 list=IN-Block
 add address=162.12.244.0/22 list=IN-Block
 add address=162.56.0.0/16 list=IN-Block
 add address=162.216.140.0/22 list=IN-Block

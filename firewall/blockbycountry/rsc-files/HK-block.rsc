@@ -1312,7 +1312,6 @@ add address=103.163.132.0/23 list=HK-Block
 add address=103.163.154.0/23 list=HK-Block
 add address=103.163.156.0/24 list=HK-Block
 add address=103.163.208.0/23 list=HK-Block
-add address=103.163.252.0/23 list=HK-Block
 add address=103.164.62.0/23 list=HK-Block
 add address=103.164.182.0/23 list=HK-Block
 add address=103.164.224.0/23 list=HK-Block

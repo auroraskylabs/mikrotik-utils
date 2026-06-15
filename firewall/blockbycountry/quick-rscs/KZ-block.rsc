@@ -516,6 +516,7 @@ add address=194.164.115.0/24 list=KZ-Block
 add address=194.165.63.0/24 list=KZ-Block
 add address=194.187.136.0/22 list=KZ-Block
 add address=194.187.244.0/22 list=KZ-Block
+add address=194.238.40.0/22 list=KZ-Block
 add address=195.2.230.0/23 list=KZ-Block
 add address=195.5.162.0/24 list=KZ-Block
 add address=195.12.96.0/19 list=KZ-Block

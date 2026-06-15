@@ -27,6 +27,7 @@ add address=2405:b180::/32 list=SpamHausCrime comment=SBL312915
 add address=2405:b480::/32 list=SpamHausCrime comment=SBL341597
 add address=2405:e880::/32 list=SpamHausCrime comment=SBL327648
 add address=2602:f68a::/40 list=SpamHausCrime comment=SBL678470
+add address=2602:f9bb::/36 list=SpamHausCrime comment=SBL679675
 add address=2602:ffa0::/36 list=SpamHausCrime comment=SBL262027
 add address=2604:be0:fff0::/44 list=SpamHausCrime comment=SBL683025
 add address=2607:d100::/32 list=SpamHausCrime comment=SBL347495

@@ -503,6 +503,7 @@ add address=159.171.0.0/16 list=NO-Block
 add address=159.216.0.0/16 list=NO-Block
 add address=159.253.8.0/21 list=NO-Block
 add address=159.253.122.0/24 list=NO-Block
+add address=160.5.224.0/20 list=NO-Block
 add address=160.67.0.0/16 list=NO-Block
 add address=160.68.0.0/16 list=NO-Block
 add address=161.4.0.0/16 list=NO-Block

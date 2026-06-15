@@ -1918,7 +1918,7 @@ add address=142.99.16.0/22 list=CA-Block
 add address=142.99.24.0/21 list=CA-Block
 add address=142.99.32.0/19 list=CA-Block
 add address=142.99.64.0/19 list=CA-Block
-add address=142.99.104.0/21 list=CA-Block
+add address=142.99.104.0/22 list=CA-Block
 add address=142.99.112.0/20 list=CA-Block
 add address=142.99.128.0/17 list=CA-Block
 add address=142.100.0.0/14 list=CA-Block
@@ -2708,6 +2708,7 @@ add address=176.116.152.0/21 list=CA-Block
 add address=176.120.20.0/24 list=CA-Block
 add address=176.122.128.0/18 list=CA-Block
 add address=178.157.48.0/20 list=CA-Block
+add address=179.66.0.0/17 list=CA-Block
 add address=180.181.160.0/19 list=CA-Block
 add address=184.64.0.0/13 list=CA-Block
 add address=184.75.128.0/20 list=CA-Block

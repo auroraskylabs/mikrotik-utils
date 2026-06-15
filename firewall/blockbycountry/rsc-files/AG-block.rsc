@@ -1,5 +1,6 @@
 /ip firewall address-list remove [find list="AG-Block"]
 /ip firewall address-list
+add address=2.153.0.0/16 list=AG-Block
 add address=23.132.144.0/24 list=AG-Block
 add address=23.176.240.0/24 list=AG-Block
 add address=46.19.184.0/21 list=AG-Block

@@ -780,6 +780,7 @@ add address=141.195.80.0/20 list=CH-Block
 add address=141.249.0.0/16 list=CH-Block
 add address=143.180.0.0/16 list=CH-Block
 add address=143.223.96.0/22 list=CH-Block
+add address=143.246.140.0/22 list=CH-Block
 add address=144.2.64.0/18 list=CH-Block
 add address=144.85.0.0/16 list=CH-Block
 add address=144.178.107.0/24 list=CH-Block
@@ -833,7 +834,7 @@ add address=151.252.32.0/21 list=CH-Block
 add address=152.88.0.0/16 list=CH-Block
 add address=152.89.80.0/22 list=CH-Block
 add address=152.96.0.0/16 list=CH-Block
-add address=153.51.64.0/18 list=CH-Block
+add address=153.51.64.0/19 list=CH-Block
 add address=153.75.48.0/20 list=CH-Block
 add address=153.92.41.0/24 list=CH-Block
 add address=153.92.47.0/24 list=CH-Block

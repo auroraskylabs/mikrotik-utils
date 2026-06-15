@@ -2779,6 +2779,7 @@ add address=185.254.8.0/22 list=FR-Block
 add address=185.254.100.0/22 list=FR-Block
 add address=185.254.144.0/22 list=FR-Block
 add address=185.254.208.0/22 list=FR-Block
+add address=185.255.4.0/22 list=FR-Block
 add address=185.255.28.0/24 list=FR-Block
 add address=185.255.84.0/22 list=FR-Block
 add address=185.255.139.0/24 list=FR-Block

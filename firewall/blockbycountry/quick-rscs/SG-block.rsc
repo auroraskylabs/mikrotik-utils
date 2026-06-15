@@ -1007,6 +1007,7 @@ add address=152.102.0.0/16 list=SG-Block
 add address=152.226.0.0/16 list=SG-Block
 add address=152.235.128.0/17 list=SG-Block
 add address=153.20.0.0/16 list=SG-Block
+add address=153.52.160.0/19 list=SG-Block
 add address=155.62.0.0/16 list=SG-Block
 add address=155.69.0.0/16 list=SG-Block
 add address=156.59.0.0/16 list=SG-Block

@@ -2811,6 +2811,7 @@ add address=162.4.122.0/23 list=AU-Block
 add address=162.4.155.0/24 list=AU-Block
 add address=162.4.206.0/23 list=AU-Block
 add address=162.4.210.0/23 list=AU-Block
+add address=162.4.220.0/23 list=AU-Block
 add address=162.12.240.0/22 list=AU-Block
 add address=162.145.0.0/16 list=AU-Block
 add address=162.146.0.0/15 list=AU-Block

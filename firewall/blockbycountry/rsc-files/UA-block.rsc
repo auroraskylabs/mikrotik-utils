@@ -1586,7 +1586,6 @@ add address=185.252.24.0/22 list=UA-Block
 add address=185.252.92.0/22 list=UA-Block
 add address=185.253.74.0/24 list=UA-Block
 add address=185.254.192.0/21 list=UA-Block
-add address=185.255.4.0/22 list=UA-Block
 add address=185.255.48.0/22 list=UA-Block
 add address=185.255.196.0/22 list=UA-Block
 add address=188.0.64.0/19 list=UA-Block

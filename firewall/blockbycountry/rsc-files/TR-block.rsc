@@ -122,6 +122,7 @@ add address=45.14.32.0/22 list=TR-Block
 add address=45.15.22.0/24 list=TR-Block
 add address=45.67.152.0/22 list=TR-Block
 add address=45.67.232.0/22 list=TR-Block
+add address=45.74.158.0/23 list=TR-Block
 add address=45.74.176.0/22 list=TR-Block
 add address=45.74.240.0/21 list=TR-Block
 add address=45.80.174.0/24 list=TR-Block
@@ -1044,6 +1045,7 @@ add address=185.188.84.0/22 list=TR-Block
 add address=185.188.128.0/22 list=TR-Block
 add address=185.189.52.0/22 list=TR-Block
 add address=185.189.128.0/22 list=TR-Block
+add address=185.190.16.0/24 list=TR-Block
 add address=185.190.19.0/24 list=TR-Block
 add address=185.193.4.0/22 list=TR-Block
 add address=185.193.164.0/22 list=TR-Block

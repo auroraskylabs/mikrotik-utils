@@ -514,7 +514,7 @@ add address=91.198.29.0/24 list=IR-Block
 add address=91.198.110.0/24 list=IR-Block
 add address=91.199.9.0/24 list=IR-Block
 add address=91.199.14.0/24 list=IR-Block
-add address=91.199.18.0/24 list=IR-Block
+add address=91.199.18.0/23 list=IR-Block
 add address=91.199.27.0/24 list=IR-Block
 add address=91.199.30.0/24 list=IR-Block
 add address=91.199.43.0/24 list=IR-Block
@@ -1498,6 +1498,7 @@ add address=193.105.2.0/24 list=IR-Block
 add address=193.105.6.0/24 list=IR-Block
 add address=193.105.153.0/24 list=IR-Block
 add address=193.105.234.0/24 list=IR-Block
+add address=193.105.253.0/24 list=IR-Block
 add address=193.106.190.0/24 list=IR-Block
 add address=193.107.44.0/24 list=IR-Block
 add address=193.107.48.0/24 list=IR-Block
