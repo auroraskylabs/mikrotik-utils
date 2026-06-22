@@ -1663,6 +1663,7 @@ add address=185.34.204.0/22 list=IT-Block
 add address=185.34.248.0/22 list=IT-Block
 add address=185.35.64.0/22 list=IT-Block
 add address=185.35.108.0/24 list=IT-Block
+add address=185.36.21.0/24 list=IT-Block
 add address=185.36.52.0/22 list=IT-Block
 add address=185.36.72.0/22 list=IT-Block
 add address=185.36.128.0/22 list=IT-Block
@@ -2888,6 +2889,7 @@ add address=194.42.41.0/24 list=IT-Block
 add address=194.42.42.0/24 list=IT-Block
 add address=194.48.180.0/22 list=IT-Block
 add address=194.48.249.0/24 list=IT-Block
+add address=194.48.254.0/24 list=IT-Block
 add address=194.49.71.0/24 list=IT-Block
 add address=194.49.76.0/24 list=IT-Block
 add address=194.49.84.0/24 list=IT-Block

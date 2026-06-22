@@ -1016,6 +1016,7 @@ add address=187.62.92.0/22 list=AR-Block
 add address=187.62.110.0/23 list=AR-Block
 add address=187.102.196.0/23 list=AR-Block
 add address=187.102.216.0/22 list=AR-Block
+add address=187.102.232.0/22 list=AR-Block
 add address=187.102.240.0/22 list=AR-Block
 add address=189.8.112.0/21 list=AR-Block
 add address=189.45.176.0/22 list=AR-Block

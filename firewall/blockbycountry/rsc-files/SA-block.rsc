@@ -176,6 +176,7 @@ add address=91.213.18.0/24 list=SA-Block
 add address=91.213.205.0/24 list=SA-Block
 add address=91.217.212.0/24 list=SA-Block
 add address=91.219.92.0/22 list=SA-Block
+add address=91.220.94.0/24 list=SA-Block
 add address=91.221.22.0/23 list=SA-Block
 add address=91.221.41.0/24 list=SA-Block
 add address=91.221.184.0/23 list=SA-Block
@@ -415,6 +416,7 @@ add address=185.217.8.0/22 list=SA-Block
 add address=185.217.100.0/22 list=SA-Block
 add address=185.217.217.0/24 list=SA-Block
 add address=185.217.218.0/23 list=SA-Block
+add address=185.219.130.0/24 list=SA-Block
 add address=185.222.40.0/24 list=SA-Block
 add address=185.224.252.0/22 list=SA-Block
 add address=185.225.56.0/22 list=SA-Block

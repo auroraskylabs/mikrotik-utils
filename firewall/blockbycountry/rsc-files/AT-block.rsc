@@ -744,6 +744,7 @@ add address=185.34.196.0/22 list=AT-Block
 add address=185.35.152.0/22 list=AT-Block
 add address=185.35.180.0/22 list=AT-Block
 add address=185.36.16.0/22 list=AT-Block
+add address=185.36.20.0/24 list=AT-Block
 add address=185.36.92.0/22 list=AT-Block
 add address=185.37.104.0/22 list=AT-Block
 add address=185.37.200.0/22 list=AT-Block
@@ -839,7 +840,6 @@ add address=185.92.100.0/22 list=AT-Block
 add address=185.92.164.0/22 list=AT-Block
 add address=185.92.200.0/22 list=AT-Block
 add address=185.93.8.0/22 list=AT-Block
-add address=185.93.212.0/24 list=AT-Block
 add address=185.93.214.0/23 list=AT-Block
 add address=185.94.28.0/24 list=AT-Block
 add address=185.95.208.0/22 list=AT-Block

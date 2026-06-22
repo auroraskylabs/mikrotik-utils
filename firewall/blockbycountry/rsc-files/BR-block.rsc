@@ -4097,6 +4097,7 @@ add address=192.12.112.0/22 list=BR-Block
 add address=192.80.209.0/24 list=BR-Block
 add address=192.83.207.0/24 list=BR-Block
 add address=192.91.254.0/24 list=BR-Block
+add address=192.100.157.0/24 list=BR-Block
 add address=192.100.168.0/24 list=BR-Block
 add address=192.100.177.0/24 list=BR-Block
 add address=192.100.206.0/24 list=BR-Block

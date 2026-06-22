@@ -6069,6 +6069,7 @@ add address=160.202.8.0/21 list=IN-Block
 add address=160.202.36.0/22 list=IN-Block
 add address=160.202.48.0/22 list=IN-Block
 add address=160.202.192.0/20 list=IN-Block
+add address=160.236.6.0/23 list=IN-Block
 add address=160.238.72.0/21 list=IN-Block
 add address=160.238.88.0/21 list=IN-Block
 add address=160.250.28.0/23 list=IN-Block
@@ -6424,7 +6425,12 @@ add address=175.184.252.0/22 list=IN-Block
 add address=176.111.172.0/24 list=IN-Block
 add address=176.111.175.0/24 list=IN-Block
 add address=176.124.48.0/22 list=IN-Block
+add address=177.4.96.0/20 list=IN-Block
+add address=177.6.32.0/20 list=IN-Block
+add address=177.177.32.0/20 list=IN-Block
 add address=177.177.112.0/20 list=IN-Block
+add address=177.203.80.0/20 list=IN-Block
+add address=177.203.160.0/20 list=IN-Block
 add address=178.212.226.0/24 list=IN-Block
 add address=178.251.234.0/23 list=IN-Block
 add address=180.87.0.0/17 list=IN-Block

@@ -102,6 +102,7 @@ add address=131.117.224.0/19 list=IQ-Block
 add address=138.124.156.0/22 list=IQ-Block
 add address=144.86.228.0/22 list=IQ-Block
 add address=150.251.112.0/22 list=IQ-Block
+add address=150.251.176.0/20 list=IQ-Block
 add address=151.236.160.0/19 list=IQ-Block
 add address=159.255.160.0/21 list=IQ-Block
 add address=164.138.232.0/21 list=IQ-Block

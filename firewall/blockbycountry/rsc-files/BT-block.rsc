@@ -34,6 +34,7 @@ add address=157.10.136.0/21 list=BT-Block
 add address=157.10.144.0/22 list=BT-Block
 add address=160.30.184.0/23 list=BT-Block
 add address=160.191.60.0/23 list=BT-Block
+add address=162.4.252.0/24 list=BT-Block
 add address=163.128.96.0/24 list=BT-Block
 add address=163.128.114.0/24 list=BT-Block
 add address=163.223.203.0/24 list=BT-Block

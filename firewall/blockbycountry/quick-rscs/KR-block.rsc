@@ -730,7 +730,6 @@ add address=163.180.0.0/16 list=KR-Block
 add address=163.213.0.0/16 list=KR-Block
 add address=163.222.0.0/16 list=KR-Block
 add address=163.223.94.0/23 list=KR-Block
-add address=163.223.162.0/23 list=KR-Block
 add address=163.229.0.0/16 list=KR-Block
 add address=163.239.0.0/16 list=KR-Block
 add address=163.255.0.0/16 list=KR-Block

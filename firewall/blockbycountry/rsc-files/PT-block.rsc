@@ -71,7 +71,6 @@ add address=91.194.182.0/23 list=PT-Block
 add address=91.198.47.0/24 list=PT-Block
 add address=91.198.90.0/24 list=PT-Block
 add address=91.198.182.0/24 list=PT-Block
-add address=91.198.239.0/24 list=PT-Block
 add address=91.199.116.0/24 list=PT-Block
 add address=91.205.112.0/22 list=PT-Block
 add address=91.209.16.0/24 list=PT-Block
@@ -203,7 +202,7 @@ add address=185.210.156.0/24 list=PT-Block
 add address=185.214.32.0/22 list=PT-Block
 add address=185.218.12.0/22 list=PT-Block
 add address=185.219.129.0/24 list=PT-Block
-add address=185.219.130.0/23 list=PT-Block
+add address=185.219.131.0/24 list=PT-Block
 add address=185.222.8.0/22 list=PT-Block
 add address=185.222.200.0/22 list=PT-Block
 add address=185.224.164.0/22 list=PT-Block

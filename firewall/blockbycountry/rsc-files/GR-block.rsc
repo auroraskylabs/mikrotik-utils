@@ -69,6 +69,7 @@ add address=83.174.148.0/22 list=GR-Block
 add address=83.174.152.0/21 list=GR-Block
 add address=83.212.0.0/16 list=GR-Block
 add address=83.235.0.0/16 list=GR-Block
+add address=84.54.49.0/24 list=GR-Block
 add address=84.205.192.0/18 list=GR-Block
 add address=84.254.0.0/18 list=GR-Block
 add address=85.72.0.0/14 list=GR-Block
@@ -429,6 +430,7 @@ add address=199.195.130.0/23 list=GR-Block
 add address=212.54.192.0/19 list=GR-Block
 add address=212.70.192.0/19 list=GR-Block
 add address=212.102.96.0/24 list=GR-Block
+add address=212.108.106.0/24 list=GR-Block
 add address=212.152.64.0/18 list=GR-Block
 add address=212.205.0.0/16 list=GR-Block
 add address=212.251.0.0/17 list=GR-Block

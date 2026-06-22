@@ -95,6 +95,7 @@ add address=196.43.226.0/24 list=UG-Block
 add address=196.49.15.0/24 list=UG-Block
 add address=196.49.82.0/24 list=UG-Block
 add address=196.49.122.0/24 list=UG-Block
+add address=196.49.126.0/23 list=UG-Block
 add address=196.60.82.0/24 list=UG-Block
 add address=196.60.164.0/24 list=UG-Block
 add address=196.216.176.0/22 list=UG-Block

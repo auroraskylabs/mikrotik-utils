@@ -1064,7 +1064,6 @@ add address=95.132.0.0/16 list=UA-Block
 add address=95.133.0.0/17 list=UA-Block
 add address=95.133.132.0/22 list=UA-Block
 add address=95.133.144.0/20 list=UA-Block
-add address=95.133.162.0/23 list=UA-Block
 add address=95.133.168.0/21 list=UA-Block
 add address=95.133.176.0/20 list=UA-Block
 add address=95.133.208.0/20 list=UA-Block

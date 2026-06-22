@@ -4,6 +4,7 @@ add address=1.34.0.0/15 list=TW-Block
 add address=1.160.0.0/12 list=TW-Block
 add address=1.200.0.0/16 list=TW-Block
 add address=2.58.240.0/22 list=TW-Block
+add address=23.134.212.0/24 list=TW-Block
 add address=27.0.152.0/22 list=TW-Block
 add address=27.51.0.0/16 list=TW-Block
 add address=27.52.0.0/15 list=TW-Block

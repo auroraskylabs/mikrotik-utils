@@ -43,6 +43,7 @@ add address=102.203.0.0/24 list=GH-Block
 add address=102.203.160.0/22 list=GH-Block
 add address=102.204.32.0/22 list=GH-Block
 add address=102.204.64.0/24 list=GH-Block
+add address=102.204.128.0/22 list=GH-Block
 add address=102.204.144.0/22 list=GH-Block
 add address=102.205.24.0/22 list=GH-Block
 add address=102.205.34.0/24 list=GH-Block

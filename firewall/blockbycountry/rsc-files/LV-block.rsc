@@ -97,6 +97,7 @@ add address=88.135.128.0/19 list=LV-Block
 add address=89.18.192.0/19 list=LV-Block
 add address=89.107.10.0/24 list=LV-Block
 add address=89.111.0.0/18 list=LV-Block
+add address=89.124.254.0/23 list=LV-Block
 add address=89.191.96.0/19 list=LV-Block
 add address=89.200.232.0/21 list=LV-Block
 add address=89.201.0.0/17 list=LV-Block

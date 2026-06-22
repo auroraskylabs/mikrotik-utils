@@ -215,6 +215,7 @@ add address=65.181.114.0/23 list=SG-Block
 add address=66.96.192.0/19 list=SG-Block
 add address=66.118.236.0/22 list=SG-Block
 add address=66.118.255.0/24 list=SG-Block
+add address=66.150.240.0/21 list=SG-Block
 add address=66.228.0.0/20 list=SG-Block
 add address=69.5.0.0/19 list=SG-Block
 add address=76.73.0.0/17 list=SG-Block

@@ -160,7 +160,6 @@ add address=103.215.192.0/22 list=MM-Block
 add address=103.217.68.0/23 list=MM-Block
 add address=103.217.156.0/22 list=MM-Block
 add address=103.219.108.0/22 list=MM-Block
-add address=103.219.146.0/24 list=MM-Block
 add address=103.219.156.0/22 list=MM-Block
 add address=103.226.26.0/23 list=MM-Block
 add address=103.227.26.0/23 list=MM-Block
