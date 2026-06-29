@@ -3941,6 +3941,14 @@ add address=160.191.232.0/22 list=ID-Block
 add address=160.202.40.0/22 list=ID-Block
 add address=160.236.0.0/22 list=ID-Block
 add address=160.236.4.0/23 list=ID-Block
+add address=160.236.18.0/23 list=ID-Block
+add address=160.236.20.0/23 list=ID-Block
+add address=160.236.26.0/23 list=ID-Block
+add address=160.236.28.0/23 list=ID-Block
+add address=160.236.31.0/24 list=ID-Block
+add address=160.236.34.0/23 list=ID-Block
+add address=160.236.36.0/23 list=ID-Block
+add address=160.236.40.0/24 list=ID-Block
 add address=160.250.22.0/23 list=ID-Block
 add address=160.250.35.0/24 list=ID-Block
 add address=160.250.42.0/23 list=ID-Block

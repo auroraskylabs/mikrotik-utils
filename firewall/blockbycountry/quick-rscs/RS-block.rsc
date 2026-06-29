@@ -52,6 +52,7 @@ add address=78.109.96.0/20 list=RS-Block
 add address=79.101.0.0/16 list=RS-Block
 add address=79.110.144.0/20 list=RS-Block
 add address=79.170.112.0/21 list=RS-Block
+add address=79.170.194.0/24 list=RS-Block
 add address=79.175.64.0/18 list=RS-Block
 add address=80.70.240.0/20 list=RS-Block
 add address=80.74.160.0/20 list=RS-Block

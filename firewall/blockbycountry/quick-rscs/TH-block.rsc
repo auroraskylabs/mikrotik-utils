@@ -12,6 +12,8 @@ add address=2.57.124.0/22 list=TH-Block
 add address=9.156.0.0/16 list=TH-Block
 add address=14.128.8.0/22 list=TH-Block
 add address=14.207.0.0/16 list=TH-Block
+add address=23.138.44.0/24 list=TH-Block
+add address=23.139.84.0/24 list=TH-Block
 add address=23.140.40.0/24 list=TH-Block
 add address=23.141.92.0/24 list=TH-Block
 add address=23.154.180.0/24 list=TH-Block
@@ -590,6 +592,7 @@ add address=203.23.188.0/23 list=TH-Block
 add address=203.26.168.0/24 list=TH-Block
 add address=203.28.128.0/23 list=TH-Block
 add address=203.33.240.0/24 list=TH-Block
+add address=203.34.220.0/23 list=TH-Block
 add address=203.62.152.0/22 list=TH-Block
 add address=203.78.96.0/20 list=TH-Block
 add address=203.80.56.0/24 list=TH-Block

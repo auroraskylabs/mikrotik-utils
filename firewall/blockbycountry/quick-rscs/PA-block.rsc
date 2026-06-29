@@ -20,9 +20,7 @@ add address=45.229.196.0/22 list=PA-Block
 add address=45.235.227.0/24 list=PA-Block
 add address=45.237.184.0/22 list=PA-Block
 add address=46.19.136.0/21 list=PA-Block
-add address=77.73.184.0/21 list=PA-Block
 add address=81.17.16.0/20 list=PA-Block
-add address=92.62.208.0/20 list=PA-Block
 add address=92.249.36.0/22 list=PA-Block
 add address=103.86.96.0/22 list=PA-Block
 add address=103.173.150.0/23 list=PA-Block

@@ -90,6 +90,7 @@ add address=144.124.192.0/20 list=UZ-Block
 add address=157.22.128.0/20 list=UZ-Block
 add address=157.22.144.0/21 list=UZ-Block
 add address=157.22.208.0/21 list=UZ-Block
+add address=161.104.64.0/22 list=UZ-Block
 add address=178.216.128.0/21 list=UZ-Block
 add address=178.218.200.0/21 list=UZ-Block
 add address=185.0.23.0/24 list=UZ-Block
@@ -150,7 +151,9 @@ add address=195.158.0.0/19 list=UZ-Block
 add address=195.211.180.0/22 list=UZ-Block
 add address=195.246.113.0/24 list=UZ-Block
 add address=198.163.192.0/20 list=UZ-Block
+add address=202.36.154.0/24 list=UZ-Block
 add address=202.79.184.0/21 list=UZ-Block
+add address=212.47.58.0/24 list=UZ-Block
 add address=212.115.112.0/22 list=UZ-Block
 add address=213.110.230.0/23 list=UZ-Block
 add address=213.110.238.0/23 list=UZ-Block

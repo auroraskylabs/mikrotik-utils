@@ -160,6 +160,7 @@ add address=185.21.120.0/22 list=PS-Block
 add address=185.33.168.0/22 list=PS-Block
 add address=185.37.12.0/22 list=PS-Block
 add address=185.40.192.0/22 list=PS-Block
+add address=185.50.165.0/24 list=PS-Block
 add address=185.61.20.0/22 list=PS-Block
 add address=185.61.200.0/22 list=PS-Block
 add address=185.71.140.0/22 list=PS-Block

@@ -33,7 +33,8 @@ add address=190.58.0.0/15 list=TT-Block
 add address=190.83.128.0/17 list=TT-Block
 add address=190.93.0.0/19 list=TT-Block
 add address=190.93.64.0/18 list=TT-Block
-add address=190.97.96.0/20 list=TT-Block
+add address=190.97.96.0/22 list=TT-Block
+add address=190.97.104.0/21 list=TT-Block
 add address=190.213.0.0/16 list=TT-Block
 add address=196.3.132.0/22 list=TT-Block
 add address=196.3.136.0/21 list=TT-Block

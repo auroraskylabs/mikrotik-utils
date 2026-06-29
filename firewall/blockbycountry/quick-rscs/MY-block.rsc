@@ -81,7 +81,6 @@ add address=45.123.124.0/22 list=MY-Block
 add address=45.124.98.0/23 list=MY-Block
 add address=45.126.88.0/22 list=MY-Block
 add address=45.127.4.0/22 list=MY-Block
-add address=45.248.38.0/23 list=MY-Block
 add address=45.255.252.0/22 list=MY-Block
 add address=49.0.160.0/21 list=MY-Block
 add address=49.50.12.0/22 list=MY-Block
@@ -95,7 +94,6 @@ add address=58.84.8.0/22 list=MY-Block
 add address=58.84.16.0/22 list=MY-Block
 add address=58.84.40.0/22 list=MY-Block
 add address=58.139.0.0/16 list=MY-Block
-add address=59.153.26.0/23 list=MY-Block
 add address=60.48.0.0/14 list=MY-Block
 add address=60.52.0.0/15 list=MY-Block
 add address=60.54.0.0/16 list=MY-Block
@@ -187,7 +185,6 @@ add address=103.26.248.0/22 list=MY-Block
 add address=103.27.72.0/22 list=MY-Block
 add address=103.27.104.0/22 list=MY-Block
 add address=103.27.112.0/22 list=MY-Block
-add address=103.27.204.0/23 list=MY-Block
 add address=103.27.255.0/24 list=MY-Block
 add address=103.28.90.0/23 list=MY-Block
 add address=103.28.162.0/24 list=MY-Block
@@ -416,7 +413,6 @@ add address=103.195.143.0/24 list=MY-Block
 add address=103.196.195.0/24 list=MY-Block
 add address=103.197.20.0/22 list=MY-Block
 add address=103.197.56.0/22 list=MY-Block
-add address=103.198.16.0/23 list=MY-Block
 add address=103.198.26.0/23 list=MY-Block
 add address=103.198.52.0/23 list=MY-Block
 add address=103.198.68.0/22 list=MY-Block
@@ -588,6 +584,7 @@ add address=150.129.184.0/22 list=MY-Block
 add address=150.242.180.0/22 list=MY-Block
 add address=151.158.0.0/23 list=MY-Block
 add address=151.158.198.0/23 list=MY-Block
+add address=153.76.232.0/21 list=MY-Block
 add address=157.10.54.0/23 list=MY-Block
 add address=157.15.30.0/23 list=MY-Block
 add address=159.117.132.0/22 list=MY-Block
@@ -606,6 +603,7 @@ add address=160.187.96.0/23 list=MY-Block
 add address=160.187.133.0/24 list=MY-Block
 add address=160.191.18.0/23 list=MY-Block
 add address=160.191.194.0/23 list=MY-Block
+add address=160.236.38.0/23 list=MY-Block
 add address=160.250.92.0/23 list=MY-Block
 add address=161.139.0.0/16 list=MY-Block
 add address=161.142.0.0/16 list=MY-Block

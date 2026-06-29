@@ -219,6 +219,7 @@ add address=109.185.0.0/16 list=MD-Block
 add address=109.205.191.0/24 list=MD-Block
 add address=109.233.192.0/21 list=MD-Block
 add address=130.193.3.0/24 list=MD-Block
+add address=131.123.0.0/18 list=MD-Block
 add address=146.19.50.0/24 list=MD-Block
 add address=146.19.75.0/24 list=MD-Block
 add address=146.19.80.0/24 list=MD-Block

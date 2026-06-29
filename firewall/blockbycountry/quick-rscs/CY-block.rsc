@@ -137,6 +137,7 @@ add address=80.91.213.0/24 list=CY-Block
 add address=80.240.106.0/24 list=CY-Block
 add address=80.244.16.0/20 list=CY-Block
 add address=81.4.128.0/18 list=CY-Block
+add address=81.18.0.0/20 list=CY-Block
 add address=81.21.32.0/20 list=CY-Block
 add address=81.85.59.0/24 list=CY-Block
 add address=82.102.32.0/19 list=CY-Block
@@ -297,6 +298,7 @@ add address=178.157.90.0/23 list=CY-Block
 add address=178.175.182.0/23 list=CY-Block
 add address=178.215.237.0/24 list=CY-Block
 add address=178.255.200.0/21 list=CY-Block
+add address=181.202.0.0/16 list=CY-Block
 add address=185.1.132.0/24 list=CY-Block
 add address=185.2.96.0/22 list=CY-Block
 add address=185.5.40.0/22 list=CY-Block
@@ -538,7 +540,6 @@ add address=217.65.75.0/24 list=CY-Block
 add address=217.72.12.0/22 list=CY-Block
 add address=217.175.208.0/20 list=CY-Block
 add address=217.177.48.0/21 list=CY-Block
-add address=217.197.104.0/24 list=CY-Block
 
 /ip firewall raw
  :if ([print count-only where src-address-list="CY-Block"] = "0") do={ add chain=prerouting action=drop src-address-list=CY-Block comment="Block CY traffic" }

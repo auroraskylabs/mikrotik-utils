@@ -4,6 +4,7 @@ add address=46.172.224.0/19 list=AD-Block
 add address=46.175.156.0/22 list=AD-Block
 add address=80.80.84.0/22 list=AD-Block
 add address=80.80.92.0/22 list=AD-Block
+add address=85.8.222.0/24 list=AD-Block
 add address=85.94.160.0/19 list=AD-Block
 add address=89.150.2.0/23 list=AD-Block
 add address=89.150.4.0/22 list=AD-Block

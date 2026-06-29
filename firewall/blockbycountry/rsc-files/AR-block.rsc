@@ -1512,16 +1512,13 @@ add address=200.115.192.0/18 list=AR-Block
 add address=200.117.0.0/16 list=AR-Block
 add address=200.122.0.0/17 list=AR-Block
 add address=200.123.32.0/22 list=AR-Block
-add address=200.123.39.0/24 list=AR-Block
-add address=200.123.40.0/23 list=AR-Block
-add address=200.123.43.0/24 list=AR-Block
+add address=200.123.41.0/24 list=AR-Block
 add address=200.123.45.0/24 list=AR-Block
 add address=200.123.46.0/23 list=AR-Block
 add address=200.123.48.0/21 list=AR-Block
 add address=200.123.56.0/23 list=AR-Block
 add address=200.123.58.0/24 list=AR-Block
 add address=200.123.60.0/24 list=AR-Block
-add address=200.123.63.0/24 list=AR-Block
 add address=200.123.64.0/18 list=AR-Block
 add address=200.123.128.0/18 list=AR-Block
 add address=200.123.192.0/20 list=AR-Block

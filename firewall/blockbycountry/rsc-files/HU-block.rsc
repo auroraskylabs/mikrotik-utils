@@ -83,6 +83,7 @@ add address=45.140.232.0/22 list=HU-Block
 add address=45.141.160.0/22 list=HU-Block
 add address=45.144.192.0/22 list=HU-Block
 add address=45.146.0.0/22 list=HU-Block
+add address=45.146.6.0/24 list=HU-Block
 add address=45.147.156.0/22 list=HU-Block
 add address=45.153.148.0/22 list=HU-Block
 add address=45.158.104.0/22 list=HU-Block
@@ -163,6 +164,8 @@ add address=84.38.244.0/24 list=HU-Block
 add address=84.206.0.0/16 list=HU-Block
 add address=84.224.0.0/15 list=HU-Block
 add address=84.236.0.0/17 list=HU-Block
+add address=85.8.208.0/24 list=HU-Block
+add address=85.8.211.0/24 list=HU-Block
 add address=85.66.0.0/15 list=HU-Block
 add address=85.90.160.0/19 list=HU-Block
 add address=85.119.8.0/21 list=HU-Block

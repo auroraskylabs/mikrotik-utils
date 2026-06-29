@@ -509,6 +509,7 @@ add address=78.26.64.0/18 list=IT-Block
 add address=78.40.128.0/21 list=IT-Block
 add address=78.40.160.0/20 list=IT-Block
 add address=78.40.200.0/21 list=IT-Block
+add address=78.108.115.0/24 list=IT-Block
 add address=78.110.176.0/20 list=IT-Block
 add address=78.111.224.0/20 list=IT-Block
 add address=78.134.0.0/17 list=IT-Block
@@ -689,6 +690,9 @@ add address=84.253.128.0/18 list=IT-Block
 add address=84.254.128.0/18 list=IT-Block
 add address=85.8.153.0/24 list=IT-Block
 add address=85.8.172.0/22 list=IT-Block
+add address=85.8.207.0/24 list=IT-Block
+add address=85.8.216.0/24 list=IT-Block
+add address=85.8.221.0/24 list=IT-Block
 add address=85.9.224.0/24 list=IT-Block
 add address=85.18.0.0/16 list=IT-Block
 add address=85.20.0.0/16 list=IT-Block
@@ -1804,7 +1808,6 @@ add address=185.72.40.0/22 list=IT-Block
 add address=185.72.76.0/22 list=IT-Block
 add address=185.73.136.0/22 list=IT-Block
 add address=185.73.164.0/22 list=IT-Block
-add address=185.73.227.0/24 list=IT-Block
 add address=185.73.244.0/22 list=IT-Block
 add address=185.73.248.0/22 list=IT-Block
 add address=185.74.36.0/22 list=IT-Block
@@ -3178,7 +3181,6 @@ add address=212.91.32.0/19 list=IT-Block
 add address=212.91.64.0/19 list=IT-Block
 add address=212.94.128.0/19 list=IT-Block
 add address=212.97.32.0/19 list=IT-Block
-add address=212.102.64.0/19 list=IT-Block
 add address=212.102.98.0/24 list=IT-Block
 add address=212.102.104.0/24 list=IT-Block
 add address=212.102.109.0/24 list=IT-Block

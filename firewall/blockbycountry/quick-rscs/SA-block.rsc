@@ -355,7 +355,6 @@ add address=185.106.244.0/22 list=SA-Block
 add address=185.108.240.0/22 list=SA-Block
 add address=185.109.176.0/22 list=SA-Block
 add address=185.110.232.0/22 list=SA-Block
-add address=185.112.72.0/24 list=SA-Block
 add address=185.114.68.0/22 list=SA-Block
 add address=185.116.224.0/22 list=SA-Block
 add address=185.117.128.0/22 list=SA-Block
