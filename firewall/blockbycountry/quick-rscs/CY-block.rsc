@@ -402,6 +402,7 @@ add address=193.109.246.0/23 list=CY-Block
 add address=193.161.24.0/23 list=CY-Block
 add address=193.161.28.0/23 list=CY-Block
 add address=193.163.71.0/24 list=CY-Block
+add address=193.164.222.0/23 list=CY-Block
 add address=193.164.232.160/27 list=CY-Block
 add address=193.168.208.0/22 list=CY-Block
 add address=193.186.163.0/24 list=CY-Block

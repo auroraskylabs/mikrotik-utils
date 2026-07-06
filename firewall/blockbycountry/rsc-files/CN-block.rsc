@@ -3640,6 +3640,7 @@ add address=153.0.0.0/16 list=CN-Block
 add address=153.3.0.0/16 list=CN-Block
 add address=153.34.0.0/15 list=CN-Block
 add address=153.36.0.0/15 list=CN-Block
+add address=153.56.188.0/23 list=CN-Block
 add address=153.99.0.0/16 list=CN-Block
 add address=153.101.0.0/16 list=CN-Block
 add address=153.118.0.0/15 list=CN-Block

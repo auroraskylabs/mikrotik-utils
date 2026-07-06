@@ -277,7 +277,7 @@ add address=186.103.0.0/17 list=CO-Block
 add address=186.112.0.0/13 list=CO-Block
 add address=186.121.0.0/17 list=CO-Block
 add address=186.121.136.0/21 list=CO-Block
-add address=186.121.144.0/23 list=CO-Block
+add address=186.121.144.0/22 list=CO-Block
 add address=186.121.152.0/23 list=CO-Block
 add address=186.144.0.0/14 list=CO-Block
 add address=186.148.160.0/19 list=CO-Block

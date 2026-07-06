@@ -653,11 +653,12 @@ add address=153.56.148.0/24 list=AE-Block
 add address=153.56.152.0/23 list=AE-Block
 add address=153.56.172.0/22 list=AE-Block
 add address=153.56.176.0/21 list=AE-Block
-add address=153.56.184.0/22 list=AE-Block
-add address=153.56.188.0/23 list=AE-Block
+add address=153.56.185.0/24 list=AE-Block
+add address=153.56.186.0/23 list=AE-Block
 add address=153.56.208.0/20 list=AE-Block
 add address=153.56.224.0/19 list=AE-Block
 add address=153.75.80.0/20 list=AE-Block
+add address=153.76.192.0/19 list=AE-Block
 add address=158.255.77.0/24 list=AE-Block
 add address=161.104.88.0/22 list=AE-Block
 add address=164.37.44.0/23 list=AE-Block

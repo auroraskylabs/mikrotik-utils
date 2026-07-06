@@ -375,6 +375,7 @@ add address=146.81.0.0/16 list=FI-Block
 add address=146.119.0.0/16 list=FI-Block
 add address=146.161.0.0/16 list=FI-Block
 add address=146.211.0.0/16 list=FI-Block
+add address=147.44.0.0/16 list=FI-Block
 add address=147.78.80.0/22 list=FI-Block
 add address=149.126.176.0/21 list=FI-Block
 add address=149.154.120.0/21 list=FI-Block

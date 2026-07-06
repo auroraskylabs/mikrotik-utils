@@ -979,7 +979,6 @@ add address=186.65.108.0/22 list=AR-Block
 add address=186.96.192.0/21 list=AR-Block
 add address=186.100.0.0/16 list=AR-Block
 add address=186.108.0.0/14 list=AR-Block
-add address=186.121.146.0/23 list=AR-Block
 add address=186.121.154.0/23 list=AR-Block
 add address=186.121.156.0/22 list=AR-Block
 add address=186.121.168.0/21 list=AR-Block
@@ -1161,7 +1160,12 @@ add address=190.113.48.0/22 list=AR-Block
 add address=190.113.56.0/22 list=AR-Block
 add address=190.113.128.0/18 list=AR-Block
 add address=190.113.224.0/20 list=AR-Block
-add address=190.114.64.0/18 list=AR-Block
+add address=190.114.64.0/19 list=AR-Block
+add address=190.114.96.0/22 list=AR-Block
+add address=190.114.100.0/23 list=AR-Block
+add address=190.114.102.0/24 list=AR-Block
+add address=190.114.104.0/21 list=AR-Block
+add address=190.114.112.0/20 list=AR-Block
 add address=190.114.128.0/18 list=AR-Block
 add address=190.114.192.0/19 list=AR-Block
 add address=190.114.232.0/21 list=AR-Block

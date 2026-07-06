@@ -25,6 +25,7 @@ add address=170.62.168.0/22 list=JM-Block
 add address=170.62.196.0/22 list=JM-Block
 add address=173.225.240.0/20 list=JM-Block
 add address=184.170.0.0/18 list=JM-Block
+add address=192.30.203.0/24 list=JM-Block
 add address=192.131.32.0/21 list=JM-Block
 add address=196.1.136.0/24 list=JM-Block
 add address=196.1.138.0/23 list=JM-Block

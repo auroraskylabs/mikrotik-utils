@@ -3482,12 +3482,7 @@ add address=186.195.244.0/23 list=BR-Block
 add address=186.195.252.0/22 list=BR-Block
 add address=186.196.0.0/14 list=BR-Block
 add address=186.200.0.0/13 list=BR-Block
-add address=186.208.0.0/18 list=BR-Block
-add address=186.208.64.0/20 list=BR-Block
-add address=186.208.80.0/21 list=BR-Block
-add address=186.208.88.0/22 list=BR-Block
-add address=186.208.96.0/19 list=BR-Block
-add address=186.208.128.0/17 list=BR-Block
+add address=186.208.0.0/16 list=BR-Block
 add address=186.209.0.0/18 list=BR-Block
 add address=186.209.64.0/20 list=BR-Block
 add address=186.209.80.0/21 list=BR-Block

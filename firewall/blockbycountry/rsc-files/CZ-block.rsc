@@ -658,7 +658,7 @@ add address=151.249.104.0/21 list=CZ-Block
 add address=151.249.128.0/17 list=CZ-Block
 add address=152.89.168.0/23 list=CZ-Block
 add address=152.114.200.0/23 list=CZ-Block
-add address=153.76.160.0/19 list=CZ-Block
+add address=153.76.176.0/20 list=CZ-Block
 add address=156.137.0.0/16 list=CZ-Block
 add address=158.194.0.0/16 list=CZ-Block
 add address=158.196.0.0/16 list=CZ-Block

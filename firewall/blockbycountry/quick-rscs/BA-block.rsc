@@ -51,6 +51,7 @@ add address=81.93.64.0/19 list=BA-Block
 add address=81.94.0.0/20 list=BA-Block
 add address=82.117.232.0/21 list=BA-Block
 add address=82.118.0.0/20 list=BA-Block
+add address=85.8.227.0/24 list=BA-Block
 add address=85.92.224.0/19 list=BA-Block
 add address=85.94.128.0/19 list=BA-Block
 add address=85.158.32.0/21 list=BA-Block

@@ -797,7 +797,6 @@ add address=146.247.80.0/21 list=SE-Block
 add address=147.13.0.0/16 list=SE-Block
 add address=147.14.0.0/16 list=SE-Block
 add address=147.28.64.0/19 list=SE-Block
-add address=147.44.0.0/16 list=SE-Block
 add address=147.78.156.0/22 list=SE-Block
 add address=147.78.228.0/22 list=SE-Block
 add address=147.180.0.0/16 list=SE-Block

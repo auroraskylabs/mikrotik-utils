@@ -319,6 +319,7 @@ add address=132.64.0.0/13 list=IL-Block
 add address=132.72.0.0/14 list=IL-Block
 add address=132.76.0.0/15 list=IL-Block
 add address=132.78.0.0/16 list=IL-Block
+add address=136.148.136.0/22 list=IL-Block
 add address=138.134.0.0/16 list=IL-Block
 add address=141.226.0.0/18 list=IL-Block
 add address=141.226.64.0/20 list=IL-Block

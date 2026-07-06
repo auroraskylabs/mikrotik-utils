@@ -181,6 +181,7 @@ add address=200.5.16.0/20 list=PR-Block
 add address=200.50.0.0/19 list=PR-Block
 add address=204.15.144.0/21 list=PR-Block
 add address=204.27.224.0/24 list=PR-Block
+add address=204.52.222.0/24 list=PR-Block
 add address=204.77.10.0/23 list=PR-Block
 add address=204.124.99.0/24 list=PR-Block
 add address=204.138.0.0/24 list=PR-Block
@@ -191,6 +192,7 @@ add address=206.51.0.0/24 list=PR-Block
 add address=206.166.204.0/22 list=PR-Block
 add address=206.168.250.0/23 list=PR-Block
 add address=206.190.216.0/22 list=PR-Block
+add address=206.198.180.0/24 list=PR-Block
 add address=207.150.240.0/20 list=PR-Block
 add address=207.166.112.0/20 list=PR-Block
 add address=207.167.84.0/22 list=PR-Block

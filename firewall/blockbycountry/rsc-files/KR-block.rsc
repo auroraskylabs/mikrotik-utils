@@ -716,6 +716,7 @@ add address=160.187.186.0/23 list=KR-Block
 add address=160.202.160.0/22 list=KR-Block
 add address=160.202.172.0/22 list=KR-Block
 add address=160.202.176.0/22 list=KR-Block
+add address=160.236.41.0/24 list=KR-Block
 add address=160.250.152.0/22 list=KR-Block
 add address=161.122.0.0/16 list=KR-Block
 add address=162.4.5.0/24 list=KR-Block

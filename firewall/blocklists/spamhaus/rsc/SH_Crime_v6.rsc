@@ -37,7 +37,6 @@ add address=2803:5380:ffff::/48 list=SpamHausCrime comment=SBL262056
 add address=2803:8700::/32 list=SpamHausCrime comment=SBL389795
 add address=2a00:4c80::/29 list=SpamHausCrime comment=SBL303520
 add address=2a00:55a0::/32 list=SpamHausCrime comment=SBL476289
-add address=2a03:5840:130::/48 list=SpamHausCrime comment=SBL697581
 add address=2a04:5200:5977::/48 list=SpamHausCrime comment=SBL655362
 add address=2a05:b0c6:a000::/39 list=SpamHausCrime comment=SBL639450
 add address=2a05:b0c6:a200::/39 list=SpamHausCrime comment=SBL639451

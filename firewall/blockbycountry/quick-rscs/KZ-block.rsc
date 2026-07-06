@@ -124,6 +124,7 @@ add address=83.136.220.0/24 list=KZ-Block
 add address=84.38.4.0/23 list=KZ-Block
 add address=84.240.192.0/18 list=KZ-Block
 add address=84.252.156.0/22 list=KZ-Block
+add address=85.8.229.0/24 list=KZ-Block
 add address=85.29.128.0/18 list=KZ-Block
 add address=85.92.120.0/22 list=KZ-Block
 add address=85.116.176.0/20 list=KZ-Block

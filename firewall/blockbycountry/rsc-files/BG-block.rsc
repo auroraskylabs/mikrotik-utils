@@ -519,7 +519,6 @@ add address=91.220.189.0/24 list=BG-Block
 add address=91.222.20.0/22 list=BG-Block
 add address=91.223.66.0/24 list=BG-Block
 add address=91.223.123.0/24 list=BG-Block
-add address=91.226.182.0/23 list=BG-Block
 add address=91.228.38.0/24 list=BG-Block
 add address=91.229.132.0/22 list=BG-Block
 add address=91.230.6.0/23 list=BG-Block

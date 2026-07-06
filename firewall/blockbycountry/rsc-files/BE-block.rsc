@@ -154,6 +154,7 @@ add address=83.217.128.0/19 list=BE-Block
 add address=84.17.128.0/19 list=BE-Block
 add address=84.38.249.0/24 list=BE-Block
 add address=84.192.0.0/13 list=BE-Block
+add address=85.8.228.0/24 list=BE-Block
 add address=85.10.64.0/18 list=BE-Block
 add address=85.26.0.0/17 list=BE-Block
 add address=85.27.0.0/17 list=BE-Block
@@ -331,10 +332,7 @@ add address=149.126.56.0/21 list=BE-Block
 add address=149.134.0.0/16 list=BE-Block
 add address=149.154.192.0/18 list=BE-Block
 add address=150.251.0.0/20 list=BE-Block
-add address=150.251.32.0/19 list=BE-Block
 add address=150.251.80.0/20 list=BE-Block
-add address=150.251.96.0/20 list=BE-Block
-add address=150.251.124.0/22 list=BE-Block
 add address=150.251.208.0/20 list=BE-Block
 add address=152.55.156.0/22 list=BE-Block
 add address=152.152.0.0/16 list=BE-Block
