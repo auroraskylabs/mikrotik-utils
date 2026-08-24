@@ -15,6 +15,7 @@ add address=2001:678:788::/48 list=SpamHausCrime comment=SBL618311
 add address=2001:678:c5c::/48 list=SpamHausCrime comment=SBL634452
 add address=2001:678:e38::/48 list=SpamHausCrime comment=SBL619318
 add address=2001:678:e4c::/48 list=SpamHausCrime comment=SBL623571
+add address=2001:678:11b8::/48 list=SpamHausCrime comment=SBL699751
 add address=2001:67c:508::/48 list=SpamHausCrime comment=SBL679052
 add address=2001:67c:f38::/48 list=SpamHausCrime comment=SBL675589
 add address=2001:67c:2dbc::/48 list=SpamHausCrime comment=SBL675591
@@ -24,7 +25,6 @@ add address=2401:c580::/32 list=SpamHausCrime comment=SBL246818
 add address=2402:6680::/32 list=SpamHausCrime comment=SBL310886
 add address=2405:9fc0:1::/48 list=SpamHausCrime comment=SBL648396
 add address=2405:b180::/32 list=SpamHausCrime comment=SBL312915
-add address=2405:b480::/32 list=SpamHausCrime comment=SBL341597
 add address=2405:e880::/32 list=SpamHausCrime comment=SBL327648
 add address=2602:f68a::/40 list=SpamHausCrime comment=SBL678470
 add address=2602:f9bb::/36 list=SpamHausCrime comment=SBL679675
@@ -36,7 +36,6 @@ add address=2803:4860::/32 list=SpamHausCrime comment=SBL676057
 add address=2803:5380:ffff::/48 list=SpamHausCrime comment=SBL262056
 add address=2803:8700::/32 list=SpamHausCrime comment=SBL389795
 add address=2a00:4c80::/29 list=SpamHausCrime comment=SBL303520
-add address=2a00:55a0::/32 list=SpamHausCrime comment=SBL476289
 add address=2a04:5200:5977::/48 list=SpamHausCrime comment=SBL655362
 add address=2a05:b0c6:a000::/39 list=SpamHausCrime comment=SBL639450
 add address=2a05:b0c6:a200::/39 list=SpamHausCrime comment=SBL639451
