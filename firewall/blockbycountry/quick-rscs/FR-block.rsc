@@ -1421,7 +1421,6 @@ add address=139.28.248.0/22 list=FR-Block
 add address=139.100.2.0/23 list=FR-Block
 add address=139.100.4.0/22 list=FR-Block
 add address=139.100.8.0/21 list=FR-Block
-add address=139.100.18.0/23 list=FR-Block
 add address=139.100.20.0/22 list=FR-Block
 add address=139.100.24.0/21 list=FR-Block
 add address=139.100.98.0/24 list=FR-Block

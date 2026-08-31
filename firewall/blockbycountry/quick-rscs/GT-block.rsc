@@ -137,6 +137,7 @@ add address=201.222.60.0/22 list=GT-Block
 add address=205.159.31.0/24 list=GT-Block
 add address=207.248.101.0/24 list=GT-Block
 add address=213.173.52.0/22 list=GT-Block
+add address=213.239.144.0/21 list=GT-Block
 add address=216.230.128.0/19 list=GT-Block
 
 /ip firewall raw

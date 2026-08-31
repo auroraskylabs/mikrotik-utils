@@ -126,13 +126,13 @@ add address=78.108.16.0/20 list=HU-Block
 add address=78.131.0.0/17 list=HU-Block
 add address=78.139.0.0/18 list=HU-Block
 add address=78.142.204.0/22 list=HU-Block
-add address=78.153.96.0/19 list=HU-Block
 add address=79.120.128.0/17 list=HU-Block
 add address=79.121.0.0/17 list=HU-Block
 add address=79.122.0.0/17 list=HU-Block
 add address=79.139.56.0/21 list=HU-Block
 add address=79.171.128.0/20 list=HU-Block
 add address=79.172.192.0/18 list=HU-Block
+add address=80.47.192.0/20 list=HU-Block
 add address=80.64.64.0/20 list=HU-Block
 add address=80.68.151.0/24 list=HU-Block
 add address=80.77.112.0/20 list=HU-Block

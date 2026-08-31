@@ -327,7 +327,6 @@ add address=185.242.184.0/24 list=EE-Block
 add address=185.244.48.0/23 list=EE-Block
 add address=185.244.100.0/22 list=EE-Block
 add address=185.246.184.0/22 list=EE-Block
-add address=185.249.222.0/23 list=EE-Block
 add address=185.250.45.0/24 list=EE-Block
 add address=185.250.152.0/22 list=EE-Block
 add address=185.254.34.0/24 list=EE-Block

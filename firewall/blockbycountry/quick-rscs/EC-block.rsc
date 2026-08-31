@@ -1,5 +1,6 @@
 /ip firewall address-list remove [find list="EC-Block"]
 /ip firewall address-list
+add address=2.152.36.0/22 list=EC-Block
 add address=27.50.12.0/22 list=EC-Block
 add address=45.4.88.0/22 list=EC-Block
 add address=45.4.200.0/22 list=EC-Block

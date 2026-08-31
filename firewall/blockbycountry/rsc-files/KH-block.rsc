@@ -108,7 +108,6 @@ add address=103.136.176.0/22 list=KH-Block
 add address=103.138.52.0/24 list=KH-Block
 add address=103.138.84.0/23 list=KH-Block
 add address=103.138.192.0/23 list=KH-Block
-add address=103.138.225.0/24 list=KH-Block
 add address=103.139.16.0/23 list=KH-Block
 add address=103.139.20.0/23 list=KH-Block
 add address=103.140.236.0/23 list=KH-Block

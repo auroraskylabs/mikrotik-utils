@@ -53,6 +53,7 @@ add address=59.103.0.0/16 list=PK-Block
 add address=61.5.128.0/19 list=PK-Block
 add address=72.255.0.0/18 list=PK-Block
 add address=78.41.63.0/24 list=PK-Block
+add address=89.126.240.0/21 list=PK-Block
 add address=101.50.64.0/18 list=PK-Block
 add address=101.53.224.0/19 list=PK-Block
 add address=103.4.92.0/22 list=PK-Block
@@ -600,6 +601,8 @@ add address=162.12.208.0/22 list=PK-Block
 add address=163.52.8.0/23 list=PK-Block
 add address=163.52.16.0/23 list=PK-Block
 add address=163.52.26.0/23 list=PK-Block
+add address=163.52.54.0/23 list=PK-Block
+add address=163.52.68.0/23 list=PK-Block
 add address=163.61.0.0/23 list=PK-Block
 add address=163.61.25.0/24 list=PK-Block
 add address=163.61.91.0/24 list=PK-Block

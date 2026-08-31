@@ -1,13 +1,10 @@
 /ip firewall address-list remove [find list="BR-Block"]
 /ip firewall address-list
 add address=24.152.0.0/19 list=BR-Block
-add address=24.152.36.0/22 list=BR-Block
+add address=24.152.32.0/21 list=BR-Block
 add address=24.152.44.0/22 list=BR-Block
 add address=24.152.60.0/22 list=BR-Block
-add address=24.152.64.0/20 list=BR-Block
-add address=24.152.80.0/21 list=BR-Block
-add address=24.152.88.0/22 list=BR-Block
-add address=24.152.96.0/19 list=BR-Block
+add address=24.152.64.0/18 list=BR-Block
 add address=45.4.4.0/22 list=BR-Block
 add address=45.4.8.0/21 list=BR-Block
 add address=45.4.16.0/20 list=BR-Block
@@ -357,9 +354,7 @@ add address=45.168.88.0/21 list=BR-Block
 add address=45.168.96.0/21 list=BR-Block
 add address=45.168.108.0/22 list=BR-Block
 add address=45.168.112.0/20 list=BR-Block
-add address=45.168.128.0/21 list=BR-Block
-add address=45.168.136.0/22 list=BR-Block
-add address=45.168.144.0/20 list=BR-Block
+add address=45.168.128.0/19 list=BR-Block
 add address=45.168.160.0/21 list=BR-Block
 add address=45.168.168.0/22 list=BR-Block
 add address=45.168.176.0/20 list=BR-Block
@@ -898,8 +893,7 @@ add address=45.190.68.0/22 list=BR-Block
 add address=45.190.72.0/22 list=BR-Block
 add address=45.190.80.0/22 list=BR-Block
 add address=45.190.88.0/22 list=BR-Block
-add address=45.190.100.0/22 list=BR-Block
-add address=45.190.104.0/21 list=BR-Block
+add address=45.190.96.0/20 list=BR-Block
 add address=45.190.112.0/21 list=BR-Block
 add address=45.190.120.0/22 list=BR-Block
 add address=45.190.128.0/19 list=BR-Block
@@ -989,6 +983,7 @@ add address=45.225.208.0/22 list=BR-Block
 add address=45.225.228.0/22 list=BR-Block
 add address=45.225.232.0/21 list=BR-Block
 add address=45.225.240.0/21 list=BR-Block
+add address=45.225.248.0/24 list=BR-Block
 add address=45.225.250.0/23 list=BR-Block
 add address=45.225.252.0/22 list=BR-Block
 add address=45.226.0.0/21 list=BR-Block
@@ -1077,7 +1072,7 @@ add address=45.229.64.0/21 list=BR-Block
 add address=45.229.75.0/24 list=BR-Block
 add address=45.229.76.0/22 list=BR-Block
 add address=45.229.80.0/22 list=BR-Block
-add address=45.229.92.0/22 list=BR-Block
+add address=45.229.88.0/21 list=BR-Block
 add address=45.229.96.0/19 list=BR-Block
 add address=45.229.132.0/22 list=BR-Block
 add address=45.229.136.0/24 list=BR-Block
@@ -4731,7 +4726,7 @@ add address=201.46.128.0/17 list=BR-Block
 add address=201.47.0.0/16 list=BR-Block
 add address=201.48.0.0/16 list=BR-Block
 add address=201.49.0.0/17 list=BR-Block
-add address=201.49.140.0/22 list=BR-Block
+add address=201.49.136.0/21 list=BR-Block
 add address=201.49.144.0/20 list=BR-Block
 add address=201.49.160.0/20 list=BR-Block
 add address=201.49.176.0/21 list=BR-Block

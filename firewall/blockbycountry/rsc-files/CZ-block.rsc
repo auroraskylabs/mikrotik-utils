@@ -1447,6 +1447,7 @@ add address=195.133.194.0/23 list=CZ-Block
 add address=195.133.196.0/22 list=CZ-Block
 add address=195.133.200.0/23 list=CZ-Block
 add address=195.137.182.0/24 list=CZ-Block
+add address=195.137.215.0/24 list=CZ-Block
 add address=195.140.252.0/22 list=CZ-Block
 add address=195.144.96.0/19 list=CZ-Block
 add address=195.146.96.0/19 list=CZ-Block

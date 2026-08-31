@@ -109,6 +109,7 @@ add address=120.29.253.8 list=RootDNS
 add address=122.155.23.64 list=RootDNS
 add address=123.231.6.18 list=RootDNS
 add address=123.49.12.112 list=RootDNS
+add address=123.49.50.51 list=RootDNS
 add address=125.208.32.1 list=RootDNS
 add address=125.208.33.1 list=RootDNS
 add address=125.208.34.1 list=RootDNS
@@ -1115,12 +1116,12 @@ add address=169.54.247.173 list=RootDNS
 add address=170.238.66.50 list=RootDNS
 add address=170.247.170.2 list=RootDNS
 add address=175.45.176.15 list=RootDNS
+add address=175.45.176.16 list=RootDNS
 add address=178.23.16.104 list=RootDNS
 add address=178.23.17.104 list=RootDNS
 add address=178.23.20.60 list=RootDNS
 add address=178.23.22.60 list=RootDNS
 add address=180.149.96.219 list=RootDNS
-add address=180.211.212.213 list=RootDNS
 add address=184.29.150.1 list=RootDNS
 add address=184.29.154.1 list=RootDNS
 add address=184.29.157.1 list=RootDNS
@@ -1960,6 +1961,7 @@ add address=203.107.2.1 list=RootDNS
 add address=203.107.2.2 list=RootDNS
 add address=203.107.3.1 list=RootDNS
 add address=203.107.3.2 list=RootDNS
+add address=203.112.194.231 list=RootDNS
 add address=203.112.194.232 list=RootDNS
 add address=203.119.1.1 list=RootDNS
 add address=203.119.112.112 list=RootDNS
@@ -2018,7 +2020,6 @@ add address=204.61.216.12 list=RootDNS
 add address=204.61.216.120 list=RootDNS
 add address=204.61.216.121 list=RootDNS
 add address=204.61.216.124 list=RootDNS
-add address=204.61.216.125 list=RootDNS
 add address=204.61.216.126 list=RootDNS
 add address=204.61.216.128 list=RootDNS
 add address=204.61.216.129 list=RootDNS
@@ -2508,6 +2509,7 @@ add address=31.145.253.159 list=RootDNS
 add address=31.145.253.160 list=RootDNS
 add address=31.169.81.225 list=RootDNS
 add address=31.169.81.226 list=RootDNS
+add address=31.177.70.1 list=RootDNS
 add address=31.44.1.137 list=RootDNS
 add address=31.44.5.245 list=RootDNS
 add address=34.141.111.176 list=RootDNS
@@ -2560,7 +2562,6 @@ add address=41.228.62.63 list=RootDNS
 add address=41.228.63.62 list=RootDNS
 add address=41.77.190.237 list=RootDNS
 add address=41.77.232.4 list=RootDNS
-add address=41.85.191.2 list=RootDNS
 add address=41.86.56.214 list=RootDNS
 add address=41.87.2.154 list=RootDNS
 add address=41.87.5.162 list=RootDNS
@@ -2695,6 +2696,8 @@ add address=64.78.204.1 list=RootDNS
 add address=64.78.205.1 list=RootDNS
 add address=64.96.1.1 list=RootDNS
 add address=64.96.2.1 list=RootDNS
+add address=65.208.122.36 list=RootDNS
+add address=65.208.122.63 list=RootDNS
 add address=65.22.0.1 list=RootDNS
 add address=65.22.1.1 list=RootDNS
 add address=65.22.104.27 list=RootDNS
@@ -4576,6 +4579,7 @@ add address=81.91.173.130 list=RootDNS
 add address=82.114.164.244 list=RootDNS
 add address=82.115.52.4 list=RootDNS
 add address=82.137.200.85 list=RootDNS
+add address=82.151.64.2 list=RootDNS
 add address=82.199.184.194 list=RootDNS
 add address=82.199.186.130 list=RootDNS
 add address=83.218.14.53 list=RootDNS

@@ -1346,7 +1346,6 @@ add address=95.215.222.0/24 list=RO-Block
 add address=103.75.68.0/22 list=RO-Block
 add address=103.76.128.0/22 list=RO-Block
 add address=103.112.170.0/23 list=RO-Block
-add address=103.113.29.0/24 list=RO-Block
 add address=103.121.48.0/23 list=RO-Block
 add address=103.126.50.0/23 list=RO-Block
 add address=103.219.212.0/23 list=RO-Block

@@ -72,7 +72,6 @@ add address=94.177.129.0/24 list=VG-Block
 add address=94.177.132.0/24 list=VG-Block
 add address=95.214.8.0/22 list=VG-Block
 add address=98.158.96.0/20 list=VG-Block
-add address=103.92.130.0/24 list=VG-Block
 add address=103.143.178.0/23 list=VG-Block
 add address=103.144.140.0/23 list=VG-Block
 add address=104.254.96.0/23 list=VG-Block

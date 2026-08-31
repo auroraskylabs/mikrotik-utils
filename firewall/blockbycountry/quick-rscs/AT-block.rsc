@@ -33,6 +33,7 @@ add address=5.252.12.0/22 list=AT-Block
 add address=5.253.136.0/22 list=AT-Block
 add address=5.253.216.0/22 list=AT-Block
 add address=5.254.184.0/21 list=AT-Block
+add address=13.140.96.0/19 list=AT-Block
 add address=31.3.214.0/23 list=AT-Block
 add address=31.7.92.0/22 list=AT-Block
 add address=31.12.0.0/21 list=AT-Block

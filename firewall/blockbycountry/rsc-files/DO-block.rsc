@@ -1,5 +1,9 @@
 /ip firewall address-list remove [find list="DO-Block"]
 /ip firewall address-list
+add address=2.152.6.0/23 list=DO-Block
+add address=2.152.32.0/24 list=DO-Block
+add address=2.152.58.0/23 list=DO-Block
+add address=2.152.60.0/22 list=DO-Block
 add address=5.183.80.0/22 list=DO-Block
 add address=24.152.48.0/22 list=DO-Block
 add address=45.5.8.0/22 list=DO-Block

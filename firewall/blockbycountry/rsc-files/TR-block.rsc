@@ -308,6 +308,7 @@ add address=85.8.212.0/24 list=TR-Block
 add address=85.8.214.0/24 list=TR-Block
 add address=85.8.217.0/24 list=TR-Block
 add address=85.8.218.0/24 list=TR-Block
+add address=85.8.246.0/24 list=TR-Block
 add address=85.29.0.0/18 list=TR-Block
 add address=85.90.210.0/24 list=TR-Block
 add address=85.95.224.0/19 list=TR-Block
@@ -653,9 +654,11 @@ add address=153.56.155.0/24 list=TR-Block
 add address=153.56.156.0/22 list=TR-Block
 add address=153.56.160.0/21 list=TR-Block
 add address=153.56.168.0/23 list=TR-Block
+add address=153.56.180.0/24 list=TR-Block
 add address=153.56.184.0/22 list=TR-Block
 add address=153.56.190.0/23 list=TR-Block
 add address=153.56.208.0/23 list=TR-Block
+add address=153.56.211.0/24 list=TR-Block
 add address=155.223.0.0/16 list=TR-Block
 add address=158.94.208.0/22 list=TR-Block
 add address=158.94.216.0/24 list=TR-Block
@@ -1252,7 +1255,7 @@ add address=193.37.135.0/24 list=TR-Block
 add address=193.37.154.0/24 list=TR-Block
 add address=193.38.34.0/24 list=TR-Block
 add address=193.38.44.0/22 list=TR-Block
-add address=193.39.78.0/24 list=TR-Block
+add address=193.39.78.0/23 list=TR-Block
 add address=193.39.137.0/24 list=TR-Block
 add address=193.39.138.0/24 list=TR-Block
 add address=193.39.213.0/24 list=TR-Block
