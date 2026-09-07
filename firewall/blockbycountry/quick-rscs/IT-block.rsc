@@ -3083,6 +3083,7 @@ add address=195.130.224.0/19 list=IT-Block
 add address=195.134.176.0/21 list=IT-Block
 add address=195.135.200.0/22 list=IT-Block
 add address=195.137.128.0/19 list=IT-Block
+add address=195.140.189.0/24 list=IT-Block
 add address=195.160.208.0/22 list=IT-Block
 add address=195.162.92.0/22 list=IT-Block
 add address=195.177.112.0/22 list=IT-Block
@@ -3144,6 +3145,7 @@ add address=204.154.94.0/23 list=IT-Block
 add address=204.231.237.0/24 list=IT-Block
 add address=207.244.214.0/23 list=IT-Block
 add address=209.227.192.0/18 list=IT-Block
+add address=212.2.40.0/22 list=IT-Block
 add address=212.3.160.0/19 list=IT-Block
 add address=212.4.0.0/19 list=IT-Block
 add address=212.6.50.0/24 list=IT-Block

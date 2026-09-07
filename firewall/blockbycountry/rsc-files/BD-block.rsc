@@ -524,6 +524,7 @@ add address=103.104.216.0/22 list=BD-Block
 add address=103.104.242.0/23 list=BD-Block
 add address=103.105.74.0/23 list=BD-Block
 add address=103.105.84.0/22 list=BD-Block
+add address=103.105.122.0/23 list=BD-Block
 add address=103.106.32.0/22 list=BD-Block
 add address=103.106.56.0/23 list=BD-Block
 add address=103.106.118.0/23 list=BD-Block
@@ -1900,6 +1901,7 @@ add address=163.52.30.0/23 list=BD-Block
 add address=163.52.42.0/23 list=BD-Block
 add address=163.52.56.0/23 list=BD-Block
 add address=163.52.64.0/24 list=BD-Block
+add address=163.52.96.0/23 list=BD-Block
 add address=163.53.140.0/22 list=BD-Block
 add address=163.53.148.0/22 list=BD-Block
 add address=163.53.180.0/22 list=BD-Block

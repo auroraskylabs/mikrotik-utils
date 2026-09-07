@@ -3761,6 +3761,7 @@ add address=163.0.0.0/16 list=CN-Block
 add address=163.47.4.0/22 list=CN-Block
 add address=163.52.28.0/23 list=CN-Block
 add address=163.52.76.0/23 list=CN-Block
+add address=163.52.108.0/23 list=CN-Block
 add address=163.53.0.0/20 list=CN-Block
 add address=163.53.36.0/22 list=CN-Block
 add address=163.53.40.0/21 list=CN-Block

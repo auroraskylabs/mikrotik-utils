@@ -109,6 +109,7 @@ add address=46.255.120.0/21 list=CY-Block
 add address=62.3.32.0/24 list=CY-Block
 add address=62.12.64.0/19 list=CY-Block
 add address=62.122.188.0/24 list=CY-Block
+add address=62.129.141.0/24 list=CY-Block
 add address=62.152.0.0/19 list=CY-Block
 add address=62.164.156.0/22 list=CY-Block
 add address=62.164.160.0/21 list=CY-Block
@@ -239,6 +240,7 @@ add address=103.110.64.0/22 list=CY-Block
 add address=103.110.124.0/23 list=CY-Block
 add address=103.126.48.0/23 list=CY-Block
 add address=103.146.118.0/23 list=CY-Block
+add address=103.197.148.0/22 list=CY-Block
 add address=103.209.228.0/23 list=CY-Block
 add address=109.105.224.0/19 list=CY-Block
 add address=109.110.224.0/19 list=CY-Block
@@ -381,6 +383,7 @@ add address=185.255.96.0/23 list=CY-Block
 add address=188.212.124.0/23 list=CY-Block
 add address=188.212.251.0/24 list=CY-Block
 add address=188.215.32.0/24 list=CY-Block
+add address=188.241.16.0/24 list=CY-Block
 add address=188.244.113.0/24 list=CY-Block
 add address=192.144.48.0/22 list=CY-Block
 add address=193.22.30.0/24 list=CY-Block

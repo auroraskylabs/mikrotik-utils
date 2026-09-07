@@ -51,6 +51,7 @@ add address=124.240.192.0/19 list=PG-Block
 add address=125.254.50.0/23 list=PG-Block
 add address=160.20.143.0/24 list=PG-Block
 add address=160.191.118.0/23 list=PG-Block
+add address=163.52.92.0/23 list=PG-Block
 add address=163.227.43.0/24 list=PG-Block
 add address=180.150.252.0/22 list=PG-Block
 add address=202.1.32.0/19 list=PG-Block

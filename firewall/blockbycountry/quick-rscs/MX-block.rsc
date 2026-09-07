@@ -3,6 +3,7 @@
 add address=23.137.188.0/24 list=MX-Block
 add address=23.156.104.0/24 list=MX-Block
 add address=23.157.236.0/24 list=MX-Block
+add address=23.164.12.0/24 list=MX-Block
 add address=45.5.52.0/22 list=MX-Block
 add address=45.5.92.0/22 list=MX-Block
 add address=45.6.60.0/22 list=MX-Block
@@ -139,6 +140,7 @@ add address=138.219.36.0/22 list=MX-Block
 add address=138.255.60.0/22 list=MX-Block
 add address=138.255.116.0/22 list=MX-Block
 add address=140.148.0.0/16 list=MX-Block
+add address=140.232.91.0/24 list=MX-Block
 add address=143.137.108.0/22 list=MX-Block
 add address=143.202.76.0/22 list=MX-Block
 add address=143.202.156.0/22 list=MX-Block
@@ -269,6 +271,7 @@ add address=181.224.16.0/22 list=MX-Block
 add address=181.224.44.0/22 list=MX-Block
 add address=181.232.172.0/22 list=MX-Block
 add address=181.233.96.0/22 list=MX-Block
+add address=185.12.7.0/24 list=MX-Block
 add address=186.26.72.0/22 list=MX-Block
 add address=186.96.0.0/18 list=MX-Block
 add address=186.96.128.0/18 list=MX-Block

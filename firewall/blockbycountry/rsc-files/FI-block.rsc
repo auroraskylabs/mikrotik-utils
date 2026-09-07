@@ -823,7 +823,6 @@ add address=193.254.23.128/25 list=FI-Block
 add address=194.0.80.0/22 list=FI-Block
 add address=194.8.226.0/23 list=FI-Block
 add address=194.28.0.0/22 list=FI-Block
-add address=194.29.192.0/21 list=FI-Block
 add address=194.34.56.0/22 list=FI-Block
 add address=194.34.60.0/23 list=FI-Block
 add address=194.34.132.0/22 list=FI-Block

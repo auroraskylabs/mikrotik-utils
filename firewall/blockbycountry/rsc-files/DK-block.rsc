@@ -1081,7 +1081,6 @@ add address=194.150.108.0/22 list=DK-Block
 add address=194.150.112.0/22 list=DK-Block
 add address=194.150.184.0/23 list=DK-Block
 add address=194.152.38.0/23 list=DK-Block
-add address=194.153.156.0/26 list=DK-Block
 add address=194.164.98.0/23 list=DK-Block
 add address=194.164.233.0/24 list=DK-Block
 add address=194.165.35.0/24 list=DK-Block

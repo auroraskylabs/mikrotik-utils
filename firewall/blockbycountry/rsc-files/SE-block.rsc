@@ -909,7 +909,7 @@ add address=164.37.32.0/22 list=SE-Block
 add address=164.37.36.0/23 list=SE-Block
 add address=164.37.38.0/24 list=SE-Block
 add address=164.37.46.0/23 list=SE-Block
-add address=164.37.48.0/22 list=SE-Block
+add address=164.37.49.0/24 list=SE-Block
 add address=164.37.60.0/22 list=SE-Block
 add address=164.37.64.0/21 list=SE-Block
 add address=164.37.80.0/20 list=SE-Block

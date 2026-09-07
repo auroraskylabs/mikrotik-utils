@@ -9,8 +9,6 @@ add address=14.192.64.0/21 list=MY-Block
 add address=14.192.192.0/18 list=MY-Block
 add address=23.155.52.0/24 list=MY-Block
 add address=23.155.92.0/24 list=MY-Block
-add address=23.156.132.0/24 list=MY-Block
-add address=23.156.148.0/24 list=MY-Block
 add address=23.160.68.0/24 list=MY-Block
 add address=23.162.76.0/24 list=MY-Block
 add address=23.177.232.0/24 list=MY-Block

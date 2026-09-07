@@ -7,7 +7,7 @@ add address=2.58.240.0/22 list=TW-Block
 add address=23.139.92.0/24 list=TW-Block
 add address=23.139.100.0/24 list=TW-Block
 add address=23.160.132.0/24 list=TW-Block
-add address=23.162.84.0/24 list=TW-Block
+add address=23.163.36.0/24 list=TW-Block
 add address=27.0.152.0/22 list=TW-Block
 add address=27.51.0.0/16 list=TW-Block
 add address=27.52.0.0/15 list=TW-Block

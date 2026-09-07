@@ -84,6 +84,7 @@ add address=94.154.152.0/22 list=AL-Block
 add address=95.86.40.0/22 list=AL-Block
 add address=95.86.56.0/22 list=AL-Block
 add address=95.107.128.0/17 list=AL-Block
+add address=95.133.132.0/22 list=AL-Block
 add address=95.143.103.0/24 list=AL-Block
 add address=103.69.32.0/22 list=AL-Block
 add address=103.93.40.0/22 list=AL-Block
@@ -100,8 +101,6 @@ add address=109.104.132.0/23 list=AL-Block
 add address=109.104.134.0/24 list=AL-Block
 add address=109.104.140.0/23 list=AL-Block
 add address=109.104.144.0/23 list=AL-Block
-add address=109.104.156.0/24 list=AL-Block
-add address=109.104.158.0/23 list=AL-Block
 add address=109.234.232.0/21 list=AL-Block
 add address=109.236.32.0/20 list=AL-Block
 add address=130.0.24.0/21 list=AL-Block
