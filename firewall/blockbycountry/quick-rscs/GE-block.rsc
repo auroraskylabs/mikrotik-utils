@@ -104,7 +104,6 @@ add address=91.205.157.0/24 list=GE-Block
 add address=91.206.130.0/23 list=GE-Block
 add address=91.208.144.0/24 list=GE-Block
 add address=91.209.131.0/24 list=GE-Block
-add address=91.209.135.0/24 list=GE-Block
 add address=91.210.120.0/22 list=GE-Block
 add address=91.211.86.0/24 list=GE-Block
 add address=91.212.213.0/24 list=GE-Block

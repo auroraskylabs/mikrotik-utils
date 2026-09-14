@@ -481,7 +481,7 @@ add address=200.23.128.0/22 list=MX-Block
 add address=200.23.132.0/23 list=MX-Block
 add address=200.23.136.0/22 list=MX-Block
 add address=200.23.141.0/24 list=MX-Block
-add address=200.23.142.0/23 list=MX-Block
+add address=200.23.142.0/24 list=MX-Block
 add address=200.23.144.0/22 list=MX-Block
 add address=200.23.149.0/24 list=MX-Block
 add address=200.23.150.0/23 list=MX-Block

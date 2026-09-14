@@ -2,7 +2,6 @@
 /ip firewall address-list
 add address=2.152.252.0/22 list=PA-Block
 add address=5.252.152.0/22 list=PA-Block
-add address=23.137.100.0/24 list=PA-Block
 add address=31.7.56.0/21 list=PA-Block
 add address=45.65.254.0/23 list=PA-Block
 add address=45.68.104.0/24 list=PA-Block

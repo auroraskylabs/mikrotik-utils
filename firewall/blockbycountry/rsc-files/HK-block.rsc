@@ -1981,13 +1981,11 @@ add address=159.117.96.0/21 list=HK-Block
 add address=159.200.0.0/17 list=HK-Block
 add address=159.200.128.0/18 list=HK-Block
 add address=159.200.192.0/21 list=HK-Block
-add address=159.200.201.0/24 list=HK-Block
 add address=159.200.202.0/23 list=HK-Block
 add address=159.200.204.0/23 list=HK-Block
-add address=159.200.208.0/20 list=HK-Block
+add address=159.200.208.0/21 list=HK-Block
+add address=159.200.220.0/22 list=HK-Block
 add address=159.200.224.0/22 list=HK-Block
-add address=159.200.228.0/23 list=HK-Block
-add address=159.200.234.0/23 list=HK-Block
 add address=159.200.238.0/24 list=HK-Block
 add address=159.200.248.0/21 list=HK-Block
 add address=160.19.48.0/22 list=HK-Block

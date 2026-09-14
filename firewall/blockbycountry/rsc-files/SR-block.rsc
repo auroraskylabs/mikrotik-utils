@@ -6,6 +6,7 @@ add address=138.186.208.0/22 list=SR-Block
 add address=168.121.84.0/22 list=SR-Block
 add address=168.195.216.0/22 list=SR-Block
 add address=186.179.128.0/17 list=SR-Block
+add address=190.2.172.0/22 list=SR-Block
 add address=190.98.0.0/17 list=SR-Block
 add address=200.1.156.0/22 list=SR-Block
 add address=200.1.208.0/21 list=SR-Block

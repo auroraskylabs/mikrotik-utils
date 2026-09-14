@@ -41,7 +41,6 @@ add address=45.171.220.0/22 list=CL-Block
 add address=45.172.136.0/22 list=CL-Block
 add address=45.173.120.0/22 list=CL-Block
 add address=45.173.128.0/22 list=CL-Block
-add address=45.174.104.0/22 list=CL-Block
 add address=45.174.204.0/22 list=CL-Block
 add address=45.175.21.0/24 list=CL-Block
 add address=45.176.116.0/22 list=CL-Block

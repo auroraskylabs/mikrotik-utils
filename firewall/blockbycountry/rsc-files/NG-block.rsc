@@ -37,6 +37,7 @@ add address=41.184.0.0/16 list=NG-Block
 add address=41.189.0.0/19 list=NG-Block
 add address=41.190.0.0/19 list=NG-Block
 add address=41.203.64.0/18 list=NG-Block
+add address=41.204.224.0/19 list=NG-Block
 add address=41.206.0.0/19 list=NG-Block
 add address=41.207.248.0/22 list=NG-Block
 add address=41.215.244.0/22 list=NG-Block

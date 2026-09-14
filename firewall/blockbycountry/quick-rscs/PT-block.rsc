@@ -125,7 +125,7 @@ add address=148.63.0.0/16 list=PT-Block
 add address=148.69.0.0/16 list=PT-Block
 add address=148.71.0.0/16 list=PT-Block
 add address=149.90.0.0/16 list=PT-Block
-add address=150.237.126.0/23 list=PT-Block
+add address=150.237.124.0/22 list=PT-Block
 add address=158.162.0.0/16 list=PT-Block
 add address=159.255.48.0/20 list=PT-Block
 add address=161.230.0.0/16 list=PT-Block

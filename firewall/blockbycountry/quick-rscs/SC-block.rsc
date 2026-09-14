@@ -447,8 +447,7 @@ add address=167.94.162.0/23 list=SC-Block
 add address=167.94.164.0/23 list=SC-Block
 add address=168.80.0.0/15 list=SC-Block
 add address=168.113.0.0/17 list=SC-Block
-add address=168.113.128.0/19 list=SC-Block
-add address=168.113.160.0/20 list=SC-Block
+add address=168.113.128.0/20 list=SC-Block
 add address=169.239.20.0/22 list=SC-Block
 add address=169.239.128.0/22 list=SC-Block
 add address=169.239.200.0/21 list=SC-Block

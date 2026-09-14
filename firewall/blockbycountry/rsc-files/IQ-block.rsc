@@ -36,7 +36,6 @@ add address=45.157.148.0/22 list=IQ-Block
 add address=46.18.109.0/24 list=IQ-Block
 add address=46.21.251.0/24 list=IQ-Block
 add address=46.30.224.0/21 list=IQ-Block
-add address=46.161.192.0/21 list=IQ-Block
 add address=46.161.200.0/23 list=IQ-Block
 add address=46.183.23.0/24 list=IQ-Block
 add address=46.243.16.0/21 list=IQ-Block
@@ -107,6 +106,7 @@ add address=151.236.160.0/19 list=IQ-Block
 add address=159.255.160.0/21 list=IQ-Block
 add address=164.138.232.0/21 list=IQ-Block
 add address=167.160.5.0/24 list=IQ-Block
+add address=171.33.160.0/22 list=IQ-Block
 add address=176.28.72.0/21 list=IQ-Block
 add address=176.105.236.0/22 list=IQ-Block
 add address=176.222.60.0/22 list=IQ-Block

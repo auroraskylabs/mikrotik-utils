@@ -3581,7 +3581,9 @@ add address=202.65.64.0/19 list=AU-Block
 add address=202.66.160.0/22 list=AU-Block
 add address=202.67.64.0/18 list=AU-Block
 add address=202.68.64.0/20 list=AU-Block
-add address=202.68.96.0/19 list=AU-Block
+add address=202.68.96.0/20 list=AU-Block
+add address=202.68.112.0/21 list=AU-Block
+add address=202.68.124.0/22 list=AU-Block
 add address=202.68.160.0/20 list=AU-Block
 add address=202.69.132.0/22 list=AU-Block
 add address=202.69.208.0/20 list=AU-Block

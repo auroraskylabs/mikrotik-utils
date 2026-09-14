@@ -47,7 +47,7 @@ add address=45.129.68.0/22 list=BE-Block
 add address=45.138.120.0/22 list=BE-Block
 add address=45.138.168.0/22 list=BE-Block
 add address=45.148.49.0/24 list=BE-Block
-add address=45.149.64.0/22 list=BE-Block
+add address=45.149.64.0/23 list=BE-Block
 add address=45.149.96.0/22 list=BE-Block
 add address=45.152.68.0/22 list=BE-Block
 add address=45.152.80.0/22 list=BE-Block

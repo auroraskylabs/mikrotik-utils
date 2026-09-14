@@ -1502,7 +1502,10 @@ add address=212.158.128.0/19 list=CZ-Block
 add address=212.192.210.0/23 list=CZ-Block
 add address=212.192.216.0/23 list=CZ-Block
 add address=212.192.220.0/22 list=CZ-Block
-add address=212.192.240.0/20 list=CZ-Block
+add address=212.192.240.0/22 list=CZ-Block
+add address=212.192.244.0/23 list=CZ-Block
+add address=212.192.250.0/23 list=CZ-Block
+add address=212.192.252.0/22 list=CZ-Block
 add address=212.193.0.0/19 list=CZ-Block
 add address=212.237.229.0/24 list=CZ-Block
 add address=213.19.0.0/17 list=CZ-Block

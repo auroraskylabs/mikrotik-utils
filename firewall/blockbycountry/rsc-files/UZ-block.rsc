@@ -151,6 +151,7 @@ add address=194.55.92.0/22 list=UZ-Block
 add address=194.62.108.0/22 list=UZ-Block
 add address=194.93.24.0/22 list=UZ-Block
 add address=194.107.115.0/24 list=UZ-Block
+add address=194.242.60.0/24 list=UZ-Block
 add address=195.69.188.0/22 list=UZ-Block
 add address=195.88.214.0/23 list=UZ-Block
 add address=195.95.176.0/24 list=UZ-Block

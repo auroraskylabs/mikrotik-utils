@@ -264,7 +264,6 @@ add address=91.198.120.0/24 list=FI-Block
 add address=91.199.148.0/24 list=FI-Block
 add address=91.202.112.0/22 list=FI-Block
 add address=91.207.79.0/24 list=FI-Block
-add address=91.209.29.0/24 list=FI-Block
 add address=91.213.97.0/24 list=FI-Block
 add address=91.213.161.0/24 list=FI-Block
 add address=91.214.164.0/22 list=FI-Block
@@ -463,7 +462,6 @@ add address=185.52.164.0/22 list=FI-Block
 add address=185.53.84.0/22 list=FI-Block
 add address=185.55.32.0/22 list=FI-Block
 add address=185.55.84.0/22 list=FI-Block
-add address=185.55.176.0/22 list=FI-Block
 add address=185.57.180.0/22 list=FI-Block
 add address=185.58.32.0/22 list=FI-Block
 add address=185.59.116.0/22 list=FI-Block

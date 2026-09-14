@@ -1686,7 +1686,6 @@ add address=149.170.228.0/24 list=PL-Block
 add address=150.251.76.0/22 list=PL-Block
 add address=150.251.252.0/22 list=PL-Block
 add address=150.254.0.0/16 list=PL-Block
-add address=151.216.6.0/24 list=PL-Block
 add address=151.248.32.0/20 list=PL-Block
 add address=151.248.56.0/21 list=PL-Block
 add address=151.249.80.0/21 list=PL-Block
@@ -3400,7 +3399,7 @@ add address=194.180.44.0/22 list=PL-Block
 add address=194.180.108.0/23 list=PL-Block
 add address=194.180.170.0/23 list=PL-Block
 add address=194.180.220.0/22 list=PL-Block
-add address=194.180.226.0/25 list=PL-Block
+add address=194.180.226.0/26 list=PL-Block
 add address=194.181.0.0/16 list=PL-Block
 add address=194.183.32.0/19 list=PL-Block
 add address=194.187.40.0/22 list=PL-Block

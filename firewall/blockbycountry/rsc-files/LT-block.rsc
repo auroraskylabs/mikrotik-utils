@@ -530,6 +530,7 @@ add address=185.68.36.0/22 list=LT-Block
 add address=185.69.52.0/22 list=LT-Block
 add address=185.72.101.0/24 list=LT-Block
 add address=185.74.252.0/22 list=LT-Block
+add address=185.77.96.0/23 list=LT-Block
 add address=185.77.164.0/22 list=LT-Block
 add address=185.79.244.0/22 list=LT-Block
 add address=185.80.90.0/24 list=LT-Block

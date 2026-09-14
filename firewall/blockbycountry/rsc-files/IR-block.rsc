@@ -1652,6 +1652,8 @@ add address=195.62.4.0/24 list=IR-Block
 add address=195.78.115.0/24 list=IR-Block
 add address=195.88.188.0/23 list=IR-Block
 add address=195.88.208.0/24 list=IR-Block
+add address=195.96.32.0/21 list=IR-Block
+add address=195.96.48.0/20 list=IR-Block
 add address=195.96.128.0/24 list=IR-Block
 add address=195.96.153.0/24 list=IR-Block
 add address=195.110.38.0/23 list=IR-Block

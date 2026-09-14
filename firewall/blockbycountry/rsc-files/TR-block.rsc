@@ -154,7 +154,6 @@ add address=45.139.200.0/22 list=TR-Block
 add address=45.139.220.0/22 list=TR-Block
 add address=45.141.148.0/22 list=TR-Block
 add address=45.143.96.0/22 list=TR-Block
-add address=45.143.188.0/22 list=TR-Block
 add address=45.145.20.0/22 list=TR-Block
 add address=45.147.44.0/22 list=TR-Block
 add address=45.151.248.0/22 list=TR-Block
