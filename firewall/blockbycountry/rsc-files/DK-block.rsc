@@ -905,7 +905,6 @@ add address=193.110.196.0/22 list=DK-Block
 add address=193.111.64.0/23 list=DK-Block
 add address=193.111.162.0/24 list=DK-Block
 add address=193.135.48.0/21 list=DK-Block
-add address=193.138.76.0/24 list=DK-Block
 add address=193.138.115.0/24 list=DK-Block
 add address=193.138.124.0/24 list=DK-Block
 add address=193.142.211.0/24 list=DK-Block

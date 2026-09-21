@@ -83,6 +83,7 @@ add address=102.130.224.0/21 list=CI-Block
 add address=102.135.184.0/22 list=CI-Block
 add address=102.135.191.0/24 list=CI-Block
 add address=102.136.0.0/14 list=CI-Block
+add address=102.201.56.0/22 list=CI-Block
 add address=102.201.192.0/23 list=CI-Block
 add address=102.201.210.0/24 list=CI-Block
 add address=102.203.40.0/22 list=CI-Block

@@ -535,7 +535,8 @@ add address=138.252.236.0/24 list=PK-Block
 add address=139.5.116.0/22 list=PK-Block
 add address=139.135.32.0/19 list=PK-Block
 add address=139.190.0.0/18 list=PK-Block
-add address=139.190.64.0/19 list=PK-Block
+add address=139.190.72.0/21 list=PK-Block
+add address=139.190.80.0/20 list=PK-Block
 add address=139.190.192.0/18 list=PK-Block
 add address=144.48.0.0/22 list=PK-Block
 add address=144.48.120.0/22 list=PK-Block
@@ -605,6 +606,9 @@ add address=163.52.54.0/23 list=PK-Block
 add address=163.52.68.0/23 list=PK-Block
 add address=163.52.118.0/23 list=PK-Block
 add address=163.52.146.0/23 list=PK-Block
+add address=163.52.185.0/24 list=PK-Block
+add address=163.52.207.0/24 list=PK-Block
+add address=163.52.214.0/24 list=PK-Block
 add address=163.61.0.0/23 list=PK-Block
 add address=163.61.25.0/24 list=PK-Block
 add address=163.61.91.0/24 list=PK-Block
@@ -643,6 +647,20 @@ add address=180.149.208.0/20 list=PK-Block
 add address=180.178.128.0/18 list=PK-Block
 add address=182.176.0.0/12 list=PK-Block
 add address=182.255.48.0/22 list=PK-Block
+add address=187.7.32.0/19 list=PK-Block
+add address=187.52.224.0/19 list=PK-Block
+add address=187.53.160.0/19 list=PK-Block
+add address=187.54.224.0/19 list=PK-Block
+add address=187.55.64.0/19 list=PK-Block
+add address=187.55.128.0/19 list=PK-Block
+add address=187.78.128.0/19 list=PK-Block
+add address=187.79.128.0/20 list=PK-Block
+add address=189.10.144.0/20 list=PK-Block
+add address=189.10.208.0/20 list=PK-Block
+add address=189.12.0.0/19 list=PK-Block
+add address=189.31.224.0/19 list=PK-Block
+add address=189.72.96.0/19 list=PK-Block
+add address=189.105.16.0/20 list=PK-Block
 add address=192.58.97.0/24 list=PK-Block
 add address=192.135.90.0/23 list=PK-Block
 add address=192.140.144.0/21 list=PK-Block
@@ -739,7 +757,7 @@ add address=218.100.85.0/24 list=PK-Block
 add address=221.120.192.0/18 list=PK-Block
 add address=221.132.112.0/21 list=PK-Block
 add address=223.29.224.0/22 list=PK-Block
-add address=223.29.228.0/23 list=PK-Block
+add address=223.29.229.0/24 list=PK-Block
 add address=223.29.232.0/22 list=PK-Block
 add address=223.123.0.0/17 list=PK-Block
 

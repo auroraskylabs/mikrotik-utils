@@ -10,6 +10,7 @@ add address=37.152.64.0/21 list=IS-Block
 add address=37.156.68.0/24 list=IS-Block
 add address=37.205.32.0/21 list=IS-Block
 add address=37.228.128.0/23 list=IS-Block
+add address=45.151.214.0/24 list=IS-Block
 add address=46.22.96.0/20 list=IS-Block
 add address=46.28.152.0/21 list=IS-Block
 add address=46.182.184.0/21 list=IS-Block

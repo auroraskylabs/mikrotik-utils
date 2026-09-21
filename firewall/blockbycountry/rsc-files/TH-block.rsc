@@ -450,6 +450,7 @@ add address=161.82.128.0/17 list=TH-Block
 add address=161.200.0.0/16 list=TH-Block
 add address=161.246.0.0/16 list=TH-Block
 add address=161.248.11.0/24 list=TH-Block
+add address=163.52.188.0/23 list=TH-Block
 add address=163.61.114.0/23 list=TH-Block
 add address=163.223.214.0/23 list=TH-Block
 add address=164.115.0.0/16 list=TH-Block
@@ -641,6 +642,7 @@ add address=203.170.128.0/17 list=TH-Block
 add address=203.172.32.0/19 list=TH-Block
 add address=203.172.64.0/18 list=TH-Block
 add address=203.172.128.0/17 list=TH-Block
+add address=203.173.80.0/21 list=TH-Block
 add address=203.185.64.0/18 list=TH-Block
 add address=203.185.128.0/19 list=TH-Block
 add address=203.185.188.0/24 list=TH-Block

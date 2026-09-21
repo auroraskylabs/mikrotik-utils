@@ -534,6 +534,7 @@ add address=199.16.105.0/24 list=SA-Block
 add address=200.225.56.0/23 list=SA-Block
 add address=202.8.108.0/22 list=SA-Block
 add address=202.37.110.0/23 list=SA-Block
+add address=204.28.220.0/23 list=SA-Block
 add address=205.238.64.0/18 list=SA-Block
 add address=207.143.0.0/16 list=SA-Block
 add address=207.150.160.0/19 list=SA-Block

@@ -32,6 +32,7 @@ add address=77.81.160.0/22 list=HR-Block
 add address=77.237.96.0/19 list=HR-Block
 add address=78.0.0.0/14 list=HR-Block
 add address=78.134.128.0/17 list=HR-Block
+add address=79.170.198.0/24 list=HR-Block
 add address=80.80.48.0/20 list=HR-Block
 add address=80.173.128.0/21 list=HR-Block
 add address=80.253.160.0/20 list=HR-Block

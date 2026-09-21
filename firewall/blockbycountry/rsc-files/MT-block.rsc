@@ -96,7 +96,6 @@ add address=193.150.126.0/24 list=MT-Block
 add address=193.188.32.0/20 list=MT-Block
 add address=193.200.242.0/24 list=MT-Block
 add address=193.227.99.0/24 list=MT-Block
-add address=194.61.20.0/22 list=MT-Block
 add address=194.105.32.0/22 list=MT-Block
 add address=194.106.64.0/19 list=MT-Block
 add address=194.127.139.0/24 list=MT-Block

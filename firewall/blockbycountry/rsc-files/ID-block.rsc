@@ -4068,6 +4068,14 @@ add address=163.52.158.0/23 list=ID-Block
 add address=163.52.160.0/22 list=ID-Block
 add address=163.52.164.0/23 list=ID-Block
 add address=163.52.166.0/24 list=ID-Block
+add address=163.52.175.0/24 list=ID-Block
+add address=163.52.178.0/23 list=ID-Block
+add address=163.52.180.0/23 list=ID-Block
+add address=163.52.198.0/23 list=ID-Block
+add address=163.52.200.0/22 list=ID-Block
+add address=163.52.206.0/24 list=ID-Block
+add address=163.52.215.0/24 list=ID-Block
+add address=163.52.216.0/24 list=ID-Block
 add address=163.53.184.0/22 list=ID-Block
 add address=163.53.192.0/22 list=ID-Block
 add address=163.61.6.0/23 list=ID-Block

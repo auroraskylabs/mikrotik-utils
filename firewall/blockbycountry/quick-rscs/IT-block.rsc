@@ -294,7 +294,6 @@ add address=45.133.12.0/22 list=IT-Block
 add address=45.133.144.0/22 list=IT-Block
 add address=45.133.154.0/23 list=IT-Block
 add address=45.133.242.0/24 list=IT-Block
-add address=45.134.243.0/24 list=IT-Block
 add address=45.135.24.0/22 list=IT-Block
 add address=45.135.68.0/22 list=IT-Block
 add address=45.136.110.0/24 list=IT-Block

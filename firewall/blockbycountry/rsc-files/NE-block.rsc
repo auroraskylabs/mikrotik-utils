@@ -3,6 +3,8 @@
 add address=41.78.116.0/22 list=NE-Block
 add address=41.138.32.0/19 list=NE-Block
 add address=41.203.128.0/19 list=NE-Block
+add address=102.201.36.0/22 list=NE-Block
+add address=102.201.72.0/22 list=NE-Block
 add address=102.213.60.0/22 list=NE-Block
 add address=102.213.244.0/22 list=NE-Block
 add address=102.214.4.0/22 list=NE-Block

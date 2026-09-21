@@ -129,11 +129,13 @@ add address=91.192.116.0/22 list=EE-Block
 add address=91.193.252.0/22 list=EE-Block
 add address=91.195.246.0/23 list=EE-Block
 add address=91.195.252.0/23 list=EE-Block
+add address=91.198.127.0/24 list=EE-Block
 add address=91.198.206.0/24 list=EE-Block
 add address=91.199.137.0/24 list=EE-Block
 add address=91.199.147.0/24 list=EE-Block
 add address=91.199.154.0/24 list=EE-Block
 add address=91.199.160.0/24 list=EE-Block
+add address=91.200.164.0/22 list=EE-Block
 add address=91.203.29.0/24 list=EE-Block
 add address=91.205.96.0/22 list=EE-Block
 add address=91.208.15.0/24 list=EE-Block
@@ -143,6 +145,7 @@ add address=91.211.27.0/24 list=EE-Block
 add address=91.212.244.0/24 list=EE-Block
 add address=91.213.43.0/24 list=EE-Block
 add address=91.213.126.0/24 list=EE-Block
+add address=91.216.3.0/24 list=EE-Block
 add address=91.216.86.0/24 list=EE-Block
 add address=91.217.50.0/24 list=EE-Block
 add address=91.217.240.0/24 list=EE-Block
@@ -189,6 +192,7 @@ add address=141.105.128.0/20 list=EE-Block
 add address=141.133.172.0/22 list=EE-Block
 add address=145.14.16.0/20 list=EE-Block
 add address=145.14.32.0/20 list=EE-Block
+add address=146.19.49.0/24 list=EE-Block
 add address=146.19.131.0/24 list=EE-Block
 add address=146.19.143.0/24 list=EE-Block
 add address=146.19.185.0/24 list=EE-Block
@@ -199,6 +203,7 @@ add address=147.28.0.0/20 list=EE-Block
 add address=152.55.216.0/21 list=EE-Block
 add address=153.56.171.0/24 list=EE-Block
 add address=155.212.242.0/23 list=EE-Block
+add address=159.200.238.0/24 list=EE-Block
 add address=159.200.240.0/22 list=EE-Block
 add address=159.253.16.0/21 list=EE-Block
 add address=160.22.180.0/23 list=EE-Block
@@ -246,6 +251,7 @@ add address=185.42.168.0/22 list=EE-Block
 add address=185.43.104.0/22 list=EE-Block
 add address=185.45.140.0/22 list=EE-Block
 add address=185.46.20.0/22 list=EE-Block
+add address=185.46.84.0/22 list=EE-Block
 add address=185.50.96.0/22 list=EE-Block
 add address=185.53.88.0/22 list=EE-Block
 add address=185.55.48.0/22 list=EE-Block

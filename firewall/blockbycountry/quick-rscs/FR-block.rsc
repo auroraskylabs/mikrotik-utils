@@ -715,6 +715,7 @@ add address=85.8.200.0/24 list=FR-Block
 add address=85.8.202.0/23 list=FR-Block
 add address=85.8.219.0/24 list=FR-Block
 add address=85.8.239.0/24 list=FR-Block
+add address=85.9.225.0/24 list=FR-Block
 add address=85.9.240.0/21 list=FR-Block
 add address=85.12.128.0/18 list=FR-Block
 add address=85.14.128.0/18 list=FR-Block
@@ -2829,6 +2830,7 @@ add address=188.224.0.0/17 list=FR-Block
 add address=188.231.0.0/17 list=FR-Block
 add address=188.240.4.0/22 list=FR-Block
 add address=188.240.51.0/24 list=FR-Block
+add address=188.241.38.0/24 list=FR-Block
 add address=188.244.108.0/22 list=FR-Block
 add address=192.5.59.0/24 list=FR-Block
 add address=192.5.61.0/24 list=FR-Block

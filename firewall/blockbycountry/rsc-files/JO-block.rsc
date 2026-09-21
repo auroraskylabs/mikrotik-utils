@@ -40,6 +40,7 @@ add address=91.132.100.0/24 list=JO-Block
 add address=91.186.224.0/19 list=JO-Block
 add address=91.209.248.0/24 list=JO-Block
 add address=91.212.0.0/24 list=JO-Block
+add address=91.217.45.0/24 list=JO-Block
 add address=91.220.195.0/24 list=JO-Block
 add address=91.223.202.0/24 list=JO-Block
 add address=92.241.32.0/19 list=JO-Block

@@ -51,6 +51,7 @@ add address=45.236.172.0/23 list=PE-Block
 add address=45.236.228.0/22 list=PE-Block
 add address=45.237.172.0/22 list=PE-Block
 add address=45.239.22.0/23 list=PE-Block
+add address=78.110.233.0/24 list=PE-Block
 add address=91.216.77.0/24 list=PE-Block
 add address=131.161.100.0/22 list=PE-Block
 add address=131.255.136.0/22 list=PE-Block

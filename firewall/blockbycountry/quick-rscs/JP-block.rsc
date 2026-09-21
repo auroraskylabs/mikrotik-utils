@@ -2868,7 +2868,6 @@ add address=203.171.8.0/21 list=JP-Block
 add address=203.171.128.0/19 list=JP-Block
 add address=203.171.212.0/22 list=JP-Block
 add address=203.173.64.0/20 list=JP-Block
-add address=203.173.80.0/21 list=JP-Block
 add address=203.174.64.0/20 list=JP-Block
 add address=203.174.88.0/21 list=JP-Block
 add address=203.174.192.0/18 list=JP-Block

@@ -7,6 +7,7 @@ add address=103.1.180.0/22 list=FJ-Block
 add address=103.52.88.0/22 list=FJ-Block
 add address=103.58.20.0/22 list=FJ-Block
 add address=103.71.204.0/24 list=FJ-Block
+add address=103.76.32.0/22 list=FJ-Block
 add address=103.76.157.0/24 list=FJ-Block
 add address=103.77.225.0/24 list=FJ-Block
 add address=103.99.43.0/24 list=FJ-Block
