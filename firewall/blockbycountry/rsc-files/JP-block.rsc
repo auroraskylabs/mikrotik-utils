@@ -1922,6 +1922,7 @@ add address=163.47.23.0/24 list=JP-Block
 add address=163.47.24.0/24 list=JP-Block
 add address=163.47.29.0/24 list=JP-Block
 add address=163.48.0.0/14 list=JP-Block
+add address=163.52.218.0/23 list=JP-Block
 add address=163.54.0.0/15 list=JP-Block
 add address=163.56.0.0/16 list=JP-Block
 add address=163.58.0.0/15 list=JP-Block

@@ -865,6 +865,7 @@ add address=157.97.146.0/23 list=CH-Block
 add address=157.97.148.0/22 list=CH-Block
 add address=157.143.0.0/17 list=CH-Block
 add address=157.161.0.0/16 list=CH-Block
+add address=157.173.69.0/24 list=CH-Block
 add address=157.173.80.0/20 list=CH-Block
 add address=158.94.183.0/24 list=CH-Block
 add address=158.133.0.0/16 list=CH-Block

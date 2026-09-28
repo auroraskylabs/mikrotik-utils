@@ -94,7 +94,6 @@ add address=45.136.128.0/22 list=CY-Block
 add address=45.136.148.0/22 list=CY-Block
 add address=45.137.148.0/22 list=CY-Block
 add address=45.142.200.0/22 list=CY-Block
-add address=45.142.255.0/24 list=CY-Block
 add address=45.149.112.0/22 list=CY-Block
 add address=45.153.184.0/22 list=CY-Block
 add address=45.156.136.0/22 list=CY-Block

@@ -373,6 +373,7 @@ add address=195.80.160.0/19 list=SK-Block
 add address=195.91.0.0/17 list=SK-Block
 add address=195.98.0.0/19 list=SK-Block
 add address=195.98.128.0/19 list=SK-Block
+add address=195.110.8.0/24 list=SK-Block
 add address=195.146.0.0/20 list=SK-Block
 add address=195.146.128.0/19 list=SK-Block
 add address=195.160.182.0/23 list=SK-Block

@@ -27,6 +27,7 @@ add address=45.89.20.0/24 list=IQ-Block
 add address=45.113.239.0/24 list=IQ-Block
 add address=45.128.120.0/22 list=IQ-Block
 add address=45.143.28.0/22 list=IQ-Block
+add address=45.146.14.0/23 list=IQ-Block
 add address=45.148.92.0/22 list=IQ-Block
 add address=45.151.76.0/22 list=IQ-Block
 add address=45.153.116.0/22 list=IQ-Block

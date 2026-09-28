@@ -4,6 +4,7 @@ add address=138.185.208.0/22 list=BQ-Block
 add address=143.0.32.0/22 list=BQ-Block
 add address=161.0.80.0/20 list=BQ-Block
 add address=186.159.96.0/20 list=BQ-Block
+add address=190.2.176.0/22 list=BQ-Block
 add address=190.4.64.0/20 list=BQ-Block
 add address=190.97.112.0/21 list=BQ-Block
 add address=190.107.248.0/21 list=BQ-Block

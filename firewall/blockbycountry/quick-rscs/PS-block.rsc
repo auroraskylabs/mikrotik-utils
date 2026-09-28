@@ -45,7 +45,7 @@ add address=45.121.104.0/22 list=PS-Block
 add address=45.127.176.0/22 list=PS-Block
 add address=45.130.96.0/22 list=PS-Block
 add address=45.134.200.0/22 list=PS-Block
-add address=45.146.12.0/22 list=PS-Block
+add address=45.146.12.0/23 list=PS-Block
 add address=45.147.64.0/22 list=PS-Block
 add address=45.158.156.0/22 list=PS-Block
 add address=45.159.160.0/22 list=PS-Block

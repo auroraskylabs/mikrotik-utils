@@ -432,7 +432,6 @@ add address=157.22.255.0/24 list=SC-Block
 add address=158.222.0.0/20 list=SC-Block
 add address=159.194.0.0/17 list=SC-Block
 add address=159.194.128.0/18 list=SC-Block
-add address=159.194.192.0/24 list=SC-Block
 add address=159.194.194.0/23 list=SC-Block
 add address=160.5.0.0/17 list=SC-Block
 add address=160.5.128.0/18 list=SC-Block

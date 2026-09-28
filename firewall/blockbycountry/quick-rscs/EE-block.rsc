@@ -410,6 +410,7 @@ add address=194.204.0.0/18 list=EE-Block
 add address=194.213.18.0/24 list=EE-Block
 add address=194.238.77.0/24 list=EE-Block
 add address=195.8.204.0/23 list=EE-Block
+add address=195.20.17.0/24 list=EE-Block
 add address=195.20.151.0/24 list=EE-Block
 add address=195.34.212.0/22 list=EE-Block
 add address=195.42.102.0/23 list=EE-Block

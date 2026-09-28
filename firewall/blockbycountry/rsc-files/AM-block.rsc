@@ -109,7 +109,6 @@ add address=146.19.140.0/24 list=AM-Block
 add address=148.52.128.0/19 list=AM-Block
 add address=150.251.46.0/23 list=AM-Block
 add address=157.228.64.0/19 list=AM-Block
-add address=157.228.97.0/24 list=AM-Block
 add address=157.228.98.0/23 list=AM-Block
 add address=157.228.100.0/22 list=AM-Block
 add address=157.228.104.0/21 list=AM-Block

@@ -768,7 +768,6 @@ add address=185.243.224.0/22 list=DK-Block
 add address=185.244.224.0/24 list=DK-Block
 add address=185.245.8.0/22 list=DK-Block
 add address=185.245.16.0/22 list=DK-Block
-add address=185.245.48.0/22 list=DK-Block
 add address=185.245.108.0/22 list=DK-Block
 add address=185.245.200.0/22 list=DK-Block
 add address=185.245.224.0/22 list=DK-Block
@@ -799,6 +798,7 @@ add address=192.94.162.0/24 list=DK-Block
 add address=192.104.248.0/24 list=DK-Block
 add address=192.112.99.0/24 list=DK-Block
 add address=192.124.32.0/24 list=DK-Block
+add address=192.129.50.0/24 list=DK-Block
 add address=192.146.117.0/24 list=DK-Block
 add address=193.0.56.0/22 list=DK-Block
 add address=193.0.60.0/24 list=DK-Block

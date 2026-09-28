@@ -3,6 +3,7 @@
 add address=41.79.44.0/22 list=BI-Block
 add address=41.79.224.0/22 list=BI-Block
 add address=102.134.96.0/20 list=BI-Block
+add address=102.201.28.0/24 list=BI-Block
 add address=154.73.40.0/22 list=BI-Block
 add address=154.73.104.0/22 list=BI-Block
 add address=154.117.192.0/18 list=BI-Block

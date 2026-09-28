@@ -30,6 +30,7 @@ add address=45.137.104.0/22 list=VG-Block
 add address=45.138.72.0/22 list=VG-Block
 add address=45.142.0.0/22 list=VG-Block
 add address=45.142.120.0/22 list=VG-Block
+add address=45.142.255.0/24 list=VG-Block
 add address=45.143.12.0/22 list=VG-Block
 add address=45.144.64.0/22 list=VG-Block
 add address=45.148.144.0/22 list=VG-Block

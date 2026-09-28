@@ -113,6 +113,7 @@ add address=185.74.100.0/22 list=UZ-Block
 add address=185.76.12.0/22 list=UZ-Block
 add address=185.78.136.0/22 list=UZ-Block
 add address=185.93.124.0/22 list=UZ-Block
+add address=185.99.245.0/24 list=UZ-Block
 add address=185.100.52.0/22 list=UZ-Block
 add address=185.137.152.0/22 list=UZ-Block
 add address=185.139.136.0/22 list=UZ-Block

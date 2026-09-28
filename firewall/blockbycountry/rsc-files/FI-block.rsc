@@ -126,6 +126,7 @@ add address=79.133.0.0/19 list=FI-Block
 add address=79.134.96.0/19 list=FI-Block
 add address=79.141.144.0/20 list=FI-Block
 add address=79.171.224.0/20 list=FI-Block
+add address=80.47.224.0/20 list=FI-Block
 add address=80.64.0.0/20 list=FI-Block
 add address=80.66.160.0/20 list=FI-Block
 add address=80.69.160.0/20 list=FI-Block
