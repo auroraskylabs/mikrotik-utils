@@ -2646,7 +2646,6 @@ add address=193.26.12.0/24 list=IT-Block
 add address=193.26.128.0/24 list=IT-Block
 add address=193.27.28.0/22 list=IT-Block
 add address=193.27.202.0/23 list=IT-Block
-add address=193.28.95.0/24 list=IT-Block
 add address=193.30.116.0/24 list=IT-Block
 add address=193.31.248.0/22 list=IT-Block
 add address=193.32.94.0/24 list=IT-Block

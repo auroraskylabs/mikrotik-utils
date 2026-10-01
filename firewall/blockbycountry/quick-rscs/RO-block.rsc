@@ -620,7 +620,7 @@ add address=89.38.241.0/24 list=RO-Block
 add address=89.38.248.0/21 list=RO-Block
 add address=89.39.0.0/21 list=RO-Block
 add address=89.39.12.0/22 list=RO-Block
-add address=89.39.66.0/23 list=RO-Block
+add address=89.39.67.0/24 list=RO-Block
 add address=89.39.68.0/24 list=RO-Block
 add address=89.39.71.0/24 list=RO-Block
 add address=89.39.72.0/22 list=RO-Block

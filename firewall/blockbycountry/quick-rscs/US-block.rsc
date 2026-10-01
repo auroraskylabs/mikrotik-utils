@@ -1569,7 +1569,6 @@ add address=23.154.172.0/24 list=US-Block
 add address=23.154.176.0/23 list=US-Block
 add address=23.154.184.0/24 list=US-Block
 add address=23.154.188.0/24 list=US-Block
-add address=23.154.192.0/24 list=US-Block
 add address=23.154.196.0/24 list=US-Block
 add address=23.154.200.0/24 list=US-Block
 add address=23.154.204.0/24 list=US-Block
@@ -1989,9 +1988,9 @@ add address=23.164.152.0/23 list=US-Block
 add address=23.164.160.0/24 list=US-Block
 add address=23.164.164.0/24 list=US-Block
 add address=23.164.180.0/24 list=US-Block
-add address=23.164.188.0/24 list=US-Block
 add address=23.164.196.0/24 list=US-Block
 add address=23.164.216.0/24 list=US-Block
+add address=23.164.220.0/24 list=US-Block
 add address=23.164.224.0/24 list=US-Block
 add address=23.164.232.0/24 list=US-Block
 add address=23.164.240.0/24 list=US-Block
@@ -9228,7 +9227,7 @@ add address=130.72.0.0/16 list=US-Block
 add address=130.74.0.0/16 list=US-Block
 add address=130.76.0.0/15 list=US-Block
 add address=130.78.176.0/24 list=US-Block
-add address=130.78.178.0/23 list=US-Block
+add address=130.78.179.0/24 list=US-Block
 add address=130.78.180.0/22 list=US-Block
 add address=130.80.0.0/15 list=US-Block
 add address=130.85.0.0/16 list=US-Block
@@ -9421,6 +9420,7 @@ add address=131.156.0.0/15 list=US-Block
 add address=131.158.0.0/16 list=US-Block
 add address=131.162.88.0/21 list=US-Block
 add address=131.162.96.0/20 list=US-Block
+add address=131.162.152.0/21 list=US-Block
 add address=131.162.192.0/21 list=US-Block
 add address=131.162.216.0/21 list=US-Block
 add address=131.162.232.0/21 list=US-Block
@@ -11799,7 +11799,7 @@ add address=153.75.96.0/19 list=US-Block
 add address=153.75.160.0/19 list=US-Block
 add address=153.75.192.0/18 list=US-Block
 add address=153.76.96.0/19 list=US-Block
-add address=153.76.128.0/19 list=US-Block
+add address=153.76.128.0/20 list=US-Block
 add address=153.76.244.0/22 list=US-Block
 add address=153.76.248.0/22 list=US-Block
 add address=153.77.0.0/16 list=US-Block
@@ -26680,7 +26680,14 @@ add address=206.195.64.0/18 list=US-Block
 add address=206.195.144.0/20 list=US-Block
 add address=206.195.160.0/19 list=US-Block
 add address=206.195.192.0/18 list=US-Block
-add address=206.196.0.0/16 list=US-Block
+add address=206.196.0.0/18 list=US-Block
+add address=206.196.64.0/19 list=US-Block
+add address=206.196.96.0/20 list=US-Block
+add address=206.196.112.0/21 list=US-Block
+add address=206.196.120.0/22 list=US-Block
+add address=206.196.124.0/24 list=US-Block
+add address=206.196.126.0/23 list=US-Block
+add address=206.196.128.0/17 list=US-Block
 add address=206.197.0.0/22 list=US-Block
 add address=206.197.4.0/24 list=US-Block
 add address=206.197.6.0/24 list=US-Block

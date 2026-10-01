@@ -2139,6 +2139,7 @@ add address=210.79.180.0/22 list=BD-Block
 add address=210.87.64.0/23 list=BD-Block
 add address=210.87.70.0/23 list=BD-Block
 add address=220.152.112.0/22 list=BD-Block
+add address=220.158.150.0/23 list=BD-Block
 add address=220.158.204.0/22 list=BD-Block
 add address=220.247.128.0/22 list=BD-Block
 add address=220.247.160.0/21 list=BD-Block

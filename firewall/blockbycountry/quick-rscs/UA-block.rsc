@@ -1607,7 +1607,7 @@ add address=188.190.224.0/19 list=UA-Block
 add address=188.191.32.0/20 list=UA-Block
 add address=188.191.64.0/20 list=UA-Block
 add address=188.191.96.0/20 list=UA-Block
-add address=188.191.144.0/23 list=UA-Block
+add address=188.191.145.0/24 list=UA-Block
 add address=188.191.146.0/24 list=UA-Block
 add address=188.191.148.0/22 list=UA-Block
 add address=188.191.232.0/21 list=UA-Block

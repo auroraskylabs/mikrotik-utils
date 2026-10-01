@@ -14,7 +14,6 @@ add address=5.44.254.0/24 list=PS-Block
 add address=5.102.96.0/19 list=PS-Block
 add address=5.133.24.0/21 list=PS-Block
 add address=5.182.106.0/24 list=PS-Block
-add address=5.253.68.0/22 list=PS-Block
 add address=24.42.64.0/18 list=PS-Block
 add address=31.13.160.0/21 list=PS-Block
 add address=31.25.72.0/21 list=PS-Block

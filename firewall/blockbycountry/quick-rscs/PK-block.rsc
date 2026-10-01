@@ -43,6 +43,7 @@ add address=45.116.232.0/22 list=PK-Block
 add address=45.117.88.0/22 list=PK-Block
 add address=45.117.104.0/22 list=PK-Block
 add address=45.120.196.0/22 list=PK-Block
+add address=45.121.140.0/23 list=PK-Block
 add address=45.249.8.0/22 list=PK-Block
 add address=58.27.128.0/17 list=PK-Block
 add address=58.65.128.0/18 list=PK-Block

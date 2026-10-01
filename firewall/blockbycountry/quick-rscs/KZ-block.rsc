@@ -303,6 +303,7 @@ add address=128.127.96.0/21 list=KZ-Block
 add address=130.193.6.0/24 list=KZ-Block
 add address=141.133.134.0/23 list=KZ-Block
 add address=141.133.142.0/23 list=KZ-Block
+add address=141.133.144.0/22 list=KZ-Block
 add address=141.133.160.0/21 list=KZ-Block
 add address=141.133.168.0/22 list=KZ-Block
 add address=145.255.160.0/19 list=KZ-Block

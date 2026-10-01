@@ -40,6 +40,7 @@ add address=85.204.79.0/24 list=UZ-Block
 add address=86.62.0.0/22 list=UZ-Block
 add address=87.192.224.0/19 list=UZ-Block
 add address=87.237.232.0/21 list=UZ-Block
+add address=89.31.28.0/22 list=UZ-Block
 add address=89.39.94.0/23 list=UZ-Block
 add address=89.104.102.0/24 list=UZ-Block
 add address=89.126.208.0/20 list=UZ-Block

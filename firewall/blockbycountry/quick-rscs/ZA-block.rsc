@@ -697,7 +697,7 @@ add address=102.221.12.0/22 list=ZA-Block
 add address=102.221.24.0/22 list=ZA-Block
 add address=102.221.36.0/22 list=ZA-Block
 add address=102.221.40.0/22 list=ZA-Block
-add address=102.221.48.0/22 list=ZA-Block
+add address=102.221.48.0/23 list=ZA-Block
 add address=102.221.60.0/22 list=ZA-Block
 add address=102.221.72.0/24 list=ZA-Block
 add address=102.221.74.0/24 list=ZA-Block

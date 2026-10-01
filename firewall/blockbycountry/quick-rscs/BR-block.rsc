@@ -4925,6 +4925,7 @@ add address=209.172.6.0/23 list=BR-Block
 add address=212.47.35.0/24 list=BR-Block
 add address=213.163.246.0/23 list=BR-Block
 add address=216.98.208.0/20 list=BR-Block
+add address=216.194.76.0/22 list=BR-Block
 add address=216.245.133.0/24 list=BR-Block
 
 /ip firewall raw
