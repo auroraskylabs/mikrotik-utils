@@ -1982,7 +1982,7 @@ add address=159.117.40.0/21 list=HK-Block
 add address=159.117.96.0/21 list=HK-Block
 add address=159.200.0.0/17 list=HK-Block
 add address=159.200.192.0/21 list=HK-Block
-add address=159.200.202.0/23 list=HK-Block
+add address=159.200.203.0/24 list=HK-Block
 add address=159.200.204.0/23 list=HK-Block
 add address=159.200.208.0/23 list=HK-Block
 add address=159.200.210.0/24 list=HK-Block

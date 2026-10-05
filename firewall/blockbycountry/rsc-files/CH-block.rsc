@@ -506,6 +506,7 @@ add address=91.206.24.0/23 list=CH-Block
 add address=91.206.52.0/23 list=CH-Block
 add address=91.206.104.0/23 list=CH-Block
 add address=91.206.176.0/24 list=CH-Block
+add address=91.206.254.0/24 list=CH-Block
 add address=91.207.12.0/24 list=CH-Block
 add address=91.207.164.0/23 list=CH-Block
 add address=91.207.178.0/23 list=CH-Block
@@ -1420,6 +1421,7 @@ add address=185.207.227.0/24 list=CH-Block
 add address=185.208.28.0/22 list=CH-Block
 add address=185.208.252.0/22 list=CH-Block
 add address=185.209.12.0/24 list=CH-Block
+add address=185.209.43.0/24 list=CH-Block
 add address=185.209.82.0/24 list=CH-Block
 add address=185.209.116.0/22 list=CH-Block
 add address=185.209.212.0/22 list=CH-Block

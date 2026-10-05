@@ -706,6 +706,7 @@ add address=95.87.192.0/18 list=BG-Block
 add address=95.111.0.0/17 list=BG-Block
 add address=95.128.196.0/23 list=BG-Block
 add address=95.128.198.0/24 list=BG-Block
+add address=95.133.170.0/23 list=BG-Block
 add address=95.140.208.0/20 list=BG-Block
 add address=95.158.128.0/18 list=BG-Block
 add address=95.164.0.0/16 list=BG-Block

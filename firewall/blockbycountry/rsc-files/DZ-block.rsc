@@ -8,6 +8,7 @@ add address=41.223.236.0/22 list=DZ-Block
 add address=80.88.12.0/22 list=DZ-Block
 add address=80.246.0.0/20 list=DZ-Block
 add address=80.249.64.0/20 list=DZ-Block
+add address=102.201.12.0/22 list=DZ-Block
 add address=102.201.180.0/22 list=DZ-Block
 add address=102.201.204.0/22 list=DZ-Block
 add address=102.204.112.0/22 list=DZ-Block

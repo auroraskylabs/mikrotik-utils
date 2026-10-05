@@ -1005,6 +1005,7 @@ add address=45.226.128.0/20 list=BR-Block
 add address=45.226.148.0/22 list=BR-Block
 add address=45.226.152.0/21 list=BR-Block
 add address=45.226.160.0/21 list=BR-Block
+add address=45.226.180.0/22 list=BR-Block
 add address=45.226.188.0/23 list=BR-Block
 add address=45.226.192.0/21 list=BR-Block
 add address=45.226.200.0/22 list=BR-Block

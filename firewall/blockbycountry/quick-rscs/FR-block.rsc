@@ -816,6 +816,7 @@ add address=89.23.127.0/24 list=FR-Block
 add address=89.28.144.0/21 list=FR-Block
 add address=89.30.0.0/17 list=FR-Block
 add address=89.31.144.0/21 list=FR-Block
+add address=89.31.210.0/23 list=FR-Block
 add address=89.33.144.0/21 list=FR-Block
 add address=89.35.96.0/20 list=FR-Block
 add address=89.35.135.0/24 list=FR-Block

@@ -46,6 +46,7 @@ add address=95.180.128.0/17 list=MK-Block
 add address=109.69.40.0/21 list=MK-Block
 add address=141.136.8.0/21 list=MK-Block
 add address=146.255.64.0/19 list=MK-Block
+add address=150.251.51.0/24 list=MK-Block
 add address=151.236.240.0/20 list=MK-Block
 add address=164.40.248.0/21 list=MK-Block
 add address=178.249.112.0/21 list=MK-Block

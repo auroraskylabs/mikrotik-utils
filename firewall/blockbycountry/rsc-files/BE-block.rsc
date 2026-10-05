@@ -907,7 +907,8 @@ add address=217.18.89.0/24 list=BE-Block
 add address=217.19.224.0/20 list=BE-Block
 add address=217.21.176.0/20 list=BE-Block
 add address=217.22.48.0/20 list=BE-Block
-add address=217.30.16.0/21 list=BE-Block
+add address=217.30.16.0/22 list=BE-Block
+add address=217.30.20.0/23 list=BE-Block
 add address=217.64.240.0/20 list=BE-Block
 add address=217.66.0.0/20 list=BE-Block
 add address=217.72.224.0/20 list=BE-Block

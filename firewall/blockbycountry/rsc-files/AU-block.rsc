@@ -3268,6 +3268,7 @@ add address=192.231.168.0/24 list=AU-Block
 add address=192.231.203.0/24 list=AU-Block
 add address=192.231.212.0/24 list=AU-Block
 add address=192.232.128.0/19 list=AU-Block
+add address=192.234.231.0/24 list=AU-Block
 add address=192.234.245.0/24 list=AU-Block
 add address=192.245.105.0/24 list=AU-Block
 add address=192.245.106.0/23 list=AU-Block

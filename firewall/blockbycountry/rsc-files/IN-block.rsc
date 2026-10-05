@@ -85,6 +85,7 @@ add address=27.100.24.0/22 list=IN-Block
 add address=27.107.0.0/16 list=IN-Block
 add address=27.109.0.0/19 list=IN-Block
 add address=27.111.72.0/22 list=IN-Block
+add address=27.112.96.0/23 list=IN-Block
 add address=27.112.120.0/22 list=IN-Block
 add address=27.113.252.0/22 list=IN-Block
 add address=27.116.16.0/21 list=IN-Block
@@ -246,6 +247,7 @@ add address=43.241.36.0/22 list=IN-Block
 add address=43.241.40.0/22 list=IN-Block
 add address=43.241.60.0/22 list=IN-Block
 add address=43.241.64.0/21 list=IN-Block
+add address=43.241.102.0/23 list=IN-Block
 add address=43.241.116.0/22 list=IN-Block
 add address=43.241.120.0/21 list=IN-Block
 add address=43.241.128.0/21 list=IN-Block
@@ -258,6 +260,7 @@ add address=43.242.116.0/22 list=IN-Block
 add address=43.242.120.0/21 list=IN-Block
 add address=43.242.208.0/21 list=IN-Block
 add address=43.242.228.0/22 list=IN-Block
+add address=43.242.234.0/23 list=IN-Block
 add address=43.242.244.0/22 list=IN-Block
 add address=43.243.36.0/22 list=IN-Block
 add address=43.243.76.0/22 list=IN-Block
@@ -526,6 +529,7 @@ add address=45.120.136.0/22 list=IN-Block
 add address=45.120.144.0/22 list=IN-Block
 add address=45.120.160.0/22 list=IN-Block
 add address=45.120.172.0/22 list=IN-Block
+add address=45.120.194.0/23 list=IN-Block
 add address=45.120.212.0/22 list=IN-Block
 add address=45.120.232.0/21 list=IN-Block
 add address=45.120.248.0/21 list=IN-Block
@@ -6601,6 +6605,7 @@ add address=192.51.174.0/23 list=IN-Block
 add address=192.58.101.0/24 list=IN-Block
 add address=192.83.157.0/24 list=IN-Block
 add address=192.84.219.0/24 list=IN-Block
+add address=192.86.133.0/24 list=IN-Block
 add address=192.135.102.0/24 list=IN-Block
 add address=192.140.152.0/22 list=IN-Block
 add address=192.146.189.0/24 list=IN-Block
@@ -6737,6 +6742,7 @@ add address=202.12.103.0/24 list=IN-Block
 add address=202.14.72.0/24 list=IN-Block
 add address=202.14.120.0/22 list=IN-Block
 add address=202.14.160.0/22 list=IN-Block
+add address=202.14.200.0/23 list=IN-Block
 add address=202.21.32.0/20 list=IN-Block
 add address=202.21.134.0/23 list=IN-Block
 add address=202.27.9.0/24 list=IN-Block
@@ -6837,6 +6843,7 @@ add address=202.72.224.0/22 list=IN-Block
 add address=202.72.248.0/22 list=IN-Block
 add address=202.74.53.0/24 list=IN-Block
 add address=202.74.54.0/24 list=IN-Block
+add address=202.74.232.0/22 list=IN-Block
 add address=202.75.192.0/20 list=IN-Block
 add address=202.77.137.0/24 list=IN-Block
 add address=202.78.232.0/21 list=IN-Block
@@ -6940,6 +6947,7 @@ add address=202.168.84.0/22 list=IN-Block
 add address=202.168.88.0/22 list=IN-Block
 add address=202.168.94.0/24 list=IN-Block
 add address=202.168.144.0/22 list=IN-Block
+add address=202.168.148.0/23 list=IN-Block
 add address=202.168.156.0/22 list=IN-Block
 add address=202.170.200.0/21 list=IN-Block
 add address=202.171.239.0/24 list=IN-Block
