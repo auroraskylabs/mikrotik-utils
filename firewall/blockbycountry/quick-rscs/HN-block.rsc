@@ -10,6 +10,7 @@ add address=45.7.236.0/22 list=HN-Block
 add address=45.68.33.0/24 list=HN-Block
 add address=45.68.34.0/23 list=HN-Block
 add address=45.68.62.0/23 list=HN-Block
+add address=45.68.144.0/22 list=HN-Block
 add address=45.71.16.0/22 list=HN-Block
 add address=45.71.52.0/22 list=HN-Block
 add address=45.166.92.0/22 list=HN-Block

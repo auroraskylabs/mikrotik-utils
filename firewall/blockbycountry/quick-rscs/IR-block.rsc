@@ -317,6 +317,7 @@ add address=85.204.208.0/20 list=IR-Block
 add address=85.208.252.0/22 list=IR-Block
 add address=85.209.40.0/23 list=IR-Block
 add address=85.239.192.0/19 list=IR-Block
+add address=86.54.42.0/24 list=IR-Block
 add address=86.55.0.0/16 list=IR-Block
 add address=86.57.0.0/17 list=IR-Block
 add address=86.104.32.0/20 list=IR-Block

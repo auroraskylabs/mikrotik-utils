@@ -3,6 +3,7 @@
 add address=43.225.40.0/22 list=BN-Block
 add address=43.225.136.0/22 list=BN-Block
 add address=43.251.128.0/22 list=BN-Block
+add address=45.125.226.0/23 list=BN-Block
 add address=45.126.140.0/22 list=BN-Block
 add address=45.127.140.0/22 list=BN-Block
 add address=58.97.144.0/20 list=BN-Block

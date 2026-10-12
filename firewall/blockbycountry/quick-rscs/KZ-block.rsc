@@ -432,6 +432,7 @@ add address=185.188.14.0/24 list=KZ-Block
 add address=185.190.248.0/24 list=KZ-Block
 add address=185.191.28.0/22 list=KZ-Block
 add address=185.191.212.0/24 list=KZ-Block
+add address=185.196.8.0/24 list=KZ-Block
 add address=185.198.153.0/24 list=KZ-Block
 add address=185.200.84.0/22 list=KZ-Block
 add address=185.206.32.0/22 list=KZ-Block
@@ -604,6 +605,7 @@ add address=217.15.176.0/20 list=KZ-Block
 add address=217.65.129.0/24 list=KZ-Block
 add address=217.76.64.0/20 list=KZ-Block
 add address=217.171.144.0/24 list=KZ-Block
+add address=217.180.0.0/22 list=KZ-Block
 add address=217.180.18.0/23 list=KZ-Block
 add address=217.196.16.0/20 list=KZ-Block
 

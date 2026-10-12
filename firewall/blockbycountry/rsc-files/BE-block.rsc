@@ -523,6 +523,7 @@ add address=185.180.68.0/22 list=BE-Block
 add address=185.180.76.0/22 list=BE-Block
 add address=185.182.132.0/22 list=BE-Block
 add address=185.183.116.0/22 list=BE-Block
+add address=185.184.254.0/24 list=BE-Block
 add address=185.185.228.0/22 list=BE-Block
 add address=185.186.212.0/22 list=BE-Block
 add address=185.187.100.0/22 list=BE-Block

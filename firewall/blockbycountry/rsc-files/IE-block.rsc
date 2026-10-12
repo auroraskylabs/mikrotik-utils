@@ -59,6 +59,7 @@ add address=46.19.208.0/21 list=IE-Block
 add address=46.22.128.0/20 list=IE-Block
 add address=46.51.128.0/17 list=IE-Block
 add address=46.137.0.0/16 list=IE-Block
+add address=46.174.88.0/21 list=IE-Block
 add address=46.182.8.0/21 list=IE-Block
 add address=46.183.104.0/23 list=IE-Block
 add address=46.245.208.0/21 list=IE-Block
@@ -183,7 +184,7 @@ add address=87.198.0.0/16 list=IE-Block
 add address=87.232.0.0/18 list=IE-Block
 add address=87.232.128.0/21 list=IE-Block
 add address=87.232.192.0/21 list=IE-Block
-add address=87.232.224.0/23 list=IE-Block
+add address=87.232.224.0/24 list=IE-Block
 add address=87.232.228.0/22 list=IE-Block
 add address=87.232.250.0/23 list=IE-Block
 add address=87.232.252.0/22 list=IE-Block

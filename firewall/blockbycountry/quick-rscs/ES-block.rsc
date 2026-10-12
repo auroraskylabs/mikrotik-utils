@@ -22,7 +22,6 @@ add address=2.59.232.0/22 list=ES-Block
 add address=2.59.244.0/22 list=ES-Block
 add address=2.136.0.0/13 list=ES-Block
 add address=2.152.16.0/20 list=ES-Block
-add address=2.152.34.0/23 list=ES-Block
 add address=2.152.42.0/23 list=ES-Block
 add address=2.152.44.0/22 list=ES-Block
 add address=2.152.48.0/21 list=ES-Block
@@ -1063,7 +1062,6 @@ add address=91.246.61.0/24 list=ES-Block
 add address=91.247.175.0/24 list=ES-Block
 add address=91.250.128.0/18 list=ES-Block
 add address=91.250.241.0/24 list=ES-Block
-add address=92.43.224.0/21 list=ES-Block
 add address=92.53.192.0/19 list=ES-Block
 add address=92.54.0.0/18 list=ES-Block
 add address=92.56.0.0/14 list=ES-Block
@@ -1324,6 +1322,7 @@ add address=141.136.56.0/21 list=ES-Block
 add address=141.170.208.0/21 list=ES-Block
 add address=143.131.192.0/18 list=ES-Block
 add address=144.2.160.0/21 list=ES-Block
+add address=144.2.248.0/22 list=ES-Block
 add address=144.178.128.0/18 list=ES-Block
 add address=145.1.128.0/17 list=ES-Block
 add address=146.19.117.0/24 list=ES-Block
@@ -2146,7 +2145,7 @@ add address=185.184.0.0/22 list=ES-Block
 add address=185.184.88.0/22 list=ES-Block
 add address=185.184.148.0/22 list=ES-Block
 add address=185.184.172.0/22 list=ES-Block
-add address=185.184.254.0/23 list=ES-Block
+add address=185.184.255.0/24 list=ES-Block
 add address=185.185.36.0/22 list=ES-Block
 add address=185.185.52.0/22 list=ES-Block
 add address=185.185.64.0/22 list=ES-Block

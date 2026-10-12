@@ -2521,6 +2521,7 @@ add address=185.194.204.0/22 list=FR-Block
 add address=185.194.232.0/22 list=FR-Block
 add address=185.195.88.0/22 list=FR-Block
 add address=185.195.248.0/22 list=FR-Block
+add address=185.196.11.0/24 list=FR-Block
 add address=185.196.30.0/24 list=FR-Block
 add address=185.196.62.0/23 list=FR-Block
 add address=185.196.248.0/22 list=FR-Block

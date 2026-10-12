@@ -392,7 +392,7 @@ add address=86.105.180.0/23 list=RO-Block
 add address=86.105.192.0/23 list=RO-Block
 add address=86.105.195.0/24 list=RO-Block
 add address=86.105.198.0/24 list=RO-Block
-add address=86.105.204.0/22 list=RO-Block
+add address=86.105.206.0/23 list=RO-Block
 add address=86.105.214.0/24 list=RO-Block
 add address=86.105.216.0/22 list=RO-Block
 add address=86.105.226.0/24 list=RO-Block

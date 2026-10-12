@@ -2879,6 +2879,7 @@ add address=193.107.196.0/22 list=PL-Block
 add address=193.107.212.0/22 list=PL-Block
 add address=193.107.248.0/22 list=PL-Block
 add address=193.108.34.0/23 list=PL-Block
+add address=193.108.123.0/24 list=PL-Block
 add address=193.108.124.0/22 list=PL-Block
 add address=193.108.177.0/24 list=PL-Block
 add address=193.108.194.0/24 list=PL-Block

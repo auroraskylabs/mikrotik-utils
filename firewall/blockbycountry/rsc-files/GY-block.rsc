@@ -9,7 +9,6 @@ add address=181.199.224.0/19 list=GY-Block
 add address=190.80.0.0/17 list=GY-Block
 add address=190.93.36.0/22 list=GY-Block
 add address=190.97.100.0/22 list=GY-Block
-add address=190.105.156.0/22 list=GY-Block
 add address=190.108.196.0/22 list=GY-Block
 add address=190.108.200.0/21 list=GY-Block
 add address=190.108.208.0/21 list=GY-Block

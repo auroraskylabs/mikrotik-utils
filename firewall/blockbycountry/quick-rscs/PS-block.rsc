@@ -173,7 +173,6 @@ add address=185.97.132.0/22 list=PS-Block
 add address=185.99.44.0/22 list=PS-Block
 add address=185.106.192.0/22 list=PS-Block
 add address=185.108.24.0/22 list=PS-Block
-add address=185.132.248.0/22 list=PS-Block
 add address=185.138.132.0/22 list=PS-Block
 add address=185.140.180.0/22 list=PS-Block
 add address=185.142.56.0/22 list=PS-Block
