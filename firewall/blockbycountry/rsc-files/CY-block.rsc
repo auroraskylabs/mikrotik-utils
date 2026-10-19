@@ -186,6 +186,7 @@ add address=91.200.63.0/24 list=CY-Block
 add address=91.202.244.0/22 list=CY-Block
 add address=91.207.209.0/24 list=CY-Block
 add address=91.208.6.0/24 list=CY-Block
+add address=91.208.96.0/24 list=CY-Block
 add address=91.210.124.0/24 list=CY-Block
 add address=91.211.147.0/24 list=CY-Block
 add address=91.213.140.0/24 list=CY-Block

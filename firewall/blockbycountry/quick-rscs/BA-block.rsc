@@ -140,6 +140,7 @@ add address=188.124.192.0/19 list=BA-Block
 add address=188.127.96.0/19 list=BA-Block
 add address=188.246.64.0/19 list=BA-Block
 add address=193.16.157.0/24 list=BA-Block
+add address=193.24.125.0/24 list=BA-Block
 add address=193.222.144.0/22 list=BA-Block
 add address=194.41.40.0/22 list=BA-Block
 add address=194.53.156.0/22 list=BA-Block

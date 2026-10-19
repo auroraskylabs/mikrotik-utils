@@ -654,7 +654,6 @@ add address=193.176.237.0/24 list=SC-Block
 add address=193.187.97.0/24 list=SC-Block
 add address=193.192.1.0/24 list=SC-Block
 add address=193.192.15.0/24 list=SC-Block
-add address=193.193.160.0/24 list=SC-Block
 add address=193.193.164.0/24 list=SC-Block
 add address=193.201.67.0/24 list=SC-Block
 add address=193.201.114.0/24 list=SC-Block

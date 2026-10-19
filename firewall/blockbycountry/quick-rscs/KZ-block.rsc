@@ -121,6 +121,7 @@ add address=82.115.32.0/19 list=KZ-Block
 add address=82.200.128.0/17 list=KZ-Block
 add address=83.97.77.0/24 list=KZ-Block
 add address=83.136.220.0/24 list=KZ-Block
+add address=83.141.96.0/20 list=KZ-Block
 add address=84.38.1.0/24 list=KZ-Block
 add address=84.38.4.0/23 list=KZ-Block
 add address=84.240.192.0/18 list=KZ-Block
@@ -270,6 +271,7 @@ add address=94.247.128.0/21 list=KZ-Block
 add address=95.56.0.0/14 list=KZ-Block
 add address=95.82.64.0/18 list=KZ-Block
 add address=95.131.200.0/24 list=KZ-Block
+add address=95.133.148.0/22 list=KZ-Block
 add address=95.141.128.0/20 list=KZ-Block
 add address=95.141.252.0/24 list=KZ-Block
 add address=95.161.184.0/22 list=KZ-Block

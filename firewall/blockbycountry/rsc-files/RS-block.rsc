@@ -309,7 +309,6 @@ add address=188.255.128.0/17 list=RS-Block
 add address=192.54.54.0/23 list=RS-Block
 add address=192.162.52.0/22 list=RS-Block
 add address=193.0.254.0/24 list=RS-Block
-add address=193.24.125.0/24 list=RS-Block
 add address=193.27.24.0/22 list=RS-Block
 add address=193.30.248.0/22 list=RS-Block
 add address=193.34.64.0/22 list=RS-Block

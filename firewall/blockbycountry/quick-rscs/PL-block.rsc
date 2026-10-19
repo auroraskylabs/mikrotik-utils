@@ -388,6 +388,7 @@ add address=79.110.0.0/20 list=PL-Block
 add address=79.110.192.0/20 list=PL-Block
 add address=79.124.96.0/19 list=PL-Block
 add address=79.133.192.0/19 list=PL-Block
+add address=79.135.108.0/22 list=PL-Block
 add address=79.135.160.0/19 list=PL-Block
 add address=79.139.16.0/20 list=PL-Block
 add address=79.139.48.0/22 list=PL-Block
@@ -569,7 +570,6 @@ add address=87.105.0.0/16 list=PL-Block
 add address=87.116.192.0/18 list=PL-Block
 add address=87.199.0.0/18 list=PL-Block
 add address=87.199.64.0/19 list=PL-Block
-add address=87.199.96.0/21 list=PL-Block
 add address=87.199.108.0/22 list=PL-Block
 add address=87.199.124.0/23 list=PL-Block
 add address=87.199.142.0/23 list=PL-Block

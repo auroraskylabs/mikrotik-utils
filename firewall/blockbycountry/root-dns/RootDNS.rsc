@@ -99,7 +99,7 @@ add address=105.16.115.1 list=RootDNS
 add address=105.16.170.1 list=RootDNS
 add address=105.73.80.236 list=RootDNS
 add address=107.6.178.178 list=RootDNS
-add address=108.132.166.179 list=RootDNS
+add address=108.128.43.191 list=RootDNS
 add address=114.69.222.1 list=RootDNS
 add address=116.169.54.111 list=RootDNS
 add address=117.104.133.16 list=RootDNS
@@ -1117,12 +1117,15 @@ add address=169.158.128.88 list=RootDNS
 add address=169.54.247.173 list=RootDNS
 add address=170.238.66.50 list=RootDNS
 add address=170.247.170.2 list=RootDNS
+add address=175.45.176.15 list=RootDNS
 add address=175.45.176.16 list=RootDNS
+add address=176.123.180.172 list=RootDNS
 add address=178.23.16.104 list=RootDNS
 add address=178.23.17.104 list=RootDNS
 add address=178.23.20.60 list=RootDNS
 add address=178.23.22.60 list=RootDNS
 add address=180.149.96.219 list=RootDNS
+add address=180.211.212.213 list=RootDNS
 add address=184.29.150.1 list=RootDNS
 add address=184.29.154.1 list=RootDNS
 add address=184.29.157.1 list=RootDNS
@@ -2516,7 +2519,6 @@ add address=31.145.253.159 list=RootDNS
 add address=31.145.253.160 list=RootDNS
 add address=31.169.81.225 list=RootDNS
 add address=31.169.81.226 list=RootDNS
-add address=31.44.1.137 list=RootDNS
 add address=31.44.5.245 list=RootDNS
 add address=34.141.111.176 list=RootDNS
 add address=34.218.33.231 list=RootDNS
@@ -2654,6 +2656,7 @@ add address=43.230.51.43 list=RootDNS
 add address=43.230.51.44 list=RootDNS
 add address=43.230.51.45 list=RootDNS
 add address=43.250.84.53 list=RootDNS
+add address=43.250.84.54 list=RootDNS
 add address=43.252.12.206 list=RootDNS
 add address=45.10.162.181 list=RootDNS
 add address=45.126.57.57 list=RootDNS
@@ -4558,7 +4561,6 @@ add address=80.248.170.230 list=RootDNS
 add address=80.248.64.20 list=RootDNS
 add address=80.248.68.12 list=RootDNS
 add address=80.249.100.44 list=RootDNS
-add address=80.73.216.250 list=RootDNS
 add address=80.73.216.251 list=RootDNS
 add address=81.10.38.11 list=RootDNS
 add address=81.17.240.204 list=RootDNS

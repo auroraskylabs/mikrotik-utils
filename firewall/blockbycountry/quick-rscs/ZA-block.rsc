@@ -314,6 +314,8 @@ add address=102.177.64.0/21 list=ZA-Block
 add address=102.177.112.0/20 list=ZA-Block
 add address=102.177.128.0/18 list=ZA-Block
 add address=102.182.0.0/16 list=ZA-Block
+add address=102.200.224.0/21 list=ZA-Block
+add address=102.200.238.0/24 list=ZA-Block
 add address=102.201.16.0/23 list=ZA-Block
 add address=102.201.24.0/22 list=ZA-Block
 add address=102.201.40.0/22 list=ZA-Block

@@ -700,7 +700,7 @@ add address=176.102.64.0/22 list=CZ-Block
 add address=176.102.72.0/21 list=CZ-Block
 add address=176.102.128.0/19 list=CZ-Block
 add address=176.106.136.0/21 list=CZ-Block
-add address=176.107.120.0/21 list=CZ-Block
+add address=176.107.124.0/22 list=CZ-Block
 add address=176.114.240.0/20 list=CZ-Block
 add address=176.118.168.0/22 list=CZ-Block
 add address=176.119.192.0/24 list=CZ-Block

@@ -1,6 +1,5 @@
 /ip firewall address-list remove [find list="ES-Block"]
 /ip firewall address-list
-add address=1.178.224.0/19 list=ES-Block
 add address=2.56.64.0/22 list=ES-Block
 add address=2.57.2.0/24 list=ES-Block
 add address=2.57.4.0/22 list=ES-Block
@@ -28,7 +27,6 @@ add address=2.152.48.0/21 list=ES-Block
 add address=2.152.56.0/23 list=ES-Block
 add address=2.152.75.0/24 list=ES-Block
 add address=2.152.77.0/24 list=ES-Block
-add address=2.152.84.0/23 list=ES-Block
 add address=2.152.89.0/24 list=ES-Block
 add address=2.152.90.0/23 list=ES-Block
 add address=2.152.96.0/19 list=ES-Block
@@ -601,12 +599,14 @@ add address=80.173.112.0/22 list=ES-Block
 add address=80.173.116.0/23 list=ES-Block
 add address=80.173.120.0/21 list=ES-Block
 add address=80.173.174.0/24 list=ES-Block
-add address=80.173.176.0/20 list=ES-Block
 add address=80.174.0.0/16 list=ES-Block
 add address=80.209.255.0/24 list=ES-Block
 add address=80.224.0.0/17 list=ES-Block
 add address=80.224.128.0/18 list=ES-Block
-add address=80.224.192.0/19 list=ES-Block
+add address=80.224.192.0/20 list=ES-Block
+add address=80.224.208.0/21 list=ES-Block
+add address=80.224.218.0/23 list=ES-Block
+add address=80.224.220.0/22 list=ES-Block
 add address=80.224.224.0/21 list=ES-Block
 add address=80.224.232.0/22 list=ES-Block
 add address=80.224.239.0/24 list=ES-Block
@@ -1085,6 +1085,7 @@ add address=92.119.96.0/22 list=ES-Block
 add address=92.119.108.0/22 list=ES-Block
 add address=92.119.140.0/22 list=ES-Block
 add address=92.119.184.0/22 list=ES-Block
+add address=92.181.224.0/19 list=ES-Block
 add address=92.246.64.0/22 list=ES-Block
 add address=92.246.80.0/22 list=ES-Block
 add address=92.249.8.0/22 list=ES-Block
@@ -3237,6 +3238,7 @@ add address=198.206.139.0/24 list=ES-Block
 add address=199.68.196.0/22 list=ES-Block
 add address=199.103.73.0/24 list=ES-Block
 add address=199.103.81.0/24 list=ES-Block
+add address=199.195.192.0/21 list=ES-Block
 add address=200.234.224.0/20 list=ES-Block
 add address=201.46.112.0/23 list=ES-Block
 add address=201.49.188.0/22 list=ES-Block

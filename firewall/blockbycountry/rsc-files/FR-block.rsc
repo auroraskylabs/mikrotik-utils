@@ -1,5 +1,6 @@
 /ip firewall address-list remove [find list="FR-Block"]
 /ip firewall address-list
+add address=1.178.224.0/19 list=FR-Block
 add address=1.179.112.0/20 list=FR-Block
 add address=2.3.0.0/16 list=FR-Block
 add address=2.4.0.0/14 list=FR-Block
@@ -1181,7 +1182,15 @@ add address=92.118.96.0/22 list=FR-Block
 add address=92.118.244.0/22 list=FR-Block
 add address=92.119.52.0/22 list=FR-Block
 add address=92.119.232.0/22 list=FR-Block
-add address=92.128.0.0/10 list=FR-Block
+add address=92.128.0.0/11 list=FR-Block
+add address=92.160.0.0/12 list=FR-Block
+add address=92.176.0.0/14 list=FR-Block
+add address=92.180.0.0/16 list=FR-Block
+add address=92.181.0.0/17 list=FR-Block
+add address=92.181.128.0/18 list=FR-Block
+add address=92.181.192.0/19 list=FR-Block
+add address=92.182.0.0/15 list=FR-Block
+add address=92.184.0.0/13 list=FR-Block
 add address=92.222.0.0/16 list=FR-Block
 add address=92.243.0.0/19 list=FR-Block
 add address=92.245.128.0/19 list=FR-Block

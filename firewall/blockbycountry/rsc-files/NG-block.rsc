@@ -110,6 +110,8 @@ add address=102.164.44.0/22 list=NG-Block
 add address=102.165.124.0/22 list=NG-Block
 add address=102.165.184.0/22 list=NG-Block
 add address=102.176.240.0/21 list=NG-Block
+add address=102.200.237.0/24 list=NG-Block
+add address=102.201.18.0/23 list=NG-Block
 add address=102.201.30.0/24 list=NG-Block
 add address=102.201.68.0/22 list=NG-Block
 add address=102.201.96.0/23 list=NG-Block

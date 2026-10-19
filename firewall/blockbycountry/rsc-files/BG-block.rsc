@@ -4,7 +4,8 @@ add address=2.56.12.0/22 list=BG-Block
 add address=2.56.52.0/22 list=BG-Block
 add address=2.58.92.0/24 list=BG-Block
 add address=2.58.95.0/24 list=BG-Block
-add address=2.59.252.0/22 list=BG-Block
+add address=2.59.252.0/23 list=BG-Block
+add address=2.59.254.0/24 list=BG-Block
 add address=2.152.88.0/24 list=BG-Block
 add address=2.152.92.0/23 list=BG-Block
 add address=5.32.128.0/21 list=BG-Block

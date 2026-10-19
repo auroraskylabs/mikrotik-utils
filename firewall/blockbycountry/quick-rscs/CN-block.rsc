@@ -711,6 +711,7 @@ add address=45.251.160.0/19 list=CN-Block
 add address=45.251.192.0/19 list=CN-Block
 add address=45.251.224.0/22 list=CN-Block
 add address=45.251.240.0/22 list=CN-Block
+add address=45.251.248.0/23 list=CN-Block
 add address=45.252.0.0/19 list=CN-Block
 add address=45.252.32.0/20 list=CN-Block
 add address=45.252.48.0/22 list=CN-Block
@@ -3719,6 +3720,7 @@ add address=160.202.60.0/22 list=CN-Block
 add address=160.202.148.0/22 list=CN-Block
 add address=160.202.152.0/22 list=CN-Block
 add address=160.202.168.0/22 list=CN-Block
+add address=160.202.210.0/23 list=CN-Block
 add address=160.202.212.0/22 list=CN-Block
 add address=160.202.216.0/21 list=CN-Block
 add address=160.202.224.0/19 list=CN-Block
@@ -3964,6 +3966,7 @@ add address=192.140.156.0/22 list=CN-Block
 add address=192.140.160.0/19 list=CN-Block
 add address=192.140.192.0/20 list=CN-Block
 add address=192.140.208.0/21 list=CN-Block
+add address=192.140.244.0/23 list=CN-Block
 add address=192.144.128.0/17 list=CN-Block
 add address=192.197.113.0/24 list=CN-Block
 add address=192.232.34.0/23 list=CN-Block

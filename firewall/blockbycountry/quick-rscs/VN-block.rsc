@@ -1164,6 +1164,7 @@ add address=183.81.0.0/17 list=VN-Block
 add address=183.90.160.0/21 list=VN-Block
 add address=183.91.0.0/19 list=VN-Block
 add address=183.91.160.0/19 list=VN-Block
+add address=192.140.246.0/23 list=VN-Block
 add address=192.223.12.0/22 list=VN-Block
 add address=194.127.192.0/23 list=VN-Block
 add address=195.85.19.0/24 list=VN-Block

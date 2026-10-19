@@ -14,7 +14,6 @@ add address=77.71.128.0/17 list=MT-Block
 add address=77.243.64.0/20 list=MT-Block
 add address=78.110.16.0/20 list=MT-Block
 add address=78.133.0.0/17 list=MT-Block
-add address=79.135.108.0/22 list=MT-Block
 add address=80.64.208.0/22 list=MT-Block
 add address=80.71.48.0/20 list=MT-Block
 add address=80.71.96.0/20 list=MT-Block
