@@ -16,6 +16,7 @@ add address=103.77.64.0/22 list=LK-Block
 add address=103.84.160.0/22 list=LK-Block
 add address=103.87.12.0/22 list=LK-Block
 add address=103.87.124.0/22 list=LK-Block
+add address=103.96.226.0/23 list=LK-Block
 add address=103.99.100.0/24 list=LK-Block
 add address=103.138.180.0/24 list=LK-Block
 add address=103.140.194.0/23 list=LK-Block

@@ -256,6 +256,7 @@ add address=43.241.128.0/21 list=IN-Block
 add address=43.241.140.0/22 list=IN-Block
 add address=43.241.144.0/22 list=IN-Block
 add address=43.241.192.0/22 list=IN-Block
+add address=43.241.196.0/24 list=IN-Block
 add address=43.242.36.0/22 list=IN-Block
 add address=43.242.104.0/22 list=IN-Block
 add address=43.242.116.0/22 list=IN-Block
@@ -300,6 +301,7 @@ add address=43.248.152.0/22 list=IN-Block
 add address=43.248.220.0/22 list=IN-Block
 add address=43.248.236.0/22 list=IN-Block
 add address=43.248.240.0/22 list=IN-Block
+add address=43.249.22.0/23 list=IN-Block
 add address=43.249.52.0/22 list=IN-Block
 add address=43.249.84.0/22 list=IN-Block
 add address=43.249.180.0/22 list=IN-Block

@@ -1102,7 +1102,6 @@ add address=166.114.1.40 list=RootDNS
 add address=168.119.39.120 list=RootDNS
 add address=168.123.250.56 list=RootDNS
 add address=168.123.250.66 list=RootDNS
-add address=168.123.250.70 list=RootDNS
 add address=168.167.168.37 list=RootDNS
 add address=168.167.98.226 list=RootDNS
 add address=168.187.192.106 list=RootDNS
@@ -1117,8 +1116,6 @@ add address=169.158.128.88 list=RootDNS
 add address=169.54.247.173 list=RootDNS
 add address=170.238.66.50 list=RootDNS
 add address=170.247.170.2 list=RootDNS
-add address=175.45.176.15 list=RootDNS
-add address=175.45.176.16 list=RootDNS
 add address=176.123.180.172 list=RootDNS
 add address=178.23.16.104 list=RootDNS
 add address=178.23.17.104 list=RootDNS
@@ -1802,6 +1799,7 @@ add address=197.156.74.193 list=RootDNS
 add address=197.241.17.175 list=RootDNS
 add address=197.253.127.251 list=RootDNS
 add address=197.253.95.251 list=RootDNS
+add address=197.255.224.18 list=RootDNS
 add address=198.133.199.250 list=RootDNS
 add address=198.182.167.1 list=RootDNS
 add address=198.32.126.50 list=RootDNS
@@ -2034,7 +2032,6 @@ add address=204.61.216.128 list=RootDNS
 add address=204.61.216.129 list=RootDNS
 add address=204.61.216.13 list=RootDNS
 add address=204.61.216.130 list=RootDNS
-add address=204.61.216.131 list=RootDNS
 add address=204.61.216.132 list=RootDNS
 add address=204.61.216.133 list=RootDNS
 add address=204.61.216.134 list=RootDNS
@@ -2571,7 +2568,6 @@ add address=41.228.63.62 list=RootDNS
 add address=41.77.190.237 list=RootDNS
 add address=41.77.232.4 list=RootDNS
 add address=41.85.191.2 list=RootDNS
-add address=41.86.56.214 list=RootDNS
 add address=41.87.2.154 list=RootDNS
 add address=41.87.5.162 list=RootDNS
 add address=42.83.130.1 list=RootDNS
@@ -4561,7 +4557,7 @@ add address=80.248.170.230 list=RootDNS
 add address=80.248.64.20 list=RootDNS
 add address=80.248.68.12 list=RootDNS
 add address=80.249.100.44 list=RootDNS
-add address=80.73.216.251 list=RootDNS
+add address=80.73.216.250 list=RootDNS
 add address=81.10.38.11 list=RootDNS
 add address=81.17.240.204 list=RootDNS
 add address=81.192.171.115 list=RootDNS

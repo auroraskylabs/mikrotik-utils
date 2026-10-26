@@ -130,7 +130,6 @@ add address=78.138.44.0/24 list=CY-Block
 add address=78.158.128.0/19 list=CY-Block
 add address=80.85.16.0/20 list=CY-Block
 add address=80.89.240.0/20 list=CY-Block
-add address=80.91.213.0/24 list=CY-Block
 add address=80.240.106.0/24 list=CY-Block
 add address=80.244.16.0/20 list=CY-Block
 add address=81.4.128.0/18 list=CY-Block

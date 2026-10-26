@@ -1111,6 +1111,7 @@ add address=195.5.174.0/24 list=NO-Block
 add address=195.5.183.0/24 list=NO-Block
 add address=195.8.32.0/23 list=NO-Block
 add address=195.10.196.0/24 list=NO-Block
+add address=195.10.236.0/22 list=NO-Block
 add address=195.16.73.0/24 list=NO-Block
 add address=195.18.0.0/22 list=NO-Block
 add address=195.18.128.0/17 list=NO-Block

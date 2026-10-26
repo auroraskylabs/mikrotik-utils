@@ -3474,6 +3474,8 @@ add address=119.82.240.0/21 list=ID-Block
 add address=119.110.64.0/20 list=ID-Block
 add address=119.110.80.0/21 list=ID-Block
 add address=119.110.112.0/20 list=ID-Block
+add address=119.160.210.0/23 list=ID-Block
+add address=119.160.223.0/24 list=ID-Block
 add address=119.235.16.0/20 list=ID-Block
 add address=119.235.208.0/20 list=ID-Block
 add address=119.235.248.0/21 list=ID-Block

@@ -52,6 +52,7 @@ add address=43.229.148.0/22 list=TH-Block
 add address=43.239.251.0/24 list=TH-Block
 add address=43.240.112.0/22 list=TH-Block
 add address=43.241.56.0/22 list=TH-Block
+add address=43.241.198.0/23 list=TH-Block
 add address=43.245.144.0/22 list=TH-Block
 add address=43.246.184.0/22 list=TH-Block
 add address=43.247.56.0/22 list=TH-Block

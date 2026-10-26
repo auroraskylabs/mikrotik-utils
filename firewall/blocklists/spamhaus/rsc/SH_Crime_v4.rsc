@@ -24,8 +24,6 @@ add address=5.188.236.0/23 list=SpamHausCrime comment=SBL544034
 add address=5.230.201.0/24 list=SpamHausCrime comment=SBL698393
 add address=5.231.63.0/24 list=SpamHausCrime comment=SBL699034
 add address=5.252.153.0/24 list=SpamHausCrime comment=SBL697551
-add address=13.143.144.0/24 list=SpamHausCrime comment=SBL700371
-add address=13.143.247.0/24 list=SpamHausCrime comment=SBL700373
 add address=14.128.32.0/20 list=SpamHausCrime comment=SBL657011
 add address=14.128.48.0/21 list=SpamHausCrime comment=SBL656501
 add address=14.152.94.0/24 list=SpamHausCrime comment=SBL656012
@@ -111,7 +109,6 @@ add address=42.0.128.0/17 list=SpamHausCrime comment=SBL677405
 add address=42.128.0.0/12 list=SpamHausCrime comment=SBL262062
 add address=42.160.0.0/12 list=SpamHausCrime comment=SBL262364
 add address=42.208.0.0/12 list=SpamHausCrime comment=SBL283229
-add address=43.226.17.0/24 list=SpamHausCrime comment=SBL696721
 add address=43.228.157.0/24 list=SpamHausCrime comment=SBL692930
 add address=43.228.159.0/24 list=SpamHausCrime comment=SBL697583
 add address=43.229.52.0/22 list=SpamHausCrime comment=SBL256092
@@ -127,7 +124,6 @@ add address=45.3.62.0/24 list=SpamHausCrime comment=SBL692224
 add address=45.9.168.0/24 list=SpamHausCrime comment=SBL655464
 add address=45.11.76.0/22 list=SpamHausCrime comment=SBL695649
 add address=45.13.37.0/24 list=SpamHausCrime comment=SBL682859
-add address=45.13.186.0/24 list=SpamHausCrime comment=SBL697552
 add address=45.13.213.0/24 list=SpamHausCrime comment=SBL682860
 add address=45.15.21.0/24 list=SpamHausCrime comment=SBL689965
 add address=45.42.80.0/20 list=SpamHausCrime comment=SBL696146
@@ -244,6 +240,7 @@ add address=64.89.160.0/23 list=SpamHausCrime comment=SBL692141
 add address=64.89.160.0/22 list=SpamHausCrime comment=SBL692143
 add address=64.92.224.0/20 list=SpamHausCrime comment=SBL503523
 add address=64.116.200.0/21 list=SpamHausCrime comment=SBL635859
+add address=64.204.37.0/24 list=SpamHausCrime comment=SBL700738
 add address=64.250.144.0/20 list=SpamHausCrime comment=SBL502906
 add address=65.166.249.0/24 list=SpamHausCrime comment=SBL694571
 add address=65.205.64.0/22 list=SpamHausCrime comment=SBL623899
@@ -383,7 +380,6 @@ add address=91.218.236.0/22 list=SpamHausCrime comment=SBL461201
 add address=91.220.163.0/24 list=SpamHausCrime comment=SBL690067
 add address=91.224.92.0/24 list=SpamHausCrime comment=SBL642214
 add address=91.229.52.0/22 list=SpamHausCrime comment=SBL504770
-add address=91.231.222.0/24 list=SpamHausCrime comment=SBL689695
 add address=91.232.18.0/24 list=SpamHausCrime comment=SBL494046
 add address=91.233.0.0/23 list=SpamHausCrime comment=SBL442807
 add address=91.235.130.0/23 list=SpamHausCrime comment=SBL493678
@@ -622,6 +618,7 @@ add address=112.90.143.0/24 list=SpamHausCrime comment=SBL655491
 add address=112.142.0.0/15 list=SpamHausCrime comment=SBL682167
 add address=112.143.0.0/19 list=SpamHausCrime comment=SBL675595
 add address=112.213.96.0/19 list=SpamHausCrime comment=SBL668365
+add address=113.203.208.0/20 list=SpamHausCrime comment=SBL669279
 add address=113.212.128.0/19 list=SpamHausCrime comment=SBL78429
 add address=113.213.128.0/18 list=SpamHausCrime comment=SBL682168
 add address=114.134.28.0/22 list=SpamHausCrime comment=SBL395345
@@ -970,7 +967,7 @@ add address=185.169.4.0/24 list=SpamHausCrime comment=SBL642216
 add address=185.177.239.0/24 list=SpamHausCrime comment=SBL697568
 add address=185.189.73.0/24 list=SpamHausCrime comment=SBL618811
 add address=185.192.36.0/22 list=SpamHausCrime comment=SBL412029
-add address=185.192.100.0/24 list=SpamHausCrime comment=SBL693218
+add address=185.192.100.0/23 list=SpamHausCrime comment=SBL693218
 add address=185.192.103.0/24 list=SpamHausCrime comment=SBL700275
 add address=185.212.240.0/22 list=SpamHausCrime comment=SBL635928
 add address=185.215.132.0/22 list=SpamHausCrime comment=SBL448554
@@ -985,7 +982,6 @@ add address=185.239.84.0/22 list=SpamHausCrime comment=SBL690071
 add address=185.241.208.0/24 list=SpamHausCrime comment=SBL683002
 add address=185.241.211.0/24 list=SpamHausCrime comment=SBL696402
 add address=185.242.3.0/24 list=SpamHausCrime comment=SBL692424
-add address=185.242.246.0/24 list=SpamHausCrime comment=SBL678259
 add address=185.243.96.0/24 list=SpamHausCrime comment=SBL691553
 add address=185.244.249.0/24 list=SpamHausCrime comment=SBL619773
 add address=185.245.62.0/23 list=SpamHausCrime comment=SBL699998

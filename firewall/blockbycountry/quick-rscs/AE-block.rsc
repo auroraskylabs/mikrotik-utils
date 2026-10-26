@@ -674,7 +674,7 @@ add address=153.56.240.0/21 list=AE-Block
 add address=153.56.248.0/23 list=AE-Block
 add address=153.56.251.0/24 list=AE-Block
 add address=153.56.253.0/24 list=AE-Block
-add address=153.56.254.0/23 list=AE-Block
+add address=153.56.254.0/24 list=AE-Block
 add address=153.75.80.0/20 list=AE-Block
 add address=153.76.192.0/19 list=AE-Block
 add address=157.228.112.0/20 list=AE-Block
